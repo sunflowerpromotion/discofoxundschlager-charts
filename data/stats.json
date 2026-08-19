@@ -61,21 +61,75 @@
         "artist": "Joker & Sequence",
         "title": "Z Dnia Na Dzien",
         "plays": 1
+      },
+      "bobi|||krolowo ma": {
+        "artist": "Bobi",
+        "title": "Krolowo Ma",
+        "plays": 1
+      },
+      "drossel|||najwazniejsza": {
+        "artist": "Drossel",
+        "title": "Najwazniejsza",
+        "plays": 1
+      },
+      "zajefajni|||cos ci dam": {
+        "artist": "Zajefajni",
+        "title": "Cos Ci Dam",
+        "plays": 1
+      },
+      "power play|||najpiekne": {
+        "artist": "Power Play",
+        "title": "Najpiekne",
+        "plays": 1
+      },
+      "alfa boys|||skarbie mój": {
+        "artist": "Alfa Boys",
+        "title": "Skarbie Mój",
+        "plays": 1
+      },
+      "iness|||czarna dama": {
+        "artist": "Iness",
+        "title": "Czarna Dama",
+        "plays": 1
+      },
+      "after party|||moja wyjatkowa": {
+        "artist": "After Party",
+        "title": "Moja Wyjatkowa",
+        "plays": 1
+      },
+      "matt palmer & rizi papi|||minionej nocy": {
+        "artist": "Matt Palmer & Rizi Papi",
+        "title": "Minionej Nocy",
+        "plays": 1
+      },
+      "toledo|||zakochajmy sie": {
+        "artist": "Toledo",
+        "title": "Zakochajmy Sie",
+        "plays": 1
       }
     }
   },
   "processed_plays": [
-    "discofox & schlager|||station id|||2026-08-19 13:52:08 +0200",
-    "bayera|||usta twe|||2026-08-19 14:17:05 +0200",
-    "diadem|||kochanie moje|||2026-08-19 14:09:12 +0200",
-    "spontan|||tylko tobie|||2026-08-19 14:01:59 +0200",
     "vanessa mai|||ich sterb für dich|||2026-08-19 13:58:18 +0200",
-    "disco polo|||station id|||2026-08-19 14:01:48 +0200",
+    "discofox & schlager|||station id|||2026-08-19 13:52:08 +0200",
     "italo disco is back|||ausgabe 21 - teil 5|||2026-08-19 13:09:23 +0200",
-    "joker & sequence|||z dnia na dzien|||2026-08-19 14:13:28 +0200",
-    "italo disco is back|||ausgabe 21 - teil 6|||2026-08-19 13:32:56 +0200",
+    "after party|||moja wyjatkowa|||2026-08-19 14:28:36 +0200",
+    "zajefajni|||cos ci dam|||2026-08-19 14:43:09 +0200",
+    "diadem|||kochanie moje|||2026-08-19 14:09:12 +0200",
     "fresh and fun|||zur feier des tages|||2026-08-19 13:55:11 +0200",
+    "italo disco is back|||ausgabe 21 - teil 6|||2026-08-19 13:32:56 +0200",
     "vincent gross & esteriore brothers|||amore mit mio|||2026-08-19 13:52:21 +0200",
-    "classic|||ja dla ciebie ty dla mnie|||2026-08-19 14:05:34 +0200"
+    "joker & sequence|||z dnia na dzien|||2026-08-19 14:13:28 +0200",
+    "bobi|||krolowo ma|||2026-08-19 14:50:24 +0200",
+    "iness|||czarna dama|||2026-08-19 14:32:18 +0200",
+    "toledo|||zakochajmy sie|||2026-08-19 14:20:37 +0200",
+    "classic|||ja dla ciebie ty dla mnie|||2026-08-19 14:05:34 +0200",
+    "matt palmer & rizi papi|||minionej nocy|||2026-08-19 14:24:26 +0200",
+    "power play|||najpiekne|||2026-08-19 14:39:40 +0200",
+    "drossel|||najwazniejsza|||2026-08-19 14:46:42 +0200",
+    "alfa boys|||skarbie mój|||2026-08-19 14:36:31 +0200",
+    "disco polo|||station id|||2026-08-19 14:01:48 +0200",
+    "bayera|||usta twe|||2026-08-19 14:17:05 +0200",
+    "spontan|||tylko tobie|||2026-08-19 14:01:59 +0200"
   ]
 }
