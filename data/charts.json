@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W34",
   "previous_week": null,
-  "updated": "2026-08-19T17:03:35.146880+00:00",
+  "updated": "2026-08-19T17:35:52.856445+00:00",
   "charts": [
     {
       "position": 1,
@@ -98,6 +98,15 @@
     },
     {
       "position": 11,
+      "artist": "Albin Berger",
+      "title": "Lieben Heißt...",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 12,
       "artist": "Alfa Boys",
       "title": "Skarbie Mój",
       "plays": 1,
@@ -106,7 +115,7 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 13,
       "artist": "ALTESS",
       "title": "Perły Ci Dam",
       "plays": 1,
@@ -115,7 +124,7 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 14,
       "artist": "Amant",
       "title": "Tancz Ze Mna",
       "plays": 1,
@@ -124,7 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 15,
       "artist": "Andre",
       "title": "Dama Zegna Pana",
       "plays": 1,
@@ -133,7 +142,7 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 16,
       "artist": "Angela Henn & Dennis Klak",
       "title": "Barfuß Auf Der Venus",
       "plays": 1,
@@ -142,7 +151,7 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 17,
       "artist": "Avangarde",
       "title": "Jak Mam Cię Kochać",
       "plays": 1,
@@ -151,7 +160,7 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 18,
       "artist": "Bobi",
       "title": "Krolowo Ma",
       "plays": 1,
@@ -160,7 +169,7 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 19,
       "artist": "Bobi",
       "title": "Szesnascie Lat",
       "plays": 1,
@@ -169,18 +178,9 @@
       "trend": "new"
     },
     {
-      "position": 19,
-      "artist": "Conrado",
-      "title": "Siebie Nie Zaluj",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
       "position": 20,
-      "artist": "Damian Banasiak",
-      "title": "Prowokujesz Mnie",
+      "artist": "Celina Mars",
+      "title": "Gefühle Total",
       "plays": 1,
       "previous_position": null,
       "movement": null,
