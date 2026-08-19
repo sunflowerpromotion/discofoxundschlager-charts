@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W34",
   "previous_week": null,
-  "updated": "2026-08-19T22:33:58.996328+00:00",
+  "updated": "2026-08-19T22:56:00.996377+00:00",
   "charts": [
     {
       "position": 1,
@@ -35,6 +35,15 @@
     },
     {
       "position": 4,
+      "artist": "Free System",
+      "title": "This Love Is Not Right 4U",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 5,
       "artist": "GórOlka",
       "title": "OPA",
       "plays": 2,
@@ -43,7 +52,7 @@
       "trend": "new"
     },
     {
-      "position": 5,
+      "position": 6,
       "artist": "Joker & Sequence",
       "title": "Z Dnia Na Dzien",
       "plays": 2,
@@ -52,7 +61,7 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 7,
       "artist": "Jürgen Peter",
       "title": "Das Leben Ist Zu Kurz Für Irgendwann",
       "plays": 2,
@@ -61,7 +70,7 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 8,
       "artist": "Playboys",
       "title": "Jak To Sie Stalo",
       "plays": 2,
@@ -70,7 +79,7 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 9,
       "artist": "Power Play",
       "title": "Najpiekne",
       "plays": 2,
@@ -79,7 +88,7 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 10,
       "artist": "Spontan",
       "title": "Tylko Tobie",
       "plays": 2,
@@ -88,7 +97,7 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 11,
       "artist": "Tommy Steib",
       "title": "Ich Verbrenn Mir Nicht Die Finger",
       "plays": 2,
@@ -97,7 +106,7 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 12,
       "artist": "Vincent Gross & Esteriore Brothers",
       "title": "Amore Mit Mio",
       "plays": 2,
@@ -106,7 +115,7 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 13,
       "artist": "After Party",
       "title": "Moja Wyjatkowa",
       "plays": 1,
@@ -115,7 +124,7 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 14,
       "artist": "After Party",
       "title": "Zawsze Moja Wina",
       "plays": 1,
@@ -124,7 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 15,
       "artist": "Albin Berger",
       "title": "Lieben Heißt...",
       "plays": 1,
@@ -133,7 +142,7 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 16,
       "artist": "Alfa Boys",
       "title": "Skarbie Mój",
       "plays": 1,
@@ -142,7 +151,7 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 17,
       "artist": "Alix",
       "title": "Pay The Price",
       "plays": 1,
@@ -151,7 +160,7 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 18,
       "artist": "ALTESS",
       "title": "Perły Ci Dam",
       "plays": 1,
@@ -160,7 +169,7 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 19,
       "artist": "Amant",
       "title": "Tancz Ze Mna",
       "plays": 1,
@@ -169,18 +178,9 @@
       "trend": "new"
     },
     {
-      "position": 19,
+      "position": 20,
       "artist": "Andre",
       "title": "Dama Zegna Pana",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Andre Busse",
-      "title": "Ich Hab Es Dir Doch Gesagt",
       "plays": 1,
       "previous_position": null,
       "movement": null,
