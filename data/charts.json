@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W34",
   "previous_week": null,
-  "updated": "2026-08-19T21:12:37.897424+00:00",
+  "updated": "2026-08-19T21:41:59.372360+00:00",
   "charts": [
     {
       "position": 1,
@@ -143,6 +143,15 @@
     },
     {
       "position": 16,
+      "artist": "Alix",
+      "title": "Pay The Price",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 17,
       "artist": "ALTESS",
       "title": "Perły Ci Dam",
       "plays": 1,
@@ -151,7 +160,7 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 18,
       "artist": "Amant",
       "title": "Tancz Ze Mna",
       "plays": 1,
@@ -160,7 +169,7 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 19,
       "artist": "Andre",
       "title": "Dama Zegna Pana",
       "plays": 1,
@@ -169,18 +178,9 @@
       "trend": "new"
     },
     {
-      "position": 19,
+      "position": 20,
       "artist": "Andre Busse",
       "title": "Ich Hab Es Dir Doch Gesagt",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Angela Henn & Dennis Klak",
-      "title": "Barfuß Auf Der Venus",
       "plays": 1,
       "previous_position": null,
       "movement": null,
