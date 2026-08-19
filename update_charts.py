@@ -26,7 +26,55 @@ CHARTS_FILE = DATA_DIR / "charts.json"
 
 
 # ============================================================
-# VERZEICHNIS ERSTELLEN
+# AUSGESCHLOSSENE EINTRÄGE
+# ============================================================
+
+# Begriffe, die nicht in die Musikcharts sollen.
+#
+# Die Prüfung erfolgt auf Artist + Titel.
+#
+# Du kannst später weitere Begriffe ergänzen.
+
+EXCLUDED_TERMS = [
+
+    "station id",
+    "station-id",
+    "stationid",
+
+    "jingle",
+    "jingles",
+
+    "promo",
+    "promos",
+
+    "werbung",
+    "werbespot",
+
+    "commercial",
+
+    "news",
+    "nachrichten",
+
+    "moderation",
+
+    "aircheck",
+
+    "voiceover",
+    "voice over",
+
+    "sponsor",
+
+    "ident",
+
+    "sweeper",
+
+    "liner"
+
+]
+
+
+# ============================================================
+# VERZEICHNIS
 # ============================================================
 
 DATA_DIR.mkdir(
@@ -42,6 +90,7 @@ DATA_DIR.mkdir(
 def load_json(path, default):
 
     if not path.exists():
+
         return default
 
     try:
@@ -54,7 +103,13 @@ def load_json(path, default):
 
             return json.load(file)
 
-    except Exception:
+    except Exception as error:
+
+        print(
+            f"Warnung beim Laden von {path}:"
+        )
+
+        print(error)
 
         return default
 
@@ -80,7 +135,7 @@ def save_json(path, data):
 
 
 # ============================================================
-# AKTUELLE ISO-WOCHE
+# AKTUELLE WOCHE
 # ============================================================
 
 def get_current_week():
@@ -101,9 +156,12 @@ def get_current_week():
 def parse_date(value):
 
     if not value:
+
         return None
 
-    value = str(value).strip()
+    value = str(
+        value
+    ).strip()
 
     try:
 
@@ -134,31 +192,109 @@ def parse_date(value):
 
 
 # ============================================================
-# SONG-ID
+# KÜNSTLERNAME
 # ============================================================
 
-def song_id(song):
+def get_artist(song):
 
     artist_data = song.get(
         "artist",
         {}
     )
 
-    artist = (
-        artist_data.get(
+    if isinstance(
+        artist_data,
+        dict
+    ):
+
+        artist = artist_data.get(
             "name",
             ""
         )
+
+    else:
+
+        artist = str(
+            artist_data
+        )
+
+
+    artist = (
+        artist
         or "Unbekannter Künstler"
     ).strip()
 
+
+    return artist
+
+
+# ============================================================
+# TITEL
+# ============================================================
+
+def get_title(song):
+
+    title = song.get(
+        "title",
+        ""
+    )
+
+
     title = (
-        song.get(
-            "title",
-            ""
-        )
+        title
         or "Unbekannter Titel"
     ).strip()
+
+
+    return title
+
+
+# ============================================================
+# PRÜFEN, OB ES EIN NICHT-MUSIK-EINTRAG IST
+# ============================================================
+
+def is_excluded(song):
+
+    artist = get_artist(
+        song
+    )
+
+    title = get_title(
+        song
+    )
+
+
+    search_text = (
+        artist
+        + " "
+        + title
+    ).lower()
+
+
+    for term in EXCLUDED_TERMS:
+
+        if term in search_text:
+
+            return True
+
+
+    return False
+
+
+# ============================================================
+# SONG-ID
+# ============================================================
+
+def song_id(song):
+
+    artist = get_artist(
+        song
+    )
+
+    title = get_title(
+        song
+    )
+
 
     return (
         artist.lower()
@@ -168,7 +304,7 @@ def song_id(song):
 
 
 # ============================================================
-# EINZELNER PLAY
+# PLAY-ID
 # ============================================================
 
 def play_id(song):
@@ -180,6 +316,7 @@ def play_id(song):
         )
     ).strip()
 
+
     return (
         song_id(song)
         + "|||"
@@ -188,20 +325,33 @@ def play_id(song):
 
 
 # ============================================================
-# LAUT.FM API ABRUFEN
+# LAUT.FM API
 # ============================================================
 
+print("")
 print(
-    f"Lade laut.fm Daten für: {STATION}"
+    "=========================================="
 )
+print(
+    "Discofox & Schlager Charts"
+)
+print(
+    "laut.fm Daten werden geladen..."
+)
+print(
+    "=========================================="
+)
+print("")
+
 
 request = urllib.request.Request(
 
     API_URL,
 
     headers={
+
         "User-Agent":
-            "Discofoxundschlager-Charts/1.0"
+            "Discofoxundschlager-Charts/2.0"
     }
 )
 
@@ -222,7 +372,8 @@ try:
 except Exception as error:
 
     print(
-        "Fehler beim Abrufen der laut.fm API:"
+        "FEHLER: laut.fm API konnte "
+        "nicht abgerufen werden."
     )
 
     print(error)
@@ -240,15 +391,18 @@ if not isinstance(
 ):
 
     print(
-        "Die API hat keine gültige Songliste geliefert."
+        "FEHLER: API-Antwort ist "
+        "keine Liste."
     )
 
     raise SystemExit(1)
 
 
 print(
-    f"{len(data)} Songs von laut.fm erhalten."
+    f"API liefert {len(data)} Einträge."
 )
+
+print("")
 
 
 # ============================================================
@@ -260,19 +414,43 @@ stats = load_json(
     STATS_FILE,
 
     {
+
         "current_week":
             get_current_week(),
 
-        "weeks": {},
+        "weeks":
+            {},
 
-        "processed_plays": []
+        "processed_plays":
+            []
+
     }
+
 )
 
 
 # ============================================================
-# DATENSTRUKTUR SICHERSTELLEN
+# DATENSTRUKTUR PRÜFEN
 # ============================================================
+
+if not isinstance(
+    stats,
+    dict
+):
+
+    stats = {
+
+        "current_week":
+            get_current_week(),
+
+        "weeks":
+            {},
+
+        "processed_plays":
+            []
+
+    }
+
 
 if "weeks" not in stats:
 
@@ -291,21 +469,16 @@ if "processed_plays" not in stats:
 current_week = get_current_week()
 
 
-# ============================================================
-# WOCHENWECHSEL
-# ============================================================
-
-if stats.get(
+old_week = stats.get(
     "current_week"
-) != current_week:
+)
+
+
+if old_week != current_week:
 
     print(
-        "Neue Chartwoche erkannt:"
-    )
-
-    print(
-        f'{stats.get("current_week")} '
-        f'-> {current_week}'
+        f"Wöchentlicher Wechsel: "
+        f"{old_week} -> {current_week}"
     )
 
     stats["current_week"] = current_week
@@ -321,19 +494,26 @@ if current_week not in stats["weeks"]:
 
 
 # ============================================================
-# BEREITS VERARBEITETE PLAYS
+# VERARBEITETE PLAYS
 # ============================================================
 
 processed = set(
-    stats["processed_plays"]
+    stats.get(
+        "processed_plays",
+        []
+    )
 )
 
 
 new_plays = 0
 
+ignored_entries = 0
+
+old_entries = 0
+
 
 # ============================================================
-# SONGS VERARBEITEN
+# SONGS DURCHLAUFEN
 # ============================================================
 
 for song in data:
@@ -346,7 +526,27 @@ for song in data:
         continue
 
 
-    # Startzeit des Plays
+    # --------------------------------------------------------
+    # NICHT-MUSIK EINTRÄGE FILTERN
+    # --------------------------------------------------------
+
+    if is_excluded(song):
+
+        ignored_entries += 1
+
+        print(
+            "Übersprungen:",
+            get_artist(song),
+            "-",
+            get_title(song)
+        )
+
+        continue
+
+
+    # --------------------------------------------------------
+    # STARTZEIT
+    # --------------------------------------------------------
 
     started_at = song.get(
         "started_at"
@@ -358,8 +558,6 @@ for song in data:
         continue
 
 
-    # Datum umwandeln
-
     parsed_date = parse_date(
         started_at
     )
@@ -370,63 +568,50 @@ for song in data:
         continue
 
 
-    # Eindeutige Play-ID
+    # --------------------------------------------------------
+    # PLAY-ID
+    # --------------------------------------------------------
 
     current_play_id = play_id(
         song
     )
 
 
-    # Wurde dieser Play bereits gezählt?
+    # Bereits verarbeitet?
 
     if current_play_id in processed:
+
+        old_entries += 1
 
         continue
 
 
-    # Play speichern
+    # --------------------------------------------------------
+    # PLAY SPEICHERN
+    # --------------------------------------------------------
 
     processed.add(
         current_play_id
     )
 
 
-    # Künstler
+    artist = get_artist(
+        song
+    )
 
-    artist_data = song.get(
-        "artist",
-        {}
+    title = get_title(
+        song
     )
 
 
-    artist = (
-        artist_data.get(
-            "name",
-            ""
-        )
-        or "Unbekannter Künstler"
-    ).strip()
-
-
-    # Titel
-
-    title = (
-        song.get(
-            "title",
-            ""
-        )
-        or "Unbekannter Titel"
-    ).strip()
-
-
-    # Woche des Plays
+    # --------------------------------------------------------
+    # WOCHE DES PLAYS
+    # --------------------------------------------------------
 
     play_week = parsed_date.strftime(
         "%G-W%V"
     )
 
-
-    # Woche anlegen
 
     if play_week not in stats["weeks"]:
 
@@ -438,14 +623,18 @@ for song in data:
     ][play_week]
 
 
-    # Song-ID
+    # --------------------------------------------------------
+    # SONG IDENTIFIZIEREN
+    # --------------------------------------------------------
 
     identifier = song_id(
         song
     )
 
 
-    # Song erstmalig anlegen
+    # --------------------------------------------------------
+    # SONG ANLEGEN
+    # --------------------------------------------------------
 
     if identifier not in week:
 
@@ -463,9 +652,13 @@ for song in data:
         }
 
 
-    # Play erhöhen
+    # --------------------------------------------------------
+    # PLAY ZÄHLEN
+    # --------------------------------------------------------
 
-    week[identifier]["plays"] += 1
+    week[
+        identifier
+    ]["plays"] += 1
 
 
     new_plays += 1
@@ -482,9 +675,9 @@ processed_list = list(
 
 if len(processed_list) > 10000:
 
-    processed_list = processed_list[
-        -10000:
-    ]
+    processed_list = (
+        processed_list[-10000:]
+    )
 
 
 stats["processed_plays"] = (
@@ -493,20 +686,22 @@ stats["processed_plays"] = (
 
 
 # ============================================================
-# NUR LETZTE 8 WOCHEN BEHALTEN
+# ALTE WOCHEN LÖSCHEN
 # ============================================================
 
 all_weeks = sorted(
+
     stats["weeks"].keys(),
+
     reverse=True
 )
 
 
-for old_week in all_weeks[8:]:
+for old_week_name in all_weeks[8:]:
 
     del stats[
         "weeks"
-    ][old_week]
+    ][old_week_name]
 
 
 # ============================================================
@@ -524,7 +719,7 @@ current_week_data = stats[
 chart_items = []
 
 
-for song in current_week_data.values():
+for identifier, song in current_week_data.items():
 
     chart_items.append({
 
@@ -546,10 +741,15 @@ for song in current_week_data.values():
 
 chart_items.sort(
 
-    key=lambda item:
-        item["plays"],
+    key=lambda item: (
 
-    reverse=True
+        -item["plays"],
+
+        item["artist"].lower(),
+
+        item["title"].lower()
+
+    )
 
 )
 
@@ -564,7 +764,88 @@ chart_items = chart_items[
 
 
 # ============================================================
-# POSITIONEN VERGEBEN
+# VORWOCHE ERMITTELN
+# ============================================================
+
+sorted_weeks = sorted(
+
+    stats["weeks"].keys(),
+
+    reverse=True
+)
+
+
+previous_week = None
+
+
+for week_name in sorted_weeks:
+
+    if week_name < current_week:
+
+        previous_week = week_name
+
+        break
+
+
+# ============================================================
+# VORWOCHE-CHARTS LADEN
+# ============================================================
+
+previous_week_data = {}
+
+
+if previous_week:
+
+    previous_week_data = stats[
+        "weeks"
+    ].get(
+        previous_week,
+        {}
+    )
+
+
+previous_positions = {}
+
+
+previous_sorted = []
+
+
+for identifier, song in previous_week_data.items():
+
+    previous_sorted.append({
+
+        "identifier":
+            identifier,
+
+        "plays":
+            song["plays"]
+
+    })
+
+
+previous_sorted.sort(
+
+    key=lambda item:
+        -item["plays"]
+
+)
+
+
+for position, item in enumerate(
+
+    previous_sorted,
+
+    start=1
+
+):
+
+    previous_positions[
+        item["identifier"]
+    ] = position
+
+
+# ============================================================
+# CHARTS MIT POSITION UND TREND
 # ============================================================
 
 charts = []
@@ -578,6 +859,56 @@ for position, song in enumerate(
 
 ):
 
+    identifier = song_id({
+
+        "artist": {
+            "name":
+                song["artist"]
+        },
+
+        "title":
+            song["title"]
+
+    })
+
+
+    old_position = previous_positions.get(
+        identifier
+    )
+
+
+    # --------------------------------------------------------
+    # TREND
+    # --------------------------------------------------------
+
+    if old_position is None:
+
+        trend = "new"
+
+        movement = None
+
+
+    else:
+
+        movement = (
+            old_position
+            - position
+        )
+
+
+        if movement > 0:
+
+            trend = "up"
+
+        elif movement < 0:
+
+            trend = "down"
+
+        else:
+
+            trend = "same"
+
+
     charts.append({
 
         "position":
@@ -590,34 +921,18 @@ for position, song in enumerate(
             song["title"],
 
         "plays":
-            song["plays"]
+            song["plays"],
+
+        "previous_position":
+            old_position,
+
+        "movement":
+            movement,
+
+        "trend":
+            trend
 
     })
-
-
-# ============================================================
-# VORWOCHE ERMITTELN
-# ============================================================
-
-sorted_weeks = sorted(
-
-    stats["weeks"].keys(),
-
-    reverse=True
-
-)
-
-
-previous_week = None
-
-
-for week in sorted_weeks:
-
-    if week < current_week:
-
-        previous_week = week
-
-        break
 
 
 # ============================================================
@@ -669,22 +984,16 @@ save_json(
 
 
 # ============================================================
-# ERGEBNIS AUSGEBEN
+# AUSGABE
 # ============================================================
 
 print("")
 print(
     "=========================================="
 )
-
 print(
-    "Discofox & Schlager Charts"
+    "UPDATE ERFOLGREICH"
 )
-
-print(
-    "erfolgreich aktualisiert"
-)
-
 print(
     "=========================================="
 )
@@ -694,27 +1003,69 @@ print(
 )
 
 print(
+    f"Vorwoche: {previous_week}"
+)
+
+print(
     f"Neue Plays: {new_plays}"
 )
 
 print(
-    f"Chartplätze: {len(charts)}"
+    f"Bereits bekannte Einträge: {old_entries}"
+)
+
+print(
+    f"Gefilterte Nicht-Musik-Einträge: "
+    f"{ignored_entries}"
+)
+
+print(
+    f"Songs in den Charts: {len(charts)}"
 )
 
 print("")
 
 
 # ============================================================
-# TOP 10 AUSGEBEN
+# TOP 20 AUSGEBEN
 # ============================================================
 
-for item in charts[:10]:
+for item in charts:
+
+    trend_text = ""
+
+    if item["trend"] == "up":
+
+        trend_text = (
+            f"▲ +{item['movement']}"
+        )
+
+    elif item["trend"] == "down":
+
+        trend_text = (
+            f"▼ {item['movement']}"
+        )
+
+    elif item["trend"] == "same":
+
+        trend_text = "▬"
+
+    else:
+
+        trend_text = "NEU"
+
 
     print(
 
-        f'{item["position"]}. '
+        f'{item["position"]:02d}. '
         f'{item["artist"]} - '
-        f'{item["title"]} '
-        f'({item["plays"]} Plays)'
+        f'{item["title"]} | '
+        f'{item["plays"]} Plays | '
+        f'{trend_text}'
 
     )
+
+print("")
+print(
+    "Charts gespeichert."
+)
