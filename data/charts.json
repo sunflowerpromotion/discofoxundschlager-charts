@@ -4,67 +4,115 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W34",
   "previous_week": null,
-  "updated": "2026-08-19T12:12:01.438392+00:00",
+  "updated": "2026-08-19T12:18:15.159415+00:00",
   "charts": [
     {
       "position": 1,
-      "artist": "Diadem",
-      "title": "Kochanie Moje",
-      "plays": 1
+      "artist": "Bayera",
+      "title": "Usta Twe",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
       "position": 2,
       "artist": "Classic",
       "title": "Ja Dla Ciebie Ty Dla Mnie",
-      "plays": 1
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
       "position": 3,
-      "artist": "Spontan",
-      "title": "Tylko Tobie",
-      "plays": 1
+      "artist": "Diadem",
+      "title": "Kochanie Moje",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
       "position": 4,
       "artist": "Disco Polo",
       "title": "Station ID",
-      "plays": 1
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
       "position": 5,
-      "artist": "Vanessa Mai",
-      "title": "Ich Sterb Für Dich",
-      "plays": 1
+      "artist": "Discofox & Schlager",
+      "title": "Station ID",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
       "position": 6,
       "artist": "Fresh And Fun",
       "title": "Zur Feier Des Tages",
-      "plays": 1
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
       "position": 7,
-      "artist": "Vincent Gross & Esteriore Brothers",
-      "title": "Amore Mit Mio",
-      "plays": 1
+      "artist": "Italo Disco Is Back",
+      "title": "Ausgabe 21 - Teil 5",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
       "position": 8,
-      "artist": "Discofox & Schlager",
-      "title": "Station ID",
-      "plays": 1
+      "artist": "Italo Disco Is Back",
+      "title": "Ausgabe 21 - Teil 6",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
       "position": 9,
-      "artist": "Italo Disco Is Back",
-      "title": "Ausgabe 21 - Teil 6",
-      "plays": 1
+      "artist": "Joker & Sequence",
+      "title": "Z Dnia Na Dzien",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
       "position": 10,
-      "artist": "Italo Disco Is Back",
-      "title": "Ausgabe 21 - Teil 5",
-      "plays": 1
+      "artist": "Spontan",
+      "title": "Tylko Tobie",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 11,
+      "artist": "Vanessa Mai",
+      "title": "Ich Sterb Für Dich",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 12,
+      "artist": "Vincent Gross & Esteriore Brothers",
+      "title": "Amore Mit Mio",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     }
   ]
 }
