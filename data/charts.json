@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W34",
   "previous_week": null,
-  "updated": "2026-08-19T15:41:16.067659+00:00",
+  "updated": "2026-08-19T16:03:35.421751+00:00",
   "charts": [
     {
       "position": 1,
@@ -53,6 +53,24 @@
     },
     {
       "position": 6,
+      "artist": "Playboys",
+      "title": "Jak To Sie Stalo",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 7,
+      "artist": "Power Play",
+      "title": "Najpiekne",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 8,
       "artist": "Spontan",
       "title": "Tylko Tobie",
       "plays": 2,
@@ -61,7 +79,7 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 9,
       "artist": "After Party",
       "title": "Moja Wyjatkowa",
       "plays": 1,
@@ -70,7 +88,7 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 10,
       "artist": "After Party",
       "title": "Zawsze Moja Wina",
       "plays": 1,
@@ -79,7 +97,7 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 11,
       "artist": "Alfa Boys",
       "title": "Skarbie Mój",
       "plays": 1,
@@ -88,7 +106,7 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 12,
       "artist": "ALTESS",
       "title": "Perły Ci Dam",
       "plays": 1,
@@ -97,7 +115,7 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 13,
       "artist": "Amant",
       "title": "Tancz Ze Mna",
       "plays": 1,
@@ -106,7 +124,7 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 14,
       "artist": "Andre",
       "title": "Dama Zegna Pana",
       "plays": 1,
@@ -115,7 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 15,
       "artist": "Avangarde",
       "title": "Jak Mam Cię Kochać",
       "plays": 1,
@@ -124,7 +142,7 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 16,
       "artist": "Bobi",
       "title": "Krolowo Ma",
       "plays": 1,
@@ -133,7 +151,7 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 17,
       "artist": "Bobi",
       "title": "Szesnascie Lat",
       "plays": 1,
@@ -142,7 +160,7 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 18,
       "artist": "Conrado",
       "title": "Siebie Nie Zaluj",
       "plays": 1,
@@ -151,7 +169,7 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 19,
       "artist": "Damian Banasiak",
       "title": "Prowokujesz Mnie",
       "plays": 1,
@@ -160,27 +178,9 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 20,
       "artist": "Defis",
       "title": "Roze",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Defis",
-      "title": "Tak Bardzo Tego Chce",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Dejw",
-      "title": "Ananas",
       "plays": 1,
       "previous_position": null,
       "movement": null,
