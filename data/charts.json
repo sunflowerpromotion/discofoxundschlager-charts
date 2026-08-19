@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W34",
   "previous_week": null,
-  "updated": "2026-08-19T13:08:14.623870+00:00",
+  "updated": "2026-08-19T13:55:27.196181+00:00",
   "charts": [
     {
       "position": 1,
@@ -26,6 +26,15 @@
     },
     {
       "position": 3,
+      "artist": "Amant",
+      "title": "Tancz Ze Mna",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 4,
       "artist": "Bayera",
       "title": "Usta Twe",
       "plays": 1,
@@ -34,7 +43,7 @@
       "trend": "new"
     },
     {
-      "position": 4,
+      "position": 5,
       "artist": "Bobi",
       "title": "Krolowo Ma",
       "plays": 1,
@@ -43,7 +52,16 @@
       "trend": "new"
     },
     {
-      "position": 5,
+      "position": 6,
+      "artist": "Bobi",
+      "title": "Szesnascie Lat",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 7,
       "artist": "Classic",
       "title": "Ja Dla Ciebie Ty Dla Mnie",
       "plays": 1,
@@ -52,7 +70,25 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 8,
+      "artist": "Conrado",
+      "title": "Siebie Nie Zaluj",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 9,
+      "artist": "Defis",
+      "title": "Tak Bardzo Tego Chce",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 10,
       "artist": "Diadem",
       "title": "Kochanie Moje",
       "plays": 1,
@@ -61,7 +97,7 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 11,
       "artist": "Disco Polo",
       "title": "Station ID",
       "plays": 1,
@@ -70,7 +106,7 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 12,
       "artist": "Discofox & Schlager",
       "title": "Station ID",
       "plays": 1,
@@ -79,7 +115,7 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 13,
       "artist": "Drossel",
       "title": "Najwazniejsza",
       "plays": 1,
@@ -88,7 +124,7 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 14,
       "artist": "Fresh And Fun",
       "title": "Zur Feier Des Tages",
       "plays": 1,
@@ -97,7 +133,16 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 15,
+      "artist": "GórOlka",
+      "title": "OPA",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 16,
       "artist": "Iness",
       "title": "Czarna Dama",
       "plays": 1,
@@ -106,7 +151,7 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 17,
       "artist": "Italo Disco Is Back",
       "title": "Ausgabe 21 - Teil 5",
       "plays": 1,
@@ -115,7 +160,7 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 18,
       "artist": "Italo Disco Is Back",
       "title": "Ausgabe 21 - Teil 6",
       "plays": 1,
@@ -124,7 +169,7 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 19,
       "artist": "Joker & Sequence",
       "title": "Z Dnia Na Dzien",
       "plays": 1,
@@ -133,54 +178,9 @@
       "trend": "new"
     },
     {
-      "position": 15,
-      "artist": "Matt Palmer & Rizi Papi",
-      "title": "Minionej Nocy",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 16,
-      "artist": "Power Play",
-      "title": "Najpiekne",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 17,
-      "artist": "Spontan",
-      "title": "Tylko Tobie",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 18,
-      "artist": "Toledo",
-      "title": "Zakochajmy Sie",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Vanessa Mai",
-      "title": "Ich Sterb Für Dich",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
       "position": 20,
-      "artist": "Vincent Gross & Esteriore Brothers",
-      "title": "Amore Mit Mio",
+      "artist": "LORDtl",
+      "title": "ROZTOCZAŃSKI ROMANS",
       "plays": 1,
       "previous_position": null,
       "movement": null,

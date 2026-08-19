@@ -106,30 +106,84 @@
         "artist": "Toledo",
         "title": "Zakochajmy Sie",
         "plays": 1
+      },
+      "conrado|||siebie nie zaluj": {
+        "artist": "Conrado",
+        "title": "Siebie Nie Zaluj",
+        "plays": 1
+      },
+      "bobi|||szesnascie lat": {
+        "artist": "Bobi",
+        "title": "Szesnascie Lat",
+        "plays": 1
+      },
+      "amant|||tancz ze mna": {
+        "artist": "Amant",
+        "title": "Tancz Ze Mna",
+        "plays": 1
+      },
+      "mig|||do niej cos czuje": {
+        "artist": "MIG",
+        "title": "Do Niej Cos Czuje",
+        "plays": 1
+      },
+      "górolka|||opa": {
+        "artist": "GórOlka",
+        "title": "OPA",
+        "plays": 1
+      },
+      "lordtl|||roztoczański romans": {
+        "artist": "LORDtl",
+        "title": "ROZTOCZAŃSKI ROMANS",
+        "plays": 1
+      },
+      "defis|||tak bardzo tego chce": {
+        "artist": "Defis",
+        "title": "Tak Bardzo Tego Chce",
+        "plays": 1
+      },
+      "mirage & yoko|||bo to jest milosc": {
+        "artist": "Mirage & Yoko",
+        "title": "Bo To Jest Milosc",
+        "plays": 1
+      },
+      "playboys|||jak to sie stalo": {
+        "artist": "Playboys",
+        "title": "Jak To Sie Stalo",
+        "plays": 1
       }
     }
   },
   "processed_plays": [
-    "vanessa mai|||ich sterb für dich|||2026-08-19 13:58:18 +0200",
-    "discofox & schlager|||station id|||2026-08-19 13:52:08 +0200",
-    "italo disco is back|||ausgabe 21 - teil 5|||2026-08-19 13:09:23 +0200",
-    "after party|||moja wyjatkowa|||2026-08-19 14:28:36 +0200",
     "zajefajni|||cos ci dam|||2026-08-19 14:43:09 +0200",
-    "diadem|||kochanie moje|||2026-08-19 14:09:12 +0200",
-    "fresh and fun|||zur feier des tages|||2026-08-19 13:55:11 +0200",
-    "italo disco is back|||ausgabe 21 - teil 6|||2026-08-19 13:32:56 +0200",
-    "vincent gross & esteriore brothers|||amore mit mio|||2026-08-19 13:52:21 +0200",
-    "joker & sequence|||z dnia na dzien|||2026-08-19 14:13:28 +0200",
-    "bobi|||krolowo ma|||2026-08-19 14:50:24 +0200",
     "iness|||czarna dama|||2026-08-19 14:32:18 +0200",
-    "toledo|||zakochajmy sie|||2026-08-19 14:20:37 +0200",
-    "classic|||ja dla ciebie ty dla mnie|||2026-08-19 14:05:34 +0200",
-    "matt palmer & rizi papi|||minionej nocy|||2026-08-19 14:24:26 +0200",
-    "power play|||najpiekne|||2026-08-19 14:39:40 +0200",
-    "drossel|||najwazniejsza|||2026-08-19 14:46:42 +0200",
-    "alfa boys|||skarbie mój|||2026-08-19 14:36:31 +0200",
-    "disco polo|||station id|||2026-08-19 14:01:48 +0200",
     "bayera|||usta twe|||2026-08-19 14:17:05 +0200",
-    "spontan|||tylko tobie|||2026-08-19 14:01:59 +0200"
+    "defis|||tak bardzo tego chce|||2026-08-19 15:02:05 +0200",
+    "conrado|||siebie nie zaluj|||2026-08-19 15:22:12 +0200",
+    "classic|||ja dla ciebie ty dla mnie|||2026-08-19 14:05:34 +0200",
+    "after party|||moja wyjatkowa|||2026-08-19 14:28:36 +0200",
+    "amant|||tancz ze mna|||2026-08-19 15:15:17 +0200",
+    "power play|||najpiekne|||2026-08-19 14:39:40 +0200",
+    "toledo|||zakochajmy sie|||2026-08-19 14:20:37 +0200",
+    "drossel|||najwazniejsza|||2026-08-19 14:46:42 +0200",
+    "bobi|||szesnascie lat|||2026-08-19 15:18:14 +0200",
+    "vanessa mai|||ich sterb für dich|||2026-08-19 13:58:18 +0200",
+    "joker & sequence|||z dnia na dzien|||2026-08-19 14:13:28 +0200",
+    "diadem|||kochanie moje|||2026-08-19 14:09:12 +0200",
+    "lordtl|||roztoczański romans|||2026-08-19 15:05:34 +0200",
+    "vincent gross & esteriore brothers|||amore mit mio|||2026-08-19 13:52:21 +0200",
+    "fresh and fun|||zur feier des tages|||2026-08-19 13:55:11 +0200",
+    "italo disco is back|||ausgabe 21 - teil 5|||2026-08-19 13:09:23 +0200",
+    "playboys|||jak to sie stalo|||2026-08-19 14:54:13 +0200",
+    "mig|||do niej cos czuje|||2026-08-19 15:12:03 +0200",
+    "alfa boys|||skarbie mój|||2026-08-19 14:36:31 +0200",
+    "discofox & schlager|||station id|||2026-08-19 13:52:08 +0200",
+    "disco polo|||station id|||2026-08-19 14:01:48 +0200",
+    "matt palmer & rizi papi|||minionej nocy|||2026-08-19 14:24:26 +0200",
+    "mirage & yoko|||bo to jest milosc|||2026-08-19 14:57:49 +0200",
+    "spontan|||tylko tobie|||2026-08-19 14:01:59 +0200",
+    "górolka|||opa|||2026-08-19 15:09:40 +0200",
+    "italo disco is back|||ausgabe 21 - teil 6|||2026-08-19 13:32:56 +0200",
+    "bobi|||krolowo ma|||2026-08-19 14:50:24 +0200"
   ]
 }
