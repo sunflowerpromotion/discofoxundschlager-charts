@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W34",
   "previous_week": null,
-  "updated": "2026-08-20T21:13:08.819116+00:00",
+  "updated": "2026-08-20T21:44:43.263908+00:00",
   "charts": [
     {
       "position": 1,
@@ -71,6 +71,24 @@
     },
     {
       "position": 8,
+      "artist": "Elios",
+      "title": "True Love",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 9,
+      "artist": "Free System",
+      "title": "This Love Is Not Right 4U",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 10,
       "artist": "Freestyle Project",
       "title": "Hey Mr. DJ",
       "plays": 3,
@@ -79,7 +97,7 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 11,
       "artist": "Fresh And Fun",
       "title": "Zur Feier Des Tages",
       "plays": 3,
@@ -88,7 +106,7 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 12,
       "artist": "Janine Frei",
       "title": "Das Ist Deine Nacht",
       "plays": 3,
@@ -97,7 +115,7 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 13,
       "artist": "Joker & Sequence",
       "title": "Z Dnia Na Dzien",
       "plays": 3,
@@ -106,7 +124,7 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 14,
       "artist": "Jürgen Peter",
       "title": "Das Leben Ist Zu Kurz Für Irgendwann",
       "plays": 3,
@@ -115,7 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 15,
       "artist": "Kalvin Loves Freestyle",
       "title": "If You Want My Love",
       "plays": 3,
@@ -124,7 +142,7 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 16,
       "artist": "Krümel",
       "title": "Männer Die Lügen",
       "plays": 3,
@@ -133,7 +151,7 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 17,
       "artist": "Liane",
       "title": "Küss Mich Bis Der Morgen Kommt",
       "plays": 3,
@@ -142,7 +160,7 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 18,
       "artist": "Lil Suzy",
       "title": "Take Me In Your Arms",
       "plays": 3,
@@ -151,7 +169,7 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 19,
       "artist": "Mitch Keller",
       "title": "Das Sind Keine Tränen",
       "plays": 3,
@@ -160,27 +178,9 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 20,
       "artist": "N.A.D.",
       "title": "Don't Go Away",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Playboys",
-      "title": "Jak To Sie Stalo",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Skolim, Raider, Zenek Martyniuk, Akcent",
-      "title": "Love",
       "plays": 3,
       "previous_position": null,
       "movement": null,
