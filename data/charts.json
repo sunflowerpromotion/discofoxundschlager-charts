@@ -4,10 +4,28 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W34",
   "previous_week": null,
-  "updated": "2026-08-20T03:30:57.319612+00:00",
+  "updated": "2026-08-20T04:10:56.101700+00:00",
   "charts": [
     {
       "position": 1,
+      "artist": "7dance & Melody Castellari",
+      "title": "The Way",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 2,
+      "artist": "Antares",
+      "title": "Ride On A Meteorite",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 3,
       "artist": "Bayera",
       "title": "Usta Twe",
       "plays": 2,
@@ -16,7 +34,7 @@
       "trend": "new"
     },
     {
-      "position": 2,
+      "position": 4,
       "artist": "Bubble J.",
       "title": "Feel Da Rhythm In Your Feet",
       "plays": 2,
@@ -25,7 +43,7 @@
       "trend": "new"
     },
     {
-      "position": 3,
+      "position": 5,
       "artist": "Chicco",
       "title": "Love Is Not Enough",
       "plays": 2,
@@ -34,7 +52,7 @@
       "trend": "new"
     },
     {
-      "position": 4,
+      "position": 6,
       "artist": "Classic",
       "title": "Ja Dla Ciebie Ty Dla Mnie",
       "plays": 2,
@@ -43,7 +61,16 @@
       "trend": "new"
     },
     {
-      "position": 5,
+      "position": 7,
+      "artist": "D.I.P.",
+      "title": "Give Me Your Lovin'",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 8,
       "artist": "Diadem",
       "title": "Kochanie Moje",
       "plays": 2,
@@ -52,7 +79,7 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 9,
       "artist": "Elios",
       "title": "True Love",
       "plays": 2,
@@ -61,7 +88,7 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 10,
       "artist": "Five Of Ten",
       "title": "If You Want My Love",
       "plays": 2,
@@ -70,7 +97,7 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 11,
       "artist": "Flying Steps",
       "title": "We Are Electric",
       "plays": 2,
@@ -79,7 +106,7 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 12,
       "artist": "Free System",
       "title": "This Love Is Not Right 4U",
       "plays": 2,
@@ -88,7 +115,7 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 13,
       "artist": "Freestyle Project",
       "title": "Hey Mr. DJ",
       "plays": 2,
@@ -97,7 +124,7 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 14,
       "artist": "GórOlka",
       "title": "OPA",
       "plays": 2,
@@ -106,7 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 15,
       "artist": "Johnny O.",
       "title": "Fantasy Girl",
       "plays": 2,
@@ -115,7 +142,7 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 16,
       "artist": "Joker & Sequence",
       "title": "Z Dnia Na Dzien",
       "plays": 2,
@@ -124,7 +151,7 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 17,
       "artist": "Jürgen Peter",
       "title": "Das Leben Ist Zu Kurz Für Irgendwann",
       "plays": 2,
@@ -133,7 +160,7 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 18,
       "artist": "Kalvin Loves Freestyle",
       "title": "If You Want My Love",
       "plays": 2,
@@ -142,7 +169,7 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 19,
       "artist": "Lil Suzy",
       "title": "Take Me In Your Arms",
       "plays": 2,
@@ -151,36 +178,9 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 20,
       "artist": "Marc Austin",
       "title": "Lighthouse",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 18,
-      "artist": "N.A.D.",
-      "title": "Don't Go Away",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Pandera",
-      "title": "Freestyle Project Remix",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Pandera",
-      "title": "Pump Da Beat",
       "plays": 2,
       "previous_position": null,
       "movement": null,
