@@ -4,10 +4,19 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W34",
   "previous_week": null,
-  "updated": "2026-08-20T23:34:27.851514+00:00",
+  "updated": "2026-08-20T23:55:36.095775+00:00",
   "charts": [
     {
       "position": 1,
+      "artist": "Bubble J.",
+      "title": "Feel Da Rhythm In Your Feet",
+      "plays": 4,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 2,
       "artist": "Freestyle Project",
       "title": "Hey Mr. DJ",
       "plays": 4,
@@ -16,7 +25,7 @@
       "trend": "new"
     },
     {
-      "position": 2,
+      "position": 3,
       "artist": "GórOlka",
       "title": "OPA",
       "plays": 4,
@@ -25,7 +34,7 @@
       "trend": "new"
     },
     {
-      "position": 3,
+      "position": 4,
       "artist": "Johanna Giese",
       "title": "Die Lichter Der Stadt",
       "plays": 4,
@@ -34,7 +43,7 @@
       "trend": "new"
     },
     {
-      "position": 4,
+      "position": 5,
       "artist": "Kalvin Loves Freestyle",
       "title": "If You Want My Love",
       "plays": 4,
@@ -43,7 +52,7 @@
       "trend": "new"
     },
     {
-      "position": 5,
+      "position": 6,
       "artist": "Lil Suzy",
       "title": "Take Me In Your Arms",
       "plays": 4,
@@ -52,7 +61,7 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 7,
       "artist": "N.A.D.",
       "title": "Don't Go Away",
       "plays": 4,
@@ -61,7 +70,7 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 8,
       "artist": "Vincent Gross & Esteriore Brothers",
       "title": "Amore Mit Mio",
       "plays": 4,
@@ -70,18 +79,9 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 9,
       "artist": "Albin Berger",
       "title": "Lieben Heißt...",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 9,
-      "artist": "Bubble J.",
-      "title": "Feel Da Rhythm In Your Feet",
       "plays": 3,
       "previous_position": null,
       "movement": null,
