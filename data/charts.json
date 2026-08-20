@@ -4,10 +4,19 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W34",
   "previous_week": null,
-  "updated": "2026-08-20T22:38:33.128947+00:00",
+  "updated": "2026-08-20T23:01:29.158848+00:00",
   "charts": [
     {
       "position": 1,
+      "artist": "Freestyle Project",
+      "title": "Hey Mr. DJ",
+      "plays": 4,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 2,
       "artist": "GórOlka",
       "title": "OPA",
       "plays": 4,
@@ -16,7 +25,7 @@
       "trend": "new"
     },
     {
-      "position": 2,
+      "position": 3,
       "artist": "Johanna Giese",
       "title": "Die Lichter Der Stadt",
       "plays": 4,
@@ -25,7 +34,34 @@
       "trend": "new"
     },
     {
-      "position": 3,
+      "position": 4,
+      "artist": "Kalvin Loves Freestyle",
+      "title": "If You Want My Love",
+      "plays": 4,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 5,
+      "artist": "Lil Suzy",
+      "title": "Take Me In Your Arms",
+      "plays": 4,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 6,
+      "artist": "N.A.D.",
+      "title": "Don't Go Away",
+      "plays": 4,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 7,
       "artist": "Vincent Gross & Esteriore Brothers",
       "title": "Amore Mit Mio",
       "plays": 4,
@@ -34,7 +70,7 @@
       "trend": "new"
     },
     {
-      "position": 4,
+      "position": 8,
       "artist": "Albin Berger",
       "title": "Lieben Heißt...",
       "plays": 3,
@@ -43,7 +79,7 @@
       "trend": "new"
     },
     {
-      "position": 5,
+      "position": 9,
       "artist": "Bubble J.",
       "title": "Feel Da Rhythm In Your Feet",
       "plays": 3,
@@ -52,7 +88,7 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 10,
       "artist": "Chicco",
       "title": "Love Is Not Enough",
       "plays": 3,
@@ -61,7 +97,7 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 11,
       "artist": "Classic",
       "title": "Ja Dla Ciebie Ty Dla Mnie",
       "plays": 3,
@@ -70,7 +106,7 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 12,
       "artist": "Diadem",
       "title": "Kochanie Moje",
       "plays": 3,
@@ -79,7 +115,7 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 13,
       "artist": "Elios",
       "title": "True Love",
       "plays": 3,
@@ -88,7 +124,7 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 14,
       "artist": "Five Of Ten",
       "title": "If You Want My Love",
       "plays": 3,
@@ -97,7 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 15,
       "artist": "Flying Steps",
       "title": "We Are Electric",
       "plays": 3,
@@ -106,7 +142,7 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 16,
       "artist": "Free System",
       "title": "This Love Is Not Right 4U",
       "plays": 3,
@@ -115,16 +151,7 @@
       "trend": "new"
     },
     {
-      "position": 13,
-      "artist": "Freestyle Project",
-      "title": "Hey Mr. DJ",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 14,
+      "position": 17,
       "artist": "Fresh And Fun",
       "title": "Zur Feier Des Tages",
       "plays": 3,
@@ -133,7 +160,7 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 18,
       "artist": "Janine Frei",
       "title": "Das Ist Deine Nacht",
       "plays": 3,
@@ -142,7 +169,7 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 19,
       "artist": "Johnny O.",
       "title": "Fantasy Girl",
       "plays": 3,
@@ -151,36 +178,9 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 20,
       "artist": "Joker & Sequence",
       "title": "Z Dnia Na Dzien",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 18,
-      "artist": "Jürgen Peter",
-      "title": "Das Leben Ist Zu Kurz Für Irgendwann",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Kalvin Loves Freestyle",
-      "title": "If You Want My Love",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Krümel",
-      "title": "Männer Die Lügen",
       "plays": 3,
       "previous_position": null,
       "movement": null,
