@@ -4,10 +4,19 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W34",
   "previous_week": null,
-  "updated": "2026-08-20T12:17:08.758092+00:00",
+  "updated": "2026-08-20T13:15:52.394132+00:00",
   "charts": [
     {
       "position": 1,
+      "artist": "Diadem",
+      "title": "Kochanie Moje",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 2,
       "artist": "Johanna Giese",
       "title": "Die Lichter Der Stadt",
       "plays": 3,
@@ -16,7 +25,7 @@
       "trend": "new"
     },
     {
-      "position": 2,
+      "position": 3,
       "artist": "Vincent Gross & Esteriore Brothers",
       "title": "Amore Mit Mio",
       "plays": 3,
@@ -25,7 +34,7 @@
       "trend": "new"
     },
     {
-      "position": 3,
+      "position": 4,
       "artist": "7dance & Melody Castellari",
       "title": "The Way",
       "plays": 2,
@@ -34,7 +43,7 @@
       "trend": "new"
     },
     {
-      "position": 4,
+      "position": 5,
       "artist": "Albin Berger",
       "title": "Lieben Heißt...",
       "plays": 2,
@@ -43,7 +52,7 @@
       "trend": "new"
     },
     {
-      "position": 5,
+      "position": 6,
       "artist": "Aldo Lesina",
       "title": "Its Long Ago",
       "plays": 2,
@@ -52,7 +61,16 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 7,
+      "artist": "Andre",
+      "title": "Dama Zegna Pana",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 8,
       "artist": "Ansgar Deters feat. Kerstin",
       "title": "Ich Umarme Die Welt",
       "plays": 2,
@@ -61,7 +79,7 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 9,
       "artist": "Antares",
       "title": "Ride On A Meteorite",
       "plays": 2,
@@ -70,7 +88,7 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 10,
       "artist": "Baccara",
       "title": "My Love In China",
       "plays": 2,
@@ -79,7 +97,7 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 11,
       "artist": "Bayera",
       "title": "Usta Twe",
       "plays": 2,
@@ -88,7 +106,7 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 12,
       "artist": "Blue Crew",
       "title": "Santa Cruz",
       "plays": 2,
@@ -97,7 +115,16 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 13,
+      "artist": "Bobi",
+      "title": "Krolowo Ma",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 14,
       "artist": "Bubble J.",
       "title": "Feel Da Rhythm In Your Feet",
       "plays": 2,
@@ -106,7 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 15,
       "artist": "Casanova",
       "title": "In My World Of Love",
       "plays": 2,
@@ -115,7 +142,7 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 16,
       "artist": "Chicco",
       "title": "Love Is Not Enough",
       "plays": 2,
@@ -124,7 +151,7 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 17,
       "artist": "Classic",
       "title": "Ja Dla Ciebie Ty Dla Mnie",
       "plays": 2,
@@ -133,7 +160,7 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 18,
       "artist": "Cyber People",
       "title": "Polaris",
       "plays": 2,
@@ -142,7 +169,7 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 19,
       "artist": "D.I.P.",
       "title": "Give Me Your Lovin'",
       "plays": 2,
@@ -151,36 +178,9 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 20,
       "artist": "Denny Schönemann",
       "title": "Room Number 1",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 18,
-      "artist": "Diadem",
-      "title": "Kochanie Moje",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Elios",
-      "title": "True Love",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Five Of Ten",
-      "title": "If You Want My Love",
       "plays": 2,
       "previous_position": null,
       "movement": null,
