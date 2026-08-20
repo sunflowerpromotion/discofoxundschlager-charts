@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W34",
   "previous_week": null,
-  "updated": "2026-08-20T15:18:42.353177+00:00",
+  "updated": "2026-08-20T15:52:58.036033+00:00",
   "charts": [
     {
       "position": 1,
@@ -134,6 +134,15 @@
     },
     {
       "position": 15,
+      "artist": "ALTESS",
+      "title": "Perły Ci Dam",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 16,
       "artist": "Amant",
       "title": "Tancz Ze Mna",
       "plays": 2,
@@ -142,7 +151,7 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 17,
       "artist": "Andre",
       "title": "Dama Zegna Pana",
       "plays": 2,
@@ -151,7 +160,7 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 18,
       "artist": "Ansgar Deters feat. Kerstin",
       "title": "Ich Umarme Die Welt",
       "plays": 2,
@@ -160,7 +169,7 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 19,
       "artist": "Antares",
       "title": "Ride On A Meteorite",
       "plays": 2,
@@ -169,18 +178,9 @@
       "trend": "new"
     },
     {
-      "position": 19,
+      "position": 20,
       "artist": "Avangarde",
       "title": "Jak Mam Cię Kochać",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Baccara",
-      "title": "My Love In China",
       "plays": 2,
       "previous_position": null,
       "movement": null,
