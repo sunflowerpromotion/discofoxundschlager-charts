@@ -4,10 +4,19 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W34",
   "previous_week": null,
-  "updated": "2026-08-21T12:03:40.988618+00:00",
+  "updated": "2026-08-21T13:05:33.761505+00:00",
   "charts": [
     {
       "position": 1,
+      "artist": "GórOlka",
+      "title": "OPA",
+      "plays": 5,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 2,
       "artist": "Baccara",
       "title": "My Love In China",
       "plays": 4,
@@ -16,7 +25,7 @@
       "trend": "new"
     },
     {
-      "position": 2,
+      "position": 3,
       "artist": "Blue Crew",
       "title": "Santa Cruz",
       "plays": 4,
@@ -25,7 +34,7 @@
       "trend": "new"
     },
     {
-      "position": 3,
+      "position": 4,
       "artist": "Bubble J.",
       "title": "Feel Da Rhythm In Your Feet",
       "plays": 4,
@@ -34,7 +43,16 @@
       "trend": "new"
     },
     {
-      "position": 4,
+      "position": 5,
+      "artist": "Diadem",
+      "title": "Kochanie Moje",
+      "plays": 4,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 6,
       "artist": "Freestyle Project",
       "title": "Hey Mr. DJ",
       "plays": 4,
@@ -43,7 +61,7 @@
       "trend": "new"
     },
     {
-      "position": 5,
+      "position": 7,
       "artist": "Gemini Rising",
       "title": "Best Case Life",
       "plays": 4,
@@ -52,16 +70,7 @@
       "trend": "new"
     },
     {
-      "position": 6,
-      "artist": "GórOlka",
-      "title": "OPA",
-      "plays": 4,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 7,
+      "position": 8,
       "artist": "Johanna Giese",
       "title": "Die Lichter Der Stadt",
       "plays": 4,
@@ -70,7 +79,7 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 9,
       "artist": "Kalvin Loves Freestyle",
       "title": "If You Want My Love",
       "plays": 4,
@@ -79,7 +88,7 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 10,
       "artist": "Lil Suzy",
       "title": "Take Me In Your Arms",
       "plays": 4,
@@ -88,7 +97,7 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 11,
       "artist": "Mode-One",
       "title": "Angels In The Night",
       "plays": 4,
@@ -97,7 +106,7 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 12,
       "artist": "N.A.D.",
       "title": "Don't Go Away",
       "plays": 4,
@@ -106,7 +115,7 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 13,
       "artist": "Sweet Connection",
       "title": "Need Your Passion",
       "plays": 4,
@@ -115,7 +124,7 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 14,
       "artist": "Vincent Gross & Esteriore Brothers",
       "title": "Amore Mit Mio",
       "plays": 4,
@@ -124,7 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 15,
       "artist": "7dance & Melody Castellari",
       "title": "The Way",
       "plays": 3,
@@ -133,7 +142,7 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 16,
       "artist": "Albin Berger",
       "title": "Lieben Heißt...",
       "plays": 3,
@@ -142,7 +151,7 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 17,
       "artist": "Aldo Lesina",
       "title": "Its Long Ago",
       "plays": 3,
@@ -151,18 +160,9 @@
       "trend": "new"
     },
     {
-      "position": 17,
-      "artist": "Casanova",
-      "title": "In My World Of Love",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
       "position": 18,
-      "artist": "Chicco",
-      "title": "Love Is Not Enough",
+      "artist": "ALTESS",
+      "title": "Perły Ci Dam",
       "plays": 3,
       "previous_position": null,
       "movement": null,
@@ -170,8 +170,8 @@
     },
     {
       "position": 19,
-      "artist": "Classic",
-      "title": "Ja Dla Ciebie Ty Dla Mnie",
+      "artist": "Amant",
+      "title": "Tancz Ze Mna",
       "plays": 3,
       "previous_position": null,
       "movement": null,
@@ -179,8 +179,8 @@
     },
     {
       "position": 20,
-      "artist": "D.I.P.",
-      "title": "Give Me Your Lovin'",
+      "artist": "Casanova",
+      "title": "In My World Of Love",
       "plays": 3,
       "previous_position": null,
       "movement": null,
