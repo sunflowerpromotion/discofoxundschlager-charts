@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W34",
   "previous_week": null,
-  "updated": "2026-08-21T17:50:36.527000+00:00",
+  "updated": "2026-08-21T18:16:38.522680+00:00",
   "charts": [
     {
       "position": 1,
@@ -116,6 +116,15 @@
     },
     {
       "position": 13,
+      "artist": "Janine Frei",
+      "title": "Das Ist Deine Nacht",
+      "plays": 4,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 14,
       "artist": "Johanna Giese",
       "title": "Die Lichter Der Stadt",
       "plays": 4,
@@ -124,7 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 15,
       "artist": "Joker & Sequence",
       "title": "Z Dnia Na Dzien",
       "plays": 4,
@@ -133,7 +142,7 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 16,
       "artist": "Kalvin Loves Freestyle",
       "title": "If You Want My Love",
       "plays": 4,
@@ -142,7 +151,7 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 17,
       "artist": "Krümel",
       "title": "Männer Die Lügen",
       "plays": 4,
@@ -151,7 +160,7 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 18,
       "artist": "Liane",
       "title": "Küss Mich Bis Der Morgen Kommt",
       "plays": 4,
@@ -160,7 +169,7 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 19,
       "artist": "Lil Suzy",
       "title": "Take Me In Your Arms",
       "plays": 4,
@@ -169,18 +178,9 @@
       "trend": "new"
     },
     {
-      "position": 19,
+      "position": 20,
       "artist": "Mode-One",
       "title": "Angels In The Night",
-      "plays": 4,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "N.A.D.",
-      "title": "Don't Go Away",
       "plays": 4,
       "previous_position": null,
       "movement": null,
