@@ -4,21 +4,21 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W34",
   "previous_week": null,
-  "updated": "2026-08-21T15:45:03.818066+00:00",
+  "updated": "2026-08-21T16:13:36.654723+00:00",
   "charts": [
     {
       "position": 1,
-      "artist": "Diadem",
-      "title": "Kochanie Moje",
-      "plays": 5,
+      "artist": "GórOlka",
+      "title": "OPA",
+      "plays": 6,
       "previous_position": null,
       "movement": null,
       "trend": "new"
     },
     {
       "position": 2,
-      "artist": "GórOlka",
-      "title": "OPA",
+      "artist": "Diadem",
+      "title": "Kochanie Moje",
       "plays": 5,
       "previous_position": null,
       "movement": null,
@@ -98,6 +98,15 @@
     },
     {
       "position": 11,
+      "artist": "Fresh And Fun",
+      "title": "Zur Feier Des Tages",
+      "plays": 4,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 12,
       "artist": "Gemini Rising",
       "title": "Best Case Life",
       "plays": 4,
@@ -106,7 +115,7 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 13,
       "artist": "Johanna Giese",
       "title": "Die Lichter Der Stadt",
       "plays": 4,
@@ -115,7 +124,7 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 14,
       "artist": "Joker & Sequence",
       "title": "Z Dnia Na Dzien",
       "plays": 4,
@@ -124,7 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 15,
       "artist": "Kalvin Loves Freestyle",
       "title": "If You Want My Love",
       "plays": 4,
@@ -133,7 +142,16 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 16,
+      "artist": "Liane",
+      "title": "Küss Mich Bis Der Morgen Kommt",
+      "plays": 4,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 17,
       "artist": "Lil Suzy",
       "title": "Take Me In Your Arms",
       "plays": 4,
@@ -142,7 +160,7 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 18,
       "artist": "Mode-One",
       "title": "Angels In The Night",
       "plays": 4,
@@ -151,7 +169,7 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 19,
       "artist": "N.A.D.",
       "title": "Don't Go Away",
       "plays": 4,
@@ -160,27 +178,9 @@
       "trend": "new"
     },
     {
-      "position": 18,
-      "artist": "Skolim, Raider, Zenek Martyniuk, Akcent",
-      "title": "Love",
-      "plays": 4,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Sweet Connection",
-      "title": "Need Your Passion",
-      "plays": 4,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
       "position": 20,
-      "artist": "Vincent Gross & Esteriore Brothers",
-      "title": "Amore Mit Mio",
+      "artist": "Playboys",
+      "title": "Jak To Sie Stalo",
       "plays": 4,
       "previous_position": null,
       "movement": null,
