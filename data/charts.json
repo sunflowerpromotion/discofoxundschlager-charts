@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W34",
   "previous_week": null,
-  "updated": "2026-08-21T20:09:53.554653+00:00",
+  "updated": "2026-08-21T20:39:56.695253+00:00",
   "charts": [
     {
       "position": 1,
@@ -44,6 +44,15 @@
     },
     {
       "position": 5,
+      "artist": "Lil Suzy",
+      "title": "Take Me In Your Arms",
+      "plays": 5,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 6,
       "artist": "Albin Berger",
       "title": "Lieben Heißt...",
       "plays": 4,
@@ -52,7 +61,7 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 7,
       "artist": "Amant",
       "title": "Tancz Ze Mna",
       "plays": 4,
@@ -61,7 +70,7 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 8,
       "artist": "Baccara",
       "title": "My Love In China",
       "plays": 4,
@@ -70,7 +79,7 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 9,
       "artist": "Blue Crew",
       "title": "Santa Cruz",
       "plays": 4,
@@ -79,7 +88,7 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 10,
       "artist": "Bubble J.",
       "title": "Feel Da Rhythm In Your Feet",
       "plays": 4,
@@ -88,7 +97,7 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 11,
       "artist": "Classic",
       "title": "Ja Dla Ciebie Ty Dla Mnie",
       "plays": 4,
@@ -97,7 +106,7 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 12,
       "artist": "Damian Banasiak",
       "title": "Prowokujesz Mnie",
       "plays": 4,
@@ -106,7 +115,7 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 13,
       "artist": "EXTAZY",
       "title": "Skocze W Ogien",
       "plays": 4,
@@ -115,7 +124,7 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 14,
       "artist": "Freestyle Project",
       "title": "Hey Mr. DJ",
       "plays": 4,
@@ -124,7 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 15,
       "artist": "Gemini Rising",
       "title": "Best Case Life",
       "plays": 4,
@@ -133,7 +142,7 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 16,
       "artist": "Janine Frei",
       "title": "Das Ist Deine Nacht",
       "plays": 4,
@@ -142,7 +151,7 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 17,
       "artist": "Joker & Sequence",
       "title": "Z Dnia Na Dzien",
       "plays": 4,
@@ -151,7 +160,7 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 18,
       "artist": "Kalvin Loves Freestyle",
       "title": "If You Want My Love",
       "plays": 4,
@@ -160,7 +169,7 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 19,
       "artist": "Krümel",
       "title": "Männer Die Lügen",
       "plays": 4,
@@ -169,18 +178,9 @@
       "trend": "new"
     },
     {
-      "position": 19,
+      "position": 20,
       "artist": "Liane",
       "title": "Küss Mich Bis Der Morgen Kommt",
-      "plays": 4,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Lil Suzy",
-      "title": "Take Me In Your Arms",
       "plays": 4,
       "previous_position": null,
       "movement": null,
