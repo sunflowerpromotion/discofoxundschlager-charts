@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W34",
   "previous_week": null,
-  "updated": "2026-08-22T14:11:52.403950+00:00",
+  "updated": "2026-08-22T14:38:21.802550+00:00",
   "charts": [
     {
       "position": 1,
@@ -161,6 +161,15 @@
     },
     {
       "position": 18,
+      "artist": "Joker & Sequence",
+      "title": "Z Dnia Na Dzien",
+      "plays": 5,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 19,
       "artist": "Kalvin Loves Freestyle",
       "title": "If You Want My Love",
       "plays": 5,
@@ -169,18 +178,9 @@
       "trend": "new"
     },
     {
-      "position": 19,
+      "position": 20,
       "artist": "Masterboy",
       "title": "I Got To Give It Up",
-      "plays": 5,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "N.A.D.",
-      "title": "Don't Go Away",
       "plays": 5,
       "previous_position": null,
       "movement": null,
