@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W34",
   "previous_week": null,
-  "updated": "2026-08-22T14:56:48.868832+00:00",
+  "updated": "2026-08-22T15:20:38.507054+00:00",
   "charts": [
     {
       "position": 1,
@@ -80,6 +80,15 @@
     },
     {
       "position": 9,
+      "artist": "Bobi",
+      "title": "Szesnascie Lat",
+      "plays": 5,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 10,
       "artist": "Bubble J.",
       "title": "Feel Da Rhythm In Your Feet",
       "plays": 5,
@@ -88,7 +97,7 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 11,
       "artist": "Dejw",
       "title": "Ananas",
       "plays": 5,
@@ -97,7 +106,7 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 12,
       "artist": "Diadem",
       "title": "Kochanie Moje",
       "plays": 5,
@@ -106,7 +115,7 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 13,
       "artist": "DJ Jerry",
       "title": "Shanghai",
       "plays": 5,
@@ -115,7 +124,7 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 14,
       "artist": "EXTAZY",
       "title": "Skocze W Ogien",
       "plays": 5,
@@ -124,7 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 15,
       "artist": "Freestyle Project",
       "title": "Hey Mr. DJ",
       "plays": 5,
@@ -133,7 +142,7 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 16,
       "artist": "Fresh And Fun",
       "title": "Zur Feier Des Tages",
       "plays": 5,
@@ -142,7 +151,7 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 17,
       "artist": "Janine Frei",
       "title": "Das Ist Deine Nacht",
       "plays": 5,
@@ -151,7 +160,7 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 18,
       "artist": "Johanna Giese",
       "title": "Die Lichter Der Stadt",
       "plays": 5,
@@ -160,7 +169,7 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 19,
       "artist": "Johnny O.",
       "title": "Fantasy Girl",
       "plays": 5,
@@ -169,18 +178,9 @@
       "trend": "new"
     },
     {
-      "position": 19,
+      "position": 20,
       "artist": "Joker & Sequence",
       "title": "Z Dnia Na Dzien",
-      "plays": 5,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Kalvin Loves Freestyle",
-      "title": "If You Want My Love",
       "plays": 5,
       "previous_position": null,
       "movement": null,
