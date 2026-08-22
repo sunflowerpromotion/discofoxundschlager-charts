@@ -4,10 +4,19 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W34",
   "previous_week": null,
-  "updated": "2026-08-22T13:53:11.026118+00:00",
+  "updated": "2026-08-22T14:11:52.403950+00:00",
   "charts": [
     {
       "position": 1,
+      "artist": "GórOlka",
+      "title": "OPA",
+      "plays": 7,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 2,
       "artist": "Blue Crew",
       "title": "Santa Cruz",
       "plays": 6,
@@ -16,18 +25,9 @@
       "trend": "new"
     },
     {
-      "position": 2,
+      "position": 3,
       "artist": "Gemini Rising",
       "title": "Best Case Life",
-      "plays": 6,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 3,
-      "artist": "GórOlka",
-      "title": "OPA",
       "plays": 6,
       "previous_position": null,
       "movement": null,
