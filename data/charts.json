@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W34",
   "previous_week": null,
-  "updated": "2026-08-22T21:59:43.383671+00:00",
+  "updated": "2026-08-22T22:30:20.848813+00:00",
   "charts": [
     {
       "position": 1,
@@ -116,6 +116,15 @@
     },
     {
       "position": 13,
+      "artist": "Operator",
+      "title": "Emergency",
+      "plays": 6,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 14,
       "artist": "Pandera",
       "title": "In My Dreams",
       "plays": 6,
@@ -124,7 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 15,
       "artist": "Sweet Connection",
       "title": "Need Your Passion",
       "plays": 6,
@@ -133,7 +142,7 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 16,
       "artist": "7dance & Melody Castellari",
       "title": "The Way",
       "plays": 5,
@@ -142,7 +151,7 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 17,
       "artist": "Amant",
       "title": "Tancz Ze Mna",
       "plays": 5,
@@ -151,7 +160,7 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 18,
       "artist": "Baccara",
       "title": "My Love In China",
       "plays": 5,
@@ -160,7 +169,7 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 19,
       "artist": "Bobi",
       "title": "Szesnascie Lat",
       "plays": 5,
@@ -169,18 +178,9 @@
       "trend": "new"
     },
     {
-      "position": 19,
+      "position": 20,
       "artist": "Celina Mars",
       "title": "Gefühle Total",
-      "plays": 5,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Chicco",
-      "title": "Love Is Not Enough",
       "plays": 5,
       "previous_position": null,
       "movement": null,
