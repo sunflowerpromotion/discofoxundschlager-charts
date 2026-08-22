@@ -4,10 +4,19 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W34",
   "previous_week": null,
-  "updated": "2026-08-22T08:39:17.091171+00:00",
+  "updated": "2026-08-22T09:02:26.908524+00:00",
   "charts": [
     {
       "position": 1,
+      "artist": "Blue Crew",
+      "title": "Santa Cruz",
+      "plays": 6,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 2,
       "artist": "Gemini Rising",
       "title": "Best Case Life",
       "plays": 6,
@@ -16,7 +25,7 @@
       "trend": "new"
     },
     {
-      "position": 2,
+      "position": 3,
       "artist": "GórOlka",
       "title": "OPA",
       "plays": 6,
@@ -25,7 +34,7 @@
       "trend": "new"
     },
     {
-      "position": 3,
+      "position": 4,
       "artist": "Lil Suzy",
       "title": "Take Me In Your Arms",
       "plays": 6,
@@ -34,7 +43,7 @@
       "trend": "new"
     },
     {
-      "position": 4,
+      "position": 5,
       "artist": "7dance & Melody Castellari",
       "title": "The Way",
       "plays": 5,
@@ -43,18 +52,9 @@
       "trend": "new"
     },
     {
-      "position": 5,
+      "position": 6,
       "artist": "Baccara",
       "title": "My Love In China",
-      "plays": 5,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 6,
-      "artist": "Blue Crew",
-      "title": "Santa Cruz",
       "plays": 5,
       "previous_position": null,
       "movement": null,
@@ -80,6 +80,15 @@
     },
     {
       "position": 9,
+      "artist": "DJ Jerry",
+      "title": "Shanghai",
+      "plays": 5,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 10,
       "artist": "Freestyle Project",
       "title": "Hey Mr. DJ",
       "plays": 5,
@@ -88,7 +97,7 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 11,
       "artist": "Fresh And Fun",
       "title": "Zur Feier Des Tages",
       "plays": 5,
@@ -97,7 +106,7 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 12,
       "artist": "Johanna Giese",
       "title": "Die Lichter Der Stadt",
       "plays": 5,
@@ -106,7 +115,7 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 13,
       "artist": "Johnny O.",
       "title": "Fantasy Girl",
       "plays": 5,
@@ -115,7 +124,7 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 14,
       "artist": "Kalvin Loves Freestyle",
       "title": "If You Want My Love",
       "plays": 5,
@@ -124,7 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 15,
       "artist": "Masterboy",
       "title": "I Got To Give It Up",
       "plays": 5,
@@ -133,7 +142,7 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 16,
       "artist": "N.A.D.",
       "title": "Don't Go Away",
       "plays": 5,
@@ -142,7 +151,7 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 17,
       "artist": "Operator",
       "title": "Emergency",
       "plays": 5,
@@ -151,7 +160,7 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 18,
       "artist": "Pandera",
       "title": "In My Dreams",
       "plays": 5,
@@ -160,7 +169,7 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 19,
       "artist": "Split Mirrors",
       "title": "1999",
       "plays": 5,
@@ -169,19 +178,10 @@
       "trend": "new"
     },
     {
-      "position": 19,
+      "position": 20,
       "artist": "Sweet Connection",
       "title": "Need Your Passion",
       "plays": 5,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Albin Berger",
-      "title": "Lieben Heißt...",
-      "plays": 4,
       "previous_position": null,
       "movement": null,
       "trend": "new"
