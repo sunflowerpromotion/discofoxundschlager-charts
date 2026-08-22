@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W34",
   "previous_week": null,
-  "updated": "2026-08-22T15:56:43.410696+00:00",
+  "updated": "2026-08-22T16:23:39.803646+00:00",
   "charts": [
     {
       "position": 1,
@@ -116,6 +116,15 @@
     },
     {
       "position": 13,
+      "artist": "Conrado",
+      "title": "Siebie Nie Zaluj",
+      "plays": 5,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 14,
       "artist": "Damian Banasiak",
       "title": "Prowokujesz Mnie",
       "plays": 5,
@@ -124,7 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 15,
       "artist": "Dejw",
       "title": "Ananas",
       "plays": 5,
@@ -133,7 +142,7 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 16,
       "artist": "DJ Jerry",
       "title": "Shanghai",
       "plays": 5,
@@ -142,7 +151,7 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 17,
       "artist": "EXTAZY",
       "title": "Skocze W Ogien",
       "plays": 5,
@@ -151,7 +160,7 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 18,
       "artist": "Freestyle Project",
       "title": "Hey Mr. DJ",
       "plays": 5,
@@ -160,7 +169,7 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 19,
       "artist": "Fresh And Fun",
       "title": "Zur Feier Des Tages",
       "plays": 5,
@@ -169,18 +178,9 @@
       "trend": "new"
     },
     {
-      "position": 19,
-      "artist": "Janine Frei",
-      "title": "Das Ist Deine Nacht",
-      "plays": 5,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
       "position": 20,
-      "artist": "Johanna Giese",
-      "title": "Die Lichter Der Stadt",
+      "artist": "Fäaschtbänkler",
+      "title": "Kleines Lied",
       "plays": 5,
       "previous_position": null,
       "movement": null,
