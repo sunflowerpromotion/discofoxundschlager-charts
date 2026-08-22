@@ -4,10 +4,19 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W34",
   "previous_week": null,
-  "updated": "2026-08-22T07:38:46.373446+00:00",
+  "updated": "2026-08-22T07:59:28.962160+00:00",
   "charts": [
     {
       "position": 1,
+      "artist": "Gemini Rising",
+      "title": "Best Case Life",
+      "plays": 6,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 2,
       "artist": "GórOlka",
       "title": "OPA",
       "plays": 6,
@@ -16,7 +25,7 @@
       "trend": "new"
     },
     {
-      "position": 2,
+      "position": 3,
       "artist": "Lil Suzy",
       "title": "Take Me In Your Arms",
       "plays": 6,
@@ -25,7 +34,7 @@
       "trend": "new"
     },
     {
-      "position": 3,
+      "position": 4,
       "artist": "7dance & Melody Castellari",
       "title": "The Way",
       "plays": 5,
@@ -34,7 +43,7 @@
       "trend": "new"
     },
     {
-      "position": 4,
+      "position": 5,
       "artist": "Baccara",
       "title": "My Love In China",
       "plays": 5,
@@ -43,7 +52,7 @@
       "trend": "new"
     },
     {
-      "position": 5,
+      "position": 6,
       "artist": "Blue Crew",
       "title": "Santa Cruz",
       "plays": 5,
@@ -52,7 +61,7 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 7,
       "artist": "Bubble J.",
       "title": "Feel Da Rhythm In Your Feet",
       "plays": 5,
@@ -61,7 +70,7 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 8,
       "artist": "Diadem",
       "title": "Kochanie Moje",
       "plays": 5,
@@ -70,7 +79,7 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 9,
       "artist": "Freestyle Project",
       "title": "Hey Mr. DJ",
       "plays": 5,
@@ -79,18 +88,9 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 10,
       "artist": "Fresh And Fun",
       "title": "Zur Feier Des Tages",
-      "plays": 5,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 10,
-      "artist": "Gemini Rising",
-      "title": "Best Case Life",
       "plays": 5,
       "previous_position": null,
       "movement": null,
