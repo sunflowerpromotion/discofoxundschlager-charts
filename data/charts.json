@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W34",
   "previous_week": null,
-  "updated": "2026-08-22T11:49:03.070331+00:00",
+  "updated": "2026-08-22T12:01:38.453967+00:00",
   "charts": [
     {
       "position": 1,
@@ -116,6 +116,15 @@
     },
     {
       "position": 13,
+      "artist": "Janine Frei",
+      "title": "Das Ist Deine Nacht",
+      "plays": 5,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 14,
       "artist": "Johanna Giese",
       "title": "Die Lichter Der Stadt",
       "plays": 5,
@@ -124,7 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 15,
       "artist": "Johnny O.",
       "title": "Fantasy Girl",
       "plays": 5,
@@ -133,7 +142,7 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 16,
       "artist": "Kalvin Loves Freestyle",
       "title": "If You Want My Love",
       "plays": 5,
@@ -142,7 +151,7 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 17,
       "artist": "Masterboy",
       "title": "I Got To Give It Up",
       "plays": 5,
@@ -151,7 +160,7 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 18,
       "artist": "N.A.D.",
       "title": "Don't Go Away",
       "plays": 5,
@@ -160,7 +169,7 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 19,
       "artist": "Operator",
       "title": "Emergency",
       "plays": 5,
@@ -169,18 +178,9 @@
       "trend": "new"
     },
     {
-      "position": 19,
+      "position": 20,
       "artist": "Pandera",
       "title": "In My Dreams",
-      "plays": 5,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Split Mirrors",
-      "title": "1999",
       "plays": 5,
       "previous_position": null,
       "movement": null,
