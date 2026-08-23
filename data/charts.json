@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W34",
   "previous_week": null,
-  "updated": "2026-08-23T21:14:27.888671+00:00",
+  "updated": "2026-08-23T21:38:27.413382+00:00",
   "charts": [
     {
       "position": 1,
@@ -26,6 +26,15 @@
     },
     {
       "position": 3,
+      "artist": "Pandera",
+      "title": "In My Dreams",
+      "plays": 8,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 4,
       "artist": "Blue Crew",
       "title": "Santa Cruz",
       "plays": 7,
@@ -34,7 +43,7 @@
       "trend": "new"
     },
     {
-      "position": 4,
+      "position": 5,
       "artist": "Dejw",
       "title": "Ananas",
       "plays": 7,
@@ -43,7 +52,25 @@
       "trend": "new"
     },
     {
-      "position": 5,
+      "position": 6,
+      "artist": "Elios",
+      "title": "True Love",
+      "plays": 7,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 7,
+      "artist": "Flying Steps",
+      "title": "We Are Electric",
+      "plays": 7,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 8,
       "artist": "Fresh And Fun",
       "title": "Zur Feier Des Tages",
       "plays": 7,
@@ -52,7 +79,7 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 9,
       "artist": "Fäaschtbänkler",
       "title": "Kleines Lied",
       "plays": 7,
@@ -61,7 +88,7 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 10,
       "artist": "Gemini Rising",
       "title": "Best Case Life",
       "plays": 7,
@@ -70,7 +97,7 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 11,
       "artist": "Johanna Giese",
       "title": "Die Lichter Der Stadt",
       "plays": 7,
@@ -79,7 +106,7 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 12,
       "artist": "Joker & Sequence",
       "title": "Z Dnia Na Dzien",
       "plays": 7,
@@ -88,7 +115,7 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 13,
       "artist": "Kalvin Loves Freestyle",
       "title": "If You Want My Love",
       "plays": 7,
@@ -97,7 +124,7 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 14,
       "artist": "Lil Suzy",
       "title": "Take Me In Your Arms",
       "plays": 7,
@@ -106,16 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 12,
-      "artist": "Pandera",
-      "title": "In My Dreams",
-      "plays": 7,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 13,
+      "position": 15,
       "artist": "Skolim, Raider, Zenek Martyniuk, Akcent",
       "title": "Love",
       "plays": 7,
@@ -124,7 +142,7 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 16,
       "artist": "Sweet Connection",
       "title": "Need Your Passion",
       "plays": 7,
@@ -133,7 +151,7 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 17,
       "artist": "The Officer",
       "title": "Dont Break My Heart",
       "plays": 7,
@@ -142,7 +160,7 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 18,
       "artist": "7dance & Melody Castellari",
       "title": "The Way",
       "plays": 6,
@@ -151,27 +169,9 @@
       "trend": "new"
     },
     {
-      "position": 17,
-      "artist": "Andre",
-      "title": "Czy Kiedys Cie Znajde",
-      "plays": 6,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 18,
-      "artist": "Anthony Norris",
-      "title": "All I Want Is You",
-      "plays": 6,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
       "position": 19,
-      "artist": "Baccara",
-      "title": "My Love In China",
+      "artist": "Alix",
+      "title": "Pay The Price",
       "plays": 6,
       "previous_position": null,
       "movement": null,
@@ -179,8 +179,8 @@
     },
     {
       "position": 20,
-      "artist": "Bobi",
-      "title": "Szesnascie Lat",
+      "artist": "Andre",
+      "title": "Czy Kiedys Cie Znajde",
       "plays": 6,
       "previous_position": null,
       "movement": null,
