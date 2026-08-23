@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W34",
   "previous_week": null,
-  "updated": "2026-08-23T12:17:28.481466+00:00",
+  "updated": "2026-08-23T13:05:46.945989+00:00",
   "charts": [
     {
       "position": 1,
@@ -98,6 +98,15 @@
     },
     {
       "position": 11,
+      "artist": "Dejw",
+      "title": "Ananas",
+      "plays": 6,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 12,
       "artist": "Diadem",
       "title": "Kochanie Moje",
       "plays": 6,
@@ -106,7 +115,7 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 13,
       "artist": "DJ Jerry",
       "title": "Shanghai",
       "plays": 6,
@@ -115,7 +124,7 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 14,
       "artist": "Elios",
       "title": "True Love",
       "plays": 6,
@@ -124,7 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 15,
       "artist": "Five Of Ten",
       "title": "If You Want My Love",
       "plays": 6,
@@ -133,7 +142,7 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 16,
       "artist": "Flying Steps",
       "title": "We Are Electric",
       "plays": 6,
@@ -142,7 +151,7 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 17,
       "artist": "Frankie J",
       "title": "Body Rock",
       "plays": 6,
@@ -151,7 +160,7 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 18,
       "artist": "Free System",
       "title": "This Love Is Not Right 4U",
       "plays": 6,
@@ -160,7 +169,7 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 19,
       "artist": "Freestyle Project",
       "title": "Hey Mr. DJ",
       "plays": 6,
@@ -169,18 +178,9 @@
       "trend": "new"
     },
     {
-      "position": 19,
+      "position": 20,
       "artist": "Fresh And Fun",
       "title": "Zur Feier Des Tages",
-      "plays": 6,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Fäaschtbänkler",
-      "title": "Kleines Lied",
       "plays": 6,
       "previous_position": null,
       "movement": null,
