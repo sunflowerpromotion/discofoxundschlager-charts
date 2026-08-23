@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W34",
   "previous_week": null,
-  "updated": "2026-08-23T13:41:43.183061+00:00",
+  "updated": "2026-08-23T14:00:14.135392+00:00",
   "charts": [
     {
       "position": 1,
@@ -89,6 +89,15 @@
     },
     {
       "position": 10,
+      "artist": "Bobi",
+      "title": "Szesnascie Lat",
+      "plays": 6,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 11,
       "artist": "Bubble J.",
       "title": "Feel Da Rhythm In Your Feet",
       "plays": 6,
@@ -97,7 +106,16 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 12,
+      "artist": "Conrado",
+      "title": "Siebie Nie Zaluj",
+      "plays": 6,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 13,
       "artist": "Dejw",
       "title": "Ananas",
       "plays": 6,
@@ -106,7 +124,7 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 14,
       "artist": "Diadem",
       "title": "Kochanie Moje",
       "plays": 6,
@@ -115,7 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 15,
       "artist": "DJ Jerry",
       "title": "Shanghai",
       "plays": 6,
@@ -124,7 +142,7 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 16,
       "artist": "Elios",
       "title": "True Love",
       "plays": 6,
@@ -133,7 +151,7 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 17,
       "artist": "Five Of Ten",
       "title": "If You Want My Love",
       "plays": 6,
@@ -142,7 +160,7 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 18,
       "artist": "Flying Steps",
       "title": "We Are Electric",
       "plays": 6,
@@ -151,7 +169,7 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 19,
       "artist": "Frankie J",
       "title": "Body Rock",
       "plays": 6,
@@ -160,27 +178,9 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 20,
       "artist": "Free System",
       "title": "This Love Is Not Right 4U",
-      "plays": 6,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Freestyle Project",
-      "title": "Hey Mr. DJ",
-      "plays": 6,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Fresh And Fun",
-      "title": "Zur Feier Des Tages",
       "plays": 6,
       "previous_position": null,
       "movement": null,
