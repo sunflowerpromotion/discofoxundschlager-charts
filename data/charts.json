@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W35",
   "previous_week": "2026-W34",
-  "updated": "2026-08-23T22:59:00.119573+00:00",
+  "updated": "2026-08-23T23:27:17.238367+00:00",
   "charts": [
     {
       "position": 1,
@@ -17,83 +17,155 @@
     },
     {
       "position": 2,
-      "artist": "Bubble J.",
-      "title": "Feel Da Rhythm In Your Feet",
+      "artist": "Body Base",
+      "title": "Crying In The Dark",
       "plays": 1,
-      "previous_position": 54,
-      "movement": 52,
+      "previous_position": 61,
+      "movement": 59,
       "trend": "up"
     },
     {
       "position": 3,
-      "artist": "Five Of Ten",
-      "title": "If You Want My Love",
+      "artist": "Bubble J.",
+      "title": "Feel Da Rhythm In Your Feet",
       "plays": 1,
-      "previous_position": 51,
-      "movement": 48,
+      "previous_position": 54,
+      "movement": 51,
       "trend": "up"
     },
     {
       "position": 4,
-      "artist": "Freestyle Project",
-      "title": "Get On Da Floor",
+      "artist": "First Base",
+      "title": "Follow Me",
       "plays": 1,
-      "previous_position": 185,
-      "movement": 181,
+      "previous_position": 60,
+      "movement": 56,
       "trend": "up"
     },
     {
       "position": 5,
-      "artist": "Lil Suzy",
-      "title": "Take Me In Your Arms",
+      "artist": "Five Of Ten",
+      "title": "If You Want My Love",
       "plays": 1,
-      "previous_position": 12,
-      "movement": 7,
+      "previous_position": 51,
+      "movement": 46,
       "trend": "up"
     },
     {
       "position": 6,
-      "artist": "Pandera",
-      "title": "Celebrate Da Summertime-Mod",
+      "artist": "Free System",
+      "title": "This Love Is Not Right 4U",
       "plays": 1,
-      "previous_position": 162,
-      "movement": 156,
+      "previous_position": 44,
+      "movement": 38,
       "trend": "up"
     },
     {
       "position": 7,
-      "artist": "Pandera",
-      "title": "Pump Da Beat",
+      "artist": "Freestyle Project",
+      "title": "Get On Da Floor",
       "plays": 1,
-      "previous_position": 159,
-      "movement": 152,
+      "previous_position": 185,
+      "movement": 178,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "Science Club",
-      "title": "Depression",
+      "artist": "Irene",
+      "title": "Real Love",
       "plays": 1,
-      "previous_position": 109,
-      "movement": 101,
+      "previous_position": 108,
+      "movement": 100,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "T.I.M. (The Invisible Man)",
-      "title": "Baby I Want You",
+      "artist": "Lil Suzy",
+      "title": "Take Me In Your Arms",
       "plays": 1,
-      "previous_position": 161,
-      "movement": 152,
+      "previous_position": 12,
+      "movement": 3,
       "trend": "up"
     },
     {
       "position": 10,
+      "artist": "Pandera",
+      "title": "Celebrate Da Summertime-Mod",
+      "plays": 1,
+      "previous_position": 162,
+      "movement": 152,
+      "trend": "up"
+    },
+    {
+      "position": 11,
+      "artist": "Pandera",
+      "title": "Pump Da Beat",
+      "plays": 1,
+      "previous_position": 159,
+      "movement": 148,
+      "trend": "up"
+    },
+    {
+      "position": 12,
+      "artist": "Saint",
+      "title": "Someone",
+      "plays": 1,
+      "previous_position": 58,
+      "movement": 46,
+      "trend": "up"
+    },
+    {
+      "position": 13,
+      "artist": "Science Club",
+      "title": "Depression",
+      "plays": 1,
+      "previous_position": 109,
+      "movement": 96,
+      "trend": "up"
+    },
+    {
+      "position": 14,
+      "artist": "Split Mirrors",
+      "title": "Voices",
+      "plays": 1,
+      "previous_position": 55,
+      "movement": 41,
+      "trend": "up"
+    },
+    {
+      "position": 15,
+      "artist": "T.I.M. (The Invisible Man)",
+      "title": "Baby I Want You",
+      "plays": 1,
+      "previous_position": 161,
+      "movement": 146,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "The Officer",
+      "title": "Dont Break My Heart",
+      "plays": 1,
+      "previous_position": 11,
+      "movement": -5,
+      "trend": "down"
+    },
+    {
+      "position": 17,
+      "artist": "The Officer",
+      "title": "La Musica",
+      "plays": 1,
+      "previous_position": 158,
+      "movement": 141,
+      "trend": "up"
+    },
+    {
+      "position": 18,
       "artist": "Zweety",
       "title": "Rumpshaka",
       "plays": 1,
       "previous_position": 113,
-      "movement": 103,
+      "movement": 95,
       "trend": "up"
     }
   ]
