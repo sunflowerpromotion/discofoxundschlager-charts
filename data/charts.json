@@ -4,13 +4,13 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W34",
   "previous_week": null,
-  "updated": "2026-08-23T15:38:04.102763+00:00",
+  "updated": "2026-08-23T15:56:25.051532+00:00",
   "charts": [
     {
       "position": 1,
       "artist": "GórOlka",
       "title": "OPA",
-      "plays": 8,
+      "plays": 9,
       "previous_position": null,
       "movement": null,
       "trend": "new"
@@ -98,6 +98,15 @@
     },
     {
       "position": 11,
+      "artist": "Andre",
+      "title": "Czy Kiedys Cie Znajde",
+      "plays": 6,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 12,
       "artist": "Baccara",
       "title": "My Love In China",
       "plays": 6,
@@ -106,7 +115,7 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 13,
       "artist": "Bobi",
       "title": "Szesnascie Lat",
       "plays": 6,
@@ -115,7 +124,7 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 14,
       "artist": "BOYS & WEEKEND",
       "title": "Muzykę W Duszy Mamy",
       "plays": 6,
@@ -124,7 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 15,
       "artist": "Bubble J.",
       "title": "Feel Da Rhythm In Your Feet",
       "plays": 6,
@@ -133,7 +142,16 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 16,
+      "artist": "Camasutra",
+      "title": "Grzeszne Mysli",
+      "plays": 6,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 17,
       "artist": "Conrado",
       "title": "Siebie Nie Zaluj",
       "plays": 6,
@@ -142,7 +160,7 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 18,
       "artist": "Damian Banasiak",
       "title": "Prowokujesz Mnie",
       "plays": 6,
@@ -151,7 +169,7 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 19,
       "artist": "Diadem",
       "title": "Kochanie Moje",
       "plays": 6,
@@ -160,27 +178,9 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 20,
       "artist": "DJ Jerry",
       "title": "Shanghai",
-      "plays": 6,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Elios",
-      "title": "True Love",
-      "plays": 6,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Five Of Ten",
-      "title": "If You Want My Love",
       "plays": 6,
       "previous_position": null,
       "movement": null,
