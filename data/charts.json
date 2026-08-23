@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W34",
   "previous_week": null,
-  "updated": "2026-08-23T00:33:18.398650+00:00",
+  "updated": "2026-08-23T02:11:34.268782+00:00",
   "charts": [
     {
       "position": 1,
@@ -44,6 +44,15 @@
     },
     {
       "position": 5,
+      "artist": "7dance & Melody Castellari",
+      "title": "The Way",
+      "plays": 6,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 6,
       "artist": "Blue Crew",
       "title": "Santa Cruz",
       "plays": 6,
@@ -52,7 +61,7 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 7,
       "artist": "Bubble J.",
       "title": "Feel Da Rhythm In Your Feet",
       "plays": 6,
@@ -61,7 +70,7 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 8,
       "artist": "Diadem",
       "title": "Kochanie Moje",
       "plays": 6,
@@ -70,7 +79,7 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 9,
       "artist": "Elios",
       "title": "True Love",
       "plays": 6,
@@ -79,7 +88,7 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 10,
       "artist": "Five Of Ten",
       "title": "If You Want My Love",
       "plays": 6,
@@ -88,7 +97,7 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 11,
       "artist": "Flying Steps",
       "title": "We Are Electric",
       "plays": 6,
@@ -97,7 +106,7 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 12,
       "artist": "Frankie J",
       "title": "Body Rock",
       "plays": 6,
@@ -106,7 +115,7 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 13,
       "artist": "Free System",
       "title": "This Love Is Not Right 4U",
       "plays": 6,
@@ -115,7 +124,7 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 14,
       "artist": "Freestyle Project",
       "title": "Hey Mr. DJ",
       "plays": 6,
@@ -124,7 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 15,
       "artist": "Fresh And Fun",
       "title": "Zur Feier Des Tages",
       "plays": 6,
@@ -133,7 +142,7 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 16,
       "artist": "Fäaschtbänkler",
       "title": "Kleines Lied",
       "plays": 6,
@@ -142,7 +151,7 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 17,
       "artist": "Gemini Rising",
       "title": "Best Case Life",
       "plays": 6,
@@ -151,7 +160,7 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 18,
       "artist": "Janine Frei",
       "title": "Das Ist Deine Nacht",
       "plays": 6,
@@ -160,7 +169,7 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 19,
       "artist": "Johanna Giese",
       "title": "Die Lichter Der Stadt",
       "plays": 6,
@@ -169,18 +178,9 @@
       "trend": "new"
     },
     {
-      "position": 19,
+      "position": 20,
       "artist": "Kalvin Loves Freestyle",
       "title": "If You Want My Love",
-      "plays": 6,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Operator",
-      "title": "Emergency",
       "plays": 6,
       "previous_position": null,
       "movement": null,
