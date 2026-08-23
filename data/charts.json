@@ -4,10 +4,19 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W34",
   "previous_week": null,
-  "updated": "2026-08-23T04:04:27.549269+00:00",
+  "updated": "2026-08-23T04:48:28.352968+00:00",
   "charts": [
     {
       "position": 1,
+      "artist": "Gemini Rising",
+      "title": "Best Case Life",
+      "plays": 7,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 2,
       "artist": "GórOlka",
       "title": "OPA",
       "plays": 7,
@@ -16,7 +25,7 @@
       "trend": "new"
     },
     {
-      "position": 2,
+      "position": 3,
       "artist": "Johnny O.",
       "title": "Fantasy Girl",
       "plays": 7,
@@ -25,7 +34,7 @@
       "trend": "new"
     },
     {
-      "position": 3,
+      "position": 4,
       "artist": "Lil Suzy",
       "title": "Take Me In Your Arms",
       "plays": 7,
@@ -34,7 +43,7 @@
       "trend": "new"
     },
     {
-      "position": 4,
+      "position": 5,
       "artist": "Pandera",
       "title": "In My Dreams",
       "plays": 7,
@@ -43,7 +52,7 @@
       "trend": "new"
     },
     {
-      "position": 5,
+      "position": 6,
       "artist": "7dance & Melody Castellari",
       "title": "The Way",
       "plays": 6,
@@ -52,7 +61,7 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 7,
       "artist": "Blue Crew",
       "title": "Santa Cruz",
       "plays": 6,
@@ -61,7 +70,7 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 8,
       "artist": "Bubble J.",
       "title": "Feel Da Rhythm In Your Feet",
       "plays": 6,
@@ -70,7 +79,7 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 9,
       "artist": "Diadem",
       "title": "Kochanie Moje",
       "plays": 6,
@@ -79,7 +88,7 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 10,
       "artist": "Elios",
       "title": "True Love",
       "plays": 6,
@@ -88,7 +97,7 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 11,
       "artist": "Five Of Ten",
       "title": "If You Want My Love",
       "plays": 6,
@@ -97,7 +106,7 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 12,
       "artist": "Flying Steps",
       "title": "We Are Electric",
       "plays": 6,
@@ -106,7 +115,7 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 13,
       "artist": "Frankie J",
       "title": "Body Rock",
       "plays": 6,
@@ -115,7 +124,7 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 14,
       "artist": "Free System",
       "title": "This Love Is Not Right 4U",
       "plays": 6,
@@ -124,7 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 15,
       "artist": "Freestyle Project",
       "title": "Hey Mr. DJ",
       "plays": 6,
@@ -133,7 +142,7 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 16,
       "artist": "Fresh And Fun",
       "title": "Zur Feier Des Tages",
       "plays": 6,
@@ -142,18 +151,9 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 17,
       "artist": "Fäaschtbänkler",
       "title": "Kleines Lied",
-      "plays": 6,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 17,
-      "artist": "Gemini Rising",
-      "title": "Best Case Life",
       "plays": 6,
       "previous_position": null,
       "movement": null,
