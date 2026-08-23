@@ -4,42 +4,96 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W35",
   "previous_week": "2026-W34",
-  "updated": "2026-08-23T22:42:42.257607+00:00",
+  "updated": "2026-08-23T22:59:00.119573+00:00",
   "charts": [
     {
       "position": 1,
-      "artist": "Bubble J.",
-      "title": "Feel Da Rhythm In Your Feet",
+      "artist": "Anthony Norris",
+      "title": "All I Want Is You",
       "plays": 1,
-      "previous_position": 54,
-      "movement": 53,
+      "previous_position": 48,
+      "movement": 47,
       "trend": "up"
     },
     {
       "position": 2,
-      "artist": "Five Of Ten",
-      "title": "If You Want My Love",
+      "artist": "Bubble J.",
+      "title": "Feel Da Rhythm In Your Feet",
       "plays": 1,
-      "previous_position": 51,
-      "movement": 49,
+      "previous_position": 54,
+      "movement": 52,
       "trend": "up"
     },
     {
       "position": 3,
-      "artist": "Freestyle Project",
-      "title": "Get On Da Floor",
+      "artist": "Five Of Ten",
+      "title": "If You Want My Love",
       "plays": 1,
-      "previous_position": 185,
-      "movement": 182,
+      "previous_position": 51,
+      "movement": 48,
       "trend": "up"
     },
     {
       "position": 4,
+      "artist": "Freestyle Project",
+      "title": "Get On Da Floor",
+      "plays": 1,
+      "previous_position": 185,
+      "movement": 181,
+      "trend": "up"
+    },
+    {
+      "position": 5,
+      "artist": "Lil Suzy",
+      "title": "Take Me In Your Arms",
+      "plays": 1,
+      "previous_position": 12,
+      "movement": 7,
+      "trend": "up"
+    },
+    {
+      "position": 6,
+      "artist": "Pandera",
+      "title": "Celebrate Da Summertime-Mod",
+      "plays": 1,
+      "previous_position": 162,
+      "movement": 156,
+      "trend": "up"
+    },
+    {
+      "position": 7,
+      "artist": "Pandera",
+      "title": "Pump Da Beat",
+      "plays": 1,
+      "previous_position": 159,
+      "movement": 152,
+      "trend": "up"
+    },
+    {
+      "position": 8,
+      "artist": "Science Club",
+      "title": "Depression",
+      "plays": 1,
+      "previous_position": 109,
+      "movement": 101,
+      "trend": "up"
+    },
+    {
+      "position": 9,
       "artist": "T.I.M. (The Invisible Man)",
       "title": "Baby I Want You",
       "plays": 1,
       "previous_position": 161,
-      "movement": 157,
+      "movement": 152,
+      "trend": "up"
+    },
+    {
+      "position": 10,
+      "artist": "Zweety",
+      "title": "Rumpshaka",
+      "plays": 1,
+      "previous_position": 113,
+      "movement": 103,
       "trend": "up"
     }
   ]
