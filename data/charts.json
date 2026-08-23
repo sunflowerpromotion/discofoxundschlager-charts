@@ -4,15 +4,42 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W35",
   "previous_week": "2026-W34",
-  "updated": "2026-08-23T22:18:40.005138+00:00",
+  "updated": "2026-08-23T22:42:42.257607+00:00",
   "charts": [
     {
       "position": 1,
+      "artist": "Bubble J.",
+      "title": "Feel Da Rhythm In Your Feet",
+      "plays": 1,
+      "previous_position": 54,
+      "movement": 53,
+      "trend": "up"
+    },
+    {
+      "position": 2,
+      "artist": "Five Of Ten",
+      "title": "If You Want My Love",
+      "plays": 1,
+      "previous_position": 51,
+      "movement": 49,
+      "trend": "up"
+    },
+    {
+      "position": 3,
+      "artist": "Freestyle Project",
+      "title": "Get On Da Floor",
+      "plays": 1,
+      "previous_position": 185,
+      "movement": 182,
+      "trend": "up"
+    },
+    {
+      "position": 4,
       "artist": "T.I.M. (The Invisible Man)",
       "title": "Baby I Want You",
       "plays": 1,
       "previous_position": 161,
-      "movement": 160,
+      "movement": 157,
       "trend": "up"
     }
   ]
