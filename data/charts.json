@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W34",
   "previous_week": null,
-  "updated": "2026-08-23T14:31:28.580466+00:00",
+  "updated": "2026-08-23T14:53:21.871623+00:00",
   "charts": [
     {
       "position": 1,
@@ -17,6 +17,15 @@
     },
     {
       "position": 2,
+      "artist": "Dejw",
+      "title": "Ananas",
+      "plays": 7,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 3,
       "artist": "Gemini Rising",
       "title": "Best Case Life",
       "plays": 7,
@@ -25,7 +34,7 @@
       "trend": "new"
     },
     {
-      "position": 3,
+      "position": 4,
       "artist": "GórOlka",
       "title": "OPA",
       "plays": 7,
@@ -34,7 +43,7 @@
       "trend": "new"
     },
     {
-      "position": 4,
+      "position": 5,
       "artist": "Johnny O.",
       "title": "Fantasy Girl",
       "plays": 7,
@@ -43,7 +52,7 @@
       "trend": "new"
     },
     {
-      "position": 5,
+      "position": 6,
       "artist": "Lil Suzy",
       "title": "Take Me In Your Arms",
       "plays": 7,
@@ -52,7 +61,7 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 7,
       "artist": "Pandera",
       "title": "In My Dreams",
       "plays": 7,
@@ -61,7 +70,16 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 8,
+      "artist": "Skolim, Raider, Zenek Martyniuk, Akcent",
+      "title": "Love",
+      "plays": 7,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 9,
       "artist": "Sweet Connection",
       "title": "Need Your Passion",
       "plays": 7,
@@ -70,7 +88,7 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 10,
       "artist": "7dance & Melody Castellari",
       "title": "The Way",
       "plays": 6,
@@ -79,7 +97,7 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 11,
       "artist": "Baccara",
       "title": "My Love In China",
       "plays": 6,
@@ -88,7 +106,7 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 12,
       "artist": "Bobi",
       "title": "Szesnascie Lat",
       "plays": 6,
@@ -97,7 +115,16 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 13,
+      "artist": "BOYS & WEEKEND",
+      "title": "Muzykę W Duszy Mamy",
+      "plays": 6,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 14,
       "artist": "Bubble J.",
       "title": "Feel Da Rhythm In Your Feet",
       "plays": 6,
@@ -106,7 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 15,
       "artist": "Conrado",
       "title": "Siebie Nie Zaluj",
       "plays": 6,
@@ -115,16 +142,16 @@
       "trend": "new"
     },
     {
-      "position": 13,
-      "artist": "Dejw",
-      "title": "Ananas",
+      "position": 16,
+      "artist": "Damian Banasiak",
+      "title": "Prowokujesz Mnie",
       "plays": 6,
       "previous_position": null,
       "movement": null,
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 17,
       "artist": "Diadem",
       "title": "Kochanie Moje",
       "plays": 6,
@@ -133,7 +160,7 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 18,
       "artist": "DJ Jerry",
       "title": "Shanghai",
       "plays": 6,
@@ -142,7 +169,7 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 19,
       "artist": "Elios",
       "title": "True Love",
       "plays": 6,
@@ -151,36 +178,9 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 20,
       "artist": "Five Of Ten",
       "title": "If You Want My Love",
-      "plays": 6,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 18,
-      "artist": "Flying Steps",
-      "title": "We Are Electric",
-      "plays": 6,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Frankie J",
-      "title": "Body Rock",
-      "plays": 6,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Free System",
-      "title": "This Love Is Not Right 4U",
       "plays": 6,
       "previous_position": null,
       "movement": null,
