@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W35",
   "previous_week": "2026-W34",
-  "updated": "2026-08-24T08:59:22.358108+00:00",
+  "updated": "2026-08-24T09:55:49.716263+00:00",
   "charts": [
     {
       "position": 1,
@@ -17,6 +17,15 @@
     },
     {
       "position": 2,
+      "artist": "Captain Apollo",
+      "title": "Behind The Clouds",
+      "plays": 2,
+      "previous_position": 270,
+      "movement": 268,
+      "trend": "up"
+    },
+    {
+      "position": 3,
       "artist": "Claude O'Brian",
       "title": "Rebel Rebel",
       "plays": 2,
@@ -25,106 +34,115 @@
       "trend": "new"
     },
     {
-      "position": 3,
+      "position": 4,
       "artist": "G.G. Near",
       "title": "Living In A Rom",
       "plays": 2,
       "previous_position": 172,
-      "movement": 169,
-      "trend": "up"
-    },
-    {
-      "position": 4,
-      "artist": "J.D. Jaber",
-      "title": "Don't Wake Me Up",
-      "plays": 2,
-      "previous_position": 275,
-      "movement": 271,
+      "movement": 168,
       "trend": "up"
     },
     {
       "position": 5,
-      "artist": "Lee Young",
-      "title": "Napoleon",
+      "artist": "Gemini Rising",
+      "title": "Best Case Life",
       "plays": 2,
-      "previous_position": 268,
-      "movement": 263,
+      "previous_position": 16,
+      "movement": 11,
       "trend": "up"
     },
     {
       "position": 6,
-      "artist": "Miko Mission",
-      "title": "Toc Toc Toc",
+      "artist": "J.D. Jaber",
+      "title": "Don't Wake Me Up",
       "plays": 2,
-      "previous_position": 188,
-      "movement": 182,
+      "previous_position": 275,
+      "movement": 269,
       "trend": "up"
     },
     {
       "position": 7,
-      "artist": "Talking Blue",
-      "title": "Summer In Your Eyes",
+      "artist": "Lee Young",
+      "title": "Napoleon",
       "plays": 2,
-      "previous_position": 121,
-      "movement": 114,
+      "previous_position": 268,
+      "movement": 261,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "7dance & Melody Castellari",
-      "title": "Fly",
-      "plays": 1,
-      "previous_position": 240,
-      "movement": 232,
+      "artist": "Miko Mission",
+      "title": "Toc Toc Toc",
+      "plays": 2,
+      "previous_position": 188,
+      "movement": 180,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "Alan  Brando",
-      "title": "Save Me",
-      "plays": 1,
-      "previous_position": 126,
-      "movement": 117,
+      "artist": "Talking Blue",
+      "title": "Summer In Your Eyes",
+      "plays": 2,
+      "previous_position": 121,
+      "movement": 112,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "Alter Ego",
-      "title": "Dance If You Cannot Dance",
+      "artist": "7dance & Melody Castellari",
+      "title": "Fly",
       "plays": 1,
-      "previous_position": 217,
-      "movement": 207,
+      "previous_position": 240,
+      "movement": 230,
       "trend": "up"
     },
     {
       "position": 11,
-      "artist": "Anthony Norris",
-      "title": "All I Want Is You",
+      "artist": "Alan  Brando",
+      "title": "Save Me",
       "plays": 1,
-      "previous_position": 48,
-      "movement": 37,
+      "previous_position": 126,
+      "movement": 115,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Avenue",
-      "title": "Story Of Love",
+      "artist": "Alter Ego",
+      "title": "Dance If You Cannot Dance",
       "plays": 1,
-      "previous_position": 246,
-      "movement": 234,
+      "previous_position": 217,
+      "movement": 205,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "Baccara",
-      "title": "My Love In China",
+      "artist": "Anthony Norris",
+      "title": "All I Want Is You",
       "plays": 1,
-      "previous_position": 64,
-      "movement": 51,
+      "previous_position": 48,
+      "movement": 35,
       "trend": "up"
     },
     {
       "position": 14,
+      "artist": "Avenue",
+      "title": "Story Of Love",
+      "plays": 1,
+      "previous_position": 246,
+      "movement": 232,
+      "trend": "up"
+    },
+    {
+      "position": 15,
+      "artist": "Baccara",
+      "title": "My Love In China",
+      "plays": 1,
+      "previous_position": 64,
+      "movement": 49,
+      "trend": "up"
+    },
+    {
+      "position": 16,
       "artist": "BARTEE",
       "title": "No More Broken Hearts",
       "plays": 1,
@@ -133,57 +151,39 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 17,
       "artist": "Basic Element",
       "title": "Leave It Behind",
       "plays": 1,
       "previous_position": 272,
-      "movement": 257,
+      "movement": 255,
       "trend": "up"
     },
     {
-      "position": 16,
+      "position": 18,
       "artist": "Blue Beat",
       "title": "Everybody Look At Me",
       "plays": 1,
       "previous_position": 238,
-      "movement": 222,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Blue Crew",
-      "title": "Santa Cruz",
-      "plays": 1,
-      "previous_position": 15,
-      "movement": -2,
-      "trend": "down"
-    },
-    {
-      "position": 18,
-      "artist": "Blue Talking",
-      "title": "Love Me",
-      "plays": 1,
-      "previous_position": 173,
-      "movement": 155,
+      "movement": 220,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Body Base",
-      "title": "Crying In The Dark",
+      "artist": "Blue Crew",
+      "title": "Santa Cruz",
       "plays": 1,
-      "previous_position": 61,
-      "movement": 42,
-      "trend": "up"
+      "previous_position": 15,
+      "movement": -4,
+      "trend": "down"
     },
     {
       "position": 20,
-      "artist": "Boris Zhivago",
-      "title": "Memories",
+      "artist": "Blue Talking",
+      "title": "Love Me",
       "plays": 1,
-      "previous_position": 262,
-      "movement": 242,
+      "previous_position": 173,
+      "movement": 153,
       "trend": "up"
     }
   ]
