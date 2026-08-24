@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W35",
   "previous_week": "2026-W34",
-  "updated": "2026-08-24T16:03:32.080835+00:00",
+  "updated": "2026-08-24T16:50:47.763798+00:00",
   "charts": [
     {
       "position": 1,
@@ -161,29 +161,29 @@
     },
     {
       "position": 18,
-      "artist": "Talking Blue",
-      "title": "Summer In Your Eyes",
+      "artist": "Spontan",
+      "title": "Tylko Tobie",
       "plays": 2,
-      "previous_position": 121,
-      "movement": 103,
+      "previous_position": 133,
+      "movement": 115,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Zajefajni",
-      "title": "Cos Ci Dam",
+      "artist": "Talking Blue",
+      "title": "Summer In Your Eyes",
       "plays": 2,
-      "previous_position": 135,
-      "movement": 116,
+      "previous_position": 121,
+      "movement": 102,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "7dance & Melody Castellari",
-      "title": "Fly",
-      "plays": 1,
-      "previous_position": 240,
-      "movement": 220,
+      "artist": "Zajefajni",
+      "title": "Cos Ci Dam",
+      "plays": 2,
+      "previous_position": 135,
+      "movement": 115,
       "trend": "up"
     }
   ]
