@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W35",
   "previous_week": "2026-W34",
-  "updated": "2026-08-24T13:06:13.976790+00:00",
+  "updated": "2026-08-24T13:58:53.815440+00:00",
   "charts": [
     {
       "position": 1,
@@ -125,65 +125,65 @@
     },
     {
       "position": 14,
-      "artist": "Alan  Brando",
-      "title": "Save Me",
+      "artist": "After Party",
+      "title": "Moja Wyjatkowa",
       "plays": 1,
-      "previous_position": 126,
-      "movement": 112,
+      "previous_position": 193,
+      "movement": 179,
       "trend": "up"
     },
     {
       "position": 15,
-      "artist": "Alfa Boys",
-      "title": "Skarbie Mój",
+      "artist": "Alan  Brando",
+      "title": "Save Me",
       "plays": 1,
-      "previous_position": 192,
-      "movement": 177,
+      "previous_position": 126,
+      "movement": 111,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "Alter Ego",
-      "title": "Dance If You Cannot Dance",
+      "artist": "Alfa Boys",
+      "title": "Skarbie Mój",
       "plays": 1,
-      "previous_position": 217,
-      "movement": 201,
+      "previous_position": 192,
+      "movement": 176,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "Andre",
-      "title": "Dama Zegna Pana",
+      "artist": "Alter Ego",
+      "title": "Dance If You Cannot Dance",
       "plays": 1,
-      "previous_position": 138,
-      "movement": 121,
+      "previous_position": 217,
+      "movement": 200,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Anthony Norris",
-      "title": "All I Want Is You",
+      "artist": "Andre",
+      "title": "Dama Zegna Pana",
       "plays": 1,
-      "previous_position": 48,
-      "movement": 30,
+      "previous_position": 138,
+      "movement": 120,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Avenue",
-      "title": "Story Of Love",
+      "artist": "Anthony Norris",
+      "title": "All I Want Is You",
       "plays": 1,
-      "previous_position": 246,
-      "movement": 227,
+      "previous_position": 48,
+      "movement": 29,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Baccara",
-      "title": "My Love In China",
+      "artist": "Avenue",
+      "title": "Story Of Love",
       "plays": 1,
-      "previous_position": 64,
-      "movement": 44,
+      "previous_position": 246,
+      "movement": 226,
       "trend": "up"
     }
   ]
