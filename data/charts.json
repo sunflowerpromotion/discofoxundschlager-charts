@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W35",
   "previous_week": "2026-W34",
-  "updated": "2026-08-24T05:21:04.915351+00:00",
+  "updated": "2026-08-24T05:58:28.905667+00:00",
   "charts": [
     {
       "position": 1,
@@ -44,6 +44,15 @@
     },
     {
       "position": 5,
+      "artist": "Baccara",
+      "title": "My Love In China",
+      "plays": 1,
+      "previous_position": 64,
+      "movement": 59,
+      "trend": "up"
+    },
+    {
+      "position": 6,
       "artist": "BARTEE",
       "title": "No More Broken Hearts",
       "plays": 1,
@@ -52,52 +61,70 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 7,
       "artist": "Basic Element",
       "title": "Leave It Behind",
       "plays": 1,
       "previous_position": 272,
-      "movement": 266,
-      "trend": "up"
-    },
-    {
-      "position": 7,
-      "artist": "Blue Beat",
-      "title": "Everybody Look At Me",
-      "plays": 1,
-      "previous_position": 238,
-      "movement": 231,
+      "movement": 265,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "Body Base",
-      "title": "Crying In The Dark",
+      "artist": "Blue Beat",
+      "title": "Everybody Look At Me",
       "plays": 1,
-      "previous_position": 61,
-      "movement": 53,
+      "previous_position": 238,
+      "movement": 230,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "Bubble J.",
-      "title": "Feel Da Rhythm In Your Feet",
+      "artist": "Blue Crew",
+      "title": "Santa Cruz",
       "plays": 1,
-      "previous_position": 54,
-      "movement": 45,
+      "previous_position": 15,
+      "movement": 6,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "Captain Hollywood Project",
-      "title": "More And More",
+      "artist": "Body Base",
+      "title": "Crying In The Dark",
       "plays": 1,
-      "previous_position": 259,
-      "movement": 249,
+      "previous_position": 61,
+      "movement": 51,
       "trend": "up"
     },
     {
       "position": 11,
+      "artist": "Bubble J.",
+      "title": "Feel Da Rhythm In Your Feet",
+      "plays": 1,
+      "previous_position": 54,
+      "movement": 43,
+      "trend": "up"
+    },
+    {
+      "position": 12,
+      "artist": "Captain Apollo",
+      "title": "Behind The Clouds",
+      "plays": 1,
+      "previous_position": 270,
+      "movement": 258,
+      "trend": "up"
+    },
+    {
+      "position": 13,
+      "artist": "Captain Hollywood Project",
+      "title": "More And More",
+      "plays": 1,
+      "previous_position": 259,
+      "movement": 246,
+      "trend": "up"
+    },
+    {
+      "position": 14,
       "artist": "Claude O'Brian",
       "title": "Rebel Rebel",
       "plays": 1,
@@ -106,84 +133,57 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 15,
       "artist": "Culture Beat",
       "title": "Mr. Vain",
       "plays": 1,
       "previous_position": 255,
-      "movement": 243,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "D.I.P.",
-      "title": "Give Me Your Lovin'",
-      "plays": 1,
-      "previous_position": 163,
-      "movement": 150,
-      "trend": "up"
-    },
-    {
-      "position": 14,
-      "artist": "Digitalo",
-      "title": "Skate",
-      "plays": 1,
-      "previous_position": 274,
-      "movement": 260,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "DZYRE",
-      "title": "Games Of Love",
-      "plays": 1,
-      "previous_position": 106,
-      "movement": 91,
+      "movement": 240,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "Edge Of Universe",
-      "title": "Afterlife",
+      "artist": "D.I.P.",
+      "title": "Give Me Your Lovin'",
       "plays": 1,
-      "previous_position": 264,
-      "movement": 248,
+      "previous_position": 163,
+      "movement": 147,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "Elios",
-      "title": "True Love",
+      "artist": "Digitalo",
+      "title": "Skate",
       "plays": 1,
-      "previous_position": 14,
-      "movement": -3,
-      "trend": "down"
+      "previous_position": 274,
+      "movement": 257,
+      "trend": "up"
     },
     {
       "position": 18,
-      "artist": "First Base",
-      "title": "Follow Me",
+      "artist": "DZYRE",
+      "title": "Games Of Love",
       "plays": 1,
-      "previous_position": 60,
-      "movement": 42,
+      "previous_position": 106,
+      "movement": 88,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Five Of Ten",
-      "title": "If You Want My Love",
+      "artist": "Edge Of Universe",
+      "title": "Afterlife",
       "plays": 1,
-      "previous_position": 51,
-      "movement": 32,
+      "previous_position": 264,
+      "movement": 245,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Flying Steps",
-      "title": "We Are Electric",
+      "artist": "Elios",
+      "title": "True Love",
       "plays": 1,
-      "previous_position": 10,
-      "movement": -10,
+      "previous_position": 14,
+      "movement": -6,
       "trend": "down"
     }
   ]
