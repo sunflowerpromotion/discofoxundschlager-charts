@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W35",
   "previous_week": "2026-W34",
-  "updated": "2026-08-24T11:04:57.772996+00:00",
+  "updated": "2026-08-24T11:39:19.161118+00:00",
   "charts": [
     {
       "position": 1,
@@ -53,96 +53,105 @@
     },
     {
       "position": 6,
-      "artist": "J.D. Jaber",
-      "title": "Don't Wake Me Up",
+      "artist": "Italo Disco Is Back",
+      "title": "Ausgabe 21 - Teil 1",
       "plays": 2,
-      "previous_position": 275,
-      "movement": 269,
+      "previous_position": 67,
+      "movement": 61,
       "trend": "up"
     },
     {
       "position": 7,
-      "artist": "Lee Young",
-      "title": "Napoleon",
+      "artist": "J.D. Jaber",
+      "title": "Don't Wake Me Up",
       "plays": 2,
-      "previous_position": 268,
-      "movement": 261,
+      "previous_position": 275,
+      "movement": 268,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "Miko Mission",
-      "title": "Toc Toc Toc",
+      "artist": "Lee Young",
+      "title": "Napoleon",
       "plays": 2,
-      "previous_position": 188,
-      "movement": 180,
+      "previous_position": 268,
+      "movement": 260,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "Talking Blue",
-      "title": "Summer In Your Eyes",
+      "artist": "Miko Mission",
+      "title": "Toc Toc Toc",
       "plays": 2,
-      "previous_position": 121,
-      "movement": 112,
+      "previous_position": 188,
+      "movement": 179,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "7dance & Melody Castellari",
-      "title": "Fly",
-      "plays": 1,
-      "previous_position": 240,
-      "movement": 230,
+      "artist": "Talking Blue",
+      "title": "Summer In Your Eyes",
+      "plays": 2,
+      "previous_position": 121,
+      "movement": 111,
       "trend": "up"
     },
     {
       "position": 11,
-      "artist": "Alan  Brando",
-      "title": "Save Me",
+      "artist": "7dance & Melody Castellari",
+      "title": "Fly",
       "plays": 1,
-      "previous_position": 126,
-      "movement": 115,
+      "previous_position": 240,
+      "movement": 229,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Alter Ego",
-      "title": "Dance If You Cannot Dance",
+      "artist": "Alan  Brando",
+      "title": "Save Me",
       "plays": 1,
-      "previous_position": 217,
-      "movement": 205,
+      "previous_position": 126,
+      "movement": 114,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "Anthony Norris",
-      "title": "All I Want Is You",
+      "artist": "Alter Ego",
+      "title": "Dance If You Cannot Dance",
       "plays": 1,
-      "previous_position": 48,
-      "movement": 35,
+      "previous_position": 217,
+      "movement": 204,
       "trend": "up"
     },
     {
       "position": 14,
-      "artist": "Avenue",
-      "title": "Story Of Love",
+      "artist": "Anthony Norris",
+      "title": "All I Want Is You",
       "plays": 1,
-      "previous_position": 246,
-      "movement": 232,
+      "previous_position": 48,
+      "movement": 34,
       "trend": "up"
     },
     {
       "position": 15,
-      "artist": "Baccara",
-      "title": "My Love In China",
+      "artist": "Avenue",
+      "title": "Story Of Love",
       "plays": 1,
-      "previous_position": 64,
-      "movement": 49,
+      "previous_position": 246,
+      "movement": 231,
       "trend": "up"
     },
     {
       "position": 16,
+      "artist": "Baccara",
+      "title": "My Love In China",
+      "plays": 1,
+      "previous_position": 64,
+      "movement": 48,
+      "trend": "up"
+    },
+    {
+      "position": 17,
       "artist": "BARTEE",
       "title": "No More Broken Hearts",
       "plays": 1,
@@ -151,40 +160,31 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 18,
       "artist": "Basic Element",
       "title": "Leave It Behind",
       "plays": 1,
       "previous_position": 272,
-      "movement": 255,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Blue Beat",
-      "title": "Everybody Look At Me",
-      "plays": 1,
-      "previous_position": 238,
-      "movement": 220,
+      "movement": 254,
       "trend": "up"
     },
     {
       "position": 19,
+      "artist": "Blue Beat",
+      "title": "Everybody Look At Me",
+      "plays": 1,
+      "previous_position": 238,
+      "movement": 219,
+      "trend": "up"
+    },
+    {
+      "position": 20,
       "artist": "Blue Crew",
       "title": "Santa Cruz",
       "plays": 1,
       "previous_position": 15,
-      "movement": -4,
+      "movement": -5,
       "trend": "down"
-    },
-    {
-      "position": 20,
-      "artist": "Blue Talking",
-      "title": "Love Me",
-      "plays": 1,
-      "previous_position": 173,
-      "movement": 153,
-      "trend": "up"
     }
   ]
 }
