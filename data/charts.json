@@ -4,186 +4,186 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W35",
   "previous_week": "2026-W34",
-  "updated": "2026-08-24T02:52:35.786927+00:00",
+  "updated": "2026-08-24T03:43:34.274838+00:00",
   "charts": [
     {
       "position": 1,
-      "artist": "Anthony Norris",
-      "title": "All I Want Is You",
+      "artist": "7dance & Melody Castellari",
+      "title": "Fly",
       "plays": 1,
-      "previous_position": 48,
-      "movement": 47,
-      "trend": "up"
-    },
-    {
-      "position": 2,
-      "artist": "Body Base",
-      "title": "Crying In The Dark",
-      "plays": 1,
-      "previous_position": 61,
-      "movement": 59,
-      "trend": "up"
-    },
-    {
-      "position": 3,
-      "artist": "Bubble J.",
-      "title": "Feel Da Rhythm In Your Feet",
-      "plays": 1,
-      "previous_position": 54,
-      "movement": 51,
-      "trend": "up"
-    },
-    {
-      "position": 4,
-      "artist": "Captain Hollywood Project",
-      "title": "More And More",
-      "plays": 1,
-      "previous_position": 259,
-      "movement": 255,
-      "trend": "up"
-    },
-    {
-      "position": 5,
-      "artist": "Culture Beat",
-      "title": "Mr. Vain",
-      "plays": 1,
-      "previous_position": 255,
-      "movement": 250,
-      "trend": "up"
-    },
-    {
-      "position": 6,
-      "artist": "D.I.P.",
-      "title": "Give Me Your Lovin'",
-      "plays": 1,
-      "previous_position": 163,
-      "movement": 157,
-      "trend": "up"
-    },
-    {
-      "position": 7,
-      "artist": "DZYRE",
-      "title": "Games Of Love",
-      "plays": 1,
-      "previous_position": 106,
-      "movement": 99,
-      "trend": "up"
-    },
-    {
-      "position": 8,
-      "artist": "Elios",
-      "title": "True Love",
-      "plays": 1,
-      "previous_position": 14,
-      "movement": 6,
-      "trend": "up"
-    },
-    {
-      "position": 9,
-      "artist": "First Base",
-      "title": "Follow Me",
-      "plays": 1,
-      "previous_position": 60,
-      "movement": 51,
-      "trend": "up"
-    },
-    {
-      "position": 10,
-      "artist": "Five Of Ten",
-      "title": "If You Want My Love",
-      "plays": 1,
-      "previous_position": 51,
-      "movement": 41,
-      "trend": "up"
-    },
-    {
-      "position": 11,
-      "artist": "Flying Steps",
-      "title": "We Are Electric",
-      "plays": 1,
-      "previous_position": 10,
-      "movement": -1,
-      "trend": "down"
-    },
-    {
-      "position": 12,
-      "artist": "Frankie J",
-      "title": "Body Rock",
-      "plays": 1,
-      "previous_position": 18,
-      "movement": 6,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "Free System",
-      "title": "This Love Is Not Right 4U",
-      "plays": 1,
-      "previous_position": 44,
-      "movement": 31,
-      "trend": "up"
-    },
-    {
-      "position": 14,
-      "artist": "Freestyle Project",
-      "title": "Get On Da Floor",
-      "plays": 1,
-      "previous_position": 185,
-      "movement": 171,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "Fun Factory",
-      "title": "Take Your Chance",
-      "plays": 1,
-      "previous_position": 265,
-      "movement": 250,
-      "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "Future Beat",
-      "title": "X-Tasy",
-      "plays": 1,
-      "previous_position": 216,
-      "movement": 200,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Ice Mc",
-      "title": "Give Me The Light",
-      "plays": 1,
-      "previous_position": 219,
-      "movement": 202,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Ice MC",
-      "title": "Think About The Way",
-      "plays": 1,
-      "previous_position": 257,
+      "previous_position": 240,
       "movement": 239,
       "trend": "up"
     },
     {
-      "position": 19,
-      "artist": "Irene",
-      "title": "Real Love",
+      "position": 2,
+      "artist": "Alter Ego",
+      "title": "Dance If You Cannot Dance",
       "plays": 1,
-      "previous_position": 108,
-      "movement": 89,
+      "previous_position": 217,
+      "movement": 215,
+      "trend": "up"
+    },
+    {
+      "position": 3,
+      "artist": "Anthony Norris",
+      "title": "All I Want Is You",
+      "plays": 1,
+      "previous_position": 48,
+      "movement": 45,
+      "trend": "up"
+    },
+    {
+      "position": 4,
+      "artist": "Blue Beat",
+      "title": "Everybody Look At Me",
+      "plays": 1,
+      "previous_position": 238,
+      "movement": 234,
+      "trend": "up"
+    },
+    {
+      "position": 5,
+      "artist": "Body Base",
+      "title": "Crying In The Dark",
+      "plays": 1,
+      "previous_position": 61,
+      "movement": 56,
+      "trend": "up"
+    },
+    {
+      "position": 6,
+      "artist": "Bubble J.",
+      "title": "Feel Da Rhythm In Your Feet",
+      "plays": 1,
+      "previous_position": 54,
+      "movement": 48,
+      "trend": "up"
+    },
+    {
+      "position": 7,
+      "artist": "Captain Hollywood Project",
+      "title": "More And More",
+      "plays": 1,
+      "previous_position": 259,
+      "movement": 252,
+      "trend": "up"
+    },
+    {
+      "position": 8,
+      "artist": "Culture Beat",
+      "title": "Mr. Vain",
+      "plays": 1,
+      "previous_position": 255,
+      "movement": 247,
+      "trend": "up"
+    },
+    {
+      "position": 9,
+      "artist": "D.I.P.",
+      "title": "Give Me Your Lovin'",
+      "plays": 1,
+      "previous_position": 163,
+      "movement": 154,
+      "trend": "up"
+    },
+    {
+      "position": 10,
+      "artist": "DZYRE",
+      "title": "Games Of Love",
+      "plays": 1,
+      "previous_position": 106,
+      "movement": 96,
+      "trend": "up"
+    },
+    {
+      "position": 11,
+      "artist": "Edge Of Universe",
+      "title": "Afterlife",
+      "plays": 1,
+      "previous_position": 264,
+      "movement": 253,
+      "trend": "up"
+    },
+    {
+      "position": 12,
+      "artist": "Elios",
+      "title": "True Love",
+      "plays": 1,
+      "previous_position": 14,
+      "movement": 2,
+      "trend": "up"
+    },
+    {
+      "position": 13,
+      "artist": "First Base",
+      "title": "Follow Me",
+      "plays": 1,
+      "previous_position": 60,
+      "movement": 47,
+      "trend": "up"
+    },
+    {
+      "position": 14,
+      "artist": "Five Of Ten",
+      "title": "If You Want My Love",
+      "plays": 1,
+      "previous_position": 51,
+      "movement": 37,
+      "trend": "up"
+    },
+    {
+      "position": 15,
+      "artist": "Flying Steps",
+      "title": "We Are Electric",
+      "plays": 1,
+      "previous_position": 10,
+      "movement": -5,
+      "trend": "down"
+    },
+    {
+      "position": 16,
+      "artist": "Frankie J",
+      "title": "Body Rock",
+      "plays": 1,
+      "previous_position": 18,
+      "movement": 2,
+      "trend": "up"
+    },
+    {
+      "position": 17,
+      "artist": "Free System",
+      "title": "This Love Is Not Right 4U",
+      "plays": 1,
+      "previous_position": 44,
+      "movement": 27,
+      "trend": "up"
+    },
+    {
+      "position": 18,
+      "artist": "Freestyle Project",
+      "title": "Get On Da Floor",
+      "plays": 1,
+      "previous_position": 185,
+      "movement": 167,
+      "trend": "up"
+    },
+    {
+      "position": 19,
+      "artist": "Fun Factory",
+      "title": "Take Your Chance",
+      "plays": 1,
+      "previous_position": 265,
+      "movement": 246,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "K. Da 'Cruz",
-      "title": "Love Is Lifting Me Higher",
+      "artist": "Future Beat",
+      "title": "X-Tasy",
       "plays": 1,
-      "previous_position": 285,
-      "movement": 265,
+      "previous_position": 216,
+      "movement": 196,
       "trend": "up"
     }
   ]
