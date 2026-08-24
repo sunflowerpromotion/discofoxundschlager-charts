@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W35",
   "previous_week": "2026-W34",
-  "updated": "2026-08-24T12:00:31.917205+00:00",
+  "updated": "2026-08-24T13:06:13.976790+00:00",
   "charts": [
     {
       "position": 1,
@@ -134,56 +134,56 @@
     },
     {
       "position": 15,
-      "artist": "Alter Ego",
-      "title": "Dance If You Cannot Dance",
+      "artist": "Alfa Boys",
+      "title": "Skarbie Mój",
       "plays": 1,
-      "previous_position": 217,
-      "movement": 202,
+      "previous_position": 192,
+      "movement": 177,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "Anthony Norris",
-      "title": "All I Want Is You",
+      "artist": "Alter Ego",
+      "title": "Dance If You Cannot Dance",
       "plays": 1,
-      "previous_position": 48,
-      "movement": 32,
+      "previous_position": 217,
+      "movement": 201,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "Avenue",
-      "title": "Story Of Love",
+      "artist": "Andre",
+      "title": "Dama Zegna Pana",
       "plays": 1,
-      "previous_position": 246,
-      "movement": 229,
+      "previous_position": 138,
+      "movement": 121,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Baccara",
-      "title": "My Love In China",
+      "artist": "Anthony Norris",
+      "title": "All I Want Is You",
       "plays": 1,
-      "previous_position": 64,
-      "movement": 46,
+      "previous_position": 48,
+      "movement": 30,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "BARTEE",
-      "title": "No More Broken Hearts",
+      "artist": "Avenue",
+      "title": "Story Of Love",
       "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 246,
+      "movement": 227,
+      "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Basic Element",
-      "title": "Leave It Behind",
+      "artist": "Baccara",
+      "title": "My Love In China",
       "plays": 1,
-      "previous_position": 272,
-      "movement": 252,
+      "previous_position": 64,
+      "movement": 44,
       "trend": "up"
     }
   ]
