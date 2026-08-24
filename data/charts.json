@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W35",
   "previous_week": "2026-W34",
-  "updated": "2026-08-23T23:46:56.247775+00:00",
+  "updated": "2026-08-24T00:00:46.838229+00:00",
   "charts": [
     {
       "position": 1,
@@ -35,155 +35,155 @@
     },
     {
       "position": 4,
-      "artist": "First Base",
-      "title": "Follow Me",
+      "artist": "DZYRE",
+      "title": "Games Of Love",
       "plays": 1,
-      "previous_position": 60,
-      "movement": 56,
+      "previous_position": 106,
+      "movement": 102,
       "trend": "up"
     },
     {
       "position": 5,
-      "artist": "Five Of Ten",
-      "title": "If You Want My Love",
+      "artist": "Elios",
+      "title": "True Love",
       "plays": 1,
-      "previous_position": 51,
-      "movement": 46,
+      "previous_position": 14,
+      "movement": 9,
       "trend": "up"
     },
     {
       "position": 6,
-      "artist": "Flying Steps",
-      "title": "We Are Electric",
+      "artist": "First Base",
+      "title": "Follow Me",
       "plays": 1,
-      "previous_position": 10,
-      "movement": 4,
+      "previous_position": 60,
+      "movement": 54,
       "trend": "up"
     },
     {
       "position": 7,
-      "artist": "Free System",
-      "title": "This Love Is Not Right 4U",
+      "artist": "Five Of Ten",
+      "title": "If You Want My Love",
       "plays": 1,
-      "previous_position": 44,
-      "movement": 37,
-      "trend": "up"
-    },
-    {
-      "position": 8,
-      "artist": "Freestyle Project",
-      "title": "Get On Da Floor",
-      "plays": 1,
-      "previous_position": 185,
-      "movement": 177,
-      "trend": "up"
-    },
-    {
-      "position": 9,
-      "artist": "Irene",
-      "title": "Real Love",
-      "plays": 1,
-      "previous_position": 108,
-      "movement": 99,
-      "trend": "up"
-    },
-    {
-      "position": 10,
-      "artist": "Lil Suzy",
-      "title": "Take Me In Your Arms",
-      "plays": 1,
-      "previous_position": 12,
-      "movement": 2,
-      "trend": "up"
-    },
-    {
-      "position": 11,
-      "artist": "Pandera",
-      "title": "Celebrate Da Summertime-Mod",
-      "plays": 1,
-      "previous_position": 162,
-      "movement": 151,
-      "trend": "up"
-    },
-    {
-      "position": 12,
-      "artist": "Pandera",
-      "title": "Pump Da Beat",
-      "plays": 1,
-      "previous_position": 159,
-      "movement": 147,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "Saint",
-      "title": "Someone",
-      "plays": 1,
-      "previous_position": 58,
-      "movement": 45,
-      "trend": "up"
-    },
-    {
-      "position": 14,
-      "artist": "Science Club",
-      "title": "Depression",
-      "plays": 1,
-      "previous_position": 109,
-      "movement": 95,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "Split Mirrors",
-      "title": "1999",
-      "plays": 1,
-      "previous_position": 59,
+      "previous_position": 51,
       "movement": 44,
       "trend": "up"
     },
     {
-      "position": 16,
-      "artist": "Split Mirrors",
-      "title": "Voices",
+      "position": 8,
+      "artist": "Flying Steps",
+      "title": "We Are Electric",
       "plays": 1,
-      "previous_position": 55,
-      "movement": 39,
+      "previous_position": 10,
+      "movement": 2,
+      "trend": "up"
+    },
+    {
+      "position": 9,
+      "artist": "Frankie J",
+      "title": "Body Rock",
+      "plays": 1,
+      "previous_position": 18,
+      "movement": 9,
+      "trend": "up"
+    },
+    {
+      "position": 10,
+      "artist": "Free System",
+      "title": "This Love Is Not Right 4U",
+      "plays": 1,
+      "previous_position": 44,
+      "movement": 34,
+      "trend": "up"
+    },
+    {
+      "position": 11,
+      "artist": "Freestyle Project",
+      "title": "Get On Da Floor",
+      "plays": 1,
+      "previous_position": 185,
+      "movement": 174,
+      "trend": "up"
+    },
+    {
+      "position": 12,
+      "artist": "Irene",
+      "title": "Real Love",
+      "plays": 1,
+      "previous_position": 108,
+      "movement": 96,
+      "trend": "up"
+    },
+    {
+      "position": 13,
+      "artist": "Lil Suzy",
+      "title": "Take Me In Your Arms",
+      "plays": 1,
+      "previous_position": 12,
+      "movement": -1,
+      "trend": "down"
+    },
+    {
+      "position": 14,
+      "artist": "N.A.D.",
+      "title": "Don't Go Away",
+      "plays": 1,
+      "previous_position": 45,
+      "movement": 31,
+      "trend": "up"
+    },
+    {
+      "position": 15,
+      "artist": "Operator",
+      "title": "Emergency",
+      "plays": 1,
+      "previous_position": 62,
+      "movement": 47,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "Pandera",
+      "title": "Celebrate Da Summertime-Mod",
+      "plays": 1,
+      "previous_position": 162,
+      "movement": 146,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "T.I.M. (The Invisible Man)",
-      "title": "Baby I Want You",
+      "artist": "Pandera",
+      "title": "Pump Da Beat",
       "plays": 1,
-      "previous_position": 161,
-      "movement": 144,
+      "previous_position": 159,
+      "movement": 142,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "The Officer",
-      "title": "Dont Break My Heart",
+      "artist": "Saint",
+      "title": "Someone",
       "plays": 1,
-      "previous_position": 11,
-      "movement": -7,
-      "trend": "down"
+      "previous_position": 58,
+      "movement": 40,
+      "trend": "up"
     },
     {
       "position": 19,
-      "artist": "The Officer",
-      "title": "La Musica",
+      "artist": "Science Club",
+      "title": "Depression",
       "plays": 1,
-      "previous_position": 158,
-      "movement": 139,
+      "previous_position": 109,
+      "movement": 90,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Zweety",
-      "title": "Rumpshaka",
+      "artist": "Smash",
+      "title": "Summer Love",
       "plays": 1,
-      "previous_position": 113,
-      "movement": 93,
+      "previous_position": 43,
+      "movement": 23,
       "trend": "up"
     }
   ]
