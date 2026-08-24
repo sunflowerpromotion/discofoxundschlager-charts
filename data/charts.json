@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W35",
   "previous_week": "2026-W34",
-  "updated": "2026-08-24T19:06:19.716165+00:00",
+  "updated": "2026-08-24T19:39:34.715274+00:00",
   "charts": [
     {
       "position": 1,
@@ -134,56 +134,56 @@
     },
     {
       "position": 15,
-      "artist": "Markus Wolfahrt",
-      "title": "Hallelujah Auf Die Liebe",
+      "artist": "LioRa",
+      "title": "Love Vibration",
       "plays": 2,
-      "previous_position": 151,
-      "movement": 136,
+      "previous_position": 231,
+      "movement": 216,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "Mejk",
-      "title": "Przez Dwa Serca",
+      "artist": "Markus Wolfahrt",
+      "title": "Hallelujah Auf Die Liebe",
       "plays": 2,
-      "previous_position": 129,
-      "movement": 113,
+      "previous_position": 151,
+      "movement": 135,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "Miko Mission",
-      "title": "Toc Toc Toc",
+      "artist": "Mejk",
+      "title": "Przez Dwa Serca",
       "plays": 2,
-      "previous_position": 188,
-      "movement": 171,
+      "previous_position": 129,
+      "movement": 112,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Mirage & Yoko",
-      "title": "Bo To Jest Milosc",
+      "artist": "Mikel Marz",
+      "title": "Wenn Du Weißt",
       "plays": 2,
-      "previous_position": 25,
-      "movement": 7,
+      "previous_position": 91,
+      "movement": 73,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Mitch Keller",
-      "title": "Das Sind Keine Tränen",
+      "artist": "Miko Mission",
+      "title": "Toc Toc Toc",
       "plays": 2,
-      "previous_position": 42,
-      "movement": 23,
+      "previous_position": 188,
+      "movement": 169,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Peter Sebastian",
-      "title": "Deine Liebe Tut Mir Weh",
+      "artist": "Mirage & Yoko",
+      "title": "Bo To Jest Milosc",
       "plays": 2,
-      "previous_position": 277,
-      "movement": 257,
+      "previous_position": 25,
+      "movement": 5,
       "trend": "up"
     }
   ]
