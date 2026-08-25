@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W35",
   "previous_week": "2026-W34",
-  "updated": "2026-08-25T18:03:59.810444+00:00",
+  "updated": "2026-08-25T18:53:17.487464+00:00",
   "charts": [
     {
       "position": 1,
@@ -98,92 +98,92 @@
     },
     {
       "position": 11,
-      "artist": "Frank Heller",
-      "title": "Total Reset",
+      "artist": "Engelherz",
+      "title": "Stille Wasser Sind Tief",
       "plays": 3,
-      "previous_position": 150,
-      "movement": 139,
+      "previous_position": 93,
+      "movement": 82,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Frank Lars",
-      "title": "Komm Und Lieb Mich",
+      "artist": "Frank Heller",
+      "title": "Total Reset",
       "plays": 3,
-      "previous_position": 98,
-      "movement": 86,
+      "previous_position": 150,
+      "movement": 138,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "Frankie J",
-      "title": "Body Rock",
+      "artist": "Frank Lars",
+      "title": "Komm Und Lieb Mich",
       "plays": 3,
-      "previous_position": 18,
-      "movement": 5,
+      "previous_position": 98,
+      "movement": 85,
       "trend": "up"
     },
     {
       "position": 14,
-      "artist": "G.G. Near",
-      "title": "Living In A Rom",
+      "artist": "Frankie J",
+      "title": "Body Rock",
       "plays": 3,
-      "previous_position": 172,
-      "movement": 158,
+      "previous_position": 18,
+      "movement": 4,
       "trend": "up"
     },
     {
       "position": 15,
-      "artist": "Gazebo",
-      "title": "Lunatic",
+      "artist": "G.G. Near",
+      "title": "Living In A Rom",
       "plays": 3,
-      "previous_position": 122,
-      "movement": 107,
+      "previous_position": 172,
+      "movement": 157,
       "trend": "up"
     },
     {
       "position": 16,
+      "artist": "Gazebo",
+      "title": "Lunatic",
+      "plays": 3,
+      "previous_position": 122,
+      "movement": 106,
+      "trend": "up"
+    },
+    {
+      "position": 17,
       "artist": "Gemini Rising",
       "title": "Best Case Life",
       "plays": 3,
       "previous_position": 16,
-      "movement": 0,
-      "trend": "same"
+      "movement": -1,
+      "trend": "down"
     },
     {
-      "position": 17,
+      "position": 18,
       "artist": "Grant Miller",
       "title": "Doctor For My Heart",
       "plays": 3,
       "previous_position": 117,
-      "movement": 100,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Irene",
-      "title": "Real Love",
-      "plays": 3,
-      "previous_position": 108,
-      "movement": 90,
+      "movement": 99,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Janine Frei",
-      "title": "Das Ist Deine Nacht",
+      "artist": "Irene",
+      "title": "Real Love",
       "plays": 3,
-      "previous_position": 39,
-      "movement": 20,
+      "previous_position": 108,
+      "movement": 89,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Jenny van Bree",
-      "title": "Wieso, Weshalb, Warum",
+      "artist": "Janine Frei",
+      "title": "Das Ist Deine Nacht",
       "plays": 3,
-      "previous_position": 154,
-      "movement": 134,
+      "previous_position": 39,
+      "movement": 19,
       "trend": "up"
     }
   ]
