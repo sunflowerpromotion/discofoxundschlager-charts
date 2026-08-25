@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W35",
   "previous_week": "2026-W34",
-  "updated": "2026-08-25T06:03:16.990455+00:00",
+  "updated": "2026-08-25T07:03:47.858250+00:00",
   "charts": [
     {
       "position": 1,
@@ -152,6 +152,15 @@
     },
     {
       "position": 17,
+      "artist": "Avenue",
+      "title": "Story Of Love",
+      "plays": 2,
+      "previous_position": 246,
+      "movement": 229,
+      "trend": "up"
+    },
+    {
+      "position": 18,
       "artist": "BARTEE",
       "title": "No More Broken Hearts",
       "plays": 2,
@@ -160,30 +169,21 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 19,
       "artist": "Basic Element",
       "title": "Leave It Behind",
       "plays": 2,
       "previous_position": 272,
-      "movement": 254,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Blue Beat",
-      "title": "Everybody Look At Me",
-      "plays": 2,
-      "previous_position": 238,
-      "movement": 219,
+      "movement": 253,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Body Base",
-      "title": "My Only Desire",
+      "artist": "Blue Beat",
+      "title": "Everybody Look At Me",
       "plays": 2,
-      "previous_position": 111,
-      "movement": 91,
+      "previous_position": 238,
+      "movement": 218,
       "trend": "up"
     }
   ]
