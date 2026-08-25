@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W35",
   "previous_week": "2026-W34",
-  "updated": "2026-08-25T11:49:40.008807+00:00",
+  "updated": "2026-08-25T12:17:59.565095+00:00",
   "charts": [
     {
       "position": 1,
@@ -143,47 +143,47 @@
     },
     {
       "position": 16,
-      "artist": "Savage",
-      "title": "Italodisco",
+      "artist": "Rainer Seidl",
+      "title": "One Night Stand",
       "plays": 3,
-      "previous_position": 278,
-      "movement": 262,
+      "previous_position": 230,
+      "movement": 214,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "Split Mirrors",
-      "title": "1999",
+      "artist": "Savage",
+      "title": "Italodisco",
       "plays": 3,
-      "previous_position": 59,
-      "movement": 42,
+      "previous_position": 278,
+      "movement": 261,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "The Officer",
-      "title": "Dont Break My Heart",
+      "artist": "Split Mirrors",
+      "title": "1999",
       "plays": 3,
-      "previous_position": 11,
-      "movement": -7,
-      "trend": "down"
+      "previous_position": 59,
+      "movement": 41,
+      "trend": "up"
     },
     {
       "position": 19,
       "artist": "The Officer",
-      "title": "La Musica",
+      "title": "Dont Break My Heart",
       "plays": 3,
-      "previous_position": 158,
-      "movement": 139,
-      "trend": "up"
+      "previous_position": 11,
+      "movement": -8,
+      "trend": "down"
     },
     {
       "position": 20,
-      "artist": "Zweety",
-      "title": "Rumpshaka",
+      "artist": "The Officer",
+      "title": "La Musica",
       "plays": 3,
-      "previous_position": 113,
-      "movement": 93,
+      "previous_position": 158,
+      "movement": 138,
       "trend": "up"
     }
   ]
