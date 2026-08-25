@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W35",
   "previous_week": "2026-W34",
-  "updated": "2026-08-25T14:08:19.406747+00:00",
+  "updated": "2026-08-25T15:02:01.276423+00:00",
   "charts": [
     {
       "position": 1,
@@ -134,56 +134,56 @@
     },
     {
       "position": 15,
-      "artist": "Miko Mission",
-      "title": "Toc Toc Toc",
+      "artist": "Mejk",
+      "title": "Przez Dwa Serca",
       "plays": 3,
-      "previous_position": 188,
-      "movement": 173,
+      "previous_position": 129,
+      "movement": 114,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "Mirage & Yoko",
-      "title": "Bo To Jest Milosc",
+      "artist": "Miko Mission",
+      "title": "Toc Toc Toc",
       "plays": 3,
-      "previous_position": 25,
-      "movement": 9,
+      "previous_position": 188,
+      "movement": 172,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "Operator",
-      "title": "Emergency",
+      "artist": "Mirage & Yoko",
+      "title": "Bo To Jest Milosc",
       "plays": 3,
-      "previous_position": 62,
-      "movement": 45,
+      "previous_position": 25,
+      "movement": 8,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Rainer Seidl",
-      "title": "One Night Stand",
+      "artist": "Operator",
+      "title": "Emergency",
       "plays": 3,
-      "previous_position": 230,
-      "movement": 212,
+      "previous_position": 62,
+      "movement": 44,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Savage",
-      "title": "Italodisco",
+      "artist": "Rainer Seidl",
+      "title": "One Night Stand",
       "plays": 3,
-      "previous_position": 278,
-      "movement": 259,
+      "previous_position": 230,
+      "movement": 211,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Split Mirrors",
-      "title": "1999",
+      "artist": "Savage",
+      "title": "Italodisco",
       "plays": 3,
-      "previous_position": 59,
-      "movement": 39,
+      "previous_position": 278,
+      "movement": 258,
       "trend": "up"
     }
   ]
