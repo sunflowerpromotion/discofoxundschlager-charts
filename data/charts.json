@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W35",
   "previous_week": "2026-W34",
-  "updated": "2026-08-25T17:05:48.289120+00:00",
+  "updated": "2026-08-25T17:41:54.903389+00:00",
   "charts": [
     {
       "position": 1,
@@ -161,29 +161,29 @@
     },
     {
       "position": 18,
-      "artist": "Lena Marie Engel",
-      "title": "Ab Jetzt Für Immer",
+      "artist": "Jenny van Bree",
+      "title": "Wieso, Weshalb, Warum",
       "plays": 3,
-      "previous_position": 40,
-      "movement": 22,
+      "previous_position": 154,
+      "movement": 136,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Mejk",
-      "title": "Przez Dwa Serca",
+      "artist": "Lena Marie Engel",
+      "title": "Ab Jetzt Für Immer",
       "plays": 3,
-      "previous_position": 129,
-      "movement": 110,
+      "previous_position": 40,
+      "movement": 21,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Mikel Marz",
-      "title": "Wenn Du Weißt",
+      "artist": "Mejk",
+      "title": "Przez Dwa Serca",
       "plays": 3,
-      "previous_position": 91,
-      "movement": 71,
+      "previous_position": 129,
+      "movement": 109,
       "trend": "up"
     }
   ]
