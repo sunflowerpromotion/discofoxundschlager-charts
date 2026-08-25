@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W35",
   "previous_week": "2026-W34",
-  "updated": "2026-08-25T00:01:51.496259+00:00",
+  "updated": "2026-08-25T01:46:17.180333+00:00",
   "charts": [
     {
       "position": 1,
@@ -161,29 +161,29 @@
     },
     {
       "position": 18,
+      "artist": "Edge Of Universe",
+      "title": "Afterlife",
+      "plays": 2,
+      "previous_position": 264,
+      "movement": 246,
+      "trend": "up"
+    },
+    {
+      "position": 19,
       "artist": "Elios",
       "title": "True Love",
       "plays": 2,
       "previous_position": 14,
-      "movement": -4,
+      "movement": -5,
       "trend": "down"
     },
     {
-      "position": 19,
+      "position": 20,
       "artist": "First Base",
       "title": "Follow Me",
       "plays": 2,
       "previous_position": 60,
-      "movement": 41,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "Five Of Ten",
-      "title": "If You Want My Love",
-      "plays": 2,
-      "previous_position": 51,
-      "movement": 31,
+      "movement": 40,
       "trend": "up"
     }
   ]
