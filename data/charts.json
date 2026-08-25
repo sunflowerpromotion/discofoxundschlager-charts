@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W35",
   "previous_week": "2026-W34",
-  "updated": "2026-08-25T11:21:01.053848+00:00",
+  "updated": "2026-08-25T11:49:40.008807+00:00",
   "charts": [
     {
       "position": 1,
@@ -116,74 +116,74 @@
     },
     {
       "position": 13,
-      "artist": "Miko Mission",
-      "title": "Toc Toc Toc",
+      "artist": "Janine Frei",
+      "title": "Das Ist Deine Nacht",
       "plays": 3,
-      "previous_position": 188,
-      "movement": 175,
+      "previous_position": 39,
+      "movement": 26,
       "trend": "up"
     },
     {
       "position": 14,
-      "artist": "Operator",
-      "title": "Emergency",
+      "artist": "Miko Mission",
+      "title": "Toc Toc Toc",
       "plays": 3,
-      "previous_position": 62,
-      "movement": 48,
+      "previous_position": 188,
+      "movement": 174,
       "trend": "up"
     },
     {
       "position": 15,
-      "artist": "Savage",
-      "title": "Italodisco",
+      "artist": "Operator",
+      "title": "Emergency",
       "plays": 3,
-      "previous_position": 278,
-      "movement": 263,
+      "previous_position": 62,
+      "movement": 47,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "Split Mirrors",
-      "title": "1999",
+      "artist": "Savage",
+      "title": "Italodisco",
       "plays": 3,
-      "previous_position": 59,
-      "movement": 43,
+      "previous_position": 278,
+      "movement": 262,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "The Officer",
-      "title": "Dont Break My Heart",
+      "artist": "Split Mirrors",
+      "title": "1999",
       "plays": 3,
-      "previous_position": 11,
-      "movement": -6,
-      "trend": "down"
+      "previous_position": 59,
+      "movement": 42,
+      "trend": "up"
     },
     {
       "position": 18,
       "artist": "The Officer",
-      "title": "La Musica",
+      "title": "Dont Break My Heart",
       "plays": 3,
-      "previous_position": 158,
-      "movement": 140,
-      "trend": "up"
+      "previous_position": 11,
+      "movement": -7,
+      "trend": "down"
     },
     {
       "position": 19,
-      "artist": "Zweety",
-      "title": "Rumpshaka",
+      "artist": "The Officer",
+      "title": "La Musica",
       "plays": 3,
-      "previous_position": 113,
-      "movement": 94,
+      "previous_position": 158,
+      "movement": 139,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "7dance & Melody Castellari",
-      "title": "Fly",
-      "plays": 2,
-      "previous_position": 240,
-      "movement": 220,
+      "artist": "Zweety",
+      "title": "Rumpshaka",
+      "plays": 3,
+      "previous_position": 113,
+      "movement": 93,
       "trend": "up"
     }
   ]
