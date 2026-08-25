@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W35",
   "previous_week": "2026-W34",
-  "updated": "2026-08-25T02:45:45.921666+00:00",
+  "updated": "2026-08-25T03:34:29.327961+00:00",
   "charts": [
     {
       "position": 1,
@@ -107,83 +107,83 @@
     },
     {
       "position": 12,
-      "artist": "Amadeus Angelus",
-      "title": "Dreams",
+      "artist": "Alter Ego",
+      "title": "Dance If You Cannot Dance",
       "plays": 2,
-      "previous_position": 269,
-      "movement": 257,
+      "previous_position": 217,
+      "movement": 205,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "Andre",
-      "title": "Dama Zegna Pana",
+      "artist": "Amadeus Angelus",
+      "title": "Dreams",
       "plays": 2,
-      "previous_position": 138,
-      "movement": 125,
+      "previous_position": 269,
+      "movement": 256,
       "trend": "up"
     },
     {
       "position": 14,
-      "artist": "Anthony Norris",
-      "title": "All I Want Is You",
+      "artist": "Andre",
+      "title": "Dama Zegna Pana",
       "plays": 2,
-      "previous_position": 48,
-      "movement": 34,
+      "previous_position": 138,
+      "movement": 124,
       "trend": "up"
     },
     {
       "position": 15,
-      "artist": "Blue Beat",
-      "title": "Everybody Look At Me",
+      "artist": "Anthony Norris",
+      "title": "All I Want Is You",
       "plays": 2,
-      "previous_position": 238,
-      "movement": 223,
+      "previous_position": 48,
+      "movement": 33,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "Body Base",
-      "title": "My Only Desire",
-      "plays": 2,
-      "previous_position": 111,
-      "movement": 95,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Bubble J.",
-      "title": "Feel Da Rhythm In Your Feet",
-      "plays": 2,
-      "previous_position": 54,
-      "movement": 37,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Captain Apollo",
-      "title": "Behind The Clouds",
-      "plays": 2,
-      "previous_position": 270,
-      "movement": 252,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Claude O'Brian",
-      "title": "Rebel Rebel",
+      "artist": "BARTEE",
+      "title": "No More Broken Hearts",
       "plays": 2,
       "previous_position": null,
       "movement": null,
       "trend": "new"
     },
     {
-      "position": 20,
-      "artist": "Edge Of Universe",
-      "title": "Afterlife",
+      "position": 17,
+      "artist": "Blue Beat",
+      "title": "Everybody Look At Me",
       "plays": 2,
-      "previous_position": 264,
-      "movement": 244,
+      "previous_position": 238,
+      "movement": 221,
+      "trend": "up"
+    },
+    {
+      "position": 18,
+      "artist": "Body Base",
+      "title": "My Only Desire",
+      "plays": 2,
+      "previous_position": 111,
+      "movement": 93,
+      "trend": "up"
+    },
+    {
+      "position": 19,
+      "artist": "Bubble J.",
+      "title": "Feel Da Rhythm In Your Feet",
+      "plays": 2,
+      "previous_position": 54,
+      "movement": 35,
+      "trend": "up"
+    },
+    {
+      "position": 20,
+      "artist": "Captain Apollo",
+      "title": "Behind The Clouds",
+      "plays": 2,
+      "previous_position": 270,
+      "movement": 250,
       "trend": "up"
     }
   ]
