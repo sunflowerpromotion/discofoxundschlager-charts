@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W35",
   "previous_week": "2026-W34",
-  "updated": "2026-08-25T13:16:16.338811+00:00",
+  "updated": "2026-08-25T14:08:19.406747+00:00",
   "charts": [
     {
       "position": 1,
@@ -26,24 +26,33 @@
     },
     {
       "position": 3,
-      "artist": "Body Base",
-      "title": "Crying In The Dark",
+      "artist": "Alfa Boys",
+      "title": "Skarbie Mój",
       "plays": 3,
-      "previous_position": 61,
-      "movement": 58,
+      "previous_position": 192,
+      "movement": 189,
       "trend": "up"
     },
     {
       "position": 4,
-      "artist": "Chip Chip",
-      "title": "Everything You Love",
+      "artist": "Body Base",
+      "title": "Crying In The Dark",
       "plays": 3,
-      "previous_position": 120,
-      "movement": 116,
+      "previous_position": 61,
+      "movement": 57,
       "trend": "up"
     },
     {
       "position": 5,
+      "artist": "Chip Chip",
+      "title": "Everything You Love",
+      "plays": 3,
+      "previous_position": 120,
+      "movement": 115,
+      "trend": "up"
+    },
+    {
+      "position": 6,
       "artist": "Claude O'Brian",
       "title": "Rebel Rebel",
       "plays": 3,
@@ -52,139 +61,130 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 7,
       "artist": "Cyber People",
       "title": "Polaris",
       "plays": 3,
       "previous_position": 222,
-      "movement": 216,
-      "trend": "up"
-    },
-    {
-      "position": 7,
-      "artist": "Frankie J",
-      "title": "Body Rock",
-      "plays": 3,
-      "previous_position": 18,
-      "movement": 11,
+      "movement": 215,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "G.G. Near",
-      "title": "Living In A Rom",
+      "artist": "Frankie J",
+      "title": "Body Rock",
       "plays": 3,
-      "previous_position": 172,
-      "movement": 164,
-      "trend": "up"
-    },
-    {
-      "position": 9,
-      "artist": "Gazebo",
-      "title": "Lunatic",
-      "plays": 3,
-      "previous_position": 122,
-      "movement": 113,
-      "trend": "up"
-    },
-    {
-      "position": 10,
-      "artist": "Gemini Rising",
-      "title": "Best Case Life",
-      "plays": 3,
-      "previous_position": 16,
-      "movement": 6,
-      "trend": "up"
-    },
-    {
-      "position": 11,
-      "artist": "Grant Miller",
-      "title": "Doctor For My Heart",
-      "plays": 3,
-      "previous_position": 117,
-      "movement": 106,
-      "trend": "up"
-    },
-    {
-      "position": 12,
-      "artist": "Irene",
-      "title": "Real Love",
-      "plays": 3,
-      "previous_position": 108,
-      "movement": 96,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "Janine Frei",
-      "title": "Das Ist Deine Nacht",
-      "plays": 3,
-      "previous_position": 39,
-      "movement": 26,
-      "trend": "up"
-    },
-    {
-      "position": 14,
-      "artist": "Miko Mission",
-      "title": "Toc Toc Toc",
-      "plays": 3,
-      "previous_position": 188,
-      "movement": 174,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "Mirage & Yoko",
-      "title": "Bo To Jest Milosc",
-      "plays": 3,
-      "previous_position": 25,
+      "previous_position": 18,
       "movement": 10,
       "trend": "up"
     },
     {
-      "position": 16,
-      "artist": "Operator",
-      "title": "Emergency",
+      "position": 9,
+      "artist": "G.G. Near",
+      "title": "Living In A Rom",
       "plays": 3,
-      "previous_position": 62,
-      "movement": 46,
+      "previous_position": 172,
+      "movement": 163,
+      "trend": "up"
+    },
+    {
+      "position": 10,
+      "artist": "Gazebo",
+      "title": "Lunatic",
+      "plays": 3,
+      "previous_position": 122,
+      "movement": 112,
+      "trend": "up"
+    },
+    {
+      "position": 11,
+      "artist": "Gemini Rising",
+      "title": "Best Case Life",
+      "plays": 3,
+      "previous_position": 16,
+      "movement": 5,
+      "trend": "up"
+    },
+    {
+      "position": 12,
+      "artist": "Grant Miller",
+      "title": "Doctor For My Heart",
+      "plays": 3,
+      "previous_position": 117,
+      "movement": 105,
+      "trend": "up"
+    },
+    {
+      "position": 13,
+      "artist": "Irene",
+      "title": "Real Love",
+      "plays": 3,
+      "previous_position": 108,
+      "movement": 95,
+      "trend": "up"
+    },
+    {
+      "position": 14,
+      "artist": "Janine Frei",
+      "title": "Das Ist Deine Nacht",
+      "plays": 3,
+      "previous_position": 39,
+      "movement": 25,
+      "trend": "up"
+    },
+    {
+      "position": 15,
+      "artist": "Miko Mission",
+      "title": "Toc Toc Toc",
+      "plays": 3,
+      "previous_position": 188,
+      "movement": 173,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "Mirage & Yoko",
+      "title": "Bo To Jest Milosc",
+      "plays": 3,
+      "previous_position": 25,
+      "movement": 9,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "Rainer Seidl",
-      "title": "One Night Stand",
+      "artist": "Operator",
+      "title": "Emergency",
       "plays": 3,
-      "previous_position": 230,
-      "movement": 213,
+      "previous_position": 62,
+      "movement": 45,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Savage",
-      "title": "Italodisco",
+      "artist": "Rainer Seidl",
+      "title": "One Night Stand",
       "plays": 3,
-      "previous_position": 278,
-      "movement": 260,
+      "previous_position": 230,
+      "movement": 212,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Split Mirrors",
-      "title": "1999",
+      "artist": "Savage",
+      "title": "Italodisco",
       "plays": 3,
-      "previous_position": 59,
-      "movement": 40,
+      "previous_position": 278,
+      "movement": 259,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "The Officer",
-      "title": "Dont Break My Heart",
+      "artist": "Split Mirrors",
+      "title": "1999",
       "plays": 3,
-      "previous_position": 11,
-      "movement": -9,
-      "trend": "down"
+      "previous_position": 59,
+      "movement": 39,
+      "trend": "up"
     }
   ]
 }
