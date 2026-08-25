@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W35",
   "previous_week": "2026-W34",
-  "updated": "2026-08-25T19:53:29.956767+00:00",
+  "updated": "2026-08-25T20:18:25.692685+00:00",
   "charts": [
     {
       "position": 1,
@@ -125,66 +125,66 @@
     },
     {
       "position": 14,
-      "artist": "Frank Heller",
-      "title": "Total Reset",
+      "artist": "First Base",
+      "title": "Follow Me",
       "plays": 3,
-      "previous_position": 150,
-      "movement": 136,
+      "previous_position": 60,
+      "movement": 46,
       "trend": "up"
     },
     {
       "position": 15,
-      "artist": "Frank Lars",
-      "title": "Komm Und Lieb Mich",
+      "artist": "Frank Heller",
+      "title": "Total Reset",
       "plays": 3,
-      "previous_position": 98,
-      "movement": 83,
+      "previous_position": 150,
+      "movement": 135,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "Frankie J",
-      "title": "Body Rock",
+      "artist": "Frank Lars",
+      "title": "Komm Und Lieb Mich",
       "plays": 3,
-      "previous_position": 18,
-      "movement": 2,
+      "previous_position": 98,
+      "movement": 82,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "G.G. Near",
-      "title": "Living In A Rom",
+      "artist": "Frankie J",
+      "title": "Body Rock",
       "plays": 3,
-      "previous_position": 172,
-      "movement": 155,
+      "previous_position": 18,
+      "movement": 1,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Gazebo",
-      "title": "Lunatic",
+      "artist": "G.G. Near",
+      "title": "Living In A Rom",
       "plays": 3,
-      "previous_position": 122,
-      "movement": 104,
+      "previous_position": 172,
+      "movement": 154,
       "trend": "up"
     },
     {
       "position": 19,
+      "artist": "Gazebo",
+      "title": "Lunatic",
+      "plays": 3,
+      "previous_position": 122,
+      "movement": 103,
+      "trend": "up"
+    },
+    {
+      "position": 20,
       "artist": "Gemini Rising",
       "title": "Best Case Life",
       "plays": 3,
       "previous_position": 16,
-      "movement": -3,
+      "movement": -4,
       "trend": "down"
-    },
-    {
-      "position": 20,
-      "artist": "Grant Miller",
-      "title": "Doctor For My Heart",
-      "plays": 3,
-      "previous_position": 117,
-      "movement": 97,
-      "trend": "up"
     }
   ]
 }
