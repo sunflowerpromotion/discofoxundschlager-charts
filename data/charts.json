@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W35",
   "previous_week": "2026-W34",
-  "updated": "2026-08-26T16:46:10.757217+00:00",
+  "updated": "2026-08-26T18:28:18.817880+00:00",
   "charts": [
     {
       "position": 1,
@@ -44,147 +44,147 @@
     },
     {
       "position": 5,
-      "artist": "The Officer",
-      "title": "Dont Break My Heart",
+      "artist": "Lena Marie Engel",
+      "title": "Ab Jetzt Für Immer",
       "plays": 5,
-      "previous_position": 11,
-      "movement": 6,
+      "previous_position": 40,
+      "movement": 35,
       "trend": "up"
     },
     {
       "position": 6,
-      "artist": "Alan  Brando",
-      "title": "Save Me",
-      "plays": 4,
-      "previous_position": 126,
-      "movement": 120,
+      "artist": "Rainer Seidl",
+      "title": "One Night Stand",
+      "plays": 5,
+      "previous_position": 230,
+      "movement": 224,
       "trend": "up"
     },
     {
       "position": 7,
-      "artist": "Alix",
-      "title": "Pay The Price",
-      "plays": 4,
-      "previous_position": 52,
-      "movement": 45,
+      "artist": "The Officer",
+      "title": "Dont Break My Heart",
+      "plays": 5,
+      "previous_position": 11,
+      "movement": 4,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "Bubble J.",
-      "title": "Feel Da Rhythm In Your Feet",
+      "artist": "Alan  Brando",
+      "title": "Save Me",
       "plays": 4,
-      "previous_position": 54,
-      "movement": 46,
+      "previous_position": 126,
+      "movement": 118,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "Captain Apollo",
-      "title": "Behind The Clouds",
+      "artist": "Alix",
+      "title": "Pay The Price",
       "plays": 4,
-      "previous_position": 270,
-      "movement": 261,
-      "trend": "up"
-    },
-    {
-      "position": 10,
-      "artist": "Casanova",
-      "title": "Colder Than Ice",
-      "plays": 4,
-      "previous_position": 260,
-      "movement": 250,
-      "trend": "up"
-    },
-    {
-      "position": 11,
-      "artist": "Chip Chip",
-      "title": "Everything You Love",
-      "plays": 4,
-      "previous_position": 120,
-      "movement": 109,
-      "trend": "up"
-    },
-    {
-      "position": 12,
-      "artist": "Cyber People",
-      "title": "Polaris",
-      "plays": 4,
-      "previous_position": 222,
-      "movement": 210,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "Diadem",
-      "title": "Kochanie Moje",
-      "plays": 4,
-      "previous_position": 19,
-      "movement": 6,
-      "trend": "up"
-    },
-    {
-      "position": 14,
-      "artist": "Digital Emotion",
-      "title": "Full Control",
-      "plays": 4,
-      "previous_position": 123,
-      "movement": 109,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "Digitalo",
-      "title": "Skate",
-      "plays": 4,
-      "previous_position": 274,
-      "movement": 259,
-      "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "Eurotix",
-      "title": "Will You Rember Me",
-      "plays": 4,
-      "previous_position": 175,
-      "movement": 159,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "First Base",
-      "title": "Follow Me",
-      "plays": 4,
-      "previous_position": 60,
+      "previous_position": 52,
       "movement": 43,
       "trend": "up"
     },
     {
-      "position": 18,
-      "artist": "Frankie J",
-      "title": "Body Rock",
+      "position": 10,
+      "artist": "Bubble J.",
+      "title": "Feel Da Rhythm In Your Feet",
       "plays": 4,
-      "previous_position": 18,
-      "movement": 0,
-      "trend": "same"
+      "previous_position": 54,
+      "movement": 44,
+      "trend": "up"
+    },
+    {
+      "position": 11,
+      "artist": "Captain Apollo",
+      "title": "Behind The Clouds",
+      "plays": 4,
+      "previous_position": 270,
+      "movement": 259,
+      "trend": "up"
+    },
+    {
+      "position": 12,
+      "artist": "Casanova",
+      "title": "Colder Than Ice",
+      "plays": 4,
+      "previous_position": 260,
+      "movement": 248,
+      "trend": "up"
+    },
+    {
+      "position": 13,
+      "artist": "Chip Chip",
+      "title": "Everything You Love",
+      "plays": 4,
+      "previous_position": 120,
+      "movement": 107,
+      "trend": "up"
+    },
+    {
+      "position": 14,
+      "artist": "Cyber People",
+      "title": "Polaris",
+      "plays": 4,
+      "previous_position": 222,
+      "movement": 208,
+      "trend": "up"
+    },
+    {
+      "position": 15,
+      "artist": "Diadem",
+      "title": "Kochanie Moje",
+      "plays": 4,
+      "previous_position": 19,
+      "movement": 4,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "Digital Emotion",
+      "title": "Full Control",
+      "plays": 4,
+      "previous_position": 123,
+      "movement": 107,
+      "trend": "up"
+    },
+    {
+      "position": 17,
+      "artist": "Digitalo",
+      "title": "Skate",
+      "plays": 4,
+      "previous_position": 274,
+      "movement": 257,
+      "trend": "up"
+    },
+    {
+      "position": 18,
+      "artist": "Eurotix",
+      "title": "Will You Rember Me",
+      "plays": 4,
+      "previous_position": 175,
+      "movement": 157,
+      "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Freestyle Project",
-      "title": "Get On Da Floor",
+      "artist": "First Base",
+      "title": "Follow Me",
       "plays": 4,
-      "previous_position": 185,
-      "movement": 166,
+      "previous_position": 60,
+      "movement": 41,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "G.G. Near",
-      "title": "Living In A Rom",
+      "artist": "Frankie J",
+      "title": "Body Rock",
       "plays": 4,
-      "previous_position": 172,
-      "movement": 152,
-      "trend": "up"
+      "previous_position": 18,
+      "movement": -2,
+      "trend": "down"
     }
   ]
 }
