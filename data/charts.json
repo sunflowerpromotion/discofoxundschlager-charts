@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W35",
   "previous_week": "2026-W34",
-  "updated": "2026-08-26T06:01:19.214403+00:00",
+  "updated": "2026-08-26T07:02:28.720477+00:00",
   "charts": [
     {
       "position": 1,
@@ -107,83 +107,83 @@
     },
     {
       "position": 12,
-      "artist": "Gazebo",
-      "title": "Lunatic",
+      "artist": "G.G. Near",
+      "title": "Living In A Rom",
       "plays": 4,
-      "previous_position": 122,
-      "movement": 110,
+      "previous_position": 172,
+      "movement": 160,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "Grant Miller",
-      "title": "Doctor For My Heart",
+      "artist": "Gazebo",
+      "title": "Lunatic",
       "plays": 4,
-      "previous_position": 117,
-      "movement": 104,
+      "previous_position": 122,
+      "movement": 109,
       "trend": "up"
     },
     {
       "position": 14,
-      "artist": "Irene",
-      "title": "Real Love",
+      "artist": "Grant Miller",
+      "title": "Doctor For My Heart",
       "plays": 4,
-      "previous_position": 108,
-      "movement": 94,
+      "previous_position": 117,
+      "movement": 103,
       "trend": "up"
     },
     {
       "position": 15,
-      "artist": "Lena Marie Engel",
-      "title": "Ab Jetzt Für Immer",
+      "artist": "Irene",
+      "title": "Real Love",
       "plays": 4,
-      "previous_position": 40,
-      "movement": 25,
+      "previous_position": 108,
+      "movement": 93,
       "trend": "up"
     },
     {
       "position": 16,
+      "artist": "Lena Marie Engel",
+      "title": "Ab Jetzt Für Immer",
+      "plays": 4,
+      "previous_position": 40,
+      "movement": 24,
+      "trend": "up"
+    },
+    {
+      "position": 17,
       "artist": "Lil Suzy",
       "title": "Take Me In Your Arms",
       "plays": 4,
       "previous_position": 12,
-      "movement": -4,
+      "movement": -5,
       "trend": "down"
     },
     {
-      "position": 17,
+      "position": 18,
       "artist": "N.A.D.",
       "title": "Don't Go Away",
       "plays": 4,
       "previous_position": 45,
-      "movement": 28,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Operator",
-      "title": "Emergency",
-      "plays": 4,
-      "previous_position": 62,
-      "movement": 44,
+      "movement": 27,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Pandera",
-      "title": "Freestyle Project Remix",
+      "artist": "Operator",
+      "title": "Emergency",
       "plays": 4,
-      "previous_position": 47,
-      "movement": 28,
+      "previous_position": 62,
+      "movement": 43,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Rainer Seidl",
-      "title": "One Night Stand",
+      "artist": "Pandera",
+      "title": "Freestyle Project Remix",
       "plays": 4,
-      "previous_position": 230,
-      "movement": 210,
+      "previous_position": 47,
+      "movement": 27,
       "trend": "up"
     }
   ]
