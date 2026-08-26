@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W35",
   "previous_week": "2026-W34",
-  "updated": "2026-08-26T18:28:18.817880+00:00",
+  "updated": "2026-08-26T20:36:24.006777+00:00",
   "charts": [
     {
       "position": 1,
@@ -17,20 +17,20 @@
     },
     {
       "position": 2,
-      "artist": "Alfa Boys",
-      "title": "Skarbie Mój",
-      "plays": 5,
-      "previous_position": 192,
-      "movement": 190,
+      "artist": "Body Base",
+      "title": "Crying In The Dark",
+      "plays": 6,
+      "previous_position": 61,
+      "movement": 59,
       "trend": "up"
     },
     {
       "position": 3,
-      "artist": "Body Base",
-      "title": "Crying In The Dark",
+      "artist": "Alfa Boys",
+      "title": "Skarbie Mój",
       "plays": 5,
-      "previous_position": 61,
-      "movement": 58,
+      "previous_position": 192,
+      "movement": 189,
       "trend": "up"
     },
     {
@@ -179,11 +179,11 @@
     },
     {
       "position": 20,
-      "artist": "Frankie J",
-      "title": "Body Rock",
+      "artist": "Flying Steps",
+      "title": "We Are Electric",
       "plays": 4,
-      "previous_position": 18,
-      "movement": -2,
+      "previous_position": 10,
+      "movement": -10,
       "trend": "down"
     }
   ]
