@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W35",
   "previous_week": "2026-W34",
-  "updated": "2026-08-26T15:55:55.093989+00:00",
+  "updated": "2026-08-26T16:46:10.757217+00:00",
   "charts": [
     {
       "position": 1,
@@ -17,47 +17,47 @@
     },
     {
       "position": 2,
-      "artist": "Body Base",
-      "title": "Crying In The Dark",
+      "artist": "Alfa Boys",
+      "title": "Skarbie Mój",
       "plays": 5,
-      "previous_position": 61,
-      "movement": 59,
+      "previous_position": 192,
+      "movement": 190,
       "trend": "up"
     },
     {
       "position": 3,
-      "artist": "Gazebo",
-      "title": "Lunatic",
+      "artist": "Body Base",
+      "title": "Crying In The Dark",
       "plays": 5,
-      "previous_position": 122,
-      "movement": 119,
+      "previous_position": 61,
+      "movement": 58,
       "trend": "up"
     },
     {
       "position": 4,
-      "artist": "The Officer",
-      "title": "Dont Break My Heart",
+      "artist": "Gazebo",
+      "title": "Lunatic",
       "plays": 5,
-      "previous_position": 11,
-      "movement": 7,
+      "previous_position": 122,
+      "movement": 118,
       "trend": "up"
     },
     {
       "position": 5,
-      "artist": "Alan  Brando",
-      "title": "Save Me",
-      "plays": 4,
-      "previous_position": 126,
-      "movement": 121,
+      "artist": "The Officer",
+      "title": "Dont Break My Heart",
+      "plays": 5,
+      "previous_position": 11,
+      "movement": 6,
       "trend": "up"
     },
     {
       "position": 6,
-      "artist": "Alfa Boys",
-      "title": "Skarbie Mój",
+      "artist": "Alan  Brando",
+      "title": "Save Me",
       "plays": 4,
-      "previous_position": 192,
-      "movement": 186,
+      "previous_position": 126,
+      "movement": 120,
       "trend": "up"
     },
     {
