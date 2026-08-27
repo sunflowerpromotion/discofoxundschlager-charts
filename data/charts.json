@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W35",
   "previous_week": "2026-W34",
-  "updated": "2026-08-26T20:36:24.006777+00:00",
+  "updated": "2026-08-27T00:03:31.301972+00:00",
   "charts": [
     {
       "position": 1,
@@ -26,165 +26,165 @@
     },
     {
       "position": 3,
-      "artist": "Alfa Boys",
-      "title": "Skarbie Mój",
-      "plays": 5,
-      "previous_position": 192,
-      "movement": 189,
+      "artist": "The Officer",
+      "title": "Dont Break My Heart",
+      "plays": 6,
+      "previous_position": 11,
+      "movement": 8,
       "trend": "up"
     },
     {
       "position": 4,
-      "artist": "Gazebo",
-      "title": "Lunatic",
+      "artist": "Alfa Boys",
+      "title": "Skarbie Mój",
       "plays": 5,
-      "previous_position": 122,
-      "movement": 118,
+      "previous_position": 192,
+      "movement": 188,
       "trend": "up"
     },
     {
       "position": 5,
-      "artist": "Lena Marie Engel",
-      "title": "Ab Jetzt Für Immer",
+      "artist": "Frankie J",
+      "title": "Body Rock",
       "plays": 5,
-      "previous_position": 40,
-      "movement": 35,
+      "previous_position": 18,
+      "movement": 13,
       "trend": "up"
     },
     {
       "position": 6,
-      "artist": "Rainer Seidl",
-      "title": "One Night Stand",
+      "artist": "Gazebo",
+      "title": "Lunatic",
       "plays": 5,
-      "previous_position": 230,
-      "movement": 224,
+      "previous_position": 122,
+      "movement": 116,
       "trend": "up"
     },
     {
       "position": 7,
-      "artist": "The Officer",
-      "title": "Dont Break My Heart",
+      "artist": "Irene",
+      "title": "Real Love",
       "plays": 5,
-      "previous_position": 11,
-      "movement": 4,
+      "previous_position": 108,
+      "movement": 101,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "Alan  Brando",
-      "title": "Save Me",
-      "plays": 4,
-      "previous_position": 126,
-      "movement": 118,
+      "artist": "Lena Marie Engel",
+      "title": "Ab Jetzt Für Immer",
+      "plays": 5,
+      "previous_position": 40,
+      "movement": 32,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "Alix",
-      "title": "Pay The Price",
-      "plays": 4,
-      "previous_position": 52,
-      "movement": 43,
+      "artist": "Rainer Seidl",
+      "title": "One Night Stand",
+      "plays": 5,
+      "previous_position": 230,
+      "movement": 221,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "Bubble J.",
-      "title": "Feel Da Rhythm In Your Feet",
+      "artist": "Alan  Brando",
+      "title": "Save Me",
       "plays": 4,
-      "previous_position": 54,
-      "movement": 44,
+      "previous_position": 126,
+      "movement": 116,
       "trend": "up"
     },
     {
       "position": 11,
-      "artist": "Captain Apollo",
-      "title": "Behind The Clouds",
+      "artist": "Alix",
+      "title": "Pay The Price",
       "plays": 4,
-      "previous_position": 270,
-      "movement": 259,
-      "trend": "up"
-    },
-    {
-      "position": 12,
-      "artist": "Casanova",
-      "title": "Colder Than Ice",
-      "plays": 4,
-      "previous_position": 260,
-      "movement": 248,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "Chip Chip",
-      "title": "Everything You Love",
-      "plays": 4,
-      "previous_position": 120,
-      "movement": 107,
-      "trend": "up"
-    },
-    {
-      "position": 14,
-      "artist": "Cyber People",
-      "title": "Polaris",
-      "plays": 4,
-      "previous_position": 222,
-      "movement": 208,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "Diadem",
-      "title": "Kochanie Moje",
-      "plays": 4,
-      "previous_position": 19,
-      "movement": 4,
-      "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "Digital Emotion",
-      "title": "Full Control",
-      "plays": 4,
-      "previous_position": 123,
-      "movement": 107,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Digitalo",
-      "title": "Skate",
-      "plays": 4,
-      "previous_position": 274,
-      "movement": 257,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Eurotix",
-      "title": "Will You Rember Me",
-      "plays": 4,
-      "previous_position": 175,
-      "movement": 157,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "First Base",
-      "title": "Follow Me",
-      "plays": 4,
-      "previous_position": 60,
+      "previous_position": 52,
       "movement": 41,
       "trend": "up"
     },
     {
-      "position": 20,
-      "artist": "Flying Steps",
-      "title": "We Are Electric",
+      "position": 12,
+      "artist": "Bubble J.",
+      "title": "Feel Da Rhythm In Your Feet",
       "plays": 4,
-      "previous_position": 10,
-      "movement": -10,
-      "trend": "down"
+      "previous_position": 54,
+      "movement": 42,
+      "trend": "up"
+    },
+    {
+      "position": 13,
+      "artist": "Captain Apollo",
+      "title": "Behind The Clouds",
+      "plays": 4,
+      "previous_position": 270,
+      "movement": 257,
+      "trend": "up"
+    },
+    {
+      "position": 14,
+      "artist": "Casanova",
+      "title": "Colder Than Ice",
+      "plays": 4,
+      "previous_position": 260,
+      "movement": 246,
+      "trend": "up"
+    },
+    {
+      "position": 15,
+      "artist": "Chip Chip",
+      "title": "Everything You Love",
+      "plays": 4,
+      "previous_position": 120,
+      "movement": 105,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "Cyber People",
+      "title": "Polaris",
+      "plays": 4,
+      "previous_position": 222,
+      "movement": 206,
+      "trend": "up"
+    },
+    {
+      "position": 17,
+      "artist": "Diadem",
+      "title": "Kochanie Moje",
+      "plays": 4,
+      "previous_position": 19,
+      "movement": 2,
+      "trend": "up"
+    },
+    {
+      "position": 18,
+      "artist": "Digital Emotion",
+      "title": "Full Control",
+      "plays": 4,
+      "previous_position": 123,
+      "movement": 105,
+      "trend": "up"
+    },
+    {
+      "position": 19,
+      "artist": "Digitalo",
+      "title": "Skate",
+      "plays": 4,
+      "previous_position": 274,
+      "movement": 255,
+      "trend": "up"
+    },
+    {
+      "position": 20,
+      "artist": "DZYRE",
+      "title": "Games Of Love",
+      "plays": 4,
+      "previous_position": 106,
+      "movement": 86,
+      "trend": "up"
     }
   ]
 }
