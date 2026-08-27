@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W35",
   "previous_week": "2026-W34",
-  "updated": "2026-08-27T09:30:45.689684+00:00",
+  "updated": "2026-08-27T19:56:19.257890+00:00",
   "charts": [
     {
       "position": 1,
@@ -80,110 +80,110 @@
     },
     {
       "position": 9,
-      "artist": "Rainer Seidl",
-      "title": "One Night Stand",
+      "artist": "Liane",
+      "title": "Küss Mich Bis Der Morgen Kommt",
       "plays": 5,
-      "previous_position": 230,
-      "movement": 221,
+      "previous_position": 35,
+      "movement": 26,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "Alan  Brando",
-      "title": "Save Me",
-      "plays": 4,
-      "previous_position": 126,
-      "movement": 116,
+      "artist": "Rainer Seidl",
+      "title": "One Night Stand",
+      "plays": 5,
+      "previous_position": 230,
+      "movement": 220,
       "trend": "up"
     },
     {
       "position": 11,
-      "artist": "Alix",
-      "title": "Pay The Price",
+      "artist": "Alan  Brando",
+      "title": "Save Me",
       "plays": 4,
-      "previous_position": 52,
-      "movement": 41,
+      "previous_position": 126,
+      "movement": 115,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Bubble J.",
-      "title": "Feel Da Rhythm In Your Feet",
+      "artist": "Alix",
+      "title": "Pay The Price",
       "plays": 4,
-      "previous_position": 54,
-      "movement": 42,
+      "previous_position": 52,
+      "movement": 40,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "Captain Apollo",
-      "title": "Behind The Clouds",
+      "artist": "Angela Henn & Dennis Klak",
+      "title": "Barfuß Auf Der Venus",
       "plays": 4,
-      "previous_position": 270,
-      "movement": 257,
+      "previous_position": 146,
+      "movement": 133,
       "trend": "up"
     },
     {
       "position": 14,
-      "artist": "Casanova",
-      "title": "Colder Than Ice",
+      "artist": "Bubble J.",
+      "title": "Feel Da Rhythm In Your Feet",
       "plays": 4,
-      "previous_position": 260,
-      "movement": 246,
+      "previous_position": 54,
+      "movement": 40,
       "trend": "up"
     },
     {
       "position": 15,
-      "artist": "Chip Chip",
-      "title": "Everything You Love",
+      "artist": "Captain Apollo",
+      "title": "Behind The Clouds",
       "plays": 4,
-      "previous_position": 120,
-      "movement": 105,
-      "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "Cyber People",
-      "title": "Polaris",
-      "plays": 4,
-      "previous_position": 222,
-      "movement": 206,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Diadem",
-      "title": "Kochanie Moje",
-      "plays": 4,
-      "previous_position": 19,
-      "movement": 2,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Digital Emotion",
-      "title": "Full Control",
-      "plays": 4,
-      "previous_position": 123,
-      "movement": 105,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Digitalo",
-      "title": "Skate",
-      "plays": 4,
-      "previous_position": 274,
+      "previous_position": 270,
       "movement": 255,
       "trend": "up"
     },
     {
-      "position": 20,
-      "artist": "DZYRE",
-      "title": "Games Of Love",
+      "position": 16,
+      "artist": "Casanova",
+      "title": "Colder Than Ice",
       "plays": 4,
-      "previous_position": 106,
-      "movement": 86,
+      "previous_position": 260,
+      "movement": 244,
+      "trend": "up"
+    },
+    {
+      "position": 17,
+      "artist": "Chip Chip",
+      "title": "Everything You Love",
+      "plays": 4,
+      "previous_position": 120,
+      "movement": 103,
+      "trend": "up"
+    },
+    {
+      "position": 18,
+      "artist": "Cyber People",
+      "title": "Polaris",
+      "plays": 4,
+      "previous_position": 222,
+      "movement": 204,
+      "trend": "up"
+    },
+    {
+      "position": 19,
+      "artist": "Diadem",
+      "title": "Kochanie Moje",
+      "plays": 4,
+      "previous_position": 19,
+      "movement": 0,
+      "trend": "same"
+    },
+    {
+      "position": 20,
+      "artist": "Digital Emotion",
+      "title": "Full Control",
+      "plays": 4,
+      "previous_position": 123,
+      "movement": 103,
       "trend": "up"
     }
   ]
