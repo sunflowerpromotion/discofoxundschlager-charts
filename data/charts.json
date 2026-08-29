@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W35",
   "previous_week": "2026-W34",
-  "updated": "2026-08-29T17:09:27.938799+00:00",
+  "updated": "2026-08-29T19:43:26.095476+00:00",
   "charts": [
     {
       "position": 1,
@@ -71,119 +71,119 @@
     },
     {
       "position": 8,
-      "artist": "Digitalo",
-      "title": "Skate",
+      "artist": "Conrado",
+      "title": "Siebie Nie Zaluj",
       "plays": 5,
-      "previous_position": 274,
-      "movement": 266,
+      "previous_position": 23,
+      "movement": 15,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "First Base",
-      "title": "Follow Me",
+      "artist": "Digitalo",
+      "title": "Skate",
       "plays": 5,
-      "previous_position": 60,
-      "movement": 51,
+      "previous_position": 274,
+      "movement": 265,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "Frankie J",
-      "title": "Body Rock",
+      "artist": "First Base",
+      "title": "Follow Me",
       "plays": 5,
-      "previous_position": 18,
-      "movement": 8,
+      "previous_position": 60,
+      "movement": 50,
       "trend": "up"
     },
     {
       "position": 11,
-      "artist": "Gazebo",
-      "title": "Lunatic",
+      "artist": "Frankie J",
+      "title": "Body Rock",
       "plays": 5,
-      "previous_position": 122,
-      "movement": 111,
+      "previous_position": 18,
+      "movement": 7,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Grant Miller",
-      "title": "Doctor For My Heart",
+      "artist": "Gazebo",
+      "title": "Lunatic",
       "plays": 5,
-      "previous_position": 117,
-      "movement": 105,
+      "previous_position": 122,
+      "movement": 110,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "Irene",
-      "title": "Real Love",
+      "artist": "Grant Miller",
+      "title": "Doctor For My Heart",
       "plays": 5,
-      "previous_position": 108,
-      "movement": 95,
+      "previous_position": 117,
+      "movement": 104,
       "trend": "up"
     },
     {
       "position": 14,
-      "artist": "Lena Marie Engel",
-      "title": "Ab Jetzt Für Immer",
+      "artist": "Irene",
+      "title": "Real Love",
       "plays": 5,
-      "previous_position": 40,
-      "movement": 26,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "Liane",
-      "title": "Küss Mich Bis Der Morgen Kommt",
-      "plays": 5,
-      "previous_position": 35,
-      "movement": 20,
-      "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "Major T",
-      "title": "I Can Only Give You My Heart",
-      "plays": 5,
-      "previous_position": 263,
-      "movement": 247,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Operator",
-      "title": "Emergency",
-      "plays": 5,
-      "previous_position": 62,
-      "movement": 45,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Systems In Blue",
-      "title": "Blue Odyssey",
-      "plays": 5,
-      "previous_position": 125,
-      "movement": 107,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Zweety",
-      "title": "Rumpshaka",
-      "plays": 5,
-      "previous_position": 113,
+      "previous_position": 108,
       "movement": 94,
       "trend": "up"
     },
     {
+      "position": 15,
+      "artist": "Lena Marie Engel",
+      "title": "Ab Jetzt Für Immer",
+      "plays": 5,
+      "previous_position": 40,
+      "movement": 25,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "Liane",
+      "title": "Küss Mich Bis Der Morgen Kommt",
+      "plays": 5,
+      "previous_position": 35,
+      "movement": 19,
+      "trend": "up"
+    },
+    {
+      "position": 17,
+      "artist": "Major T",
+      "title": "I Can Only Give You My Heart",
+      "plays": 5,
+      "previous_position": 263,
+      "movement": 246,
+      "trend": "up"
+    },
+    {
+      "position": 18,
+      "artist": "Mirage & Yoko",
+      "title": "Bo To Jest Milosc",
+      "plays": 5,
+      "previous_position": 25,
+      "movement": 7,
+      "trend": "up"
+    },
+    {
+      "position": 19,
+      "artist": "Operator",
+      "title": "Emergency",
+      "plays": 5,
+      "previous_position": 62,
+      "movement": 43,
+      "trend": "up"
+    },
+    {
       "position": 20,
-      "artist": "7dance & Melody Castellari",
-      "title": "Fly",
-      "plays": 4,
-      "previous_position": 240,
-      "movement": 220,
+      "artist": "Spontan",
+      "title": "Tylko Tobie",
+      "plays": 5,
+      "previous_position": 133,
+      "movement": 113,
       "trend": "up"
     }
   ]
