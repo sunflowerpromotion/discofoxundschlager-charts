@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W35",
   "previous_week": "2026-W34",
-  "updated": "2026-08-30T14:56:17.294564+00:00",
+  "updated": "2026-08-30T18:25:14.880917+00:00",
   "charts": [
     {
       "position": 1,
@@ -152,38 +152,38 @@
     },
     {
       "position": 17,
-      "artist": "First Base",
-      "title": "Follow Me",
+      "artist": "Fantasy",
+      "title": "Wild Boys",
       "plays": 5,
-      "previous_position": 60,
-      "movement": 43,
+      "previous_position": 128,
+      "movement": 111,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Free System",
-      "title": "This Love Is Not Right 4U",
+      "artist": "First Base",
+      "title": "Follow Me",
       "plays": 5,
-      "previous_position": 44,
-      "movement": 26,
+      "previous_position": 60,
+      "movement": 42,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Gazebo",
-      "title": "Lunatic",
+      "artist": "Free System",
+      "title": "This Love Is Not Right 4U",
       "plays": 5,
-      "previous_position": 122,
-      "movement": 103,
+      "previous_position": 44,
+      "movement": 25,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Irene",
-      "title": "Real Love",
+      "artist": "Gazebo",
+      "title": "Lunatic",
       "plays": 5,
-      "previous_position": 108,
-      "movement": 88,
+      "previous_position": 122,
+      "movement": 102,
       "trend": "up"
     }
   ]
