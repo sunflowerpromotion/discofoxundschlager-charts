@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W36",
   "previous_week": "2026-W35",
-  "updated": "2026-08-31T07:35:48.698748+00:00",
+  "updated": "2026-08-31T15:24:10.997075+00:00",
   "charts": [
     {
       "position": 1,
@@ -17,6 +17,15 @@
     },
     {
       "position": 2,
+      "artist": "Albin Berger",
+      "title": "Lieben Heißt...",
+      "plays": 1,
+      "previous_position": 130,
+      "movement": 128,
+      "trend": "up"
+    },
+    {
+      "position": 3,
       "artist": "Alex Blue",
       "title": "Let Us Dance",
       "plays": 1,
@@ -25,34 +34,34 @@
       "trend": "new"
     },
     {
-      "position": 3,
+      "position": 4,
       "artist": "Bliss Team",
       "title": "Go!",
       "plays": 1,
       "previous_position": 217,
-      "movement": 214,
-      "trend": "up"
-    },
-    {
-      "position": 4,
-      "artist": "Blue Talking",
-      "title": "Love Me",
-      "plays": 1,
-      "previous_position": 106,
-      "movement": 102,
+      "movement": 213,
       "trend": "up"
     },
     {
       "position": 5,
-      "artist": "Body Base",
-      "title": "My Only Desire",
+      "artist": "Blue Talking",
+      "title": "Love Me",
       "plays": 1,
-      "previous_position": 13,
-      "movement": 8,
+      "previous_position": 106,
+      "movement": 101,
       "trend": "up"
     },
     {
       "position": 6,
+      "artist": "Body Base",
+      "title": "My Only Desire",
+      "plays": 1,
+      "previous_position": 13,
+      "movement": 7,
+      "trend": "up"
+    },
+    {
+      "position": 7,
       "artist": "Cappella",
       "title": "U Got 2 Know",
       "plays": 1,
@@ -61,130 +70,121 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 8,
       "artist": "Coco",
       "title": "I Had A Dream",
       "plays": 1,
       "previous_position": 147,
-      "movement": 140,
-      "trend": "up"
-    },
-    {
-      "position": 8,
-      "artist": "Culture Beat",
-      "title": "Mr. Vain",
-      "plays": 1,
-      "previous_position": 249,
-      "movement": 241,
-      "trend": "up"
-    },
-    {
-      "position": 9,
-      "artist": "DJ Jerry",
-      "title": "Shanghai",
-      "plays": 1,
-      "previous_position": 80,
-      "movement": 71,
-      "trend": "up"
-    },
-    {
-      "position": 10,
-      "artist": "Flying Steps",
-      "title": "Breakin' It Down",
-      "plays": 1,
-      "previous_position": 141,
-      "movement": 131,
-      "trend": "up"
-    },
-    {
-      "position": 11,
-      "artist": "Freestyle Project",
-      "title": "Hey Mr. DJ",
-      "plays": 1,
-      "previous_position": 79,
-      "movement": 68,
-      "trend": "up"
-    },
-    {
-      "position": 12,
-      "artist": "Grant Miller",
-      "title": "Star",
-      "plays": 1,
-      "previous_position": 150,
-      "movement": 138,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "Irene",
-      "title": "Real Love",
-      "plays": 1,
-      "previous_position": 17,
-      "movement": 4,
-      "trend": "up"
-    },
-    {
-      "position": 14,
-      "artist": "Italo Disco Is Back",
-      "title": "Ausgabe 21  - Teil 1",
-      "plays": 1,
-      "previous_position": 153,
       "movement": 139,
       "trend": "up"
     },
     {
-      "position": 15,
-      "artist": "Italo Disco Is Back",
-      "title": "Ausgabe 21  - Teil 2",
+      "position": 9,
+      "artist": "Culture Beat",
+      "title": "Mr. Vain",
       "plays": 1,
-      "previous_position": 231,
-      "movement": 216,
+      "previous_position": 249,
+      "movement": 240,
+      "trend": "up"
+    },
+    {
+      "position": 10,
+      "artist": "DJ Jerry",
+      "title": "Shanghai",
+      "plays": 1,
+      "previous_position": 80,
+      "movement": 70,
+      "trend": "up"
+    },
+    {
+      "position": 11,
+      "artist": "Flying Steps",
+      "title": "Breakin' It Down",
+      "plays": 1,
+      "previous_position": 141,
+      "movement": 130,
+      "trend": "up"
+    },
+    {
+      "position": 12,
+      "artist": "Frank Heller",
+      "title": "Total Reset",
+      "plays": 1,
+      "previous_position": 133,
+      "movement": 121,
+      "trend": "up"
+    },
+    {
+      "position": 13,
+      "artist": "Freestyle Project",
+      "title": "Hey Mr. DJ",
+      "plays": 1,
+      "previous_position": 79,
+      "movement": 66,
+      "trend": "up"
+    },
+    {
+      "position": 14,
+      "artist": "Grant Miller",
+      "title": "Star",
+      "plays": 1,
+      "previous_position": 150,
+      "movement": 136,
+      "trend": "up"
+    },
+    {
+      "position": 15,
+      "artist": "Irene",
+      "title": "Real Love",
+      "plays": 1,
+      "previous_position": 17,
+      "movement": 2,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "K. Da 'Cruz",
-      "title": "Love Is Lifting Me Higher",
+      "artist": "Italo Disco Is Back",
+      "title": "Ausgabe 21  - Teil 1",
       "plays": 1,
-      "previous_position": 44,
-      "movement": 28,
+      "previous_position": 153,
+      "movement": 137,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "Ken Laszlo",
-      "title": "Tonight",
+      "artist": "Italo Disco Is Back",
+      "title": "Ausgabe 21  - Teil 2",
       "plays": 1,
-      "previous_position": 287,
-      "movement": 270,
+      "previous_position": 231,
+      "movement": 214,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Masterboy",
-      "title": "I Got To Give It Up",
+      "artist": "Jenny van Bree",
+      "title": "Wieso, Weshalb, Warum",
       "plays": 1,
-      "previous_position": 224,
-      "movement": 206,
+      "previous_position": 73,
+      "movement": 55,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "N.A.D.",
-      "title": "Don't Go Away",
+      "artist": "K. Da 'Cruz",
+      "title": "Love Is Lifting Me Higher",
       "plays": 1,
-      "previous_position": 18,
-      "movement": -1,
-      "trend": "down"
+      "previous_position": 44,
+      "movement": 25,
+      "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Nicki Daniels",
-      "title": "Belive In Me",
+      "artist": "Ken Laszlo",
+      "title": "Tonight",
       "plays": 1,
-      "previous_position": 14,
-      "movement": -6,
-      "trend": "down"
+      "previous_position": 287,
+      "movement": 267,
+      "trend": "up"
     }
   ]
 }
