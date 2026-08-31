@@ -4,87 +4,177 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W36",
   "previous_week": "2026-W35",
-  "updated": "2026-08-30T23:36:55.320566+00:00",
+  "updated": "2026-08-31T01:35:15.207526+00:00",
   "charts": [
     {
       "position": 1,
-      "artist": "Body Base",
-      "title": "My Only Desire",
+      "artist": "7dance & Melody Castellari",
+      "title": "Fly",
       "plays": 1,
-      "previous_position": 13,
-      "movement": 12,
+      "previous_position": 45,
+      "movement": 44,
       "trend": "up"
     },
     {
       "position": 2,
-      "artist": "Flying Steps",
-      "title": "Breakin' It Down",
+      "artist": "Bliss Team",
+      "title": "Go!",
       "plays": 1,
-      "previous_position": 141,
-      "movement": 139,
+      "previous_position": 217,
+      "movement": 215,
       "trend": "up"
     },
     {
       "position": 3,
-      "artist": "Freestyle Project",
-      "title": "Hey Mr. DJ",
+      "artist": "Body Base",
+      "title": "My Only Desire",
       "plays": 1,
-      "previous_position": 79,
-      "movement": 76,
+      "previous_position": 13,
+      "movement": 10,
       "trend": "up"
     },
     {
       "position": 4,
-      "artist": "Irene",
-      "title": "Real Love",
+      "artist": "Cappella",
+      "title": "U Got 2 Know",
       "plays": 1,
-      "previous_position": 17,
-      "movement": 13,
-      "trend": "up"
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
       "position": 5,
-      "artist": "N.A.D.",
-      "title": "Don't Go Away",
+      "artist": "Coco",
+      "title": "I Had A Dream",
       "plays": 1,
-      "previous_position": 18,
-      "movement": 13,
+      "previous_position": 147,
+      "movement": 142,
       "trend": "up"
     },
     {
       "position": 6,
-      "artist": "Nicki Daniels",
-      "title": "Belive In Me",
+      "artist": "Culture Beat",
+      "title": "Mr. Vain",
       "plays": 1,
-      "previous_position": 14,
-      "movement": 8,
+      "previous_position": 249,
+      "movement": 243,
       "trend": "up"
     },
     {
       "position": 7,
-      "artist": "Smash",
-      "title": "Summer Love",
+      "artist": "Flying Steps",
+      "title": "Breakin' It Down",
       "plays": 1,
-      "previous_position": 9,
-      "movement": 2,
+      "previous_position": 141,
+      "movement": 134,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "The Officer",
-      "title": "Cry",
+      "artist": "Freestyle Project",
+      "title": "Hey Mr. DJ",
       "plays": 1,
-      "previous_position": 78,
-      "movement": 70,
+      "previous_position": 79,
+      "movement": 71,
       "trend": "up"
     },
     {
       "position": 9,
+      "artist": "Irene",
+      "title": "Real Love",
+      "plays": 1,
+      "previous_position": 17,
+      "movement": 8,
+      "trend": "up"
+    },
+    {
+      "position": 10,
+      "artist": "K. Da 'Cruz",
+      "title": "Love Is Lifting Me Higher",
+      "plays": 1,
+      "previous_position": 44,
+      "movement": 34,
+      "trend": "up"
+    },
+    {
+      "position": 11,
+      "artist": "Masterboy",
+      "title": "I Got To Give It Up",
+      "plays": 1,
+      "previous_position": 224,
+      "movement": 213,
+      "trend": "up"
+    },
+    {
+      "position": 12,
+      "artist": "N.A.D.",
+      "title": "Don't Go Away",
+      "plays": 1,
+      "previous_position": 18,
+      "movement": 6,
+      "trend": "up"
+    },
+    {
+      "position": 13,
+      "artist": "Nicki Daniels",
+      "title": "Belive In Me",
+      "plays": 1,
+      "previous_position": 14,
+      "movement": 1,
+      "trend": "up"
+    },
+    {
+      "position": 14,
+      "artist": "Shine",
+      "title": "By The Light Of Nature",
+      "plays": 1,
+      "previous_position": 219,
+      "movement": 205,
+      "trend": "up"
+    },
+    {
+      "position": 15,
+      "artist": "Smash",
+      "title": "Summer Love",
+      "plays": 1,
+      "previous_position": 9,
+      "movement": -6,
+      "trend": "down"
+    },
+    {
+      "position": 16,
+      "artist": "The Free",
+      "title": "Dance The Night Away",
+      "plays": 1,
+      "previous_position": 177,
+      "movement": 161,
+      "trend": "up"
+    },
+    {
+      "position": 17,
+      "artist": "The Officer",
+      "title": "Cry",
+      "plays": 1,
+      "previous_position": 78,
+      "movement": 61,
+      "trend": "up"
+    },
+    {
+      "position": 18,
       "artist": "The Officer",
       "title": "La Musica",
       "plays": 1,
       "previous_position": 41,
-      "movement": 32,
+      "movement": 23,
+      "trend": "up"
+    },
+    {
+      "position": 19,
+      "artist": "Vertical Vibe",
+      "title": "Everybody's Free",
+      "plays": 1,
+      "previous_position": 225,
+      "movement": 206,
       "trend": "up"
     }
   ]
