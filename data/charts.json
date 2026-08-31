@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W36",
   "previous_week": "2026-W35",
-  "updated": "2026-08-31T01:35:15.207526+00:00",
+  "updated": "2026-08-31T07:35:48.698748+00:00",
   "charts": [
     {
       "position": 1,
@@ -17,24 +17,42 @@
     },
     {
       "position": 2,
+      "artist": "Alex Blue",
+      "title": "Let Us Dance",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 3,
       "artist": "Bliss Team",
       "title": "Go!",
       "plays": 1,
       "previous_position": 217,
-      "movement": 215,
-      "trend": "up"
-    },
-    {
-      "position": 3,
-      "artist": "Body Base",
-      "title": "My Only Desire",
-      "plays": 1,
-      "previous_position": 13,
-      "movement": 10,
+      "movement": 214,
       "trend": "up"
     },
     {
       "position": 4,
+      "artist": "Blue Talking",
+      "title": "Love Me",
+      "plays": 1,
+      "previous_position": 106,
+      "movement": 102,
+      "trend": "up"
+    },
+    {
+      "position": 5,
+      "artist": "Body Base",
+      "title": "My Only Desire",
+      "plays": 1,
+      "previous_position": 13,
+      "movement": 8,
+      "trend": "up"
+    },
+    {
+      "position": 6,
       "artist": "Cappella",
       "title": "U Got 2 Know",
       "plays": 1,
@@ -43,139 +61,130 @@
       "trend": "new"
     },
     {
-      "position": 5,
+      "position": 7,
       "artist": "Coco",
       "title": "I Had A Dream",
       "plays": 1,
       "previous_position": 147,
-      "movement": 142,
-      "trend": "up"
-    },
-    {
-      "position": 6,
-      "artist": "Culture Beat",
-      "title": "Mr. Vain",
-      "plays": 1,
-      "previous_position": 249,
-      "movement": 243,
-      "trend": "up"
-    },
-    {
-      "position": 7,
-      "artist": "Flying Steps",
-      "title": "Breakin' It Down",
-      "plays": 1,
-      "previous_position": 141,
-      "movement": 134,
+      "movement": 140,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "Freestyle Project",
-      "title": "Hey Mr. DJ",
+      "artist": "Culture Beat",
+      "title": "Mr. Vain",
       "plays": 1,
-      "previous_position": 79,
-      "movement": 71,
+      "previous_position": 249,
+      "movement": 241,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "Irene",
-      "title": "Real Love",
+      "artist": "DJ Jerry",
+      "title": "Shanghai",
       "plays": 1,
-      "previous_position": 17,
-      "movement": 8,
+      "previous_position": 80,
+      "movement": 71,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "K. Da 'Cruz",
-      "title": "Love Is Lifting Me Higher",
+      "artist": "Flying Steps",
+      "title": "Breakin' It Down",
       "plays": 1,
-      "previous_position": 44,
-      "movement": 34,
+      "previous_position": 141,
+      "movement": 131,
       "trend": "up"
     },
     {
       "position": 11,
-      "artist": "Masterboy",
-      "title": "I Got To Give It Up",
+      "artist": "Freestyle Project",
+      "title": "Hey Mr. DJ",
       "plays": 1,
-      "previous_position": 224,
-      "movement": 213,
+      "previous_position": 79,
+      "movement": 68,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "N.A.D.",
-      "title": "Don't Go Away",
+      "artist": "Grant Miller",
+      "title": "Star",
       "plays": 1,
-      "previous_position": 18,
-      "movement": 6,
+      "previous_position": 150,
+      "movement": 138,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "Nicki Daniels",
-      "title": "Belive In Me",
+      "artist": "Irene",
+      "title": "Real Love",
       "plays": 1,
-      "previous_position": 14,
-      "movement": 1,
+      "previous_position": 17,
+      "movement": 4,
       "trend": "up"
     },
     {
       "position": 14,
-      "artist": "Shine",
-      "title": "By The Light Of Nature",
+      "artist": "Italo Disco Is Back",
+      "title": "Ausgabe 21  - Teil 1",
       "plays": 1,
-      "previous_position": 219,
-      "movement": 205,
+      "previous_position": 153,
+      "movement": 139,
       "trend": "up"
     },
     {
       "position": 15,
-      "artist": "Smash",
-      "title": "Summer Love",
+      "artist": "Italo Disco Is Back",
+      "title": "Ausgabe 21  - Teil 2",
       "plays": 1,
-      "previous_position": 9,
-      "movement": -6,
-      "trend": "down"
+      "previous_position": 231,
+      "movement": 216,
+      "trend": "up"
     },
     {
       "position": 16,
-      "artist": "The Free",
-      "title": "Dance The Night Away",
+      "artist": "K. Da 'Cruz",
+      "title": "Love Is Lifting Me Higher",
       "plays": 1,
-      "previous_position": 177,
-      "movement": 161,
+      "previous_position": 44,
+      "movement": 28,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "The Officer",
-      "title": "Cry",
+      "artist": "Ken Laszlo",
+      "title": "Tonight",
       "plays": 1,
-      "previous_position": 78,
-      "movement": 61,
+      "previous_position": 287,
+      "movement": 270,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "The Officer",
-      "title": "La Musica",
+      "artist": "Masterboy",
+      "title": "I Got To Give It Up",
       "plays": 1,
-      "previous_position": 41,
-      "movement": 23,
+      "previous_position": 224,
+      "movement": 206,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Vertical Vibe",
-      "title": "Everybody's Free",
+      "artist": "N.A.D.",
+      "title": "Don't Go Away",
       "plays": 1,
-      "previous_position": 225,
-      "movement": 206,
-      "trend": "up"
+      "previous_position": 18,
+      "movement": -1,
+      "trend": "down"
+    },
+    {
+      "position": 20,
+      "artist": "Nicki Daniels",
+      "title": "Belive In Me",
+      "plays": 1,
+      "previous_position": 14,
+      "movement": -6,
+      "trend": "down"
     }
   ]
 }
