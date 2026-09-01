@@ -4,127 +4,163 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W36",
   "previous_week": "2026-W35",
-  "updated": "2026-09-01T00:22:03.906450+00:00",
+  "updated": "2026-09-01T05:22:18.578969+00:00",
   "charts": [
     {
       "position": 1,
-      "artist": "Body Base",
-      "title": "My Only Desire",
+      "artist": "Alex Blue",
+      "title": "Let Us Dance",
       "plays": 2,
-      "previous_position": 13,
-      "movement": 12,
-      "trend": "up"
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
       "position": 2,
-      "artist": "Flying Steps",
-      "title": "Breakin' It Down",
+      "artist": "Blue Talking",
+      "title": "Love Me",
       "plays": 2,
-      "previous_position": 141,
-      "movement": 139,
+      "previous_position": 106,
+      "movement": 104,
       "trend": "up"
     },
     {
       "position": 3,
-      "artist": "Freestyle Project",
-      "title": "Hey Mr. DJ",
+      "artist": "Body Base",
+      "title": "My Only Desire",
       "plays": 2,
-      "previous_position": 79,
-      "movement": 76,
+      "previous_position": 13,
+      "movement": 10,
       "trend": "up"
     },
     {
       "position": 4,
-      "artist": "N.A.D.",
-      "title": "Don't Go Away",
+      "artist": "Flying Steps",
+      "title": "Breakin' It Down",
       "plays": 2,
-      "previous_position": 18,
-      "movement": 14,
+      "previous_position": 141,
+      "movement": 137,
       "trend": "up"
     },
     {
       "position": 5,
-      "artist": "The Officer",
-      "title": "La Musica",
+      "artist": "Freestyle Project",
+      "title": "Hey Mr. DJ",
       "plays": 2,
-      "previous_position": 41,
-      "movement": 36,
+      "previous_position": 79,
+      "movement": 74,
       "trend": "up"
     },
     {
       "position": 6,
-      "artist": "7dance & Melody Castellari",
-      "title": "Fly",
-      "plays": 1,
-      "previous_position": 45,
-      "movement": 39,
+      "artist": "Grant Miller",
+      "title": "Star",
+      "plays": 2,
+      "previous_position": 150,
+      "movement": 144,
       "trend": "up"
     },
     {
       "position": 7,
-      "artist": "Albin Berger",
-      "title": "Lieben Heißt...",
-      "plays": 1,
-      "previous_position": 130,
-      "movement": 123,
+      "artist": "Ken Laszlo",
+      "title": "Tonight",
+      "plays": 2,
+      "previous_position": 287,
+      "movement": 280,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "Alex Blue",
-      "title": "Let Us Dance",
+      "artist": "N.A.D.",
+      "title": "Don't Go Away",
+      "plays": 2,
+      "previous_position": 18,
+      "movement": 10,
+      "trend": "up"
+    },
+    {
+      "position": 9,
+      "artist": "Talking Blue",
+      "title": "Summer In Your Eyes",
+      "plays": 2,
+      "previous_position": 47,
+      "movement": 38,
+      "trend": "up"
+    },
+    {
+      "position": 10,
+      "artist": "The Officer",
+      "title": "La Musica",
+      "plays": 2,
+      "previous_position": 41,
+      "movement": 31,
+      "trend": "up"
+    },
+    {
+      "position": 11,
+      "artist": "7dance & Melody Castellari",
+      "title": "Fly",
+      "plays": 1,
+      "previous_position": 45,
+      "movement": 34,
+      "trend": "up"
+    },
+    {
+      "position": 12,
+      "artist": "Albin Berger",
+      "title": "Lieben Heißt...",
+      "plays": 1,
+      "previous_position": 130,
+      "movement": 118,
+      "trend": "up"
+    },
+    {
+      "position": 13,
+      "artist": "Alix",
+      "title": "Pay The Price",
+      "plays": 1,
+      "previous_position": 77,
+      "movement": 64,
+      "trend": "up"
+    },
+    {
+      "position": 14,
+      "artist": "Anthony Norris",
+      "title": "All I Want Is You",
+      "plays": 1,
+      "previous_position": 38,
+      "movement": 24,
+      "trend": "up"
+    },
+    {
+      "position": 15,
+      "artist": "Bad Boys Blue",
+      "title": "Queen Of Hearts",
       "plays": 1,
       "previous_position": null,
       "movement": null,
       "trend": "new"
     },
     {
-      "position": 9,
-      "artist": "Alix",
-      "title": "Pay The Price",
-      "plays": 1,
-      "previous_position": 77,
-      "movement": 68,
-      "trend": "up"
-    },
-    {
-      "position": 10,
-      "artist": "Anthony Norris",
-      "title": "All I Want Is You",
-      "plays": 1,
-      "previous_position": 38,
-      "movement": 28,
-      "trend": "up"
-    },
-    {
-      "position": 11,
+      "position": 16,
       "artist": "Bliss Team",
       "title": "Go!",
       "plays": 1,
       "previous_position": 217,
-      "movement": 206,
+      "movement": 201,
       "trend": "up"
     },
     {
-      "position": 12,
-      "artist": "Blue Talking",
-      "title": "Love Me",
-      "plays": 1,
-      "previous_position": 106,
-      "movement": 94,
-      "trend": "up"
-    },
-    {
-      "position": 13,
+      "position": 17,
       "artist": "Body Base",
       "title": "Crying In The Dark",
       "plays": 1,
       "previous_position": 5,
-      "movement": -8,
+      "movement": -12,
       "trend": "down"
     },
     {
-      "position": 14,
+      "position": 18,
       "artist": "Cappella",
       "title": "U Got 2 Know",
       "plays": 1,
@@ -133,58 +169,22 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 19,
       "artist": "Coco",
       "title": "I Had A Dream",
       "plays": 1,
       "previous_position": 147,
-      "movement": 132,
-      "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "Culture Beat",
-      "title": "Mr. Vain",
-      "plays": 1,
-      "previous_position": 249,
-      "movement": 233,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "DJ Jerry",
-      "title": "Shanghai",
-      "plays": 1,
-      "previous_position": 80,
-      "movement": 63,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "First Base",
-      "title": "Follow Me",
-      "plays": 1,
-      "previous_position": 6,
-      "movement": -12,
-      "trend": "down"
-    },
-    {
-      "position": 19,
-      "artist": "Frank Heller",
-      "title": "Total Reset",
-      "plays": 1,
-      "previous_position": 133,
-      "movement": 114,
+      "movement": 128,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Frankie J",
-      "title": "Body Rock",
+      "artist": "Culture Beat",
+      "title": "Mr. Vain",
       "plays": 1,
-      "previous_position": 8,
-      "movement": -12,
-      "trend": "down"
+      "previous_position": 249,
+      "movement": 229,
+      "trend": "up"
     }
   ]
 }
