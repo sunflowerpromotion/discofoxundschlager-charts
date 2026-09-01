@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W36",
   "previous_week": "2026-W35",
-  "updated": "2026-09-01T10:15:40.390507+00:00",
+  "updated": "2026-09-01T14:57:05.157842+00:00",
   "charts": [
     {
       "position": 1,
@@ -125,15 +125,24 @@
     },
     {
       "position": 14,
-      "artist": "Anthony Norris",
-      "title": "All I Want Is You",
+      "artist": "Angela Henn & Dennis Klak",
+      "title": "Barfuß Auf Der Venus",
       "plays": 1,
-      "previous_position": 38,
-      "movement": 24,
+      "previous_position": 32,
+      "movement": 18,
       "trend": "up"
     },
     {
       "position": 15,
+      "artist": "Anthony Norris",
+      "title": "All I Want Is You",
+      "plays": 1,
+      "previous_position": 38,
+      "movement": 23,
+      "trend": "up"
+    },
+    {
+      "position": 16,
       "artist": "Bad Boys Blue",
       "title": "Queen Of Hearts",
       "plays": 1,
@@ -142,25 +151,25 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 17,
       "artist": "Bliss Team",
       "title": "Go!",
       "plays": 1,
       "previous_position": 217,
-      "movement": 201,
+      "movement": 200,
       "trend": "up"
     },
     {
-      "position": 17,
+      "position": 18,
       "artist": "Body Base",
       "title": "Crying In The Dark",
       "plays": 1,
       "previous_position": 5,
-      "movement": -12,
+      "movement": -13,
       "trend": "down"
     },
     {
-      "position": 18,
+      "position": 19,
       "artist": "Cappella",
       "title": "U Got 2 Know",
       "plays": 1,
@@ -169,21 +178,12 @@
       "trend": "new"
     },
     {
-      "position": 19,
+      "position": 20,
       "artist": "Coco",
       "title": "I Had A Dream",
       "plays": 1,
       "previous_position": 147,
-      "movement": 128,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "Culture Beat",
-      "title": "Mr. Vain",
-      "plays": 1,
-      "previous_position": 249,
-      "movement": 229,
+      "movement": 127,
       "trend": "up"
     }
   ]
