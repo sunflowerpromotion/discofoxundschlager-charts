@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W36",
   "previous_week": "2026-W35",
-  "updated": "2026-09-02T14:03:50.077048+00:00",
+  "updated": "2026-09-02T17:51:13.428979+00:00",
   "charts": [
     {
       "position": 1,
@@ -125,65 +125,65 @@
     },
     {
       "position": 14,
+      "artist": "Joker & Sequence",
+      "title": "Z Dnia Na Dzien",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 15,
       "artist": "Ken Laszlo",
       "title": "Tonight",
       "plays": 2,
       "previous_position": 287,
-      "movement": 273,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "Lian Ross",
-      "title": "The Rules Of Love",
-      "plays": 2,
-      "previous_position": 254,
-      "movement": 239,
+      "movement": 272,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "Marc Austin",
-      "title": "Lighthouse",
+      "artist": "Lian Ross",
+      "title": "The Rules Of Love",
       "plays": 2,
-      "previous_position": 33,
-      "movement": 17,
+      "previous_position": 254,
+      "movement": 238,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "N.A.D.",
-      "title": "Don't Go Away",
+      "artist": "Marc Austin",
+      "title": "Lighthouse",
       "plays": 2,
-      "previous_position": 18,
-      "movement": 1,
+      "previous_position": 33,
+      "movement": 16,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Olaf der Flipper",
-      "title": "Weltklasse",
+      "artist": "Mejk",
+      "title": "Przez Dwa Serca",
       "plays": 2,
-      "previous_position": 120,
-      "movement": 102,
+      "previous_position": 55,
+      "movement": 37,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Olaf Henning",
-      "title": "Traumfrau",
+      "artist": "N.A.D.",
+      "title": "Don't Go Away",
       "plays": 2,
-      "previous_position": 140,
-      "movement": 121,
-      "trend": "up"
+      "previous_position": 18,
+      "movement": -1,
+      "trend": "down"
     },
     {
       "position": 20,
-      "artist": "Saint",
-      "title": "Someone",
+      "artist": "Olaf der Flipper",
+      "title": "Weltklasse",
       "plays": 2,
-      "previous_position": 85,
-      "movement": 65,
+      "previous_position": 120,
+      "movement": 100,
       "trend": "up"
     }
   ]
