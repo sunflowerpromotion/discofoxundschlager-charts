@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W36",
   "previous_week": "2026-W35",
-  "updated": "2026-09-02T20:09:18.350179+00:00",
+  "updated": "2026-09-02T22:37:26.944895+00:00",
   "charts": [
     {
       "position": 1,
@@ -89,42 +89,60 @@
     },
     {
       "position": 10,
-      "artist": "Frank Heller",
-      "title": "Total Reset",
+      "artist": "Flying Steps",
+      "title": "We Are Electric",
       "plays": 2,
-      "previous_position": 133,
-      "movement": 123,
+      "previous_position": 42,
+      "movement": 32,
       "trend": "up"
     },
     {
       "position": 11,
-      "artist": "Freestyle Project",
-      "title": "Hey Mr. DJ",
+      "artist": "Frank Heller",
+      "title": "Total Reset",
       "plays": 2,
-      "previous_position": 79,
-      "movement": 68,
+      "previous_position": 133,
+      "movement": 122,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Graziano & Sunrise",
-      "title": "Una Notte Italiana",
+      "artist": "Frankie J",
+      "title": "Body Rock",
       "plays": 2,
-      "previous_position": 281,
-      "movement": 269,
-      "trend": "up"
+      "previous_position": 8,
+      "movement": -4,
+      "trend": "down"
     },
     {
       "position": 13,
-      "artist": "Johnny O.",
-      "title": "Fantasy Girl",
+      "artist": "Freestyle Project",
+      "title": "Hey Mr. DJ",
       "plays": 2,
-      "previous_position": 161,
-      "movement": 148,
+      "previous_position": 79,
+      "movement": 66,
       "trend": "up"
     },
     {
       "position": 14,
+      "artist": "Graziano & Sunrise",
+      "title": "Una Notte Italiana",
+      "plays": 2,
+      "previous_position": 281,
+      "movement": 267,
+      "trend": "up"
+    },
+    {
+      "position": 15,
+      "artist": "Johnny O.",
+      "title": "Fantasy Girl",
+      "plays": 2,
+      "previous_position": 161,
+      "movement": 146,
+      "trend": "up"
+    },
+    {
+      "position": 16,
       "artist": "Joker & Sequence",
       "title": "Z Dnia Na Dzien",
       "plays": 2,
@@ -133,57 +151,39 @@
       "trend": "new"
     },
     {
-      "position": 15,
-      "artist": "Ken Laszlo",
-      "title": "Tonight",
-      "plays": 2,
-      "previous_position": 287,
-      "movement": 272,
-      "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "Lian Ross",
-      "title": "The Rules Of Love",
-      "plays": 2,
-      "previous_position": 254,
-      "movement": 238,
-      "trend": "up"
-    },
-    {
       "position": 17,
-      "artist": "Marc Austin",
-      "title": "Lighthouse",
+      "artist": "Kalvin Loves Freestyle",
+      "title": "If You Want My Love",
       "plays": 2,
-      "previous_position": 33,
-      "movement": 16,
+      "previous_position": 76,
+      "movement": 59,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Mejk",
-      "title": "Przez Dwa Serca",
+      "artist": "Ken Laszlo",
+      "title": "Tonight",
       "plays": 2,
-      "previous_position": 55,
-      "movement": 37,
+      "previous_position": 287,
+      "movement": 269,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "N.A.D.",
-      "title": "Don't Go Away",
+      "artist": "Lian Ross",
+      "title": "The Rules Of Love",
       "plays": 2,
-      "previous_position": 18,
-      "movement": -1,
-      "trend": "down"
+      "previous_position": 254,
+      "movement": 235,
+      "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Olaf der Flipper",
-      "title": "Weltklasse",
+      "artist": "Marc Austin",
+      "title": "Lighthouse",
       "plays": 2,
-      "previous_position": 120,
-      "movement": 100,
+      "previous_position": 33,
+      "movement": 13,
       "trend": "up"
     }
   ]
