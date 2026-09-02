@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W36",
   "previous_week": "2026-W35",
-  "updated": "2026-09-01T23:15:09.399763+00:00",
+  "updated": "2026-09-02T01:03:38.406244+00:00",
   "charts": [
     {
       "position": 1,
@@ -170,20 +170,20 @@
     },
     {
       "position": 19,
+      "artist": "2 Unlimited",
+      "title": "Let The Beat Control Your Body",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 20,
       "artist": "7dance & Melody Castellari",
       "title": "Fly",
       "plays": 1,
       "previous_position": 45,
-      "movement": 26,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "Albin Berger",
-      "title": "Lieben Heißt...",
-      "plays": 1,
-      "previous_position": 130,
-      "movement": 110,
+      "movement": 25,
       "trend": "up"
     }
   ]
