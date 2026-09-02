@@ -4,187 +4,187 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W36",
   "previous_week": "2026-W35",
-  "updated": "2026-09-02T01:03:38.406244+00:00",
+  "updated": "2026-09-02T05:42:27.894141+00:00",
   "charts": [
     {
       "position": 1,
-      "artist": "Body Base",
-      "title": "My Only Desire",
+      "artist": "Alex Blue",
+      "title": "Let Us Dance",
       "plays": 3,
-      "previous_position": 13,
-      "movement": 12,
-      "trend": "up"
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
       "position": 2,
-      "artist": "The Officer",
-      "title": "La Musica",
+      "artist": "Blue Talking",
+      "title": "Love Me",
       "plays": 3,
-      "previous_position": 41,
-      "movement": 39,
+      "previous_position": 106,
+      "movement": 104,
       "trend": "up"
     },
     {
       "position": 3,
-      "artist": "Alex Blue",
-      "title": "Let Us Dance",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "artist": "Body Base",
+      "title": "My Only Desire",
+      "plays": 3,
+      "previous_position": 13,
+      "movement": 10,
+      "trend": "up"
     },
     {
       "position": 4,
-      "artist": "Alix",
-      "title": "Pay The Price",
-      "plays": 2,
-      "previous_position": 77,
-      "movement": 73,
+      "artist": "Grant Miller",
+      "title": "Star",
+      "plays": 3,
+      "previous_position": 150,
+      "movement": 146,
       "trend": "up"
     },
     {
       "position": 5,
-      "artist": "Blue Talking",
-      "title": "Love Me",
-      "plays": 2,
-      "previous_position": 106,
-      "movement": 101,
+      "artist": "The Officer",
+      "title": "La Musica",
+      "plays": 3,
+      "previous_position": 41,
+      "movement": 36,
       "trend": "up"
     },
     {
       "position": 6,
-      "artist": "First Base",
-      "title": "Follow Me",
+      "artist": "Alix",
+      "title": "Pay The Price",
       "plays": 2,
-      "previous_position": 6,
-      "movement": 0,
-      "trend": "same"
+      "previous_position": 77,
+      "movement": 71,
+      "trend": "up"
     },
     {
       "position": 7,
-      "artist": "Flying Steps",
-      "title": "Breakin' It Down",
+      "artist": "Bad Boys Blue",
+      "title": "Queen Of Hearts",
       "plays": 2,
-      "previous_position": 141,
-      "movement": 134,
-      "trend": "up"
-    },
-    {
-      "position": 8,
-      "artist": "Freestyle Project",
-      "title": "Hey Mr. DJ",
-      "plays": 2,
-      "previous_position": 79,
-      "movement": 71,
-      "trend": "up"
-    },
-    {
-      "position": 9,
-      "artist": "Grant Miller",
-      "title": "Star",
-      "plays": 2,
-      "previous_position": 150,
-      "movement": 141,
-      "trend": "up"
-    },
-    {
-      "position": 10,
-      "artist": "Johnny O.",
-      "title": "Fantasy Girl",
-      "plays": 2,
-      "previous_position": 161,
-      "movement": 151,
-      "trend": "up"
-    },
-    {
-      "position": 11,
-      "artist": "Ken Laszlo",
-      "title": "Tonight",
-      "plays": 2,
-      "previous_position": 287,
-      "movement": 276,
-      "trend": "up"
-    },
-    {
-      "position": 12,
-      "artist": "Marc Austin",
-      "title": "Lighthouse",
-      "plays": 2,
-      "previous_position": 33,
-      "movement": 21,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "N.A.D.",
-      "title": "Don't Go Away",
-      "plays": 2,
-      "previous_position": 18,
-      "movement": 5,
-      "trend": "up"
-    },
-    {
-      "position": 14,
-      "artist": "Saint",
-      "title": "Someone",
-      "plays": 2,
-      "previous_position": 85,
-      "movement": 71,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "Smash",
-      "title": "Summer Love",
-      "plays": 2,
-      "previous_position": 9,
-      "movement": -6,
-      "trend": "down"
-    },
-    {
-      "position": 16,
-      "artist": "Stonay",
-      "title": "Waiting",
-      "plays": 2,
-      "previous_position": 144,
-      "movement": 128,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Talking Blue",
-      "title": "Summer In Your Eyes",
-      "plays": 2,
-      "previous_position": 47,
-      "movement": 30,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Zweety",
-      "title": "Rumpshaka",
-      "plays": 2,
-      "previous_position": 1,
-      "movement": -17,
-      "trend": "down"
-    },
-    {
-      "position": 19,
-      "artist": "2 Unlimited",
-      "title": "Let The Beat Control Your Body",
-      "plays": 1,
       "previous_position": null,
       "movement": null,
       "trend": "new"
     },
     {
-      "position": 20,
-      "artist": "7dance & Melody Castellari",
-      "title": "Fly",
-      "plays": 1,
-      "previous_position": 45,
-      "movement": 25,
+      "position": 8,
+      "artist": "First Base",
+      "title": "Follow Me",
+      "plays": 2,
+      "previous_position": 6,
+      "movement": -2,
+      "trend": "down"
+    },
+    {
+      "position": 9,
+      "artist": "Flying Steps",
+      "title": "Breakin' It Down",
+      "plays": 2,
+      "previous_position": 141,
+      "movement": 132,
       "trend": "up"
+    },
+    {
+      "position": 10,
+      "artist": "Freestyle Project",
+      "title": "Hey Mr. DJ",
+      "plays": 2,
+      "previous_position": 79,
+      "movement": 69,
+      "trend": "up"
+    },
+    {
+      "position": 11,
+      "artist": "Johnny O.",
+      "title": "Fantasy Girl",
+      "plays": 2,
+      "previous_position": 161,
+      "movement": 150,
+      "trend": "up"
+    },
+    {
+      "position": 12,
+      "artist": "Ken Laszlo",
+      "title": "Tonight",
+      "plays": 2,
+      "previous_position": 287,
+      "movement": 275,
+      "trend": "up"
+    },
+    {
+      "position": 13,
+      "artist": "Lian Ross",
+      "title": "The Rules Of Love",
+      "plays": 2,
+      "previous_position": 254,
+      "movement": 241,
+      "trend": "up"
+    },
+    {
+      "position": 14,
+      "artist": "Marc Austin",
+      "title": "Lighthouse",
+      "plays": 2,
+      "previous_position": 33,
+      "movement": 19,
+      "trend": "up"
+    },
+    {
+      "position": 15,
+      "artist": "N.A.D.",
+      "title": "Don't Go Away",
+      "plays": 2,
+      "previous_position": 18,
+      "movement": 3,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "Saint",
+      "title": "Someone",
+      "plays": 2,
+      "previous_position": 85,
+      "movement": 69,
+      "trend": "up"
+    },
+    {
+      "position": 17,
+      "artist": "Smash",
+      "title": "Summer Love",
+      "plays": 2,
+      "previous_position": 9,
+      "movement": -8,
+      "trend": "down"
+    },
+    {
+      "position": 18,
+      "artist": "Stonay",
+      "title": "Waiting",
+      "plays": 2,
+      "previous_position": 144,
+      "movement": 126,
+      "trend": "up"
+    },
+    {
+      "position": 19,
+      "artist": "Talking Blue",
+      "title": "Summer In Your Eyes",
+      "plays": 2,
+      "previous_position": 47,
+      "movement": 28,
+      "trend": "up"
+    },
+    {
+      "position": 20,
+      "artist": "Zweety",
+      "title": "Rumpshaka",
+      "plays": 2,
+      "previous_position": 1,
+      "movement": -19,
+      "trend": "down"
     }
   ]
 }
