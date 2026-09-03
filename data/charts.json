@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W36",
   "previous_week": "2026-W35",
-  "updated": "2026-09-03T17:20:56.112867+00:00",
+  "updated": "2026-09-03T19:57:12.045372+00:00",
   "charts": [
     {
       "position": 1,
@@ -170,21 +170,21 @@
     },
     {
       "position": 19,
-      "artist": "DJ Jerry",
-      "title": "Shanghai",
+      "artist": "Diadem",
+      "title": "Kochanie Moje",
       "plays": 2,
-      "previous_position": 80,
-      "movement": 61,
+      "previous_position": 60,
+      "movement": 41,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Fancy",
-      "title": "Slice Me Nice",
+      "artist": "DJ Jerry",
+      "title": "Shanghai",
       "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 80,
+      "movement": 60,
+      "trend": "up"
     }
   ]
 }
