@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W36",
   "previous_week": "2026-W35",
-  "updated": "2026-09-03T09:38:46.777981+00:00",
+  "updated": "2026-09-03T13:52:07.001066+00:00",
   "charts": [
     {
       "position": 1,
@@ -44,24 +44,33 @@
     },
     {
       "position": 5,
-      "artist": "Freestyle Project",
-      "title": "Hey Mr. DJ",
+      "artist": "Frank Heller",
+      "title": "Total Reset",
       "plays": 3,
-      "previous_position": 79,
-      "movement": 74,
+      "previous_position": 133,
+      "movement": 128,
       "trend": "up"
     },
     {
       "position": 6,
-      "artist": "Grant Miller",
-      "title": "Star",
+      "artist": "Freestyle Project",
+      "title": "Hey Mr. DJ",
       "plays": 3,
-      "previous_position": 150,
-      "movement": 144,
+      "previous_position": 79,
+      "movement": 73,
       "trend": "up"
     },
     {
       "position": 7,
+      "artist": "Grant Miller",
+      "title": "Star",
+      "plays": 3,
+      "previous_position": 150,
+      "movement": 143,
+      "trend": "up"
+    },
+    {
+      "position": 8,
       "artist": "Italo Disco Is Back",
       "title": "Ausgabe 23 - Teil 1",
       "plays": 3,
@@ -70,7 +79,7 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 9,
       "artist": "Italo Disco Is Back",
       "title": "Ausgabe 23 - Teil 2",
       "plays": 3,
@@ -79,79 +88,79 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 10,
       "artist": "Johnny O.",
       "title": "Fantasy Girl",
       "plays": 3,
       "previous_position": 161,
-      "movement": 152,
-      "trend": "up"
-    },
-    {
-      "position": 10,
-      "artist": "Ken Laszlo",
-      "title": "Tonight",
-      "plays": 3,
-      "previous_position": 287,
-      "movement": 277,
+      "movement": 151,
       "trend": "up"
     },
     {
       "position": 11,
-      "artist": "Lian Ross",
-      "title": "The Rules Of Love",
+      "artist": "Ken Laszlo",
+      "title": "Tonight",
       "plays": 3,
-      "previous_position": 254,
-      "movement": 243,
+      "previous_position": 287,
+      "movement": 276,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "N.A.D.",
-      "title": "Don't Go Away",
+      "artist": "Lian Ross",
+      "title": "The Rules Of Love",
       "plays": 3,
-      "previous_position": 18,
-      "movement": 6,
+      "previous_position": 254,
+      "movement": 242,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "Nicki Daniels",
-      "title": "Belive In Me",
+      "artist": "N.A.D.",
+      "title": "Don't Go Away",
       "plays": 3,
-      "previous_position": 14,
-      "movement": 1,
+      "previous_position": 18,
+      "movement": 5,
       "trend": "up"
     },
     {
       "position": 14,
+      "artist": "Nicki Daniels",
+      "title": "Belive In Me",
+      "plays": 3,
+      "previous_position": 14,
+      "movement": 0,
+      "trend": "same"
+    },
+    {
+      "position": 15,
       "artist": "Pandera",
       "title": "Pump Da Beat",
       "plays": 3,
       "previous_position": 84,
-      "movement": 70,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "Stonay",
-      "title": "Waiting",
-      "plays": 3,
-      "previous_position": 144,
-      "movement": 129,
+      "movement": 69,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "The Officer",
-      "title": "La Musica",
+      "artist": "Stonay",
+      "title": "Waiting",
       "plays": 3,
-      "previous_position": 41,
-      "movement": 25,
+      "previous_position": 144,
+      "movement": 128,
       "trend": "up"
     },
     {
       "position": 17,
+      "artist": "The Officer",
+      "title": "La Musica",
+      "plays": 3,
+      "previous_position": 41,
+      "movement": 24,
+      "trend": "up"
+    },
+    {
+      "position": 18,
       "artist": "Bad Boys Blue",
       "title": "Queen Of Hearts",
       "plays": 2,
@@ -160,31 +169,22 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 19,
       "artist": "DJ Jerry",
       "title": "Shanghai",
       "plays": 2,
       "previous_position": 80,
-      "movement": 62,
+      "movement": 61,
       "trend": "up"
     },
     {
-      "position": 19,
+      "position": 20,
       "artist": "Fancy",
       "title": "Slice Me Nice",
       "plays": 2,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "First Base",
-      "title": "Follow Me",
-      "plays": 2,
-      "previous_position": 6,
-      "movement": -14,
-      "trend": "down"
     }
   ]
 }
