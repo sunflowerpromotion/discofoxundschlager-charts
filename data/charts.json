@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W36",
   "previous_week": "2026-W35",
-  "updated": "2026-09-03T05:02:22.296567+00:00",
+  "updated": "2026-09-03T09:38:46.777981+00:00",
   "charts": [
     {
       "position": 1,
@@ -62,78 +62,96 @@
     },
     {
       "position": 7,
+      "artist": "Italo Disco Is Back",
+      "title": "Ausgabe 23 - Teil 1",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 8,
+      "artist": "Italo Disco Is Back",
+      "title": "Ausgabe 23 - Teil 2",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 9,
       "artist": "Johnny O.",
       "title": "Fantasy Girl",
       "plays": 3,
       "previous_position": 161,
-      "movement": 154,
-      "trend": "up"
-    },
-    {
-      "position": 8,
-      "artist": "Ken Laszlo",
-      "title": "Tonight",
-      "plays": 3,
-      "previous_position": 287,
-      "movement": 279,
-      "trend": "up"
-    },
-    {
-      "position": 9,
-      "artist": "Lian Ross",
-      "title": "The Rules Of Love",
-      "plays": 3,
-      "previous_position": 254,
-      "movement": 245,
+      "movement": 152,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "N.A.D.",
-      "title": "Don't Go Away",
+      "artist": "Ken Laszlo",
+      "title": "Tonight",
       "plays": 3,
-      "previous_position": 18,
-      "movement": 8,
+      "previous_position": 287,
+      "movement": 277,
       "trend": "up"
     },
     {
       "position": 11,
-      "artist": "Nicki Daniels",
-      "title": "Belive In Me",
+      "artist": "Lian Ross",
+      "title": "The Rules Of Love",
       "plays": 3,
-      "previous_position": 14,
-      "movement": 3,
+      "previous_position": 254,
+      "movement": 243,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Pandera",
-      "title": "Pump Da Beat",
+      "artist": "N.A.D.",
+      "title": "Don't Go Away",
       "plays": 3,
-      "previous_position": 84,
-      "movement": 72,
+      "previous_position": 18,
+      "movement": 6,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "Stonay",
-      "title": "Waiting",
+      "artist": "Nicki Daniels",
+      "title": "Belive In Me",
       "plays": 3,
-      "previous_position": 144,
-      "movement": 131,
+      "previous_position": 14,
+      "movement": 1,
       "trend": "up"
     },
     {
       "position": 14,
-      "artist": "The Officer",
-      "title": "La Musica",
+      "artist": "Pandera",
+      "title": "Pump Da Beat",
       "plays": 3,
-      "previous_position": 41,
-      "movement": 27,
+      "previous_position": 84,
+      "movement": 70,
       "trend": "up"
     },
     {
       "position": 15,
+      "artist": "Stonay",
+      "title": "Waiting",
+      "plays": 3,
+      "previous_position": 144,
+      "movement": 129,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "The Officer",
+      "title": "La Musica",
+      "plays": 3,
+      "previous_position": 41,
+      "movement": 25,
+      "trend": "up"
+    },
+    {
+      "position": 17,
       "artist": "Bad Boys Blue",
       "title": "Queen Of Hearts",
       "plays": 2,
@@ -142,16 +160,16 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 18,
       "artist": "DJ Jerry",
       "title": "Shanghai",
       "plays": 2,
       "previous_position": 80,
-      "movement": 64,
+      "movement": 62,
       "trend": "up"
     },
     {
-      "position": 17,
+      "position": 19,
       "artist": "Fancy",
       "title": "Slice Me Nice",
       "plays": 2,
@@ -160,31 +178,13 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 20,
       "artist": "First Base",
       "title": "Follow Me",
       "plays": 2,
       "previous_position": 6,
-      "movement": -12,
+      "movement": -14,
       "trend": "down"
-    },
-    {
-      "position": 19,
-      "artist": "Flying Steps",
-      "title": "Breakin' It Down",
-      "plays": 2,
-      "previous_position": 141,
-      "movement": 122,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "Flying Steps",
-      "title": "We Are Electric",
-      "plays": 2,
-      "previous_position": 42,
-      "movement": 22,
-      "trend": "up"
     }
   ]
 }
