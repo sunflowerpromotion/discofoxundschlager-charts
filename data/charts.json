@@ -4,10 +4,19 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W36",
   "previous_week": "2026-W35",
-  "updated": "2026-09-02T22:37:26.944895+00:00",
+  "updated": "2026-09-03T00:37:57.730433+00:00",
   "charts": [
     {
       "position": 1,
+      "artist": "Body Base",
+      "title": "My Only Desire",
+      "plays": 4,
+      "previous_position": 13,
+      "movement": 12,
+      "trend": "up"
+    },
+    {
+      "position": 2,
       "artist": "Alex Blue",
       "title": "Let Us Dance",
       "plays": 3,
@@ -16,52 +25,97 @@
       "trend": "new"
     },
     {
-      "position": 2,
-      "artist": "Blue Talking",
-      "title": "Love Me",
-      "plays": 3,
-      "previous_position": 106,
-      "movement": 104,
-      "trend": "up"
-    },
-    {
       "position": 3,
-      "artist": "Body Base",
-      "title": "My Only Desire",
+      "artist": "Alix",
+      "title": "Pay The Price",
       "plays": 3,
-      "previous_position": 13,
-      "movement": 10,
+      "previous_position": 77,
+      "movement": 74,
       "trend": "up"
     },
     {
       "position": 4,
-      "artist": "Grant Miller",
-      "title": "Star",
+      "artist": "Blue Talking",
+      "title": "Love Me",
       "plays": 3,
-      "previous_position": 150,
-      "movement": 146,
+      "previous_position": 106,
+      "movement": 102,
       "trend": "up"
     },
     {
       "position": 5,
-      "artist": "The Officer",
-      "title": "La Musica",
+      "artist": "Freestyle Project",
+      "title": "Hey Mr. DJ",
       "plays": 3,
-      "previous_position": 41,
-      "movement": 36,
+      "previous_position": 79,
+      "movement": 74,
       "trend": "up"
     },
     {
       "position": 6,
-      "artist": "Alix",
-      "title": "Pay The Price",
-      "plays": 2,
-      "previous_position": 77,
-      "movement": 71,
+      "artist": "Grant Miller",
+      "title": "Star",
+      "plays": 3,
+      "previous_position": 150,
+      "movement": 144,
       "trend": "up"
     },
     {
       "position": 7,
+      "artist": "Johnny O.",
+      "title": "Fantasy Girl",
+      "plays": 3,
+      "previous_position": 161,
+      "movement": 154,
+      "trend": "up"
+    },
+    {
+      "position": 8,
+      "artist": "N.A.D.",
+      "title": "Don't Go Away",
+      "plays": 3,
+      "previous_position": 18,
+      "movement": 10,
+      "trend": "up"
+    },
+    {
+      "position": 9,
+      "artist": "Nicki Daniels",
+      "title": "Belive In Me",
+      "plays": 3,
+      "previous_position": 14,
+      "movement": 5,
+      "trend": "up"
+    },
+    {
+      "position": 10,
+      "artist": "Pandera",
+      "title": "Pump Da Beat",
+      "plays": 3,
+      "previous_position": 84,
+      "movement": 74,
+      "trend": "up"
+    },
+    {
+      "position": 11,
+      "artist": "Stonay",
+      "title": "Waiting",
+      "plays": 3,
+      "previous_position": 144,
+      "movement": 133,
+      "trend": "up"
+    },
+    {
+      "position": 12,
+      "artist": "The Officer",
+      "title": "La Musica",
+      "plays": 3,
+      "previous_position": 41,
+      "movement": 29,
+      "trend": "up"
+    },
+    {
+      "position": 13,
       "artist": "Bad Boys Blue",
       "title": "Queen Of Hearts",
       "plays": 2,
@@ -70,121 +124,67 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 14,
       "artist": "First Base",
       "title": "Follow Me",
       "plays": 2,
       "previous_position": 6,
-      "movement": -2,
+      "movement": -8,
       "trend": "down"
     },
     {
-      "position": 9,
+      "position": 15,
       "artist": "Flying Steps",
       "title": "Breakin' It Down",
       "plays": 2,
       "previous_position": 141,
-      "movement": 132,
-      "trend": "up"
-    },
-    {
-      "position": 10,
-      "artist": "Flying Steps",
-      "title": "We Are Electric",
-      "plays": 2,
-      "previous_position": 42,
-      "movement": 32,
-      "trend": "up"
-    },
-    {
-      "position": 11,
-      "artist": "Frank Heller",
-      "title": "Total Reset",
-      "plays": 2,
-      "previous_position": 133,
-      "movement": 122,
-      "trend": "up"
-    },
-    {
-      "position": 12,
-      "artist": "Frankie J",
-      "title": "Body Rock",
-      "plays": 2,
-      "previous_position": 8,
-      "movement": -4,
-      "trend": "down"
-    },
-    {
-      "position": 13,
-      "artist": "Freestyle Project",
-      "title": "Hey Mr. DJ",
-      "plays": 2,
-      "previous_position": 79,
-      "movement": 66,
-      "trend": "up"
-    },
-    {
-      "position": 14,
-      "artist": "Graziano & Sunrise",
-      "title": "Una Notte Italiana",
-      "plays": 2,
-      "previous_position": 281,
-      "movement": 267,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "Johnny O.",
-      "title": "Fantasy Girl",
-      "plays": 2,
-      "previous_position": 161,
-      "movement": 146,
+      "movement": 126,
       "trend": "up"
     },
     {
       "position": 16,
+      "artist": "Flying Steps",
+      "title": "We Are Electric",
+      "plays": 2,
+      "previous_position": 42,
+      "movement": 26,
+      "trend": "up"
+    },
+    {
+      "position": 17,
+      "artist": "Frank Heller",
+      "title": "Total Reset",
+      "plays": 2,
+      "previous_position": 133,
+      "movement": 116,
+      "trend": "up"
+    },
+    {
+      "position": 18,
+      "artist": "Frankie J",
+      "title": "Body Rock",
+      "plays": 2,
+      "previous_position": 8,
+      "movement": -10,
+      "trend": "down"
+    },
+    {
+      "position": 19,
+      "artist": "Graziano & Sunrise",
+      "title": "Una Notte Italiana",
+      "plays": 2,
+      "previous_position": 281,
+      "movement": 262,
+      "trend": "up"
+    },
+    {
+      "position": 20,
       "artist": "Joker & Sequence",
       "title": "Z Dnia Na Dzien",
       "plays": 2,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 17,
-      "artist": "Kalvin Loves Freestyle",
-      "title": "If You Want My Love",
-      "plays": 2,
-      "previous_position": 76,
-      "movement": 59,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Ken Laszlo",
-      "title": "Tonight",
-      "plays": 2,
-      "previous_position": 287,
-      "movement": 269,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Lian Ross",
-      "title": "The Rules Of Love",
-      "plays": 2,
-      "previous_position": 254,
-      "movement": 235,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "Marc Austin",
-      "title": "Lighthouse",
-      "plays": 2,
-      "previous_position": 33,
-      "movement": 13,
-      "trend": "up"
     }
   ]
 }
