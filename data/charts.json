@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W36",
   "previous_week": "2026-W35",
-  "updated": "2026-09-04T21:33:12.670764+00:00",
+  "updated": "2026-09-04T23:14:51.658385+00:00",
   "charts": [
     {
       "position": 1,
@@ -17,15 +17,24 @@
     },
     {
       "position": 2,
-      "artist": "Nicki Daniels",
-      "title": "Belive In Me",
+      "artist": "Freestyle Project",
+      "title": "Hey Mr. DJ",
       "plays": 5,
-      "previous_position": 14,
-      "movement": 12,
+      "previous_position": 79,
+      "movement": 77,
       "trend": "up"
     },
     {
       "position": 3,
+      "artist": "Nicki Daniels",
+      "title": "Belive In Me",
+      "plays": 5,
+      "previous_position": 14,
+      "movement": 11,
+      "trend": "up"
+    },
+    {
+      "position": 4,
       "artist": "Alex Blue",
       "title": "Let Us Dance",
       "plays": 4,
@@ -34,31 +43,22 @@
       "trend": "new"
     },
     {
-      "position": 4,
+      "position": 5,
       "artist": "Alix",
       "title": "Pay The Price",
       "plays": 4,
       "previous_position": 77,
-      "movement": 73,
-      "trend": "up"
-    },
-    {
-      "position": 5,
-      "artist": "First Base",
-      "title": "Follow Me",
-      "plays": 4,
-      "previous_position": 6,
-      "movement": 1,
+      "movement": 72,
       "trend": "up"
     },
     {
       "position": 6,
-      "artist": "Freestyle Project",
-      "title": "Hey Mr. DJ",
+      "artist": "First Base",
+      "title": "Follow Me",
       "plays": 4,
-      "previous_position": 79,
-      "movement": 73,
-      "trend": "up"
+      "previous_position": 6,
+      "movement": 0,
+      "trend": "same"
     },
     {
       "position": 7,
@@ -125,6 +125,15 @@
     },
     {
       "position": 14,
+      "artist": "Anthony Norris",
+      "title": "All I Want Is You",
+      "plays": 3,
+      "previous_position": 38,
+      "movement": 24,
+      "trend": "up"
+    },
+    {
+      "position": 15,
       "artist": "Bad Boys Blue",
       "title": "Queen Of Hearts",
       "plays": 3,
@@ -133,58 +142,49 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 16,
       "artist": "Blue Talking",
       "title": "Love Me",
       "plays": 3,
       "previous_position": 106,
-      "movement": 91,
-      "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "Fantasy",
-      "title": "Wild Boys",
-      "plays": 3,
-      "previous_position": 34,
-      "movement": 18,
+      "movement": 90,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "Frank Heller",
-      "title": "Total Reset",
+      "artist": "Body Base",
+      "title": "Crying In The Dark",
       "plays": 3,
-      "previous_position": 133,
-      "movement": 116,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Frankie J",
-      "title": "Body Rock",
-      "plays": 3,
-      "previous_position": 8,
-      "movement": -10,
+      "previous_position": 5,
+      "movement": -12,
       "trend": "down"
     },
     {
-      "position": 19,
-      "artist": "Grant Miller",
-      "title": "Star",
+      "position": 18,
+      "artist": "Fantasy",
+      "title": "Wild Boys",
       "plays": 3,
-      "previous_position": 150,
-      "movement": 131,
+      "previous_position": 34,
+      "movement": 16,
+      "trend": "up"
+    },
+    {
+      "position": 19,
+      "artist": "Flying Steps",
+      "title": "Breakin' It Down",
+      "plays": 3,
+      "previous_position": 141,
+      "movement": 122,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "GórOlka",
-      "title": "OPA",
+      "artist": "Frank Heller",
+      "title": "Total Reset",
       "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 133,
+      "movement": 113,
+      "trend": "up"
     }
   ]
 }
