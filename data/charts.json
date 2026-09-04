@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W36",
   "previous_week": "2026-W35",
-  "updated": "2026-09-04T00:11:06.960977+00:00",
+  "updated": "2026-09-04T04:32:47.832503+00:00",
   "charts": [
     {
       "position": 1,
@@ -53,60 +53,78 @@
     },
     {
       "position": 6,
-      "artist": "N.A.D.",
-      "title": "Don't Go Away",
+      "artist": "Ken Laszlo",
+      "title": "Tonight",
       "plays": 4,
-      "previous_position": 18,
-      "movement": 12,
+      "previous_position": 287,
+      "movement": 281,
       "trend": "up"
     },
     {
       "position": 7,
-      "artist": "Nicki Daniels",
-      "title": "Belive In Me",
+      "artist": "Lian Ross",
+      "title": "The Rules Of Love",
       "plays": 4,
-      "previous_position": 14,
-      "movement": 7,
+      "previous_position": 254,
+      "movement": 247,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "Pandera",
-      "title": "Pump Da Beat",
+      "artist": "N.A.D.",
+      "title": "Don't Go Away",
       "plays": 4,
-      "previous_position": 84,
-      "movement": 76,
+      "previous_position": 18,
+      "movement": 10,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "Blue Talking",
-      "title": "Love Me",
-      "plays": 3,
-      "previous_position": 106,
-      "movement": 97,
+      "artist": "Nicki Daniels",
+      "title": "Belive In Me",
+      "plays": 4,
+      "previous_position": 14,
+      "movement": 5,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "Frank Heller",
-      "title": "Total Reset",
-      "plays": 3,
-      "previous_position": 133,
-      "movement": 123,
+      "artist": "Pandera",
+      "title": "Pump Da Beat",
+      "plays": 4,
+      "previous_position": 84,
+      "movement": 74,
       "trend": "up"
     },
     {
       "position": 11,
-      "artist": "Grant Miller",
-      "title": "Star",
+      "artist": "Blue Talking",
+      "title": "Love Me",
       "plays": 3,
-      "previous_position": 150,
-      "movement": 139,
+      "previous_position": 106,
+      "movement": 95,
       "trend": "up"
     },
     {
       "position": 12,
+      "artist": "Frank Heller",
+      "title": "Total Reset",
+      "plays": 3,
+      "previous_position": 133,
+      "movement": 121,
+      "trend": "up"
+    },
+    {
+      "position": 13,
+      "artist": "Grant Miller",
+      "title": "Star",
+      "plays": 3,
+      "previous_position": 150,
+      "movement": 137,
+      "trend": "up"
+    },
+    {
+      "position": 14,
       "artist": "Italo Disco Is Back",
       "title": "Ausgabe 23 - Teil 1",
       "plays": 3,
@@ -115,7 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 15,
       "artist": "Italo Disco Is Back",
       "title": "Ausgabe 23 - Teil 2",
       "plays": 3,
@@ -124,39 +142,21 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 16,
       "artist": "Johnny O.",
       "title": "Fantasy Girl",
       "plays": 3,
       "previous_position": 161,
-      "movement": 147,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "Kalvin Loves Freestyle",
-      "title": "If You Want My Love",
-      "plays": 3,
-      "previous_position": 76,
-      "movement": 61,
-      "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "Ken Laszlo",
-      "title": "Tonight",
-      "plays": 3,
-      "previous_position": 287,
-      "movement": 271,
+      "movement": 145,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "Lian Ross",
-      "title": "The Rules Of Love",
+      "artist": "Kalvin Loves Freestyle",
+      "title": "If You Want My Love",
       "plays": 3,
-      "previous_position": 254,
-      "movement": 237,
+      "previous_position": 76,
+      "movement": 59,
       "trend": "up"
     },
     {
