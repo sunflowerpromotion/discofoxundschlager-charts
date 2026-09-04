@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W36",
   "previous_week": "2026-W35",
-  "updated": "2026-09-04T13:24:46.951291+00:00",
+  "updated": "2026-09-04T16:55:18.230561+00:00",
   "charts": [
     {
       "position": 1,
@@ -134,24 +134,33 @@
     },
     {
       "position": 15,
-      "artist": "Frank Heller",
-      "title": "Total Reset",
+      "artist": "Fantasy",
+      "title": "Wild Boys",
       "plays": 3,
-      "previous_position": 133,
-      "movement": 118,
+      "previous_position": 34,
+      "movement": 19,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "Grant Miller",
-      "title": "Star",
+      "artist": "Frank Heller",
+      "title": "Total Reset",
       "plays": 3,
-      "previous_position": 150,
-      "movement": 134,
+      "previous_position": 133,
+      "movement": 117,
       "trend": "up"
     },
     {
       "position": 17,
+      "artist": "Grant Miller",
+      "title": "Star",
+      "plays": 3,
+      "previous_position": 150,
+      "movement": 133,
+      "trend": "up"
+    },
+    {
+      "position": 18,
       "artist": "Italo Disco Is Back",
       "title": "Ausgabe 23 - Teil 3",
       "plays": 3,
@@ -160,30 +169,21 @@
       "trend": "new"
     },
     {
-      "position": 18,
-      "artist": "Johnny O.",
-      "title": "Fantasy Girl",
-      "plays": 3,
-      "previous_position": 161,
-      "movement": 143,
-      "trend": "up"
-    },
-    {
       "position": 19,
-      "artist": "Kalvin Loves Freestyle",
-      "title": "If You Want My Love",
+      "artist": "Jessika",
+      "title": "Bajki Dwie",
       "plays": 3,
-      "previous_position": 76,
-      "movement": 57,
+      "previous_position": 57,
+      "movement": 38,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Marc Austin",
-      "title": "Lighthouse",
+      "artist": "Johnny O.",
+      "title": "Fantasy Girl",
       "plays": 3,
-      "previous_position": 33,
-      "movement": 13,
+      "previous_position": 161,
+      "movement": 141,
       "trend": "up"
     }
   ]
