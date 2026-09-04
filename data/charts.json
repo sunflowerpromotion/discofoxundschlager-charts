@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W36",
   "previous_week": "2026-W35",
-  "updated": "2026-09-04T16:55:18.230561+00:00",
+  "updated": "2026-09-04T19:16:25.453300+00:00",
   "charts": [
     {
       "position": 1,
@@ -161,6 +161,15 @@
     },
     {
       "position": 18,
+      "artist": "GórOlka",
+      "title": "OPA",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 19,
       "artist": "Italo Disco Is Back",
       "title": "Ausgabe 23 - Teil 3",
       "plays": 3,
@@ -169,21 +178,12 @@
       "trend": "new"
     },
     {
-      "position": 19,
+      "position": 20,
       "artist": "Jessika",
       "title": "Bajki Dwie",
       "plays": 3,
       "previous_position": 57,
-      "movement": 38,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "Johnny O.",
-      "title": "Fantasy Girl",
-      "plays": 3,
-      "previous_position": 161,
-      "movement": 141,
+      "movement": 37,
       "trend": "up"
     }
   ]
