@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W36",
   "previous_week": "2026-W35",
-  "updated": "2026-09-05T17:36:39.970645+00:00",
+  "updated": "2026-09-05T19:27:05.969109+00:00",
   "charts": [
     {
       "position": 1,
@@ -98,69 +98,78 @@
     },
     {
       "position": 11,
-      "artist": "Kalvin Loves Freestyle",
-      "title": "If You Want My Love",
+      "artist": "Jessika",
+      "title": "Bajki Dwie",
       "plays": 4,
-      "previous_position": 76,
-      "movement": 65,
+      "previous_position": 57,
+      "movement": 46,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Lian Ross",
-      "title": "The Rules Of Love",
+      "artist": "Kalvin Loves Freestyle",
+      "title": "If You Want My Love",
       "plays": 4,
-      "previous_position": 254,
-      "movement": 242,
+      "previous_position": 76,
+      "movement": 64,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "N.A.D.",
-      "title": "Don't Go Away",
+      "artist": "Lian Ross",
+      "title": "The Rules Of Love",
       "plays": 4,
-      "previous_position": 18,
-      "movement": 5,
+      "previous_position": 254,
+      "movement": 241,
       "trend": "up"
     },
     {
       "position": 14,
-      "artist": "Pandera",
-      "title": "Pump Da Beat",
+      "artist": "N.A.D.",
+      "title": "Don't Go Away",
       "plays": 4,
-      "previous_position": 84,
-      "movement": 70,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "Red Queen",
-      "title": "Mówisz, Ze Mnie Kochasz",
-      "plays": 4,
-      "previous_position": 205,
-      "movement": 190,
-      "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "Anthony Norris",
-      "title": "All I Want Is You",
-      "plays": 3,
-      "previous_position": 38,
-      "movement": 22,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Baccara",
-      "title": "My Love In China",
-      "plays": 3,
-      "previous_position": 21,
+      "previous_position": 18,
       "movement": 4,
       "trend": "up"
     },
     {
+      "position": 15,
+      "artist": "Pandera",
+      "title": "Pump Da Beat",
+      "plays": 4,
+      "previous_position": 84,
+      "movement": 69,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "Red Queen",
+      "title": "Mówisz, Ze Mnie Kochasz",
+      "plays": 4,
+      "previous_position": 205,
+      "movement": 189,
+      "trend": "up"
+    },
+    {
+      "position": 17,
+      "artist": "Anthony Norris",
+      "title": "All I Want Is You",
+      "plays": 3,
+      "previous_position": 38,
+      "movement": 21,
+      "trend": "up"
+    },
+    {
       "position": 18,
+      "artist": "Baccara",
+      "title": "My Love In China",
+      "plays": 3,
+      "previous_position": 21,
+      "movement": 3,
+      "trend": "up"
+    },
+    {
+      "position": 19,
       "artist": "Bad Boys Blue",
       "title": "Queen Of Hearts",
       "plays": 3,
@@ -169,22 +178,13 @@
       "trend": "new"
     },
     {
-      "position": 19,
+      "position": 20,
       "artist": "Blue Talking",
       "title": "Love Me",
       "plays": 3,
       "previous_position": 106,
-      "movement": 87,
+      "movement": 86,
       "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "Body Base",
-      "title": "Crying In The Dark",
-      "plays": 3,
-      "previous_position": 5,
-      "movement": -15,
-      "trend": "down"
     }
   ]
 }
