@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W36",
   "previous_week": "2026-W35",
-  "updated": "2026-09-05T15:37:58.926434+00:00",
+  "updated": "2026-09-05T17:36:39.970645+00:00",
   "charts": [
     {
       "position": 1,
@@ -134,24 +134,33 @@
     },
     {
       "position": 15,
-      "artist": "Anthony Norris",
-      "title": "All I Want Is You",
-      "plays": 3,
-      "previous_position": 38,
-      "movement": 23,
+      "artist": "Red Queen",
+      "title": "Mówisz, Ze Mnie Kochasz",
+      "plays": 4,
+      "previous_position": 205,
+      "movement": 190,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "Baccara",
-      "title": "My Love In China",
+      "artist": "Anthony Norris",
+      "title": "All I Want Is You",
       "plays": 3,
-      "previous_position": 21,
-      "movement": 5,
+      "previous_position": 38,
+      "movement": 22,
       "trend": "up"
     },
     {
       "position": 17,
+      "artist": "Baccara",
+      "title": "My Love In China",
+      "plays": 3,
+      "previous_position": 21,
+      "movement": 4,
+      "trend": "up"
+    },
+    {
+      "position": 18,
       "artist": "Bad Boys Blue",
       "title": "Queen Of Hearts",
       "plays": 3,
@@ -160,31 +169,22 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 19,
       "artist": "Blue Talking",
       "title": "Love Me",
       "plays": 3,
       "previous_position": 106,
-      "movement": 88,
+      "movement": 87,
       "trend": "up"
     },
     {
-      "position": 19,
+      "position": 20,
       "artist": "Body Base",
       "title": "Crying In The Dark",
       "plays": 3,
       "previous_position": 5,
-      "movement": -14,
+      "movement": -15,
       "trend": "down"
-    },
-    {
-      "position": 20,
-      "artist": "DJ Jerry",
-      "title": "Shanghai",
-      "plays": 3,
-      "previous_position": 80,
-      "movement": 60,
-      "trend": "up"
     }
   ]
 }
