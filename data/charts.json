@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W36",
   "previous_week": "2026-W35",
-  "updated": "2026-09-05T05:34:46.694226+00:00",
+  "updated": "2026-09-05T09:18:21.736954+00:00",
   "charts": [
     {
       "position": 1,
@@ -35,48 +35,48 @@
     },
     {
       "position": 4,
+      "artist": "Italo Disco Is Back",
+      "title": "Ausgabe 23 - Teil 1",
+      "plays": 5,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 5,
       "artist": "Ken Laszlo",
       "title": "Tonight",
       "plays": 5,
       "previous_position": 287,
-      "movement": 283,
-      "trend": "up"
-    },
-    {
-      "position": 5,
-      "artist": "Nicki Daniels",
-      "title": "Belive In Me",
-      "plays": 5,
-      "previous_position": 14,
-      "movement": 9,
+      "movement": 282,
       "trend": "up"
     },
     {
       "position": 6,
-      "artist": "Alix",
-      "title": "Pay The Price",
-      "plays": 4,
-      "previous_position": 77,
-      "movement": 71,
+      "artist": "Nicki Daniels",
+      "title": "Belive In Me",
+      "plays": 5,
+      "previous_position": 14,
+      "movement": 8,
       "trend": "up"
     },
     {
       "position": 7,
+      "artist": "Alix",
+      "title": "Pay The Price",
+      "plays": 4,
+      "previous_position": 77,
+      "movement": 70,
+      "trend": "up"
+    },
+    {
+      "position": 8,
       "artist": "First Base",
       "title": "Follow Me",
       "plays": 4,
       "previous_position": 6,
-      "movement": -1,
+      "movement": -2,
       "trend": "down"
-    },
-    {
-      "position": 8,
-      "artist": "Italo Disco Is Back",
-      "title": "Ausgabe 23 - Teil 1",
-      "plays": 4,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
     },
     {
       "position": 9,
