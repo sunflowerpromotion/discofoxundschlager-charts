@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W36",
   "previous_week": "2026-W35",
-  "updated": "2026-09-05T21:32:21.841673+00:00",
+  "updated": "2026-09-05T23:13:22.923625+00:00",
   "charts": [
     {
       "position": 1,
@@ -71,33 +71,51 @@
     },
     {
       "position": 8,
-      "artist": "Nicki Daniels",
-      "title": "Belive In Me",
+      "artist": "N.A.D.",
+      "title": "Don't Go Away",
       "plays": 5,
-      "previous_position": 14,
-      "movement": 6,
+      "previous_position": 18,
+      "movement": 10,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "First Base",
-      "title": "Follow Me",
-      "plays": 4,
-      "previous_position": 6,
-      "movement": -3,
-      "trend": "down"
+      "artist": "Nicki Daniels",
+      "title": "Belive In Me",
+      "plays": 5,
+      "previous_position": 14,
+      "movement": 5,
+      "trend": "up"
     },
     {
       "position": 10,
-      "artist": "Graziano & Sunrise",
-      "title": "Una Notte Italiana",
-      "plays": 4,
-      "previous_position": 281,
-      "movement": 271,
+      "artist": "Pandera",
+      "title": "Pump Da Beat",
+      "plays": 5,
+      "previous_position": 84,
+      "movement": 74,
       "trend": "up"
     },
     {
       "position": 11,
+      "artist": "First Base",
+      "title": "Follow Me",
+      "plays": 4,
+      "previous_position": 6,
+      "movement": -5,
+      "trend": "down"
+    },
+    {
+      "position": 12,
+      "artist": "Graziano & Sunrise",
+      "title": "Una Notte Italiana",
+      "plays": 4,
+      "previous_position": 281,
+      "movement": 269,
+      "trend": "up"
+    },
+    {
+      "position": 13,
       "artist": "Italo Disco Is Back",
       "title": "Ausgabe 23 - Teil 2",
       "plays": 4,
@@ -106,85 +124,67 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 14,
       "artist": "Jessika",
       "title": "Bajki Dwie",
       "plays": 4,
       "previous_position": 57,
-      "movement": 45,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "Lian Ross",
-      "title": "The Rules Of Love",
-      "plays": 4,
-      "previous_position": 254,
-      "movement": 241,
-      "trend": "up"
-    },
-    {
-      "position": 14,
-      "artist": "Lil Suzy",
-      "title": "Take Me In Your Arms",
-      "plays": 4,
-      "previous_position": 39,
-      "movement": 25,
+      "movement": 43,
       "trend": "up"
     },
     {
       "position": 15,
-      "artist": "N.A.D.",
-      "title": "Don't Go Away",
+      "artist": "Johnny O.",
+      "title": "Fantasy Girl",
       "plays": 4,
-      "previous_position": 18,
-      "movement": 3,
+      "previous_position": 161,
+      "movement": 146,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "Pandera",
-      "title": "Pump Da Beat",
+      "artist": "Lian Ross",
+      "title": "The Rules Of Love",
       "plays": 4,
-      "previous_position": 84,
-      "movement": 68,
+      "previous_position": 254,
+      "movement": 238,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "Red Queen",
-      "title": "Mówisz, Ze Mnie Kochasz",
+      "artist": "Lil Suzy",
+      "title": "Take Me In Your Arms",
       "plays": 4,
-      "previous_position": 205,
-      "movement": 188,
+      "previous_position": 39,
+      "movement": 22,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Science Club",
-      "title": "Depression",
+      "artist": "Red Queen",
+      "title": "Mówisz, Ze Mnie Kochasz",
       "plays": 4,
-      "previous_position": 37,
-      "movement": 19,
+      "previous_position": 205,
+      "movement": 187,
       "trend": "up"
     },
     {
       "position": 19,
+      "artist": "Science Club",
+      "title": "Depression",
+      "plays": 4,
+      "previous_position": 37,
+      "movement": 18,
+      "trend": "up"
+    },
+    {
+      "position": 20,
       "artist": "Split Mirrors",
       "title": "Voices",
       "plays": 4,
       "previous_position": 4,
-      "movement": -15,
+      "movement": -16,
       "trend": "down"
-    },
-    {
-      "position": 20,
-      "artist": "Stonay",
-      "title": "Waiting",
-      "plays": 4,
-      "previous_position": 144,
-      "movement": 124,
-      "trend": "up"
     }
   ]
 }
