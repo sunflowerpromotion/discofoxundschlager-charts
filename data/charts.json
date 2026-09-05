@@ -4,10 +4,19 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W36",
   "previous_week": "2026-W35",
-  "updated": "2026-09-05T19:27:05.969109+00:00",
+  "updated": "2026-09-05T21:32:21.841673+00:00",
   "charts": [
     {
       "position": 1,
+      "artist": "Freestyle Project",
+      "title": "Hey Mr. DJ",
+      "plays": 6,
+      "previous_position": 79,
+      "movement": 78,
+      "trend": "up"
+    },
+    {
+      "position": 2,
       "artist": "Alex Blue",
       "title": "Let Us Dance",
       "plays": 5,
@@ -16,25 +25,25 @@
       "trend": "new"
     },
     {
-      "position": 2,
-      "artist": "Body Base",
-      "title": "My Only Desire",
-      "plays": 5,
-      "previous_position": 13,
-      "movement": 11,
-      "trend": "up"
-    },
-    {
       "position": 3,
-      "artist": "Freestyle Project",
-      "title": "Hey Mr. DJ",
+      "artist": "Alix",
+      "title": "Pay The Price",
       "plays": 5,
-      "previous_position": 79,
-      "movement": 76,
+      "previous_position": 77,
+      "movement": 74,
       "trend": "up"
     },
     {
       "position": 4,
+      "artist": "Body Base",
+      "title": "My Only Desire",
+      "plays": 5,
+      "previous_position": 13,
+      "movement": 9,
+      "trend": "up"
+    },
+    {
+      "position": 5,
       "artist": "Italo Disco Is Back",
       "title": "Ausgabe 23 - Teil 1",
       "plays": 5,
@@ -43,52 +52,52 @@
       "trend": "new"
     },
     {
-      "position": 5,
-      "artist": "Ken Laszlo",
-      "title": "Tonight",
-      "plays": 5,
-      "previous_position": 287,
-      "movement": 282,
-      "trend": "up"
-    },
-    {
       "position": 6,
-      "artist": "Nicki Daniels",
-      "title": "Belive In Me",
+      "artist": "Kalvin Loves Freestyle",
+      "title": "If You Want My Love",
       "plays": 5,
-      "previous_position": 14,
-      "movement": 8,
-      "trend": "up"
-    },
-    {
-      "position": 7,
-      "artist": "Alix",
-      "title": "Pay The Price",
-      "plays": 4,
-      "previous_position": 77,
+      "previous_position": 76,
       "movement": 70,
       "trend": "up"
     },
     {
+      "position": 7,
+      "artist": "Ken Laszlo",
+      "title": "Tonight",
+      "plays": 5,
+      "previous_position": 287,
+      "movement": 280,
+      "trend": "up"
+    },
+    {
       "position": 8,
+      "artist": "Nicki Daniels",
+      "title": "Belive In Me",
+      "plays": 5,
+      "previous_position": 14,
+      "movement": 6,
+      "trend": "up"
+    },
+    {
+      "position": 9,
       "artist": "First Base",
       "title": "Follow Me",
       "plays": 4,
       "previous_position": 6,
-      "movement": -2,
+      "movement": -3,
       "trend": "down"
     },
     {
-      "position": 9,
+      "position": 10,
       "artist": "Graziano & Sunrise",
       "title": "Una Notte Italiana",
       "plays": 4,
       "previous_position": 281,
-      "movement": 272,
+      "movement": 271,
       "trend": "up"
     },
     {
-      "position": 10,
+      "position": 11,
       "artist": "Italo Disco Is Back",
       "title": "Ausgabe 23 - Teil 2",
       "plays": 4,
@@ -97,21 +106,12 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 12,
       "artist": "Jessika",
       "title": "Bajki Dwie",
       "plays": 4,
       "previous_position": 57,
-      "movement": 46,
-      "trend": "up"
-    },
-    {
-      "position": 12,
-      "artist": "Kalvin Loves Freestyle",
-      "title": "If You Want My Love",
-      "plays": 4,
-      "previous_position": 76,
-      "movement": 64,
+      "movement": 45,
       "trend": "up"
     },
     {
@@ -125,65 +125,65 @@
     },
     {
       "position": 14,
-      "artist": "N.A.D.",
-      "title": "Don't Go Away",
+      "artist": "Lil Suzy",
+      "title": "Take Me In Your Arms",
       "plays": 4,
-      "previous_position": 18,
-      "movement": 4,
+      "previous_position": 39,
+      "movement": 25,
       "trend": "up"
     },
     {
       "position": 15,
-      "artist": "Pandera",
-      "title": "Pump Da Beat",
+      "artist": "N.A.D.",
+      "title": "Don't Go Away",
       "plays": 4,
-      "previous_position": 84,
-      "movement": 69,
-      "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "Red Queen",
-      "title": "Mówisz, Ze Mnie Kochasz",
-      "plays": 4,
-      "previous_position": 205,
-      "movement": 189,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Anthony Norris",
-      "title": "All I Want Is You",
-      "plays": 3,
-      "previous_position": 38,
-      "movement": 21,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Baccara",
-      "title": "My Love In China",
-      "plays": 3,
-      "previous_position": 21,
+      "previous_position": 18,
       "movement": 3,
       "trend": "up"
     },
     {
+      "position": 16,
+      "artist": "Pandera",
+      "title": "Pump Da Beat",
+      "plays": 4,
+      "previous_position": 84,
+      "movement": 68,
+      "trend": "up"
+    },
+    {
+      "position": 17,
+      "artist": "Red Queen",
+      "title": "Mówisz, Ze Mnie Kochasz",
+      "plays": 4,
+      "previous_position": 205,
+      "movement": 188,
+      "trend": "up"
+    },
+    {
+      "position": 18,
+      "artist": "Science Club",
+      "title": "Depression",
+      "plays": 4,
+      "previous_position": 37,
+      "movement": 19,
+      "trend": "up"
+    },
+    {
       "position": 19,
-      "artist": "Bad Boys Blue",
-      "title": "Queen Of Hearts",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "artist": "Split Mirrors",
+      "title": "Voices",
+      "plays": 4,
+      "previous_position": 4,
+      "movement": -15,
+      "trend": "down"
     },
     {
       "position": 20,
-      "artist": "Blue Talking",
-      "title": "Love Me",
-      "plays": 3,
-      "previous_position": 106,
-      "movement": 86,
+      "artist": "Stonay",
+      "title": "Waiting",
+      "plays": 4,
+      "previous_position": 144,
+      "movement": 124,
       "trend": "up"
     }
   ]
