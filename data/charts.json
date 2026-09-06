@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W36",
   "previous_week": "2026-W35",
-  "updated": "2026-09-06T16:14:20.253710+00:00",
+  "updated": "2026-09-06T18:21:03.825210+00:00",
   "charts": [
     {
       "position": 1,
@@ -170,21 +170,21 @@
     },
     {
       "position": 19,
+      "artist": "Enjoy",
+      "title": "Ty Mała Jesteś Piękna",
+      "plays": 4,
+      "previous_position": 116,
+      "movement": 97,
+      "trend": "up"
+    },
+    {
+      "position": 20,
       "artist": "First Base",
       "title": "Follow Me",
       "plays": 4,
       "previous_position": 6,
-      "movement": -13,
+      "movement": -14,
       "trend": "down"
-    },
-    {
-      "position": 20,
-      "artist": "Grant Miller",
-      "title": "Star",
-      "plays": 4,
-      "previous_position": 150,
-      "movement": 130,
-      "trend": "up"
     }
   ]
 }
