@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W36",
   "previous_week": "2026-W35",
-  "updated": "2026-09-06T01:00:24.830243+00:00",
+  "updated": "2026-09-06T05:46:32.286507+00:00",
   "charts": [
     {
       "position": 1,
@@ -71,119 +71,119 @@
     },
     {
       "position": 8,
-      "artist": "Lil Suzy",
-      "title": "Take Me In Your Arms",
+      "artist": "Lian Ross",
+      "title": "The Rules Of Love",
       "plays": 5,
-      "previous_position": 39,
-      "movement": 31,
+      "previous_position": 254,
+      "movement": 246,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "N.A.D.",
-      "title": "Don't Go Away",
+      "artist": "Lil Suzy",
+      "title": "Take Me In Your Arms",
       "plays": 5,
-      "previous_position": 18,
-      "movement": 9,
+      "previous_position": 39,
+      "movement": 30,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "Nicki Daniels",
-      "title": "Belive In Me",
+      "artist": "N.A.D.",
+      "title": "Don't Go Away",
       "plays": 5,
-      "previous_position": 14,
-      "movement": 4,
+      "previous_position": 18,
+      "movement": 8,
       "trend": "up"
     },
     {
       "position": 11,
-      "artist": "Pandera",
-      "title": "Pump Da Beat",
+      "artist": "Nicki Daniels",
+      "title": "Belive In Me",
       "plays": 5,
-      "previous_position": 84,
-      "movement": 73,
+      "previous_position": 14,
+      "movement": 3,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Science Club",
-      "title": "Depression",
+      "artist": "Pandera",
+      "title": "Pump Da Beat",
       "plays": 5,
-      "previous_position": 37,
-      "movement": 25,
+      "previous_position": 84,
+      "movement": 72,
       "trend": "up"
     },
     {
       "position": 13,
+      "artist": "Science Club",
+      "title": "Depression",
+      "plays": 5,
+      "previous_position": 37,
+      "movement": 24,
+      "trend": "up"
+    },
+    {
+      "position": 14,
       "artist": "Split Mirrors",
       "title": "Voices",
       "plays": 5,
       "previous_position": 4,
-      "movement": -9,
+      "movement": -10,
       "trend": "down"
-    },
-    {
-      "position": 14,
-      "artist": "Chicco",
-      "title": "Love Is Not Enough",
-      "plays": 4,
-      "previous_position": 146,
-      "movement": 132,
-      "trend": "up"
     },
     {
       "position": 15,
-      "artist": "First Base",
-      "title": "Follow Me",
+      "artist": "Baccara",
+      "title": "My Love In China",
       "plays": 4,
-      "previous_position": 6,
-      "movement": -9,
-      "trend": "down"
-    },
-    {
-      "position": 16,
-      "artist": "Graziano & Sunrise",
-      "title": "Una Notte Italiana",
-      "plays": 4,
-      "previous_position": 281,
-      "movement": 265,
+      "previous_position": 21,
+      "movement": 6,
       "trend": "up"
     },
     {
-      "position": 17,
-      "artist": "Italo Disco Is Back",
-      "title": "Ausgabe 23 - Teil 2",
+      "position": 16,
+      "artist": "Bad Boys Blue",
+      "title": "Queen Of Hearts",
       "plays": 4,
       "previous_position": null,
       "movement": null,
       "trend": "new"
     },
     {
-      "position": 18,
-      "artist": "Jessika",
-      "title": "Bajki Dwie",
+      "position": 17,
+      "artist": "Blue Talking",
+      "title": "Love Me",
       "plays": 4,
-      "previous_position": 57,
-      "movement": 39,
+      "previous_position": 106,
+      "movement": 89,
+      "trend": "up"
+    },
+    {
+      "position": 18,
+      "artist": "Chicco",
+      "title": "Love Is Not Enough",
+      "plays": 4,
+      "previous_position": 146,
+      "movement": 128,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Johnny O.",
-      "title": "Fantasy Girl",
+      "artist": "First Base",
+      "title": "Follow Me",
       "plays": 4,
-      "previous_position": 161,
-      "movement": 142,
-      "trend": "up"
+      "previous_position": 6,
+      "movement": -13,
+      "trend": "down"
     },
     {
       "position": 20,
-      "artist": "Lian Ross",
-      "title": "The Rules Of Love",
+      "artist": "Grant Miller",
+      "title": "Star",
       "plays": 4,
-      "previous_position": 254,
-      "movement": 234,
+      "previous_position": 150,
+      "movement": 130,
       "trend": "up"
     }
   ]
