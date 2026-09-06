@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W36",
   "previous_week": "2026-W35",
-  "updated": "2026-09-06T18:21:03.825210+00:00",
+  "updated": "2026-09-06T20:32:25.271430+00:00",
   "charts": [
     {
       "position": 1,
@@ -53,6 +53,15 @@
     },
     {
       "position": 6,
+      "artist": "First Base",
+      "title": "Follow Me",
+      "plays": 5,
+      "previous_position": 6,
+      "movement": 0,
+      "trend": "same"
+    },
+    {
+      "position": 7,
       "artist": "Italo Disco Is Back",
       "title": "Ausgabe 23 - Teil 1",
       "plays": 5,
@@ -61,88 +70,97 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 8,
       "artist": "Ken Laszlo",
       "title": "Tonight",
       "plays": 5,
       "previous_position": 287,
-      "movement": 280,
-      "trend": "up"
-    },
-    {
-      "position": 8,
-      "artist": "Lian Ross",
-      "title": "The Rules Of Love",
-      "plays": 5,
-      "previous_position": 254,
-      "movement": 246,
+      "movement": 279,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "Lil Suzy",
-      "title": "Take Me In Your Arms",
+      "artist": "Lian Ross",
+      "title": "The Rules Of Love",
       "plays": 5,
-      "previous_position": 39,
-      "movement": 30,
+      "previous_position": 254,
+      "movement": 245,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "N.A.D.",
-      "title": "Don't Go Away",
+      "artist": "Lil Suzy",
+      "title": "Take Me In Your Arms",
       "plays": 5,
-      "previous_position": 18,
-      "movement": 8,
+      "previous_position": 39,
+      "movement": 29,
       "trend": "up"
     },
     {
       "position": 11,
-      "artist": "Nicki Daniels",
-      "title": "Belive In Me",
+      "artist": "N.A.D.",
+      "title": "Don't Go Away",
       "plays": 5,
-      "previous_position": 14,
-      "movement": 3,
+      "previous_position": 18,
+      "movement": 7,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Pandera",
-      "title": "Pump Da Beat",
+      "artist": "Nicki Daniels",
+      "title": "Belive In Me",
       "plays": 5,
-      "previous_position": 84,
-      "movement": 72,
+      "previous_position": 14,
+      "movement": 2,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "Science Club",
-      "title": "Depression",
+      "artist": "Pandera",
+      "title": "Pump Da Beat",
       "plays": 5,
-      "previous_position": 37,
-      "movement": 24,
+      "previous_position": 84,
+      "movement": 71,
       "trend": "up"
     },
     {
       "position": 14,
+      "artist": "Science Club",
+      "title": "Depression",
+      "plays": 5,
+      "previous_position": 37,
+      "movement": 23,
+      "trend": "up"
+    },
+    {
+      "position": 15,
       "artist": "Split Mirrors",
       "title": "Voices",
       "plays": 5,
       "previous_position": 4,
-      "movement": -10,
+      "movement": -11,
       "trend": "down"
     },
     {
-      "position": 15,
+      "position": 16,
+      "artist": "Anthony Norris",
+      "title": "All I Want Is You",
+      "plays": 4,
+      "previous_position": 38,
+      "movement": 22,
+      "trend": "up"
+    },
+    {
+      "position": 17,
       "artist": "Baccara",
       "title": "My Love In China",
       "plays": 4,
       "previous_position": 21,
-      "movement": 6,
+      "movement": 4,
       "trend": "up"
     },
     {
-      "position": 16,
+      "position": 18,
       "artist": "Bad Boys Blue",
       "title": "Queen Of Hearts",
       "plays": 4,
@@ -151,40 +169,22 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 19,
       "artist": "Blue Talking",
       "title": "Love Me",
       "plays": 4,
       "previous_position": 106,
-      "movement": 89,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Chicco",
-      "title": "Love Is Not Enough",
-      "plays": 4,
-      "previous_position": 146,
-      "movement": 128,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Enjoy",
-      "title": "Ty Mała Jesteś Piękna",
-      "plays": 4,
-      "previous_position": 116,
-      "movement": 97,
+      "movement": 87,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "First Base",
-      "title": "Follow Me",
+      "artist": "Chicco",
+      "title": "Love Is Not Enough",
       "plays": 4,
-      "previous_position": 6,
-      "movement": -14,
-      "trend": "down"
+      "previous_position": 146,
+      "movement": 126,
+      "trend": "up"
     }
   ]
 }
