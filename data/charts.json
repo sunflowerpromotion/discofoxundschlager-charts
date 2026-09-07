@@ -4,6 +4,88 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W37",
   "previous_week": "2026-W36",
-  "updated": "2026-09-06T22:16:37.858702+00:00",
-  "charts": []
+  "updated": "2026-09-07T04:21:58.622374+00:00",
+  "charts": [
+    {
+      "position": 1,
+      "artist": "Alex Blue",
+      "title": "Roulette Of Love",
+      "plays": 1,
+      "previous_position": 207,
+      "movement": 206,
+      "trend": "up"
+    },
+    {
+      "position": 2,
+      "artist": "Cappella",
+      "title": "U & Me",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 3,
+      "artist": "Edge Of Universe",
+      "title": "Afterlife",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 4,
+      "artist": "Fancy",
+      "title": "Slice Me Nice",
+      "plays": 1,
+      "previous_position": 93,
+      "movement": 89,
+      "trend": "up"
+    },
+    {
+      "position": 5,
+      "artist": "Grant Miller",
+      "title": "Star",
+      "plays": 1,
+      "previous_position": 20,
+      "movement": 15,
+      "trend": "up"
+    },
+    {
+      "position": 6,
+      "artist": "Joy Peters",
+      "title": "Don't Lose Your Heart",
+      "plays": 1,
+      "previous_position": 145,
+      "movement": 139,
+      "trend": "up"
+    },
+    {
+      "position": 7,
+      "artist": "Rotation",
+      "title": "Pomp It Up",
+      "plays": 1,
+      "previous_position": 158,
+      "movement": 151,
+      "trend": "up"
+    },
+    {
+      "position": 8,
+      "artist": "Silent Circle",
+      "title": "Stop The Rain In The Night",
+      "plays": 1,
+      "previous_position": 95,
+      "movement": 87,
+      "trend": "up"
+    },
+    {
+      "position": 9,
+      "artist": "The Free",
+      "title": "Dance The Night Away",
+      "plays": 1,
+      "previous_position": 132,
+      "movement": 123,
+      "trend": "up"
+    }
+  ]
 }
