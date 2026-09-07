@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W37",
   "previous_week": "2026-W36",
-  "updated": "2026-09-07T04:21:58.622374+00:00",
+  "updated": "2026-09-07T09:30:33.593684+00:00",
   "charts": [
     {
       "position": 1,
@@ -17,6 +17,15 @@
     },
     {
       "position": 2,
+      "artist": "Andre Busse",
+      "title": "Ich Hab Es Dir Doch Gesagt",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 3,
       "artist": "Cappella",
       "title": "U & Me",
       "plays": 1,
@@ -25,7 +34,7 @@
       "trend": "new"
     },
     {
-      "position": 3,
+      "position": 4,
       "artist": "Edge Of Universe",
       "title": "Afterlife",
       "plays": 1,
@@ -34,57 +43,138 @@
       "trend": "new"
     },
     {
-      "position": 4,
-      "artist": "Fancy",
-      "title": "Slice Me Nice",
-      "plays": 1,
-      "previous_position": 93,
-      "movement": 89,
-      "trend": "up"
-    },
-    {
       "position": 5,
-      "artist": "Grant Miller",
-      "title": "Star",
+      "artist": "Ein Herz Und Eine Tante",
+      "title": "Ich Will Sein Wie Ich Will",
       "plays": 1,
-      "previous_position": 20,
-      "movement": 15,
+      "previous_position": 81,
+      "movement": 76,
       "trend": "up"
     },
     {
       "position": 6,
-      "artist": "Joy Peters",
-      "title": "Don't Lose Your Heart",
+      "artist": "Fancy",
+      "title": "Slice Me Nice",
       "plays": 1,
-      "previous_position": 145,
-      "movement": 139,
-      "trend": "up"
-    },
-    {
-      "position": 7,
-      "artist": "Rotation",
-      "title": "Pomp It Up",
-      "plays": 1,
-      "previous_position": 158,
-      "movement": 151,
-      "trend": "up"
-    },
-    {
-      "position": 8,
-      "artist": "Silent Circle",
-      "title": "Stop The Rain In The Night",
-      "plays": 1,
-      "previous_position": 95,
+      "previous_position": 93,
       "movement": 87,
       "trend": "up"
     },
     {
+      "position": 7,
+      "artist": "Frank Schöbel",
+      "title": "Dich Hat Der Himmel Geschickt",
+      "plays": 1,
+      "previous_position": 161,
+      "movement": 154,
+      "trend": "up"
+    },
+    {
+      "position": 8,
+      "artist": "Grant Miller",
+      "title": "Star",
+      "plays": 1,
+      "previous_position": 20,
+      "movement": 12,
+      "trend": "up"
+    },
+    {
       "position": 9,
+      "artist": "Janine Frei",
+      "title": "Das Ist Deine Nacht",
+      "plays": 1,
+      "previous_position": 177,
+      "movement": 168,
+      "trend": "up"
+    },
+    {
+      "position": 10,
+      "artist": "Joy Peters",
+      "title": "Don't Lose Your Heart",
+      "plays": 1,
+      "previous_position": 145,
+      "movement": 135,
+      "trend": "up"
+    },
+    {
+      "position": 11,
+      "artist": "Jürgen Peter",
+      "title": "Das Leben Ist Zu Kurz Für Irgendwann",
+      "plays": 1,
+      "previous_position": 114,
+      "movement": 103,
+      "trend": "up"
+    },
+    {
+      "position": 12,
+      "artist": "Liane",
+      "title": "Küss Mich Bis Der Morgen Kommt",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 13,
+      "artist": "Peter Sebastian feat. Tina Heeschen",
+      "title": "Du Bringst Mich Aus Dem Takt",
+      "plays": 1,
+      "previous_position": 39,
+      "movement": 26,
+      "trend": "up"
+    },
+    {
+      "position": 14,
+      "artist": "Roger De Win",
+      "title": "Choo-Choo",
+      "plays": 1,
+      "previous_position": 179,
+      "movement": 165,
+      "trend": "up"
+    },
+    {
+      "position": 15,
+      "artist": "Rotation",
+      "title": "Pomp It Up",
+      "plays": 1,
+      "previous_position": 158,
+      "movement": 143,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "Silent Circle",
+      "title": "Stop The Rain In The Night",
+      "plays": 1,
+      "previous_position": 95,
+      "movement": 79,
+      "trend": "up"
+    },
+    {
+      "position": 17,
+      "artist": "Sophia Venus",
+      "title": "Nach Regen Folgt Sonne",
+      "plays": 1,
+      "previous_position": 119,
+      "movement": 102,
+      "trend": "up"
+    },
+    {
+      "position": 18,
       "artist": "The Free",
       "title": "Dance The Night Away",
       "plays": 1,
       "previous_position": 132,
-      "movement": 123,
+      "movement": 114,
+      "trend": "up"
+    },
+    {
+      "position": 19,
+      "artist": "Zweiklang",
+      "title": "Wenn Du Mir Gegenüber Stehst",
+      "plays": 1,
+      "previous_position": 78,
+      "movement": 59,
       "trend": "up"
     }
   ]
