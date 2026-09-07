@@ -4,19 +4,28 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W37",
   "previous_week": "2026-W36",
-  "updated": "2026-09-07T09:30:33.593684+00:00",
+  "updated": "2026-09-07T15:10:43.662929+00:00",
   "charts": [
     {
       "position": 1,
-      "artist": "Alex Blue",
-      "title": "Roulette Of Love",
-      "plays": 1,
-      "previous_position": 207,
-      "movement": 206,
+      "artist": "Roger De Win",
+      "title": "Choo-Choo",
+      "plays": 2,
+      "previous_position": 179,
+      "movement": 178,
       "trend": "up"
     },
     {
       "position": 2,
+      "artist": "Alex Blue",
+      "title": "Roulette Of Love",
+      "plays": 1,
+      "previous_position": 207,
+      "movement": 205,
+      "trend": "up"
+    },
+    {
+      "position": 3,
       "artist": "Andre Busse",
       "title": "Ich Hab Es Dir Doch Gesagt",
       "plays": 1,
@@ -25,7 +34,7 @@
       "trend": "new"
     },
     {
-      "position": 3,
+      "position": 4,
       "artist": "Cappella",
       "title": "U & Me",
       "plays": 1,
@@ -34,7 +43,7 @@
       "trend": "new"
     },
     {
-      "position": 4,
+      "position": 5,
       "artist": "Edge Of Universe",
       "title": "Afterlife",
       "plays": 1,
@@ -43,70 +52,88 @@
       "trend": "new"
     },
     {
-      "position": 5,
+      "position": 6,
       "artist": "Ein Herz Und Eine Tante",
       "title": "Ich Will Sein Wie Ich Will",
       "plays": 1,
       "previous_position": 81,
-      "movement": 76,
-      "trend": "up"
-    },
-    {
-      "position": 6,
-      "artist": "Fancy",
-      "title": "Slice Me Nice",
-      "plays": 1,
-      "previous_position": 93,
-      "movement": 87,
+      "movement": 75,
       "trend": "up"
     },
     {
       "position": 7,
-      "artist": "Frank Schöbel",
-      "title": "Dich Hat Der Himmel Geschickt",
+      "artist": "Fancy",
+      "title": "Slice Me Nice",
       "plays": 1,
-      "previous_position": 161,
-      "movement": 154,
+      "previous_position": 93,
+      "movement": 86,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "Grant Miller",
-      "title": "Star",
+      "artist": "Frank Brenner",
+      "title": "Vorbei",
       "plays": 1,
-      "previous_position": 20,
-      "movement": 12,
-      "trend": "up"
-    },
-    {
-      "position": 9,
-      "artist": "Janine Frei",
-      "title": "Das Ist Deine Nacht",
-      "plays": 1,
-      "previous_position": 177,
+      "previous_position": 176,
       "movement": 168,
       "trend": "up"
     },
     {
-      "position": 10,
-      "artist": "Joy Peters",
-      "title": "Don't Lose Your Heart",
+      "position": 9,
+      "artist": "Frank Schöbel",
+      "title": "Dich Hat Der Himmel Geschickt",
       "plays": 1,
-      "previous_position": 145,
-      "movement": 135,
+      "previous_position": 161,
+      "movement": 152,
+      "trend": "up"
+    },
+    {
+      "position": 10,
+      "artist": "Grant Miller",
+      "title": "Star",
+      "plays": 1,
+      "previous_position": 20,
+      "movement": 10,
       "trend": "up"
     },
     {
       "position": 11,
-      "artist": "Jürgen Peter",
-      "title": "Das Leben Ist Zu Kurz Für Irgendwann",
+      "artist": "Janine Frei",
+      "title": "Das Ist Deine Nacht",
       "plays": 1,
-      "previous_position": 114,
-      "movement": 103,
+      "previous_position": 177,
+      "movement": 166,
       "trend": "up"
     },
     {
       "position": 12,
+      "artist": "Jay-B",
+      "title": "Du Gehst Mir Unter Die Haut",
+      "plays": 1,
+      "previous_position": 208,
+      "movement": 196,
+      "trend": "up"
+    },
+    {
+      "position": 13,
+      "artist": "Joy Peters",
+      "title": "Don't Lose Your Heart",
+      "plays": 1,
+      "previous_position": 145,
+      "movement": 132,
+      "trend": "up"
+    },
+    {
+      "position": 14,
+      "artist": "Jürgen Peter",
+      "title": "Das Leben Ist Zu Kurz Für Irgendwann",
+      "plays": 1,
+      "previous_position": 114,
+      "movement": 100,
+      "trend": "up"
+    },
+    {
+      "position": 15,
       "artist": "Liane",
       "title": "Küss Mich Bis Der Morgen Kommt",
       "plays": 1,
@@ -115,66 +142,48 @@
       "trend": "new"
     },
     {
-      "position": 13,
-      "artist": "Peter Sebastian feat. Tina Heeschen",
-      "title": "Du Bringst Mich Aus Dem Takt",
-      "plays": 1,
-      "previous_position": 39,
-      "movement": 26,
-      "trend": "up"
-    },
-    {
-      "position": 14,
-      "artist": "Roger De Win",
-      "title": "Choo-Choo",
-      "plays": 1,
-      "previous_position": 179,
-      "movement": 165,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "Rotation",
-      "title": "Pomp It Up",
-      "plays": 1,
-      "previous_position": 158,
-      "movement": 143,
-      "trend": "up"
-    },
-    {
       "position": 16,
-      "artist": "Silent Circle",
-      "title": "Stop The Rain In The Night",
+      "artist": "Markus Wolfahrt",
+      "title": "Hallelujah Auf Die Liebe",
       "plays": 1,
-      "previous_position": 95,
-      "movement": 79,
+      "previous_position": 129,
+      "movement": 113,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "Sophia Venus",
-      "title": "Nach Regen Folgt Sonne",
+      "artist": "Nella",
+      "title": "Mein Herz Aus Eis",
       "plays": 1,
-      "previous_position": 119,
-      "movement": 102,
+      "previous_position": 147,
+      "movement": 130,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "The Free",
-      "title": "Dance The Night Away",
+      "artist": "Nordwand",
+      "title": "Dirty Talk",
       "plays": 1,
-      "previous_position": 132,
-      "movement": 114,
+      "previous_position": 120,
+      "movement": 102,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Zweiklang",
-      "title": "Wenn Du Mir Gegenüber Stehst",
+      "artist": "Peter Sebastian feat. Tina Heeschen",
+      "title": "Du Bringst Mich Aus Dem Takt",
       "plays": 1,
-      "previous_position": 78,
-      "movement": 59,
+      "previous_position": 39,
+      "movement": 20,
+      "trend": "up"
+    },
+    {
+      "position": 20,
+      "artist": "Roger De Win",
+      "title": "Summer 96 (Nashville)",
+      "plays": 1,
+      "previous_position": 209,
+      "movement": 189,
       "trend": "up"
     }
   ]
