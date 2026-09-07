@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W37",
   "previous_week": "2026-W36",
-  "updated": "2026-09-07T19:09:01.003783+00:00",
+  "updated": "2026-09-07T21:59:53.966084+00:00",
   "charts": [
     {
       "position": 1,
@@ -53,15 +53,24 @@
     },
     {
       "position": 6,
-      "artist": "Avangarde",
-      "title": "Jak Mam Cię Kochać",
+      "artist": "Anthony Norris",
+      "title": "All I Want Is You",
       "plays": 1,
-      "previous_position": 103,
-      "movement": 97,
+      "previous_position": 22,
+      "movement": 16,
       "trend": "up"
     },
     {
       "position": 7,
+      "artist": "Avangarde",
+      "title": "Jak Mam Cię Kochać",
+      "plays": 1,
+      "previous_position": 103,
+      "movement": 96,
+      "trend": "up"
+    },
+    {
+      "position": 8,
       "artist": "Bobi",
       "title": "Krolowo Ma",
       "plays": 1,
@@ -70,7 +79,7 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 9,
       "artist": "Cappella",
       "title": "U & Me",
       "plays": 1,
@@ -79,34 +88,43 @@
       "trend": "new"
     },
     {
-      "position": 9,
-      "artist": "Damian Banasiak",
-      "title": "Prowokujesz Mnie",
-      "plays": 1,
-      "previous_position": 105,
-      "movement": 96,
-      "trend": "up"
-    },
-    {
       "position": 10,
-      "artist": "Defis",
-      "title": "Roze",
+      "artist": "Chicco",
+      "title": "Love Is Not Enough",
       "plays": 1,
-      "previous_position": 122,
-      "movement": 112,
+      "previous_position": 32,
+      "movement": 22,
       "trend": "up"
     },
     {
       "position": 11,
-      "artist": "Dejw",
-      "title": "Ananas",
+      "artist": "Damian Banasiak",
+      "title": "Prowokujesz Mnie",
       "plays": 1,
-      "previous_position": 69,
-      "movement": 58,
+      "previous_position": 105,
+      "movement": 94,
       "trend": "up"
     },
     {
       "position": 12,
+      "artist": "Defis",
+      "title": "Roze",
+      "plays": 1,
+      "previous_position": 122,
+      "movement": 110,
+      "trend": "up"
+    },
+    {
+      "position": 13,
+      "artist": "Dejw",
+      "title": "Ananas",
+      "plays": 1,
+      "previous_position": 69,
+      "movement": 56,
+      "trend": "up"
+    },
+    {
+      "position": 14,
       "artist": "Edge Of Universe",
       "title": "Afterlife",
       "plays": 1,
@@ -115,75 +133,57 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 15,
       "artist": "Ein Herz Und Eine Tante",
       "title": "Ich Will Sein Wie Ich Will",
       "plays": 1,
       "previous_position": 81,
-      "movement": 68,
-      "trend": "up"
-    },
-    {
-      "position": 14,
-      "artist": "Fancy",
-      "title": "Slice Me Nice",
-      "plays": 1,
-      "previous_position": 93,
-      "movement": 79,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "Frank Brenner",
-      "title": "Vorbei",
-      "plays": 1,
-      "previous_position": 176,
-      "movement": 161,
+      "movement": 66,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "Frank Schöbel",
-      "title": "Dich Hat Der Himmel Geschickt",
+      "artist": "Fancy",
+      "title": "Slice Me Nice",
       "plays": 1,
-      "previous_position": 161,
-      "movement": 145,
+      "previous_position": 93,
+      "movement": 77,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "Grant Miller",
-      "title": "Star",
+      "artist": "Frank Brenner",
+      "title": "Vorbei",
       "plays": 1,
-      "previous_position": 20,
-      "movement": 3,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Janine Frei",
-      "title": "Das Ist Deine Nacht",
-      "plays": 1,
-      "previous_position": 177,
+      "previous_position": 176,
       "movement": 159,
       "trend": "up"
     },
     {
-      "position": 19,
-      "artist": "Jay-B",
-      "title": "Du Gehst Mir Unter Die Haut",
+      "position": 18,
+      "artist": "Frank Schöbel",
+      "title": "Dich Hat Der Himmel Geschickt",
       "plays": 1,
-      "previous_position": 208,
-      "movement": 189,
+      "previous_position": 161,
+      "movement": 143,
+      "trend": "up"
+    },
+    {
+      "position": 19,
+      "artist": "Freak Style",
+      "title": "Check Your Body",
+      "plays": 1,
+      "previous_position": 125,
+      "movement": 106,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Joy Peters",
-      "title": "Don't Lose Your Heart",
+      "artist": "Gina Dee",
+      "title": "Limelight",
       "plays": 1,
-      "previous_position": 145,
-      "movement": 125,
+      "previous_position": 71,
+      "movement": 51,
       "trend": "up"
     }
   ]
