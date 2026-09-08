@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W37",
   "previous_week": "2026-W36",
-  "updated": "2026-09-08T04:31:55.928469+00:00",
+  "updated": "2026-09-08T09:01:32.765155+00:00",
   "charts": [
     {
       "position": 1,
@@ -35,42 +35,51 @@
     },
     {
       "position": 4,
-      "artist": "Roger De Win",
-      "title": "Choo-Choo",
+      "artist": "Ken Laszlo",
+      "title": "Tonight",
       "plays": 2,
-      "previous_position": 179,
-      "movement": 175,
+      "previous_position": 7,
+      "movement": 3,
       "trend": "up"
     },
     {
       "position": 5,
-      "artist": "7dance & Melody Castellari",
-      "title": "Fly",
-      "plays": 1,
-      "previous_position": 133,
-      "movement": 128,
+      "artist": "Roger De Win",
+      "title": "Choo-Choo",
+      "plays": 2,
+      "previous_position": 179,
+      "movement": 174,
       "trend": "up"
     },
     {
       "position": 6,
-      "artist": "After Party",
-      "title": "Moja Wyjatkowa",
+      "artist": "7dance & Melody Castellari",
+      "title": "Fly",
       "plays": 1,
-      "previous_position": 202,
-      "movement": 196,
+      "previous_position": 133,
+      "movement": 127,
       "trend": "up"
     },
     {
       "position": 7,
-      "artist": "Alex Blue",
-      "title": "Roulette Of Love",
+      "artist": "After Party",
+      "title": "Moja Wyjatkowa",
       "plays": 1,
-      "previous_position": 207,
-      "movement": 200,
+      "previous_position": 202,
+      "movement": 195,
       "trend": "up"
     },
     {
       "position": 8,
+      "artist": "Alex Blue",
+      "title": "Roulette Of Love",
+      "plays": 1,
+      "previous_position": 207,
+      "movement": 199,
+      "trend": "up"
+    },
+    {
+      "position": 9,
       "artist": "Andre",
       "title": "Czy Kiedys Cie Znajde",
       "plays": 1,
@@ -79,7 +88,7 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 10,
       "artist": "Andre Busse",
       "title": "Ich Hab Es Dir Doch Gesagt",
       "plays": 1,
@@ -88,43 +97,43 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 11,
       "artist": "Anthony Norris",
       "title": "All I Want Is You",
       "plays": 1,
       "previous_position": 22,
-      "movement": 12,
-      "trend": "up"
-    },
-    {
-      "position": 11,
-      "artist": "Avangarde",
-      "title": "Jak Mam Cię Kochać",
-      "plays": 1,
-      "previous_position": 103,
-      "movement": 92,
+      "movement": 11,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Bad Boys Blue",
-      "title": "Queen Of Hearts",
+      "artist": "Avangarde",
+      "title": "Jak Mam Cię Kochać",
       "plays": 1,
-      "previous_position": 25,
-      "movement": 13,
+      "previous_position": 103,
+      "movement": 91,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "Blue Crew",
-      "title": "Santa Cruz",
+      "artist": "Bad Boys Blue",
+      "title": "Queen Of Hearts",
       "plays": 1,
-      "previous_position": 118,
-      "movement": 105,
+      "previous_position": 25,
+      "movement": 12,
       "trend": "up"
     },
     {
       "position": 14,
+      "artist": "Blue Crew",
+      "title": "Santa Cruz",
+      "plays": 1,
+      "previous_position": 118,
+      "movement": 104,
+      "trend": "up"
+    },
+    {
+      "position": 15,
       "artist": "Bobi",
       "title": "Krolowo Ma",
       "plays": 1,
@@ -133,7 +142,7 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 16,
       "artist": "Cappella",
       "title": "U & Me",
       "plays": 1,
@@ -142,16 +151,16 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 17,
       "artist": "Chicco",
       "title": "Love Is Not Enough",
       "plays": 1,
       "previous_position": 32,
-      "movement": 16,
+      "movement": 15,
       "trend": "up"
     },
     {
-      "position": 17,
+      "position": 18,
       "artist": "Chou Project",
       "title": "A Love Like This",
       "plays": 1,
@@ -160,30 +169,21 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 19,
       "artist": "Damian Banasiak",
       "title": "Prowokujesz Mnie",
       "plays": 1,
       "previous_position": 105,
-      "movement": 87,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Defis",
-      "title": "Roze",
-      "plays": 1,
-      "previous_position": 122,
-      "movement": 103,
+      "movement": 86,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Dejw",
-      "title": "Ananas",
+      "artist": "Defis",
+      "title": "Roze",
       "plays": 1,
-      "previous_position": 69,
-      "movement": 49,
+      "previous_position": 122,
+      "movement": 102,
       "trend": "up"
     }
   ]
