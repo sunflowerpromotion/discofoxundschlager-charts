@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W37",
   "previous_week": "2026-W36",
-  "updated": "2026-09-08T13:30:23.758079+00:00",
+  "updated": "2026-09-08T17:24:05.493162+00:00",
   "charts": [
     {
       "position": 1,
@@ -71,42 +71,60 @@
     },
     {
       "position": 8,
-      "artist": "Vanessa Mai",
-      "title": "Ich Sterb Für Dich",
+      "artist": "Playboys",
+      "title": "Jak To Sie Stalo",
       "plays": 2,
-      "previous_position": 168,
-      "movement": 160,
+      "previous_position": 58,
+      "movement": 50,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "7dance & Melody Castellari",
-      "title": "Fly",
-      "plays": 1,
-      "previous_position": 133,
-      "movement": 124,
+      "artist": "Rokets",
+      "title": "Tylko Tańcz",
+      "plays": 2,
+      "previous_position": 59,
+      "movement": 50,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "After Party",
-      "title": "Moja Wyjatkowa",
-      "plays": 1,
-      "previous_position": 202,
-      "movement": 192,
+      "artist": "Vanessa Mai",
+      "title": "Ich Sterb Für Dich",
+      "plays": 2,
+      "previous_position": 168,
+      "movement": 158,
       "trend": "up"
     },
     {
       "position": 11,
-      "artist": "Alex Blue",
-      "title": "Roulette Of Love",
+      "artist": "7dance & Melody Castellari",
+      "title": "Fly",
       "plays": 1,
-      "previous_position": 207,
-      "movement": 196,
+      "previous_position": 133,
+      "movement": 122,
       "trend": "up"
     },
     {
       "position": 12,
+      "artist": "After Party",
+      "title": "Moja Wyjatkowa",
+      "plays": 1,
+      "previous_position": 202,
+      "movement": 190,
+      "trend": "up"
+    },
+    {
+      "position": 13,
+      "artist": "Alex Blue",
+      "title": "Roulette Of Love",
+      "plays": 1,
+      "previous_position": 207,
+      "movement": 194,
+      "trend": "up"
+    },
+    {
+      "position": 14,
       "artist": "Andre",
       "title": "Czy Kiedys Cie Znajde",
       "plays": 1,
@@ -115,7 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 15,
       "artist": "Andre Busse",
       "title": "Ich Hab Es Dir Doch Gesagt",
       "plays": 1,
@@ -124,66 +142,48 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 16,
       "artist": "Anthony Norris",
       "title": "All I Want Is You",
       "plays": 1,
       "previous_position": 22,
-      "movement": 8,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "Avangarde",
-      "title": "Jak Mam Cię Kochać",
-      "plays": 1,
-      "previous_position": 103,
-      "movement": 88,
-      "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "Bad Boys Blue",
-      "title": "Queen Of Hearts",
-      "plays": 1,
-      "previous_position": 25,
-      "movement": 9,
+      "movement": 6,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "Blue Crew",
-      "title": "Santa Cruz",
+      "artist": "Avangarde",
+      "title": "Jak Mam Cię Kochać",
       "plays": 1,
-      "previous_position": 118,
-      "movement": 101,
+      "previous_position": 103,
+      "movement": 86,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Bobi",
-      "title": "Krolowo Ma",
+      "artist": "Bad Boys Blue",
+      "title": "Queen Of Hearts",
       "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 25,
+      "movement": 7,
+      "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Cappella",
-      "title": "U & Me",
+      "artist": "Beat Magic",
+      "title": "W Cieniu Wierzb",
       "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 115,
+      "movement": 96,
+      "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Chicco",
-      "title": "Love Is Not Enough",
+      "artist": "Blue Crew",
+      "title": "Santa Cruz",
       "plays": 1,
-      "previous_position": 32,
-      "movement": 12,
+      "previous_position": 118,
+      "movement": 98,
       "trend": "up"
     }
   ]
