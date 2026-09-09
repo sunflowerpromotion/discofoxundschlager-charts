@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W37",
   "previous_week": "2026-W36",
-  "updated": "2026-09-09T17:27:36.713227+00:00",
+  "updated": "2026-09-09T19:57:43.321685+00:00",
   "charts": [
     {
       "position": 1,
@@ -161,30 +161,30 @@
     },
     {
       "position": 18,
-      "artist": "Joy Peters",
-      "title": "Don't Lose Your Heart",
+      "artist": "Femme X2",
+      "title": "Sommer Auf Repeat",
       "plays": 2,
-      "previous_position": 145,
-      "movement": 127,
+      "previous_position": 181,
+      "movement": 163,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Kalvin Loves Freestyle",
-      "title": "If You Want My Love",
+      "artist": "Fäaschtbänkler",
+      "title": "Kleines Lied",
       "plays": 2,
-      "previous_position": 4,
-      "movement": -15,
-      "trend": "down"
+      "previous_position": 146,
+      "movement": 127,
+      "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Ken Laszlo",
-      "title": "Tonight",
+      "artist": "Joy Peters",
+      "title": "Don't Lose Your Heart",
       "plays": 2,
-      "previous_position": 7,
-      "movement": -13,
-      "trend": "down"
+      "previous_position": 145,
+      "movement": 125,
+      "trend": "up"
     }
   ]
 }
