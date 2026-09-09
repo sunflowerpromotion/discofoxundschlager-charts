@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W37",
   "previous_week": "2026-W36",
-  "updated": "2026-09-09T00:30:37.300849+00:00",
+  "updated": "2026-09-09T05:05:25.653379+00:00",
   "charts": [
     {
       "position": 1,
@@ -53,87 +53,114 @@
     },
     {
       "position": 6,
-      "artist": "Chicco",
-      "title": "Love Is Not Enough",
+      "artist": "Bad Boys Blue",
+      "title": "Queen Of Hearts",
       "plays": 2,
-      "previous_position": 32,
-      "movement": 26,
+      "previous_position": 25,
+      "movement": 19,
       "trend": "up"
     },
     {
       "position": 7,
-      "artist": "Corona",
-      "title": "Try Me Out",
+      "artist": "Blue Crew",
+      "title": "Santa Cruz",
       "plays": 2,
-      "previous_position": 190,
-      "movement": 183,
+      "previous_position": 118,
+      "movement": 111,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "Dejw",
-      "title": "Ananas",
+      "artist": "Chicco",
+      "title": "Love Is Not Enough",
       "plays": 2,
-      "previous_position": 69,
-      "movement": 61,
+      "previous_position": 32,
+      "movement": 24,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "DZYRE",
-      "title": "Games Of Love",
+      "artist": "Corona",
+      "title": "Try Me Out",
       "plays": 2,
-      "previous_position": 61,
-      "movement": 52,
+      "previous_position": 190,
+      "movement": 181,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "EXTAZY",
-      "title": "Skocze W Ogien",
+      "artist": "Dejw",
+      "title": "Ananas",
       "plays": 2,
-      "previous_position": 183,
-      "movement": 173,
+      "previous_position": 69,
+      "movement": 59,
       "trend": "up"
     },
     {
       "position": 11,
-      "artist": "Jay-B",
-      "title": "Du Gehst Mir Unter Die Haut",
+      "artist": "DZYRE",
+      "title": "Games Of Love",
       "plays": 2,
-      "previous_position": 208,
-      "movement": 197,
+      "previous_position": 61,
+      "movement": 50,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Joy Peters",
-      "title": "Don't Lose Your Heart",
+      "artist": "EXTAZY",
+      "title": "Skocze W Ogien",
       "plays": 2,
-      "previous_position": 145,
-      "movement": 133,
+      "previous_position": 183,
+      "movement": 171,
       "trend": "up"
     },
     {
       "position": 13,
+      "artist": "Jay-B",
+      "title": "Du Gehst Mir Unter Die Haut",
+      "plays": 2,
+      "previous_position": 208,
+      "movement": 195,
+      "trend": "up"
+    },
+    {
+      "position": 14,
+      "artist": "Joy Peters",
+      "title": "Don't Lose Your Heart",
+      "plays": 2,
+      "previous_position": 145,
+      "movement": 131,
+      "trend": "up"
+    },
+    {
+      "position": 15,
       "artist": "Kalvin Loves Freestyle",
       "title": "If You Want My Love",
       "plays": 2,
       "previous_position": 4,
-      "movement": -9,
+      "movement": -11,
       "trend": "down"
     },
     {
-      "position": 14,
+      "position": 16,
       "artist": "Ken Laszlo",
       "title": "Tonight",
       "plays": 2,
       "previous_position": 7,
-      "movement": -7,
+      "movement": -9,
       "trend": "down"
     },
     {
-      "position": 15,
+      "position": 17,
+      "artist": "Lian Ross",
+      "title": "The Rules Of Love",
+      "plays": 2,
+      "previous_position": 13,
+      "movement": -4,
+      "trend": "down"
+    },
+    {
+      "position": 18,
       "artist": "Liane",
       "title": "Küss Mich Bis Der Morgen Kommt",
       "plays": 2,
@@ -142,7 +169,7 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 19,
       "artist": "Music Instructor",
       "title": "Get Freaky",
       "plays": 2,
@@ -151,40 +178,13 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 20,
       "artist": "Operator",
       "title": "Emergency",
       "plays": 2,
       "previous_position": 89,
-      "movement": 72,
+      "movement": 69,
       "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Playboys",
-      "title": "Jak To Sie Stalo",
-      "plays": 2,
-      "previous_position": 58,
-      "movement": 40,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Rokets",
-      "title": "Tylko Tańcz",
-      "plays": 2,
-      "previous_position": 59,
-      "movement": 40,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "Split Mirrors",
-      "title": "Voices",
-      "plays": 2,
-      "previous_position": 11,
-      "movement": -9,
-      "trend": "down"
     }
   ]
 }
