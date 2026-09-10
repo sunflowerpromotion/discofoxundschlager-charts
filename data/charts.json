@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W37",
   "previous_week": "2026-W36",
-  "updated": "2026-09-10T21:55:43.906430+00:00",
+  "updated": "2026-09-10T23:42:00.753044+00:00",
   "charts": [
     {
       "position": 1,
@@ -26,6 +26,15 @@
     },
     {
       "position": 3,
+      "artist": "EXTAZY",
+      "title": "Skocze W Ogien",
+      "plays": 4,
+      "previous_position": 183,
+      "movement": 180,
+      "trend": "up"
+    },
+    {
+      "position": 4,
       "artist": "Mandy Bischof",
       "title": "Maria Tanzt",
       "plays": 4,
@@ -34,7 +43,25 @@
       "trend": "new"
     },
     {
-      "position": 4,
+      "position": 5,
+      "artist": "Toledo",
+      "title": "Zakochajmy Sie",
+      "plays": 4,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 6,
+      "artist": "After Party",
+      "title": "Moja Wyjatkowa",
+      "plays": 3,
+      "previous_position": 202,
+      "movement": 196,
+      "trend": "up"
+    },
+    {
+      "position": 7,
       "artist": "Andre",
       "title": "Czy Kiedys Cie Znajde",
       "plays": 3,
@@ -43,79 +70,79 @@
       "trend": "new"
     },
     {
-      "position": 5,
-      "artist": "Ein Herz Und Eine Tante",
-      "title": "Ich Will Sein Wie Ich Will",
-      "plays": 3,
-      "previous_position": 81,
-      "movement": 76,
-      "trend": "up"
-    },
-    {
-      "position": 6,
-      "artist": "EXTAZY",
-      "title": "Skocze W Ogien",
-      "plays": 3,
-      "previous_position": 183,
-      "movement": 177,
-      "trend": "up"
-    },
-    {
-      "position": 7,
-      "artist": "Flying Steps",
-      "title": "Breakin' It Down",
-      "plays": 3,
-      "previous_position": 41,
-      "movement": 34,
-      "trend": "up"
-    },
-    {
       "position": 8,
-      "artist": "Fäaschtbänkler",
-      "title": "Kleines Lied",
+      "artist": "Defis",
+      "title": "Roze",
       "plays": 3,
-      "previous_position": 146,
-      "movement": 138,
+      "previous_position": 122,
+      "movement": 114,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "Jay-B",
-      "title": "Du Gehst Mir Unter Die Haut",
+      "artist": "Ein Herz Und Eine Tante",
+      "title": "Ich Will Sein Wie Ich Will",
       "plays": 3,
-      "previous_position": 208,
-      "movement": 199,
+      "previous_position": 81,
+      "movement": 72,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "Markus Wolfahrt",
-      "title": "Hallelujah Auf Die Liebe",
+      "artist": "Flying Steps",
+      "title": "Breakin' It Down",
       "plays": 3,
-      "previous_position": 129,
-      "movement": 119,
+      "previous_position": 41,
+      "movement": 31,
       "trend": "up"
     },
     {
       "position": 11,
-      "artist": "MiłyPan",
-      "title": "Racice",
+      "artist": "Fäaschtbänkler",
+      "title": "Kleines Lied",
       "plays": 3,
-      "previous_position": 72,
-      "movement": 61,
+      "previous_position": 146,
+      "movement": 135,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Olaf der Flipper",
-      "title": "Weltklasse",
+      "artist": "Jay-B",
+      "title": "Du Gehst Mir Unter Die Haut",
       "plays": 3,
-      "previous_position": 28,
-      "movement": 16,
+      "previous_position": 208,
+      "movement": 196,
       "trend": "up"
     },
     {
       "position": 13,
+      "artist": "Markus Wolfahrt",
+      "title": "Hallelujah Auf Die Liebe",
+      "plays": 3,
+      "previous_position": 129,
+      "movement": 116,
+      "trend": "up"
+    },
+    {
+      "position": 14,
+      "artist": "MiłyPan",
+      "title": "Racice",
+      "plays": 3,
+      "previous_position": 72,
+      "movement": 58,
+      "trend": "up"
+    },
+    {
+      "position": 15,
+      "artist": "Olaf der Flipper",
+      "title": "Weltklasse",
+      "plays": 3,
+      "previous_position": 28,
+      "movement": 13,
+      "trend": "up"
+    },
+    {
+      "position": 16,
       "artist": "Picaro(s)",
       "title": "Es Ist Früh (Padapadum)",
       "plays": 3,
@@ -124,66 +151,39 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 17,
       "artist": "Playboys",
       "title": "Jak To Sie Stalo",
       "plays": 3,
       "previous_position": 58,
-      "movement": 44,
+      "movement": 41,
       "trend": "up"
     },
     {
-      "position": 15,
+      "position": 18,
       "artist": "Roger De Win",
       "title": "Summer 96 (Nashville)",
       "plays": 3,
       "previous_position": 209,
-      "movement": 194,
-      "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "Rokets",
-      "title": "Tylko Tańcz",
-      "plays": 3,
-      "previous_position": 59,
-      "movement": 43,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Toledo",
-      "title": "Zakochajmy Sie",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 18,
-      "artist": "Vanessa Mai",
-      "title": "Ich Sterb Für Dich",
-      "plays": 3,
-      "previous_position": 168,
-      "movement": 150,
+      "movement": 191,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Vincent Gross",
-      "title": "Chill Out Time",
+      "artist": "Rokets",
+      "title": "Tylko Tańcz",
       "plays": 3,
-      "previous_position": 167,
-      "movement": 148,
+      "previous_position": 59,
+      "movement": 40,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "After Party",
-      "title": "Moja Wyjatkowa",
-      "plays": 2,
-      "previous_position": 202,
-      "movement": 182,
+      "artist": "Vanessa Mai",
+      "title": "Ich Sterb Für Dich",
+      "plays": 3,
+      "previous_position": 168,
+      "movement": 148,
       "trend": "up"
     }
   ]
