@@ -4,19 +4,28 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W37",
   "previous_week": "2026-W36",
-  "updated": "2026-09-10T17:13:47.245634+00:00",
+  "updated": "2026-09-10T19:43:41.978826+00:00",
   "charts": [
     {
       "position": 1,
+      "artist": "Mandy Bischof",
+      "title": "Maria Tanzt",
+      "plays": 4,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 2,
       "artist": "Roger De Win",
       "title": "Choo-Choo",
       "plays": 4,
       "previous_position": 179,
-      "movement": 178,
+      "movement": 177,
       "trend": "up"
     },
     {
-      "position": 2,
+      "position": 3,
       "artist": "Andre",
       "title": "Czy Kiedys Cie Znajde",
       "plays": 3,
@@ -25,79 +34,106 @@
       "trend": "new"
     },
     {
-      "position": 3,
-      "artist": "Ein Herz Und Eine Tante",
-      "title": "Ich Will Sein Wie Ich Will",
-      "plays": 3,
-      "previous_position": 81,
-      "movement": 78,
-      "trend": "up"
-    },
-    {
       "position": 4,
-      "artist": "EXTAZY",
-      "title": "Skocze W Ogien",
-      "plays": 3,
-      "previous_position": 183,
-      "movement": 179,
-      "trend": "up"
-    },
-    {
-      "position": 5,
-      "artist": "Flying Steps",
-      "title": "Breakin' It Down",
-      "plays": 3,
-      "previous_position": 41,
-      "movement": 36,
-      "trend": "up"
-    },
-    {
-      "position": 6,
-      "artist": "Jay-B",
-      "title": "Du Gehst Mir Unter Die Haut",
-      "plays": 3,
-      "previous_position": 208,
-      "movement": 202,
-      "trend": "up"
-    },
-    {
-      "position": 7,
-      "artist": "Mandy Bischof",
-      "title": "Maria Tanzt",
+      "artist": "DJ Herzbeat & Annemarie Eilfeld",
+      "title": "Verlieb Dich Nicht In Einen Heartbreaker",
       "plays": 3,
       "previous_position": null,
       "movement": null,
       "trend": "new"
     },
     {
-      "position": 8,
-      "artist": "Playboys",
-      "title": "Jak To Sie Stalo",
+      "position": 5,
+      "artist": "Ein Herz Und Eine Tante",
+      "title": "Ich Will Sein Wie Ich Will",
       "plays": 3,
-      "previous_position": 58,
-      "movement": 50,
+      "previous_position": 81,
+      "movement": 76,
+      "trend": "up"
+    },
+    {
+      "position": 6,
+      "artist": "EXTAZY",
+      "title": "Skocze W Ogien",
+      "plays": 3,
+      "previous_position": 183,
+      "movement": 177,
+      "trend": "up"
+    },
+    {
+      "position": 7,
+      "artist": "Flying Steps",
+      "title": "Breakin' It Down",
+      "plays": 3,
+      "previous_position": 41,
+      "movement": 34,
+      "trend": "up"
+    },
+    {
+      "position": 8,
+      "artist": "Fäaschtbänkler",
+      "title": "Kleines Lied",
+      "plays": 3,
+      "previous_position": 146,
+      "movement": 138,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "Roger De Win",
-      "title": "Summer 96 (Nashville)",
+      "artist": "Jay-B",
+      "title": "Du Gehst Mir Unter Die Haut",
       "plays": 3,
-      "previous_position": 209,
-      "movement": 200,
+      "previous_position": 208,
+      "movement": 199,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "Rokets",
-      "title": "Tylko Tańcz",
+      "artist": "Markus Wolfahrt",
+      "title": "Hallelujah Auf Die Liebe",
       "plays": 3,
-      "previous_position": 59,
-      "movement": 49,
+      "previous_position": 129,
+      "movement": 119,
       "trend": "up"
     },
     {
       "position": 11,
+      "artist": "Olaf der Flipper",
+      "title": "Weltklasse",
+      "plays": 3,
+      "previous_position": 28,
+      "movement": 17,
+      "trend": "up"
+    },
+    {
+      "position": 12,
+      "artist": "Playboys",
+      "title": "Jak To Sie Stalo",
+      "plays": 3,
+      "previous_position": 58,
+      "movement": 46,
+      "trend": "up"
+    },
+    {
+      "position": 13,
+      "artist": "Roger De Win",
+      "title": "Summer 96 (Nashville)",
+      "plays": 3,
+      "previous_position": 209,
+      "movement": 196,
+      "trend": "up"
+    },
+    {
+      "position": 14,
+      "artist": "Rokets",
+      "title": "Tylko Tańcz",
+      "plays": 3,
+      "previous_position": 59,
+      "movement": 45,
+      "trend": "up"
+    },
+    {
+      "position": 15,
       "artist": "Toledo",
       "title": "Zakochajmy Sie",
       "plays": 3,
@@ -106,85 +142,49 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 16,
       "artist": "Vanessa Mai",
       "title": "Ich Sterb Für Dich",
       "plays": 3,
       "previous_position": 168,
-      "movement": 156,
+      "movement": 152,
       "trend": "up"
     },
     {
-      "position": 13,
+      "position": 17,
       "artist": "Vincent Gross",
       "title": "Chill Out Time",
       "plays": 3,
       "previous_position": 167,
-      "movement": 154,
-      "trend": "up"
-    },
-    {
-      "position": 14,
-      "artist": "After Party",
-      "title": "Moja Wyjatkowa",
-      "plays": 2,
-      "previous_position": 202,
-      "movement": 188,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "Albin Berger",
-      "title": "Lieben Heißt...",
-      "plays": 2,
-      "previous_position": 76,
-      "movement": 61,
-      "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "Alex Blue",
-      "title": "Let Us Dance",
-      "plays": 2,
-      "previous_position": 8,
-      "movement": -8,
-      "trend": "down"
-    },
-    {
-      "position": 17,
-      "artist": "Alex Blue",
-      "title": "Roulette Of Love",
-      "plays": 2,
-      "previous_position": 207,
-      "movement": 190,
+      "movement": 150,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Alix",
-      "title": "Pay The Price",
+      "artist": "After Party",
+      "title": "Moja Wyjatkowa",
       "plays": 2,
-      "previous_position": 10,
-      "movement": -8,
-      "trend": "down"
+      "previous_position": 202,
+      "movement": 184,
+      "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Avangarde",
-      "title": "Jak Mam Cię Kochać",
+      "artist": "Albin Berger",
+      "title": "Lieben Heißt...",
       "plays": 2,
-      "previous_position": 103,
-      "movement": 84,
+      "previous_position": 76,
+      "movement": 57,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Bad Boys Blue",
-      "title": "Queen Of Hearts",
+      "artist": "Alex Blue",
+      "title": "Let Us Dance",
       "plays": 2,
-      "previous_position": 25,
-      "movement": 5,
-      "trend": "up"
+      "previous_position": 8,
+      "movement": -12,
+      "trend": "down"
     }
   ]
 }
