@@ -4,10 +4,28 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W37",
   "previous_week": "2026-W36",
-  "updated": "2026-09-10T19:43:41.978826+00:00",
+  "updated": "2026-09-10T21:55:43.906430+00:00",
   "charts": [
     {
       "position": 1,
+      "artist": "Roger De Win",
+      "title": "Choo-Choo",
+      "plays": 5,
+      "previous_position": 179,
+      "movement": 178,
+      "trend": "up"
+    },
+    {
+      "position": 2,
+      "artist": "DJ Herzbeat & Annemarie Eilfeld",
+      "title": "Verlieb Dich Nicht In Einen Heartbreaker",
+      "plays": 4,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 3,
       "artist": "Mandy Bischof",
       "title": "Maria Tanzt",
       "plays": 4,
@@ -16,27 +34,9 @@
       "trend": "new"
     },
     {
-      "position": 2,
-      "artist": "Roger De Win",
-      "title": "Choo-Choo",
-      "plays": 4,
-      "previous_position": 179,
-      "movement": 177,
-      "trend": "up"
-    },
-    {
-      "position": 3,
+      "position": 4,
       "artist": "Andre",
       "title": "Czy Kiedys Cie Znajde",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 4,
-      "artist": "DJ Herzbeat & Annemarie Eilfeld",
-      "title": "Verlieb Dich Nicht In Einen Heartbreaker",
       "plays": 3,
       "previous_position": null,
       "movement": null,
@@ -98,42 +98,60 @@
     },
     {
       "position": 11,
-      "artist": "Olaf der Flipper",
-      "title": "Weltklasse",
+      "artist": "MiłyPan",
+      "title": "Racice",
       "plays": 3,
-      "previous_position": 28,
-      "movement": 17,
+      "previous_position": 72,
+      "movement": 61,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Playboys",
-      "title": "Jak To Sie Stalo",
+      "artist": "Olaf der Flipper",
+      "title": "Weltklasse",
       "plays": 3,
-      "previous_position": 58,
-      "movement": 46,
+      "previous_position": 28,
+      "movement": 16,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "Roger De Win",
-      "title": "Summer 96 (Nashville)",
+      "artist": "Picaro(s)",
+      "title": "Es Ist Früh (Padapadum)",
       "plays": 3,
-      "previous_position": 209,
-      "movement": 196,
-      "trend": "up"
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
       "position": 14,
-      "artist": "Rokets",
-      "title": "Tylko Tańcz",
+      "artist": "Playboys",
+      "title": "Jak To Sie Stalo",
       "plays": 3,
-      "previous_position": 59,
-      "movement": 45,
+      "previous_position": 58,
+      "movement": 44,
       "trend": "up"
     },
     {
       "position": 15,
+      "artist": "Roger De Win",
+      "title": "Summer 96 (Nashville)",
+      "plays": 3,
+      "previous_position": 209,
+      "movement": 194,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "Rokets",
+      "title": "Tylko Tańcz",
+      "plays": 3,
+      "previous_position": 59,
+      "movement": 43,
+      "trend": "up"
+    },
+    {
+      "position": 17,
       "artist": "Toledo",
       "title": "Zakochajmy Sie",
       "plays": 3,
@@ -142,49 +160,31 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 18,
       "artist": "Vanessa Mai",
       "title": "Ich Sterb Für Dich",
       "plays": 3,
       "previous_position": 168,
-      "movement": 152,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Vincent Gross",
-      "title": "Chill Out Time",
-      "plays": 3,
-      "previous_position": 167,
       "movement": 150,
       "trend": "up"
     },
     {
-      "position": 18,
-      "artist": "After Party",
-      "title": "Moja Wyjatkowa",
-      "plays": 2,
-      "previous_position": 202,
-      "movement": 184,
-      "trend": "up"
-    },
-    {
       "position": 19,
-      "artist": "Albin Berger",
-      "title": "Lieben Heißt...",
-      "plays": 2,
-      "previous_position": 76,
-      "movement": 57,
+      "artist": "Vincent Gross",
+      "title": "Chill Out Time",
+      "plays": 3,
+      "previous_position": 167,
+      "movement": 148,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Alex Blue",
-      "title": "Let Us Dance",
+      "artist": "After Party",
+      "title": "Moja Wyjatkowa",
       "plays": 2,
-      "previous_position": 8,
-      "movement": -12,
-      "trend": "down"
+      "previous_position": 202,
+      "movement": 182,
+      "trend": "up"
     }
   ]
 }
