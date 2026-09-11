@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W37",
   "previous_week": "2026-W36",
-  "updated": "2026-09-11T18:36:46.933322+00:00",
+  "updated": "2026-09-11T21:16:43.968105+00:00",
   "charts": [
     {
       "position": 1,
@@ -35,48 +35,48 @@
     },
     {
       "position": 4,
-      "artist": "EXTAZY",
-      "title": "Skocze W Ogien",
+      "artist": "After Party",
+      "title": "Moja Wyjatkowa",
       "plays": 4,
-      "previous_position": 183,
-      "movement": 179,
+      "previous_position": 202,
+      "movement": 198,
       "trend": "up"
     },
     {
       "position": 5,
-      "artist": "Markus Wolfahrt",
-      "title": "Hallelujah Auf Die Liebe",
+      "artist": "Albin Berger",
+      "title": "Lieben Heißt...",
       "plays": 4,
-      "previous_position": 129,
-      "movement": 124,
+      "previous_position": 76,
+      "movement": 71,
       "trend": "up"
     },
     {
       "position": 6,
+      "artist": "EXTAZY",
+      "title": "Skocze W Ogien",
+      "plays": 4,
+      "previous_position": 183,
+      "movement": 177,
+      "trend": "up"
+    },
+    {
+      "position": 7,
+      "artist": "Markus Wolfahrt",
+      "title": "Hallelujah Auf Die Liebe",
+      "plays": 4,
+      "previous_position": 129,
+      "movement": 122,
+      "trend": "up"
+    },
+    {
+      "position": 8,
       "artist": "Toledo",
       "title": "Zakochajmy Sie",
       "plays": 4,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 7,
-      "artist": "After Party",
-      "title": "Moja Wyjatkowa",
-      "plays": 3,
-      "previous_position": 202,
-      "movement": 195,
-      "trend": "up"
-    },
-    {
-      "position": 8,
-      "artist": "Albin Berger",
-      "title": "Lieben Heißt...",
-      "plays": 3,
-      "previous_position": 76,
-      "movement": 68,
-      "trend": "up"
     },
     {
       "position": 9,
