@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W37",
   "previous_week": "2026-W36",
-  "updated": "2026-09-11T01:29:16.336409+00:00",
+  "updated": "2026-09-11T06:34:02.934070+00:00",
   "charts": [
     {
       "position": 1,
@@ -62,6 +62,15 @@
     },
     {
       "position": 7,
+      "artist": "Alex Blue",
+      "title": "Roulette Of Love",
+      "plays": 3,
+      "previous_position": 207,
+      "movement": 200,
+      "trend": "up"
+    },
+    {
+      "position": 8,
       "artist": "Andre",
       "title": "Czy Kiedys Cie Znajde",
       "plays": 3,
@@ -70,120 +79,111 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 9,
       "artist": "Defis",
       "title": "Roze",
       "plays": 3,
       "previous_position": 122,
-      "movement": 114,
-      "trend": "up"
-    },
-    {
-      "position": 9,
-      "artist": "Ein Herz Und Eine Tante",
-      "title": "Ich Will Sein Wie Ich Will",
-      "plays": 3,
-      "previous_position": 81,
-      "movement": 72,
+      "movement": 113,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "Flying Steps",
-      "title": "Breakin' It Down",
+      "artist": "Ein Herz Und Eine Tante",
+      "title": "Ich Will Sein Wie Ich Will",
       "plays": 3,
-      "previous_position": 41,
-      "movement": 31,
+      "previous_position": 81,
+      "movement": 71,
       "trend": "up"
     },
     {
       "position": 11,
-      "artist": "Fäaschtbänkler",
-      "title": "Kleines Lied",
+      "artist": "Flying Steps",
+      "title": "Breakin' It Down",
       "plays": 3,
-      "previous_position": 146,
-      "movement": 135,
+      "previous_position": 41,
+      "movement": 30,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Jay-B",
-      "title": "Du Gehst Mir Unter Die Haut",
+      "artist": "Fäaschtbänkler",
+      "title": "Kleines Lied",
       "plays": 3,
-      "previous_position": 208,
-      "movement": 196,
+      "previous_position": 146,
+      "movement": 134,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "Markus Wolfahrt",
-      "title": "Hallelujah Auf Die Liebe",
+      "artist": "Grant Miller",
+      "title": "Doctor For My Heart",
       "plays": 3,
-      "previous_position": 129,
-      "movement": 116,
+      "previous_position": 108,
+      "movement": 95,
       "trend": "up"
     },
     {
       "position": 14,
-      "artist": "MiłyPan",
-      "title": "Racice",
+      "artist": "Grant Miller",
+      "title": "Star",
       "plays": 3,
-      "previous_position": 72,
-      "movement": 58,
+      "previous_position": 20,
+      "movement": 6,
       "trend": "up"
     },
     {
       "position": 15,
-      "artist": "Olaf der Flipper",
-      "title": "Weltklasse",
+      "artist": "Jay-B",
+      "title": "Du Gehst Mir Unter Die Haut",
       "plays": 3,
-      "previous_position": 28,
-      "movement": 13,
+      "previous_position": 208,
+      "movement": 193,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "Picaro(s)",
-      "title": "Es Ist Früh (Padapadum)",
+      "artist": "Ken Laszlo",
+      "title": "Tonight",
       "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 7,
+      "movement": -9,
+      "trend": "down"
     },
     {
       "position": 17,
-      "artist": "Playboys",
-      "title": "Jak To Sie Stalo",
+      "artist": "Lian Ross",
+      "title": "The Rules Of Love",
       "plays": 3,
-      "previous_position": 58,
-      "movement": 41,
-      "trend": "up"
+      "previous_position": 13,
+      "movement": -4,
+      "trend": "down"
     },
     {
       "position": 18,
-      "artist": "Roger De Win",
-      "title": "Summer 96 (Nashville)",
+      "artist": "Markus Wolfahrt",
+      "title": "Hallelujah Auf Die Liebe",
       "plays": 3,
-      "previous_position": 209,
-      "movement": 191,
+      "previous_position": 129,
+      "movement": 111,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Rokets",
-      "title": "Tylko Tańcz",
+      "artist": "MiłyPan",
+      "title": "Racice",
       "plays": 3,
-      "previous_position": 59,
-      "movement": 40,
+      "previous_position": 72,
+      "movement": 53,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Vanessa Mai",
-      "title": "Ich Sterb Für Dich",
+      "artist": "Olaf der Flipper",
+      "title": "Weltklasse",
       "plays": 3,
-      "previous_position": 168,
-      "movement": 148,
+      "previous_position": 28,
+      "movement": 8,
       "trend": "up"
     }
   ]
