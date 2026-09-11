@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W37",
   "previous_week": "2026-W36",
-  "updated": "2026-09-11T15:14:34.903004+00:00",
+  "updated": "2026-09-11T18:36:46.933322+00:00",
   "charts": [
     {
       "position": 1,
@@ -17,30 +17,30 @@
     },
     {
       "position": 2,
+      "artist": "Mandy Bischof",
+      "title": "Maria Tanzt",
+      "plays": 5,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 3,
       "artist": "Roger De Win",
       "title": "Choo-Choo",
       "plays": 5,
       "previous_position": 179,
-      "movement": 177,
-      "trend": "up"
-    },
-    {
-      "position": 3,
-      "artist": "EXTAZY",
-      "title": "Skocze W Ogien",
-      "plays": 4,
-      "previous_position": 183,
-      "movement": 180,
+      "movement": 176,
       "trend": "up"
     },
     {
       "position": 4,
-      "artist": "Mandy Bischof",
-      "title": "Maria Tanzt",
+      "artist": "EXTAZY",
+      "title": "Skocze W Ogien",
       "plays": 4,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 183,
+      "movement": 179,
+      "trend": "up"
     },
     {
       "position": 5,
