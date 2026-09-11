@@ -4,25 +4,25 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W37",
   "previous_week": "2026-W36",
-  "updated": "2026-09-11T11:45:03.297031+00:00",
+  "updated": "2026-09-11T15:14:34.903004+00:00",
   "charts": [
     {
       "position": 1,
+      "artist": "DJ Herzbeat & Annemarie Eilfeld",
+      "title": "Verlieb Dich Nicht In Einen Heartbreaker",
+      "plays": 5,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 2,
       "artist": "Roger De Win",
       "title": "Choo-Choo",
       "plays": 5,
       "previous_position": 179,
-      "movement": 178,
+      "movement": 177,
       "trend": "up"
-    },
-    {
-      "position": 2,
-      "artist": "DJ Herzbeat & Annemarie Eilfeld",
-      "title": "Verlieb Dich Nicht In Einen Heartbreaker",
-      "plays": 4,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
     },
     {
       "position": 3,
@@ -44,6 +44,15 @@
     },
     {
       "position": 5,
+      "artist": "Markus Wolfahrt",
+      "title": "Hallelujah Auf Die Liebe",
+      "plays": 4,
+      "previous_position": 129,
+      "movement": 124,
+      "trend": "up"
+    },
+    {
+      "position": 6,
       "artist": "Toledo",
       "title": "Zakochajmy Sie",
       "plays": 4,
@@ -52,25 +61,34 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 7,
       "artist": "After Party",
       "title": "Moja Wyjatkowa",
       "plays": 3,
       "previous_position": 202,
-      "movement": 196,
-      "trend": "up"
-    },
-    {
-      "position": 7,
-      "artist": "Alex Blue",
-      "title": "Roulette Of Love",
-      "plays": 3,
-      "previous_position": 207,
-      "movement": 200,
+      "movement": 195,
       "trend": "up"
     },
     {
       "position": 8,
+      "artist": "Albin Berger",
+      "title": "Lieben Heißt...",
+      "plays": 3,
+      "previous_position": 76,
+      "movement": 68,
+      "trend": "up"
+    },
+    {
+      "position": 9,
+      "artist": "Alex Blue",
+      "title": "Roulette Of Love",
+      "plays": 3,
+      "previous_position": 207,
+      "movement": 198,
+      "trend": "up"
+    },
+    {
+      "position": 10,
       "artist": "Andre",
       "title": "Czy Kiedys Cie Znajde",
       "plays": 3,
@@ -79,112 +97,94 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 11,
       "artist": "Defis",
       "title": "Roze",
       "plays": 3,
       "previous_position": 122,
-      "movement": 113,
-      "trend": "up"
-    },
-    {
-      "position": 10,
-      "artist": "Ein Herz Und Eine Tante",
-      "title": "Ich Will Sein Wie Ich Will",
-      "plays": 3,
-      "previous_position": 81,
-      "movement": 71,
-      "trend": "up"
-    },
-    {
-      "position": 11,
-      "artist": "Flying Steps",
-      "title": "Breakin' It Down",
-      "plays": 3,
-      "previous_position": 41,
-      "movement": 30,
-      "trend": "up"
-    },
-    {
-      "position": 12,
-      "artist": "Fäaschtbänkler",
-      "title": "Kleines Lied",
-      "plays": 3,
-      "previous_position": 146,
-      "movement": 134,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "Grant Miller",
-      "title": "Doctor For My Heart",
-      "plays": 3,
-      "previous_position": 108,
-      "movement": 95,
-      "trend": "up"
-    },
-    {
-      "position": 14,
-      "artist": "Grant Miller",
-      "title": "Star",
-      "plays": 3,
-      "previous_position": 20,
-      "movement": 6,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "Jay-B",
-      "title": "Du Gehst Mir Unter Die Haut",
-      "plays": 3,
-      "previous_position": 208,
-      "movement": 193,
-      "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "Ken Laszlo",
-      "title": "Tonight",
-      "plays": 3,
-      "previous_position": 7,
-      "movement": -9,
-      "trend": "down"
-    },
-    {
-      "position": 17,
-      "artist": "Lian Ross",
-      "title": "The Rules Of Love",
-      "plays": 3,
-      "previous_position": 13,
-      "movement": -4,
-      "trend": "down"
-    },
-    {
-      "position": 18,
-      "artist": "Markus Wolfahrt",
-      "title": "Hallelujah Auf Die Liebe",
-      "plays": 3,
-      "previous_position": 129,
       "movement": 111,
       "trend": "up"
     },
     {
-      "position": 19,
-      "artist": "MiłyPan",
-      "title": "Racice",
+      "position": 12,
+      "artist": "Ein Herz Und Eine Tante",
+      "title": "Ich Will Sein Wie Ich Will",
       "plays": 3,
-      "previous_position": 72,
-      "movement": 53,
+      "previous_position": 81,
+      "movement": 69,
+      "trend": "up"
+    },
+    {
+      "position": 13,
+      "artist": "Flying Steps",
+      "title": "Breakin' It Down",
+      "plays": 3,
+      "previous_position": 41,
+      "movement": 28,
+      "trend": "up"
+    },
+    {
+      "position": 14,
+      "artist": "Fäaschtbänkler",
+      "title": "Kleines Lied",
+      "plays": 3,
+      "previous_position": 146,
+      "movement": 132,
+      "trend": "up"
+    },
+    {
+      "position": 15,
+      "artist": "Grant Miller",
+      "title": "Doctor For My Heart",
+      "plays": 3,
+      "previous_position": 108,
+      "movement": 93,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "Grant Miller",
+      "title": "Star",
+      "plays": 3,
+      "previous_position": 20,
+      "movement": 4,
+      "trend": "up"
+    },
+    {
+      "position": 17,
+      "artist": "Jay-B",
+      "title": "Du Gehst Mir Unter Die Haut",
+      "plays": 3,
+      "previous_position": 208,
+      "movement": 191,
+      "trend": "up"
+    },
+    {
+      "position": 18,
+      "artist": "Ken Laszlo",
+      "title": "Tonight",
+      "plays": 3,
+      "previous_position": 7,
+      "movement": -11,
+      "trend": "down"
+    },
+    {
+      "position": 19,
+      "artist": "Kessy Del Sol",
+      "title": "Vamos A Mallorca",
+      "plays": 3,
+      "previous_position": 54,
+      "movement": 35,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Olaf der Flipper",
-      "title": "Weltklasse",
+      "artist": "Lian Ross",
+      "title": "The Rules Of Love",
       "plays": 3,
-      "previous_position": 28,
-      "movement": 8,
-      "trend": "up"
+      "previous_position": 13,
+      "movement": -7,
+      "trend": "down"
     }
   ]
 }
