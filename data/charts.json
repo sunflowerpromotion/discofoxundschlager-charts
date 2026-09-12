@@ -4,10 +4,19 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W37",
   "previous_week": "2026-W36",
-  "updated": "2026-09-12T13:09:40.767989+00:00",
+  "updated": "2026-09-12T16:18:13.250271+00:00",
   "charts": [
     {
       "position": 1,
+      "artist": "DJ Herzbeat & Annemarie Eilfeld",
+      "title": "Verlieb Dich Nicht In Einen Heartbreaker",
+      "plays": 6,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 2,
       "artist": "Mandy Bischof",
       "title": "Maria Tanzt",
       "plays": 6,
@@ -16,30 +25,21 @@
       "trend": "new"
     },
     {
-      "position": 2,
+      "position": 3,
+      "artist": "Roger De Win",
+      "title": "Choo-Choo",
+      "plays": 6,
+      "previous_position": 179,
+      "movement": 176,
+      "trend": "up"
+    },
+    {
+      "position": 4,
       "artist": "Alex Blue",
       "title": "Roulette Of Love",
       "plays": 5,
       "previous_position": 207,
-      "movement": 205,
-      "trend": "up"
-    },
-    {
-      "position": 3,
-      "artist": "DJ Herzbeat & Annemarie Eilfeld",
-      "title": "Verlieb Dich Nicht In Einen Heartbreaker",
-      "plays": 5,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 4,
-      "artist": "Roger De Win",
-      "title": "Choo-Choo",
-      "plays": 5,
-      "previous_position": 179,
-      "movement": 175,
+      "movement": 203,
       "trend": "up"
     },
     {
@@ -152,38 +152,38 @@
     },
     {
       "position": 17,
-      "artist": "Margitta",
-      "title": "Lieben Heißt",
+      "artist": "Maite Kelly",
+      "title": "Ein Kuss In Paris",
       "plays": 4,
-      "previous_position": 143,
-      "movement": 126,
+      "previous_position": 130,
+      "movement": 113,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Markus Wolfahrt",
-      "title": "Hallelujah Auf Die Liebe",
+      "artist": "Manfred Kiefer",
+      "title": "Hey Johnny",
       "plays": 4,
-      "previous_position": 129,
-      "movement": 111,
+      "previous_position": 193,
+      "movement": 175,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Roger Whittaker",
-      "title": "Ein Bisschen Aroma",
+      "artist": "Margitta",
+      "title": "Lieben Heißt",
       "plays": 4,
-      "previous_position": 97,
-      "movement": 78,
+      "previous_position": 143,
+      "movement": 124,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Avangarde",
-      "title": "Jak Mam Cię Kochać",
-      "plays": 3,
-      "previous_position": 103,
-      "movement": 83,
+      "artist": "Markus Wolfahrt",
+      "title": "Hallelujah Auf Die Liebe",
+      "plays": 4,
+      "previous_position": 129,
+      "movement": 109,
       "trend": "up"
     }
   ]
