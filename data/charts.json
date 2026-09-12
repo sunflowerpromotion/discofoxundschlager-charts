@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W37",
   "previous_week": "2026-W36",
-  "updated": "2026-09-12T16:18:13.250271+00:00",
+  "updated": "2026-09-12T18:28:56.399254+00:00",
   "charts": [
     {
       "position": 1,
@@ -44,6 +44,24 @@
     },
     {
       "position": 5,
+      "artist": "Markus Wolfahrt",
+      "title": "Hallelujah Auf Die Liebe",
+      "plays": 5,
+      "previous_position": 129,
+      "movement": 124,
+      "trend": "up"
+    },
+    {
+      "position": 6,
+      "artist": "Philipp Schmidt",
+      "title": "Alles Ist Möglich",
+      "plays": 5,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 7,
       "artist": "Toledo",
       "title": "Zakochajmy Sie",
       "plays": 5,
@@ -52,25 +70,25 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 8,
       "artist": "After Party",
       "title": "Moja Wyjatkowa",
       "plays": 4,
       "previous_position": 202,
-      "movement": 196,
+      "movement": 194,
       "trend": "up"
     },
     {
-      "position": 7,
+      "position": 9,
       "artist": "Albin Berger",
       "title": "Lieben Heißt...",
       "plays": 4,
       "previous_position": 76,
-      "movement": 69,
+      "movement": 67,
       "trend": "up"
     },
     {
-      "position": 8,
+      "position": 10,
       "artist": "Andre",
       "title": "Czy Kiedys Cie Znajde",
       "plays": 4,
@@ -79,34 +97,34 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 11,
       "artist": "Defis",
       "title": "Roze",
       "plays": 4,
       "previous_position": 122,
-      "movement": 113,
-      "trend": "up"
-    },
-    {
-      "position": 10,
-      "artist": "Ein Herz Und Eine Tante",
-      "title": "Ich Will Sein Wie Ich Will",
-      "plays": 4,
-      "previous_position": 81,
-      "movement": 71,
-      "trend": "up"
-    },
-    {
-      "position": 11,
-      "artist": "EXTAZY",
-      "title": "Skocze W Ogien",
-      "plays": 4,
-      "previous_position": 183,
-      "movement": 172,
+      "movement": 111,
       "trend": "up"
     },
     {
       "position": 12,
+      "artist": "Ein Herz Und Eine Tante",
+      "title": "Ich Will Sein Wie Ich Will",
+      "plays": 4,
+      "previous_position": 81,
+      "movement": 69,
+      "trend": "up"
+    },
+    {
+      "position": 13,
+      "artist": "EXTAZY",
+      "title": "Skocze W Ogien",
+      "plays": 4,
+      "previous_position": 183,
+      "movement": 170,
+      "trend": "up"
+    },
+    {
+      "position": 14,
       "artist": "Italo Disco Is Back",
       "title": "Ausgabe 24 - Teil 1",
       "plays": 4,
@@ -115,7 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 15,
       "artist": "Italo Disco Is Back",
       "title": "Ausgabe 24 - Teil 2",
       "plays": 4,
@@ -124,7 +142,7 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 16,
       "artist": "Italo Disco Is Back",
       "title": "Ausgabe 24 - Teil 3",
       "plays": 4,
@@ -133,57 +151,39 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 17,
       "artist": "Kessy Del Sol",
       "title": "Vamos A Mallorca",
       "plays": 4,
       "previous_position": 54,
-      "movement": 39,
-      "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "Lian Ross",
-      "title": "The Rules Of Love",
-      "plays": 4,
-      "previous_position": 13,
-      "movement": -3,
-      "trend": "down"
-    },
-    {
-      "position": 17,
-      "artist": "Maite Kelly",
-      "title": "Ein Kuss In Paris",
-      "plays": 4,
-      "previous_position": 130,
-      "movement": 113,
+      "movement": 37,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Manfred Kiefer",
-      "title": "Hey Johnny",
+      "artist": "Lian Ross",
+      "title": "The Rules Of Love",
       "plays": 4,
-      "previous_position": 193,
-      "movement": 175,
-      "trend": "up"
+      "previous_position": 13,
+      "movement": -5,
+      "trend": "down"
     },
     {
       "position": 19,
-      "artist": "Margitta",
-      "title": "Lieben Heißt",
+      "artist": "Maite Kelly",
+      "title": "Ein Kuss In Paris",
       "plays": 4,
-      "previous_position": 143,
-      "movement": 124,
+      "previous_position": 130,
+      "movement": 111,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Markus Wolfahrt",
-      "title": "Hallelujah Auf Die Liebe",
+      "artist": "Manfred Kiefer",
+      "title": "Hey Johnny",
       "plays": 4,
-      "previous_position": 129,
-      "movement": 109,
+      "previous_position": 193,
+      "movement": 173,
       "trend": "up"
     }
   ]
