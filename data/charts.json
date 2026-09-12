@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W37",
   "previous_week": "2026-W36",
-  "updated": "2026-09-12T01:14:57.408931+00:00",
+  "updated": "2026-09-12T05:52:31.293208+00:00",
   "charts": [
     {
       "position": 1,
@@ -62,6 +62,15 @@
     },
     {
       "position": 7,
+      "artist": "Alex Blue",
+      "title": "Roulette Of Love",
+      "plays": 4,
+      "previous_position": 207,
+      "movement": 200,
+      "trend": "up"
+    },
+    {
+      "position": 8,
       "artist": "Andre",
       "title": "Czy Kiedys Cie Znajde",
       "plays": 4,
@@ -70,121 +79,112 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 9,
       "artist": "Defis",
       "title": "Roze",
       "plays": 4,
       "previous_position": 122,
-      "movement": 114,
-      "trend": "up"
-    },
-    {
-      "position": 9,
-      "artist": "EXTAZY",
-      "title": "Skocze W Ogien",
-      "plays": 4,
-      "previous_position": 183,
-      "movement": 174,
+      "movement": 113,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "Markus Wolfahrt",
-      "title": "Hallelujah Auf Die Liebe",
+      "artist": "EXTAZY",
+      "title": "Skocze W Ogien",
       "plays": 4,
-      "previous_position": 129,
-      "movement": 119,
+      "previous_position": 183,
+      "movement": 173,
       "trend": "up"
     },
     {
       "position": 11,
-      "artist": "Alex Blue",
-      "title": "Roulette Of Love",
-      "plays": 3,
-      "previous_position": 207,
-      "movement": 196,
-      "trend": "up"
-    },
-    {
-      "position": 12,
-      "artist": "Avangarde",
-      "title": "Jak Mam Cię Kochać",
-      "plays": 3,
-      "previous_position": 103,
-      "movement": 91,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "Diadem",
-      "title": "Kochanie Moje",
-      "plays": 3,
-      "previous_position": 104,
-      "movement": 91,
-      "trend": "up"
-    },
-    {
-      "position": 14,
-      "artist": "Ein Herz Und Eine Tante",
-      "title": "Ich Will Sein Wie Ich Will",
-      "plays": 3,
-      "previous_position": 81,
-      "movement": 67,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "Flying Steps",
-      "title": "Breakin' It Down",
-      "plays": 3,
-      "previous_position": 41,
-      "movement": 26,
-      "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "Fäaschtbänkler",
-      "title": "Kleines Lied",
-      "plays": 3,
-      "previous_position": 146,
-      "movement": 130,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Grant Miller",
-      "title": "Doctor For My Heart",
-      "plays": 3,
-      "previous_position": 108,
-      "movement": 91,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Grant Miller",
-      "title": "Star",
-      "plays": 3,
-      "previous_position": 20,
+      "artist": "Lian Ross",
+      "title": "The Rules Of Love",
+      "plays": 4,
+      "previous_position": 13,
       "movement": 2,
       "trend": "up"
     },
     {
-      "position": 19,
-      "artist": "Jay-B",
-      "title": "Du Gehst Mir Unter Die Haut",
+      "position": 12,
+      "artist": "Markus Wolfahrt",
+      "title": "Hallelujah Auf Die Liebe",
+      "plays": 4,
+      "previous_position": 129,
+      "movement": 117,
+      "trend": "up"
+    },
+    {
+      "position": 13,
+      "artist": "Avangarde",
+      "title": "Jak Mam Cię Kochać",
       "plays": 3,
-      "previous_position": 208,
-      "movement": 189,
+      "previous_position": 103,
+      "movement": 90,
+      "trend": "up"
+    },
+    {
+      "position": 14,
+      "artist": "Blue Crew",
+      "title": "Santa Cruz",
+      "plays": 3,
+      "previous_position": 118,
+      "movement": 104,
+      "trend": "up"
+    },
+    {
+      "position": 15,
+      "artist": "Blue Talking",
+      "title": "Love Me",
+      "plays": 3,
+      "previous_position": 19,
+      "movement": 4,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "Diadem",
+      "title": "Kochanie Moje",
+      "plays": 3,
+      "previous_position": 104,
+      "movement": 88,
+      "trend": "up"
+    },
+    {
+      "position": 17,
+      "artist": "DJ Jerry",
+      "title": "Shanghai",
+      "plays": 3,
+      "previous_position": 44,
+      "movement": 27,
+      "trend": "up"
+    },
+    {
+      "position": 18,
+      "artist": "Ein Herz Und Eine Tante",
+      "title": "Ich Will Sein Wie Ich Will",
+      "plays": 3,
+      "previous_position": 81,
+      "movement": 63,
+      "trend": "up"
+    },
+    {
+      "position": 19,
+      "artist": "Fancy",
+      "title": "Slice Me Nice",
+      "plays": 3,
+      "previous_position": 93,
+      "movement": 74,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Ken Laszlo",
-      "title": "Tonight",
+      "artist": "Flying Steps",
+      "title": "Breakin' It Down",
       "plays": 3,
-      "previous_position": 7,
-      "movement": -13,
-      "trend": "down"
+      "previous_position": 41,
+      "movement": 21,
+      "trend": "up"
     }
   ]
 }
