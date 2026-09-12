@@ -4,30 +4,30 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W37",
   "previous_week": "2026-W36",
-  "updated": "2026-09-12T09:43:25.214597+00:00",
+  "updated": "2026-09-12T13:09:40.767989+00:00",
   "charts": [
     {
       "position": 1,
-      "artist": "Alex Blue",
-      "title": "Roulette Of Love",
-      "plays": 5,
-      "previous_position": 207,
-      "movement": 206,
-      "trend": "up"
-    },
-    {
-      "position": 2,
-      "artist": "DJ Herzbeat & Annemarie Eilfeld",
-      "title": "Verlieb Dich Nicht In Einen Heartbreaker",
-      "plays": 5,
+      "artist": "Mandy Bischof",
+      "title": "Maria Tanzt",
+      "plays": 6,
       "previous_position": null,
       "movement": null,
       "trend": "new"
     },
     {
+      "position": 2,
+      "artist": "Alex Blue",
+      "title": "Roulette Of Love",
+      "plays": 5,
+      "previous_position": 207,
+      "movement": 205,
+      "trend": "up"
+    },
+    {
       "position": 3,
-      "artist": "Mandy Bischof",
-      "title": "Maria Tanzt",
+      "artist": "DJ Herzbeat & Annemarie Eilfeld",
+      "title": "Verlieb Dich Nicht In Einen Heartbreaker",
       "plays": 5,
       "previous_position": null,
       "movement": null,
@@ -89,15 +89,24 @@
     },
     {
       "position": 10,
-      "artist": "EXTAZY",
-      "title": "Skocze W Ogien",
+      "artist": "Ein Herz Und Eine Tante",
+      "title": "Ich Will Sein Wie Ich Will",
       "plays": 4,
-      "previous_position": 183,
-      "movement": 173,
+      "previous_position": 81,
+      "movement": 71,
       "trend": "up"
     },
     {
       "position": 11,
+      "artist": "EXTAZY",
+      "title": "Skocze W Ogien",
+      "plays": 4,
+      "previous_position": 183,
+      "movement": 172,
+      "trend": "up"
+    },
+    {
+      "position": 12,
       "artist": "Italo Disco Is Back",
       "title": "Ausgabe 24 - Teil 1",
       "plays": 4,
@@ -106,7 +115,7 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 13,
       "artist": "Italo Disco Is Back",
       "title": "Ausgabe 24 - Teil 2",
       "plays": 4,
@@ -115,7 +124,7 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 14,
       "artist": "Italo Disco Is Back",
       "title": "Ausgabe 24 - Teil 3",
       "plays": 4,
@@ -124,66 +133,57 @@
       "trend": "new"
     },
     {
-      "position": 14,
-      "artist": "Lian Ross",
-      "title": "The Rules Of Love",
-      "plays": 4,
-      "previous_position": 13,
-      "movement": -1,
-      "trend": "down"
-    },
-    {
       "position": 15,
-      "artist": "Markus Wolfahrt",
-      "title": "Hallelujah Auf Die Liebe",
+      "artist": "Kessy Del Sol",
+      "title": "Vamos A Mallorca",
       "plays": 4,
-      "previous_position": 129,
-      "movement": 114,
+      "previous_position": 54,
+      "movement": 39,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "Avangarde",
-      "title": "Jak Mam Cię Kochać",
-      "plays": 3,
-      "previous_position": 103,
-      "movement": 87,
-      "trend": "up"
+      "artist": "Lian Ross",
+      "title": "The Rules Of Love",
+      "plays": 4,
+      "previous_position": 13,
+      "movement": -3,
+      "trend": "down"
     },
     {
       "position": 17,
-      "artist": "Blue Crew",
-      "title": "Santa Cruz",
-      "plays": 3,
-      "previous_position": 118,
-      "movement": 101,
+      "artist": "Margitta",
+      "title": "Lieben Heißt",
+      "plays": 4,
+      "previous_position": 143,
+      "movement": 126,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Blue Talking",
-      "title": "Love Me",
-      "plays": 3,
-      "previous_position": 19,
-      "movement": 1,
+      "artist": "Markus Wolfahrt",
+      "title": "Hallelujah Auf Die Liebe",
+      "plays": 4,
+      "previous_position": 129,
+      "movement": 111,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Diadem",
-      "title": "Kochanie Moje",
-      "plays": 3,
-      "previous_position": 104,
-      "movement": 85,
+      "artist": "Roger Whittaker",
+      "title": "Ein Bisschen Aroma",
+      "plays": 4,
+      "previous_position": 97,
+      "movement": 78,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "DJ Jerry",
-      "title": "Shanghai",
+      "artist": "Avangarde",
+      "title": "Jak Mam Cię Kochać",
       "plays": 3,
-      "previous_position": 44,
-      "movement": 24,
+      "previous_position": 103,
+      "movement": 83,
       "trend": "up"
     }
   ]
