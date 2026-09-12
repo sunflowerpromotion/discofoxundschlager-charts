@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W37",
   "previous_week": "2026-W36",
-  "updated": "2026-09-11T23:19:54.273670+00:00",
+  "updated": "2026-09-12T01:14:57.408931+00:00",
   "charts": [
     {
       "position": 1,
@@ -116,75 +116,75 @@
     },
     {
       "position": 13,
-      "artist": "Ein Herz Und Eine Tante",
-      "title": "Ich Will Sein Wie Ich Will",
+      "artist": "Diadem",
+      "title": "Kochanie Moje",
       "plays": 3,
-      "previous_position": 81,
-      "movement": 68,
+      "previous_position": 104,
+      "movement": 91,
       "trend": "up"
     },
     {
       "position": 14,
-      "artist": "Flying Steps",
-      "title": "Breakin' It Down",
+      "artist": "Ein Herz Und Eine Tante",
+      "title": "Ich Will Sein Wie Ich Will",
       "plays": 3,
-      "previous_position": 41,
-      "movement": 27,
+      "previous_position": 81,
+      "movement": 67,
       "trend": "up"
     },
     {
       "position": 15,
-      "artist": "Fäaschtbänkler",
-      "title": "Kleines Lied",
+      "artist": "Flying Steps",
+      "title": "Breakin' It Down",
       "plays": 3,
-      "previous_position": 146,
-      "movement": 131,
+      "previous_position": 41,
+      "movement": 26,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "Grant Miller",
-      "title": "Doctor For My Heart",
+      "artist": "Fäaschtbänkler",
+      "title": "Kleines Lied",
       "plays": 3,
-      "previous_position": 108,
-      "movement": 92,
+      "previous_position": 146,
+      "movement": 130,
       "trend": "up"
     },
     {
       "position": 17,
       "artist": "Grant Miller",
-      "title": "Star",
+      "title": "Doctor For My Heart",
       "plays": 3,
-      "previous_position": 20,
-      "movement": 3,
+      "previous_position": 108,
+      "movement": 91,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Jay-B",
-      "title": "Du Gehst Mir Unter Die Haut",
+      "artist": "Grant Miller",
+      "title": "Star",
       "plays": 3,
-      "previous_position": 208,
-      "movement": 190,
+      "previous_position": 20,
+      "movement": 2,
       "trend": "up"
     },
     {
       "position": 19,
+      "artist": "Jay-B",
+      "title": "Du Gehst Mir Unter Die Haut",
+      "plays": 3,
+      "previous_position": 208,
+      "movement": 189,
+      "trend": "up"
+    },
+    {
+      "position": 20,
       "artist": "Ken Laszlo",
       "title": "Tonight",
       "plays": 3,
       "previous_position": 7,
-      "movement": -12,
+      "movement": -13,
       "trend": "down"
-    },
-    {
-      "position": 20,
-      "artist": "Kessy Del Sol",
-      "title": "Vamos A Mallorca",
-      "plays": 3,
-      "previous_position": 54,
-      "movement": 34,
-      "trend": "up"
     }
   ]
 }
