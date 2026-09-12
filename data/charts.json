@@ -4,10 +4,19 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W37",
   "previous_week": "2026-W36",
-  "updated": "2026-09-12T05:52:31.293208+00:00",
+  "updated": "2026-09-12T09:43:25.214597+00:00",
   "charts": [
     {
       "position": 1,
+      "artist": "Alex Blue",
+      "title": "Roulette Of Love",
+      "plays": 5,
+      "previous_position": 207,
+      "movement": 206,
+      "trend": "up"
+    },
+    {
+      "position": 2,
       "artist": "DJ Herzbeat & Annemarie Eilfeld",
       "title": "Verlieb Dich Nicht In Einen Heartbreaker",
       "plays": 5,
@@ -16,7 +25,7 @@
       "trend": "new"
     },
     {
-      "position": 2,
+      "position": 3,
       "artist": "Mandy Bischof",
       "title": "Maria Tanzt",
       "plays": 5,
@@ -25,16 +34,16 @@
       "trend": "new"
     },
     {
-      "position": 3,
+      "position": 4,
       "artist": "Roger De Win",
       "title": "Choo-Choo",
       "plays": 5,
       "previous_position": 179,
-      "movement": 176,
+      "movement": 175,
       "trend": "up"
     },
     {
-      "position": 4,
+      "position": 5,
       "artist": "Toledo",
       "title": "Zakochajmy Sie",
       "plays": 5,
@@ -43,30 +52,21 @@
       "trend": "new"
     },
     {
-      "position": 5,
+      "position": 6,
       "artist": "After Party",
       "title": "Moja Wyjatkowa",
       "plays": 4,
       "previous_position": 202,
-      "movement": 197,
-      "trend": "up"
-    },
-    {
-      "position": 6,
-      "artist": "Albin Berger",
-      "title": "Lieben Heißt...",
-      "plays": 4,
-      "previous_position": 76,
-      "movement": 70,
+      "movement": 196,
       "trend": "up"
     },
     {
       "position": 7,
-      "artist": "Alex Blue",
-      "title": "Roulette Of Love",
+      "artist": "Albin Berger",
+      "title": "Lieben Heißt...",
       "plays": 4,
-      "previous_position": 207,
-      "movement": 200,
+      "previous_position": 76,
+      "movement": 69,
       "trend": "up"
     },
     {
@@ -98,92 +98,92 @@
     },
     {
       "position": 11,
+      "artist": "Italo Disco Is Back",
+      "title": "Ausgabe 24 - Teil 1",
+      "plays": 4,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 12,
+      "artist": "Italo Disco Is Back",
+      "title": "Ausgabe 24 - Teil 2",
+      "plays": 4,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 13,
+      "artist": "Italo Disco Is Back",
+      "title": "Ausgabe 24 - Teil 3",
+      "plays": 4,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 14,
       "artist": "Lian Ross",
       "title": "The Rules Of Love",
       "plays": 4,
       "previous_position": 13,
-      "movement": 2,
-      "trend": "up"
+      "movement": -1,
+      "trend": "down"
     },
     {
-      "position": 12,
+      "position": 15,
       "artist": "Markus Wolfahrt",
       "title": "Hallelujah Auf Die Liebe",
       "plays": 4,
       "previous_position": 129,
-      "movement": 117,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "Avangarde",
-      "title": "Jak Mam Cię Kochać",
-      "plays": 3,
-      "previous_position": 103,
-      "movement": 90,
-      "trend": "up"
-    },
-    {
-      "position": 14,
-      "artist": "Blue Crew",
-      "title": "Santa Cruz",
-      "plays": 3,
-      "previous_position": 118,
-      "movement": 104,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "Blue Talking",
-      "title": "Love Me",
-      "plays": 3,
-      "previous_position": 19,
-      "movement": 4,
+      "movement": 114,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "Diadem",
-      "title": "Kochanie Moje",
+      "artist": "Avangarde",
+      "title": "Jak Mam Cię Kochać",
       "plays": 3,
-      "previous_position": 104,
-      "movement": 88,
+      "previous_position": 103,
+      "movement": 87,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "DJ Jerry",
-      "title": "Shanghai",
+      "artist": "Blue Crew",
+      "title": "Santa Cruz",
       "plays": 3,
-      "previous_position": 44,
-      "movement": 27,
+      "previous_position": 118,
+      "movement": 101,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Ein Herz Und Eine Tante",
-      "title": "Ich Will Sein Wie Ich Will",
+      "artist": "Blue Talking",
+      "title": "Love Me",
       "plays": 3,
-      "previous_position": 81,
-      "movement": 63,
+      "previous_position": 19,
+      "movement": 1,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Fancy",
-      "title": "Slice Me Nice",
+      "artist": "Diadem",
+      "title": "Kochanie Moje",
       "plays": 3,
-      "previous_position": 93,
-      "movement": 74,
+      "previous_position": 104,
+      "movement": 85,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Flying Steps",
-      "title": "Breakin' It Down",
+      "artist": "DJ Jerry",
+      "title": "Shanghai",
       "plays": 3,
-      "previous_position": 41,
-      "movement": 21,
+      "previous_position": 44,
+      "movement": 24,
       "trend": "up"
     }
   ]
