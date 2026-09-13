@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W37",
   "previous_week": "2026-W36",
-  "updated": "2026-09-12T22:39:49.723232+00:00",
+  "updated": "2026-09-13T00:21:08.393767+00:00",
   "charts": [
     {
       "position": 1,
@@ -44,44 +44,44 @@
     },
     {
       "position": 5,
-      "artist": "Alex Blue",
-      "title": "Roulette Of Love",
-      "plays": 5,
-      "previous_position": 207,
-      "movement": 202,
-      "trend": "up"
-    },
-    {
-      "position": 6,
-      "artist": "Maite Kelly",
-      "title": "Ein Kuss In Paris",
-      "plays": 5,
-      "previous_position": 130,
-      "movement": 124,
-      "trend": "up"
-    },
-    {
-      "position": 7,
-      "artist": "Margitta",
-      "title": "Lieben Heißt",
-      "plays": 5,
-      "previous_position": 143,
-      "movement": 136,
-      "trend": "up"
-    },
-    {
-      "position": 8,
-      "artist": "Philipp Schmidt",
-      "title": "Alles Ist Möglich",
-      "plays": 5,
+      "artist": "Toledo",
+      "title": "Zakochajmy Sie",
+      "plays": 6,
       "previous_position": null,
       "movement": null,
       "trend": "new"
     },
     {
+      "position": 6,
+      "artist": "Alex Blue",
+      "title": "Roulette Of Love",
+      "plays": 5,
+      "previous_position": 207,
+      "movement": 201,
+      "trend": "up"
+    },
+    {
+      "position": 7,
+      "artist": "Maite Kelly",
+      "title": "Ein Kuss In Paris",
+      "plays": 5,
+      "previous_position": 130,
+      "movement": 123,
+      "trend": "up"
+    },
+    {
+      "position": 8,
+      "artist": "Margitta",
+      "title": "Lieben Heißt",
+      "plays": 5,
+      "previous_position": 143,
+      "movement": 135,
+      "trend": "up"
+    },
+    {
       "position": 9,
-      "artist": "Toledo",
-      "title": "Zakochajmy Sie",
+      "artist": "Philipp Schmidt",
+      "title": "Alles Ist Möglich",
       "plays": 5,
       "previous_position": null,
       "movement": null,
@@ -125,42 +125,51 @@
     },
     {
       "position": 14,
-      "artist": "Ein Herz Und Eine Tante",
-      "title": "Ich Will Sein Wie Ich Will",
+      "artist": "Diadem",
+      "title": "Kochanie Moje",
       "plays": 4,
-      "previous_position": 81,
-      "movement": 67,
+      "previous_position": 104,
+      "movement": 90,
       "trend": "up"
     },
     {
       "position": 15,
-      "artist": "EXTAZY",
-      "title": "Skocze W Ogien",
+      "artist": "Ein Herz Und Eine Tante",
+      "title": "Ich Will Sein Wie Ich Will",
       "plays": 4,
-      "previous_position": 183,
-      "movement": 168,
+      "previous_position": 81,
+      "movement": 66,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "Frank Brenner",
-      "title": "Vorbei",
+      "artist": "EXTAZY",
+      "title": "Skocze W Ogien",
       "plays": 4,
-      "previous_position": 176,
-      "movement": 160,
+      "previous_position": 183,
+      "movement": 167,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "Frank Schöbel",
-      "title": "Dich Hat Der Himmel Geschickt",
+      "artist": "Frank Brenner",
+      "title": "Vorbei",
       "plays": 4,
-      "previous_position": 161,
-      "movement": 144,
+      "previous_position": 176,
+      "movement": 159,
       "trend": "up"
     },
     {
       "position": 18,
+      "artist": "Frank Schöbel",
+      "title": "Dich Hat Der Himmel Geschickt",
+      "plays": 4,
+      "previous_position": 161,
+      "movement": 143,
+      "trend": "up"
+    },
+    {
+      "position": 19,
       "artist": "Italo Disco Is Back",
       "title": "Ausgabe 24 - Teil 1",
       "plays": 4,
@@ -169,18 +178,9 @@
       "trend": "new"
     },
     {
-      "position": 19,
-      "artist": "Italo Disco Is Back",
-      "title": "Ausgabe 24 - Teil 2",
-      "plays": 4,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
       "position": 20,
       "artist": "Italo Disco Is Back",
-      "title": "Ausgabe 24 - Teil 3",
+      "title": "Ausgabe 24 - Teil 2",
       "plays": 4,
       "previous_position": null,
       "movement": null,
