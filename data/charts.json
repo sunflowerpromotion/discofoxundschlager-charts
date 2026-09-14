@@ -4,19 +4,28 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W38",
   "previous_week": "2026-W37",
-  "updated": "2026-09-13T23:33:17.039080+00:00",
+  "updated": "2026-09-14T01:33:40.798711+00:00",
   "charts": [
     {
       "position": 1,
       "artist": "Andre",
-      "title": "Dama Zegna Pana",
+      "title": "Czy Kiedys Cie Znajde",
       "plays": 1,
-      "previous_position": 166,
-      "movement": 165,
+      "previous_position": 22,
+      "movement": 21,
       "trend": "up"
     },
     {
       "position": 2,
+      "artist": "Andre",
+      "title": "Dama Zegna Pana",
+      "plays": 1,
+      "previous_position": 166,
+      "movement": 164,
+      "trend": "up"
+    },
+    {
+      "position": 3,
       "artist": "As",
       "title": "Na Zamku",
       "plays": 1,
@@ -25,34 +34,79 @@
       "trend": "new"
     },
     {
-      "position": 3,
-      "artist": "Classic",
-      "title": "Ja Dla Ciebie Ty Dla Mnie",
-      "plays": 1,
-      "previous_position": 141,
-      "movement": 138,
-      "trend": "up"
-    },
-    {
       "position": 4,
-      "artist": "Conrado",
-      "title": "Siebie Nie Zaluj",
+      "artist": "Boski Heniek, Maka & Pancio",
+      "title": "Biały Benz",
       "plays": 1,
-      "previous_position": 177,
-      "movement": 173,
-      "trend": "up"
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
       "position": 5,
-      "artist": "Dejw",
-      "title": "Ananas",
+      "artist": "BOYS & WEEKEND",
+      "title": "Muzykę W Duszy Mamy",
       "plays": 1,
-      "previous_position": 73,
-      "movement": 68,
+      "previous_position": 94,
+      "movement": 89,
       "trend": "up"
     },
     {
       "position": 6,
+      "artist": "Classic",
+      "title": "Ja Dla Ciebie Ty Dla Mnie",
+      "plays": 1,
+      "previous_position": 141,
+      "movement": 135,
+      "trend": "up"
+    },
+    {
+      "position": 7,
+      "artist": "Conrado",
+      "title": "Siebie Nie Zaluj",
+      "plays": 1,
+      "previous_position": 177,
+      "movement": 170,
+      "trend": "up"
+    },
+    {
+      "position": 8,
+      "artist": "Defis",
+      "title": "Roze",
+      "plays": 1,
+      "previous_position": 20,
+      "movement": 12,
+      "trend": "up"
+    },
+    {
+      "position": 9,
+      "artist": "Dejw",
+      "title": "Ananas",
+      "plays": 1,
+      "previous_position": 73,
+      "movement": 64,
+      "trend": "up"
+    },
+    {
+      "position": 10,
+      "artist": "DJ Malutki",
+      "title": "Czerwone Róże",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 11,
+      "artist": "Doliva",
+      "title": "Tańcz Tylko Ze Mną",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 12,
       "artist": "Drossel",
       "title": "Najwazniejsza",
       "plays": 1,
@@ -61,39 +115,75 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 13,
       "artist": "Fantasy",
       "title": "Wild Boys",
       "plays": 1,
       "previous_position": 96,
-      "movement": 89,
+      "movement": 83,
       "trend": "up"
     },
     {
-      "position": 8,
+      "position": 14,
       "artist": "Magda Niewiñska",
       "title": "Mezu Drogi Mój",
       "plays": 1,
       "previous_position": 174,
-      "movement": 166,
+      "movement": 160,
       "trend": "up"
     },
     {
-      "position": 9,
+      "position": 15,
+      "artist": "MIG",
+      "title": "Do Niej Cos Czuje",
+      "plays": 1,
+      "previous_position": 159,
+      "movement": 144,
+      "trend": "up"
+    },
+    {
+      "position": 16,
       "artist": "MIG",
       "title": "Zawsze Będę Obok Ciebie",
       "plays": 1,
       "previous_position": 97,
-      "movement": 88,
+      "movement": 81,
       "trend": "up"
     },
     {
-      "position": 10,
+      "position": 17,
+      "artist": "Patty",
+      "title": "Nie Ma Nas (Zabiłeś Tę Miłość)",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 18,
       "artist": "Playboys",
       "title": "Ja w To Nie Wierze",
       "plays": 1,
       "previous_position": 95,
-      "movement": 85,
+      "movement": 77,
+      "trend": "up"
+    },
+    {
+      "position": 19,
+      "artist": "Power Play",
+      "title": "Najpiekne",
+      "plays": 1,
+      "previous_position": 31,
+      "movement": 12,
+      "trend": "up"
+    },
+    {
+      "position": 20,
+      "artist": "Skolim, Raider, Zenek Martyniuk, Akcent",
+      "title": "Love",
+      "plays": 1,
+      "previous_position": 61,
+      "movement": 41,
       "trend": "up"
     }
   ]
