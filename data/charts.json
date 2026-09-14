@@ -4,46 +4,55 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W38",
   "previous_week": "2026-W37",
-  "updated": "2026-09-14T13:51:58.529715+00:00",
+  "updated": "2026-09-14T18:55:29.226785+00:00",
   "charts": [
     {
       "position": 1,
-      "artist": "Alex Blue",
-      "title": "Let Us Dance",
-      "plays": 1,
-      "previous_position": 90,
-      "movement": 89,
-      "trend": "up"
+      "artist": "Roger De Win",
+      "title": "Choo-Choo",
+      "plays": 2,
+      "previous_position": 1,
+      "movement": 0,
+      "trend": "same"
     },
     {
       "position": 2,
       "artist": "Alex Blue",
-      "title": "Roulette Of Love",
+      "title": "Let Us Dance",
       "plays": 1,
-      "previous_position": 12,
-      "movement": 10,
+      "previous_position": 90,
+      "movement": 88,
       "trend": "up"
     },
     {
       "position": 3,
-      "artist": "Andre",
-      "title": "Czy Kiedys Cie Znajde",
+      "artist": "Alex Blue",
+      "title": "Roulette Of Love",
       "plays": 1,
-      "previous_position": 22,
-      "movement": 19,
+      "previous_position": 12,
+      "movement": 9,
       "trend": "up"
     },
     {
       "position": 4,
       "artist": "Andre",
-      "title": "Dama Zegna Pana",
+      "title": "Czy Kiedys Cie Znajde",
       "plays": 1,
-      "previous_position": 166,
-      "movement": 162,
+      "previous_position": 22,
+      "movement": 18,
       "trend": "up"
     },
     {
       "position": 5,
+      "artist": "Andre",
+      "title": "Dama Zegna Pana",
+      "plays": 1,
+      "previous_position": 166,
+      "movement": 161,
+      "trend": "up"
+    },
+    {
+      "position": 6,
       "artist": "André & Michael",
       "title": "Sag Es Oder Schweig",
       "plays": 1,
@@ -52,16 +61,16 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 7,
       "artist": "Anja Nova",
       "title": "High",
       "plays": 1,
       "previous_position": 111,
-      "movement": 105,
+      "movement": 104,
       "trend": "up"
     },
     {
-      "position": 7,
+      "position": 8,
       "artist": "As",
       "title": "Na Zamku",
       "plays": 1,
@@ -70,43 +79,43 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 9,
       "artist": "Baccara",
       "title": "My Love In China",
       "plays": 1,
       "previous_position": 100,
-      "movement": 92,
-      "trend": "up"
-    },
-    {
-      "position": 9,
-      "artist": "Bad Boys Blue",
-      "title": "Queen Of Hearts",
-      "plays": 1,
-      "previous_position": 82,
-      "movement": 73,
+      "movement": 91,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "Blue Crew",
-      "title": "Santa Cruz",
+      "artist": "Bad Boys Blue",
+      "title": "Queen Of Hearts",
       "plays": 1,
-      "previous_position": 47,
-      "movement": 37,
+      "previous_position": 82,
+      "movement": 72,
       "trend": "up"
     },
     {
       "position": 11,
-      "artist": "Blue Talking",
-      "title": "Love Me",
+      "artist": "Blue Crew",
+      "title": "Santa Cruz",
       "plays": 1,
-      "previous_position": 54,
-      "movement": 43,
+      "previous_position": 47,
+      "movement": 36,
       "trend": "up"
     },
     {
       "position": 12,
+      "artist": "Blue Talking",
+      "title": "Love Me",
+      "plays": 1,
+      "previous_position": 54,
+      "movement": 42,
+      "trend": "up"
+    },
+    {
+      "position": 13,
       "artist": "Boski Heniek, Maka & Pancio",
       "title": "Biały Benz",
       "plays": 1,
@@ -115,76 +124,67 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 14,
       "artist": "BOYS & WEEKEND",
       "title": "Muzykę W Duszy Mamy",
       "plays": 1,
       "previous_position": 94,
-      "movement": 81,
-      "trend": "up"
-    },
-    {
-      "position": 14,
-      "artist": "Classic",
-      "title": "Ja Dla Ciebie Ty Dla Mnie",
-      "plays": 1,
-      "previous_position": 141,
-      "movement": 127,
+      "movement": 80,
       "trend": "up"
     },
     {
       "position": 15,
-      "artist": "Conrado",
-      "title": "Siebie Nie Zaluj",
+      "artist": "Classic",
+      "title": "Ja Dla Ciebie Ty Dla Mnie",
       "plays": 1,
-      "previous_position": 177,
-      "movement": 162,
+      "previous_position": 141,
+      "movement": 126,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "Defis",
-      "title": "Roze",
+      "artist": "Conrado",
+      "title": "Siebie Nie Zaluj",
       "plays": 1,
-      "previous_position": 20,
-      "movement": 4,
+      "previous_position": 177,
+      "movement": 161,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "Dejw",
-      "title": "Ananas",
+      "artist": "Dani Mirell",
+      "title": "Fantasy Girl",
       "plays": 1,
-      "previous_position": 73,
-      "movement": 56,
+      "previous_position": 103,
+      "movement": 86,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Denny Schönemann",
-      "title": "Room Number 1",
+      "artist": "Danny Black",
+      "title": "Fels In Der Brandung",
       "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 65,
+      "movement": 47,
+      "trend": "up"
     },
     {
       "position": 19,
-      "artist": "DJ Malutki",
-      "title": "Czerwone Róże",
+      "artist": "Defis",
+      "title": "Roze",
       "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 20,
+      "movement": 1,
+      "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Doliva",
-      "title": "Tańcz Tylko Ze Mną",
+      "artist": "Dejw",
+      "title": "Ananas",
       "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 73,
+      "movement": 53,
+      "trend": "up"
     }
   ]
 }
