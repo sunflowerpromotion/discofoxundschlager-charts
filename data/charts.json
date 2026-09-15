@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W38",
   "previous_week": "2026-W37",
-  "updated": "2026-09-15T15:02:28.219545+00:00",
+  "updated": "2026-09-15T18:53:50.885253+00:00",
   "charts": [
     {
       "position": 1,
@@ -26,6 +26,15 @@
     },
     {
       "position": 3,
+      "artist": "Frank Schöbel",
+      "title": "Dich Hat Der Himmel Geschickt",
+      "plays": 2,
+      "previous_position": 16,
+      "movement": 13,
+      "trend": "up"
+    },
+    {
+      "position": 4,
       "artist": "Italo Disco Is Back",
       "title": "Urlaubsausgabe KW 38 - Teil 4",
       "plays": 2,
@@ -34,52 +43,52 @@
       "trend": "new"
     },
     {
-      "position": 4,
+      "position": 5,
       "artist": "MIG",
       "title": "Zawsze Będę Obok Ciebie",
       "plays": 2,
       "previous_position": 97,
-      "movement": 93,
-      "trend": "up"
-    },
-    {
-      "position": 5,
-      "artist": "Power Play",
-      "title": "Najpiekne",
-      "plays": 2,
-      "previous_position": 31,
-      "movement": 26,
+      "movement": 92,
       "trend": "up"
     },
     {
       "position": 6,
-      "artist": "Ryan Paris",
-      "title": "Russian Ladies",
+      "artist": "Power Play",
+      "title": "Najpiekne",
       "plays": 2,
-      "previous_position": 53,
-      "movement": 47,
+      "previous_position": 31,
+      "movement": 25,
       "trend": "up"
     },
     {
       "position": 7,
-      "artist": "Schlager-Rallye",
-      "title": "1360 - Teil 1",
+      "artist": "Ryan Paris",
+      "title": "Russian Ladies",
       "plays": 2,
-      "previous_position": 113,
-      "movement": 106,
+      "previous_position": 53,
+      "movement": 46,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "Silent Circle",
-      "title": "Stop The Rain In The Night",
+      "artist": "Schlager-Rallye",
+      "title": "1360 - Teil 1",
       "plays": 2,
-      "previous_position": 68,
-      "movement": 60,
+      "previous_position": 113,
+      "movement": 105,
       "trend": "up"
     },
     {
       "position": 9,
+      "artist": "Silent Circle",
+      "title": "Stop The Rain In The Night",
+      "plays": 2,
+      "previous_position": 68,
+      "movement": 59,
+      "trend": "up"
+    },
+    {
+      "position": 10,
       "artist": "TQ",
       "title": "In The Night",
       "plays": 2,
@@ -88,52 +97,52 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 11,
       "artist": "After Party",
       "title": "Moja Wyjatkowa",
       "plays": 1,
       "previous_position": 21,
-      "movement": 11,
-      "trend": "up"
-    },
-    {
-      "position": 11,
-      "artist": "Alex Blue",
-      "title": "Let Us Dance",
-      "plays": 1,
-      "previous_position": 90,
-      "movement": 79,
+      "movement": 10,
       "trend": "up"
     },
     {
       "position": 12,
       "artist": "Alex Blue",
-      "title": "Roulette Of Love",
+      "title": "Let Us Dance",
       "plays": 1,
-      "previous_position": 12,
-      "movement": 0,
-      "trend": "same"
+      "previous_position": 90,
+      "movement": 78,
+      "trend": "up"
     },
     {
       "position": 13,
-      "artist": "Andre",
-      "title": "Czy Kiedys Cie Znajde",
+      "artist": "Alex Blue",
+      "title": "Roulette Of Love",
       "plays": 1,
-      "previous_position": 22,
-      "movement": 9,
-      "trend": "up"
+      "previous_position": 12,
+      "movement": -1,
+      "trend": "down"
     },
     {
       "position": 14,
       "artist": "Andre",
-      "title": "Dama Zegna Pana",
+      "title": "Czy Kiedys Cie Znajde",
       "plays": 1,
-      "previous_position": 166,
-      "movement": 152,
+      "previous_position": 22,
+      "movement": 8,
       "trend": "up"
     },
     {
       "position": 15,
+      "artist": "Andre",
+      "title": "Dama Zegna Pana",
+      "plays": 1,
+      "previous_position": 166,
+      "movement": 151,
+      "trend": "up"
+    },
+    {
+      "position": 16,
       "artist": "Andrea Berg",
       "title": "Die Geheimen Träumer",
       "plays": 1,
@@ -142,7 +151,7 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 17,
       "artist": "André & Michael",
       "title": "Sag Es Oder Schweig",
       "plays": 1,
@@ -151,16 +160,16 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 18,
       "artist": "Anja Nova",
       "title": "High",
       "plays": 1,
       "previous_position": 111,
-      "movement": 94,
+      "movement": 93,
       "trend": "up"
     },
     {
-      "position": 18,
+      "position": 19,
       "artist": "Anna-Carina Woitschack feat. Stefan Mross",
       "title": "Blaue Lagune",
       "plays": 1,
@@ -169,22 +178,13 @@
       "trend": "new"
     },
     {
-      "position": 19,
-      "artist": "As",
-      "title": "Na Zamku",
+      "position": 20,
+      "artist": "Ansgar Deters feat. Kerstin",
+      "title": "Ich Umarme Die Welt",
       "plays": 1,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Baccara",
-      "title": "My Love In China",
-      "plays": 1,
-      "previous_position": 100,
-      "movement": 80,
-      "trend": "up"
     }
   ]
 }
