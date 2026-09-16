@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W38",
   "previous_week": "2026-W37",
-  "updated": "2026-09-16T06:50:35.712421+00:00",
+  "updated": "2026-09-16T12:13:26.690383+00:00",
   "charts": [
     {
       "position": 1,
@@ -17,6 +17,15 @@
     },
     {
       "position": 2,
+      "artist": "Schlager-Rallye",
+      "title": "1360 - Teil 1",
+      "plays": 3,
+      "previous_position": 113,
+      "movement": 111,
+      "trend": "up"
+    },
+    {
+      "position": 3,
       "artist": "Andrea Berg",
       "title": "Die Geheimen Träumer",
       "plays": 2,
@@ -25,61 +34,70 @@
       "trend": "new"
     },
     {
-      "position": 3,
+      "position": 4,
       "artist": "Blue Talking",
       "title": "Love Me",
       "plays": 2,
       "previous_position": 54,
-      "movement": 51,
-      "trend": "up"
-    },
-    {
-      "position": 4,
-      "artist": "Dejw",
-      "title": "Ananas",
-      "plays": 2,
-      "previous_position": 73,
-      "movement": 69,
+      "movement": 50,
       "trend": "up"
     },
     {
       "position": 5,
-      "artist": "Die Trovatos",
-      "title": "Sempre Sempre",
+      "artist": "Dani Mirell",
+      "title": "Fantasy Girl",
       "plays": 2,
-      "previous_position": 115,
-      "movement": 110,
+      "previous_position": 103,
+      "movement": 98,
       "trend": "up"
     },
     {
       "position": 6,
-      "artist": "DJ Jerry",
-      "title": "Shanghai",
+      "artist": "Dejw",
+      "title": "Ananas",
       "plays": 2,
-      "previous_position": 55,
-      "movement": 49,
+      "previous_position": 73,
+      "movement": 67,
       "trend": "up"
     },
     {
       "position": 7,
-      "artist": "Fancy",
-      "title": "Slice Me Nice",
+      "artist": "Die Trovatos",
+      "title": "Sempre Sempre",
       "plays": 2,
-      "previous_position": 37,
-      "movement": 30,
+      "previous_position": 115,
+      "movement": 108,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "Frank Schöbel",
-      "title": "Dich Hat Der Himmel Geschickt",
+      "artist": "DJ Jerry",
+      "title": "Shanghai",
       "plays": 2,
-      "previous_position": 16,
-      "movement": 8,
+      "previous_position": 55,
+      "movement": 47,
       "trend": "up"
     },
     {
       "position": 9,
+      "artist": "Fancy",
+      "title": "Slice Me Nice",
+      "plays": 2,
+      "previous_position": 37,
+      "movement": 28,
+      "trend": "up"
+    },
+    {
+      "position": 10,
+      "artist": "Frank Schöbel",
+      "title": "Dich Hat Der Himmel Geschickt",
+      "plays": 2,
+      "previous_position": 16,
+      "movement": 6,
+      "trend": "up"
+    },
+    {
+      "position": 11,
       "artist": "Italo Disco Is Back",
       "title": "Urlaubsausgabe KW 38 - Teil 4",
       "plays": 2,
@@ -88,43 +106,43 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 12,
       "artist": "Lian Ross",
       "title": "The Rules Of Love",
       "plays": 2,
       "previous_position": 25,
-      "movement": 15,
-      "trend": "up"
-    },
-    {
-      "position": 11,
-      "artist": "Magda Niewiñska",
-      "title": "Mezu Drogi Mój",
-      "plays": 2,
-      "previous_position": 174,
-      "movement": 163,
-      "trend": "up"
-    },
-    {
-      "position": 12,
-      "artist": "Melissa Naschenweng",
-      "title": "Dein Herz Verliert",
-      "plays": 2,
-      "previous_position": 200,
-      "movement": 188,
+      "movement": 13,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "MIG",
-      "title": "Zawsze Będę Obok Ciebie",
+      "artist": "Magda Niewiñska",
+      "title": "Mezu Drogi Mój",
       "plays": 2,
-      "previous_position": 97,
-      "movement": 84,
+      "previous_position": 174,
+      "movement": 161,
       "trend": "up"
     },
     {
       "position": 14,
+      "artist": "Melissa Naschenweng",
+      "title": "Dein Herz Verliert",
+      "plays": 2,
+      "previous_position": 200,
+      "movement": 186,
+      "trend": "up"
+    },
+    {
+      "position": 15,
+      "artist": "MIG",
+      "title": "Zawsze Będę Obok Ciebie",
+      "plays": 2,
+      "previous_position": 97,
+      "movement": 82,
+      "trend": "up"
+    },
+    {
+      "position": 16,
       "artist": "NeoNite",
       "title": "Kiss Me",
       "plays": 2,
@@ -133,7 +151,7 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 17,
       "artist": "Nico Gemba",
       "title": "Du Bist Der Totale Wahnsinn (Lisa)",
       "plays": 2,
@@ -142,7 +160,7 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 18,
       "artist": "Patty",
       "title": "Nie Ma Nas (Zabiłeś Tę Miłość)",
       "plays": 2,
@@ -151,39 +169,21 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 19,
       "artist": "Power Play",
       "title": "Najpiekne",
       "plays": 2,
       "previous_position": 31,
-      "movement": 14,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Ryan Paris",
-      "title": "Russian Ladies",
-      "plays": 2,
-      "previous_position": 53,
-      "movement": 35,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Schlager-Rallye",
-      "title": "1360 - Teil 1",
-      "plays": 2,
-      "previous_position": 113,
-      "movement": 94,
+      "movement": 12,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Silent Circle",
-      "title": "Stop The Rain In The Night",
+      "artist": "Ryan Paris",
+      "title": "Russian Ladies",
       "plays": 2,
-      "previous_position": 68,
-      "movement": 48,
+      "previous_position": 53,
+      "movement": 33,
       "trend": "up"
     }
   ]
