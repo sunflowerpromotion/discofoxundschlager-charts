@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W38",
   "previous_week": "2026-W37",
-  "updated": "2026-09-16T12:13:26.690383+00:00",
+  "updated": "2026-09-16T17:00:10.336718+00:00",
   "charts": [
     {
       "position": 1,
@@ -35,69 +35,96 @@
     },
     {
       "position": 4,
-      "artist": "Blue Talking",
-      "title": "Love Me",
+      "artist": "André & Michael",
+      "title": "Sag Es Oder Schweig",
       "plays": 2,
-      "previous_position": 54,
-      "movement": 50,
-      "trend": "up"
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
       "position": 5,
-      "artist": "Dani Mirell",
-      "title": "Fantasy Girl",
+      "artist": "Anja Nova",
+      "title": "High",
       "plays": 2,
-      "previous_position": 103,
-      "movement": 98,
+      "previous_position": 111,
+      "movement": 106,
       "trend": "up"
     },
     {
       "position": 6,
-      "artist": "Dejw",
-      "title": "Ananas",
+      "artist": "Blue Talking",
+      "title": "Love Me",
       "plays": 2,
-      "previous_position": 73,
-      "movement": 67,
+      "previous_position": 54,
+      "movement": 48,
       "trend": "up"
     },
     {
       "position": 7,
-      "artist": "Die Trovatos",
-      "title": "Sempre Sempre",
+      "artist": "Dani Mirell",
+      "title": "Fantasy Girl",
       "plays": 2,
-      "previous_position": 115,
-      "movement": 108,
+      "previous_position": 103,
+      "movement": 96,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "DJ Jerry",
-      "title": "Shanghai",
+      "artist": "Dejw",
+      "title": "Ananas",
       "plays": 2,
-      "previous_position": 55,
-      "movement": 47,
+      "previous_position": 73,
+      "movement": 65,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "Fancy",
-      "title": "Slice Me Nice",
+      "artist": "Die Trovatos",
+      "title": "Sempre Sempre",
       "plays": 2,
-      "previous_position": 37,
-      "movement": 28,
+      "previous_position": 115,
+      "movement": 106,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "Frank Schöbel",
-      "title": "Dich Hat Der Himmel Geschickt",
+      "artist": "DJ Jerry",
+      "title": "Shanghai",
       "plays": 2,
-      "previous_position": 16,
-      "movement": 6,
+      "previous_position": 55,
+      "movement": 45,
       "trend": "up"
     },
     {
       "position": 11,
+      "artist": "Engelherz",
+      "title": "Stille Wasser Sind Tief",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 12,
+      "artist": "Fancy",
+      "title": "Slice Me Nice",
+      "plays": 2,
+      "previous_position": 37,
+      "movement": 25,
+      "trend": "up"
+    },
+    {
+      "position": 13,
+      "artist": "Frank Schöbel",
+      "title": "Dich Hat Der Himmel Geschickt",
+      "plays": 2,
+      "previous_position": 16,
+      "movement": 3,
+      "trend": "up"
+    },
+    {
+      "position": 14,
       "artist": "Italo Disco Is Back",
       "title": "Urlaubsausgabe KW 38 - Teil 4",
       "plays": 2,
@@ -106,85 +133,58 @@
       "trend": "new"
     },
     {
-      "position": 12,
-      "artist": "Lian Ross",
-      "title": "The Rules Of Love",
-      "plays": 2,
-      "previous_position": 25,
-      "movement": 13,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "Magda Niewiñska",
-      "title": "Mezu Drogi Mój",
-      "plays": 2,
-      "previous_position": 174,
-      "movement": 161,
-      "trend": "up"
-    },
-    {
-      "position": 14,
-      "artist": "Melissa Naschenweng",
-      "title": "Dein Herz Verliert",
-      "plays": 2,
-      "previous_position": 200,
-      "movement": 186,
-      "trend": "up"
-    },
-    {
       "position": 15,
-      "artist": "MIG",
-      "title": "Zawsze Będę Obok Ciebie",
+      "artist": "Jörg Bausch",
+      "title": "Totale Chaoten",
       "plays": 2,
-      "previous_position": 97,
-      "movement": 82,
+      "previous_position": 34,
+      "movement": 19,
       "trend": "up"
     },
     {
       "position": 16,
+      "artist": "Lian Ross",
+      "title": "The Rules Of Love",
+      "plays": 2,
+      "previous_position": 25,
+      "movement": 9,
+      "trend": "up"
+    },
+    {
+      "position": 17,
+      "artist": "Magda Niewiñska",
+      "title": "Mezu Drogi Mój",
+      "plays": 2,
+      "previous_position": 174,
+      "movement": 157,
+      "trend": "up"
+    },
+    {
+      "position": 18,
+      "artist": "Melissa Naschenweng",
+      "title": "Dein Herz Verliert",
+      "plays": 2,
+      "previous_position": 200,
+      "movement": 182,
+      "trend": "up"
+    },
+    {
+      "position": 19,
+      "artist": "MIG",
+      "title": "Zawsze Będę Obok Ciebie",
+      "plays": 2,
+      "previous_position": 97,
+      "movement": 78,
+      "trend": "up"
+    },
+    {
+      "position": 20,
       "artist": "NeoNite",
       "title": "Kiss Me",
       "plays": 2,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 17,
-      "artist": "Nico Gemba",
-      "title": "Du Bist Der Totale Wahnsinn (Lisa)",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 18,
-      "artist": "Patty",
-      "title": "Nie Ma Nas (Zabiłeś Tę Miłość)",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Power Play",
-      "title": "Najpiekne",
-      "plays": 2,
-      "previous_position": 31,
-      "movement": 12,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "Ryan Paris",
-      "title": "Russian Ladies",
-      "plays": 2,
-      "previous_position": 53,
-      "movement": 33,
-      "trend": "up"
     }
   ]
 }
