@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W38",
   "previous_week": "2026-W37",
-  "updated": "2026-09-16T01:45:22.795479+00:00",
+  "updated": "2026-09-16T06:50:35.712421+00:00",
   "charts": [
     {
       "position": 1,
@@ -53,15 +53,33 @@
     },
     {
       "position": 6,
-      "artist": "Frank Schöbel",
-      "title": "Dich Hat Der Himmel Geschickt",
+      "artist": "DJ Jerry",
+      "title": "Shanghai",
       "plays": 2,
-      "previous_position": 16,
-      "movement": 10,
+      "previous_position": 55,
+      "movement": 49,
       "trend": "up"
     },
     {
       "position": 7,
+      "artist": "Fancy",
+      "title": "Slice Me Nice",
+      "plays": 2,
+      "previous_position": 37,
+      "movement": 30,
+      "trend": "up"
+    },
+    {
+      "position": 8,
+      "artist": "Frank Schöbel",
+      "title": "Dich Hat Der Himmel Geschickt",
+      "plays": 2,
+      "previous_position": 16,
+      "movement": 8,
+      "trend": "up"
+    },
+    {
+      "position": 9,
       "artist": "Italo Disco Is Back",
       "title": "Urlaubsausgabe KW 38 - Teil 4",
       "plays": 2,
@@ -70,34 +88,52 @@
       "trend": "new"
     },
     {
-      "position": 8,
-      "artist": "Magda Niewiñska",
-      "title": "Mezu Drogi Mój",
-      "plays": 2,
-      "previous_position": 174,
-      "movement": 166,
-      "trend": "up"
-    },
-    {
-      "position": 9,
-      "artist": "Melissa Naschenweng",
-      "title": "Dein Herz Verliert",
-      "plays": 2,
-      "previous_position": 200,
-      "movement": 191,
-      "trend": "up"
-    },
-    {
       "position": 10,
-      "artist": "MIG",
-      "title": "Zawsze Będę Obok Ciebie",
+      "artist": "Lian Ross",
+      "title": "The Rules Of Love",
       "plays": 2,
-      "previous_position": 97,
-      "movement": 87,
+      "previous_position": 25,
+      "movement": 15,
       "trend": "up"
     },
     {
       "position": 11,
+      "artist": "Magda Niewiñska",
+      "title": "Mezu Drogi Mój",
+      "plays": 2,
+      "previous_position": 174,
+      "movement": 163,
+      "trend": "up"
+    },
+    {
+      "position": 12,
+      "artist": "Melissa Naschenweng",
+      "title": "Dein Herz Verliert",
+      "plays": 2,
+      "previous_position": 200,
+      "movement": 188,
+      "trend": "up"
+    },
+    {
+      "position": 13,
+      "artist": "MIG",
+      "title": "Zawsze Będę Obok Ciebie",
+      "plays": 2,
+      "previous_position": 97,
+      "movement": 84,
+      "trend": "up"
+    },
+    {
+      "position": 14,
+      "artist": "NeoNite",
+      "title": "Kiss Me",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 15,
       "artist": "Nico Gemba",
       "title": "Du Bist Der Totale Wahnsinn (Lisa)",
       "plays": 2,
@@ -106,7 +142,7 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 16,
       "artist": "Patty",
       "title": "Nie Ma Nas (Zabiłeś Tę Miłość)",
       "plays": 2,
@@ -115,76 +151,40 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 17,
       "artist": "Power Play",
       "title": "Najpiekne",
       "plays": 2,
       "previous_position": 31,
-      "movement": 18,
+      "movement": 14,
       "trend": "up"
     },
     {
-      "position": 14,
+      "position": 18,
       "artist": "Ryan Paris",
       "title": "Russian Ladies",
       "plays": 2,
       "previous_position": 53,
-      "movement": 39,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "Schlager-Rallye",
-      "title": "1360 - Teil 1",
-      "plays": 2,
-      "previous_position": 113,
-      "movement": 98,
-      "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "Silent Circle",
-      "title": "Stop The Rain In The Night",
-      "plays": 2,
-      "previous_position": 68,
-      "movement": 52,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "TQ",
-      "title": "In The Night",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 18,
-      "artist": "After Party",
-      "title": "Moja Wyjatkowa",
-      "plays": 1,
-      "previous_position": 21,
-      "movement": 3,
+      "movement": 35,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Alex Blue",
-      "title": "Let Us Dance",
-      "plays": 1,
-      "previous_position": 90,
-      "movement": 71,
+      "artist": "Schlager-Rallye",
+      "title": "1360 - Teil 1",
+      "plays": 2,
+      "previous_position": 113,
+      "movement": 94,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Alex Blue",
-      "title": "Roulette Of Love",
-      "plays": 1,
-      "previous_position": 12,
-      "movement": -8,
-      "trend": "down"
+      "artist": "Silent Circle",
+      "title": "Stop The Rain In The Night",
+      "plays": 2,
+      "previous_position": 68,
+      "movement": 48,
+      "trend": "up"
     }
   ]
 }
