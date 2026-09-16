@@ -4,39 +4,39 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W38",
   "previous_week": "2026-W37",
-  "updated": "2026-09-16T17:00:10.336718+00:00",
+  "updated": "2026-09-16T19:58:54.357955+00:00",
   "charts": [
     {
       "position": 1,
-      "artist": "Roger De Win",
-      "title": "Choo-Choo",
+      "artist": "André & Michael",
+      "title": "Sag Es Oder Schweig",
       "plays": 3,
-      "previous_position": 1,
-      "movement": 0,
-      "trend": "same"
-    },
-    {
-      "position": 2,
-      "artist": "Schlager-Rallye",
-      "title": "1360 - Teil 1",
-      "plays": 3,
-      "previous_position": 113,
-      "movement": 111,
-      "trend": "up"
-    },
-    {
-      "position": 3,
-      "artist": "Andrea Berg",
-      "title": "Die Geheimen Träumer",
-      "plays": 2,
       "previous_position": null,
       "movement": null,
       "trend": "new"
     },
     {
+      "position": 2,
+      "artist": "Roger De Win",
+      "title": "Choo-Choo",
+      "plays": 3,
+      "previous_position": 1,
+      "movement": -1,
+      "trend": "down"
+    },
+    {
+      "position": 3,
+      "artist": "Schlager-Rallye",
+      "title": "1360 - Teil 1",
+      "plays": 3,
+      "previous_position": 113,
+      "movement": 110,
+      "trend": "up"
+    },
+    {
       "position": 4,
-      "artist": "André & Michael",
-      "title": "Sag Es Oder Schweig",
+      "artist": "Andrea Berg",
+      "title": "Die Geheimen Träumer",
       "plays": 2,
       "previous_position": null,
       "movement": null,
@@ -53,51 +53,60 @@
     },
     {
       "position": 6,
+      "artist": "Ansgar Deters feat. Kerstin",
+      "title": "Ich Umarme Die Welt",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 7,
       "artist": "Blue Talking",
       "title": "Love Me",
       "plays": 2,
       "previous_position": 54,
-      "movement": 48,
-      "trend": "up"
-    },
-    {
-      "position": 7,
-      "artist": "Dani Mirell",
-      "title": "Fantasy Girl",
-      "plays": 2,
-      "previous_position": 103,
-      "movement": 96,
+      "movement": 47,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "Dejw",
-      "title": "Ananas",
+      "artist": "Dani Mirell",
+      "title": "Fantasy Girl",
       "plays": 2,
-      "previous_position": 73,
-      "movement": 65,
+      "previous_position": 103,
+      "movement": 95,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "Die Trovatos",
-      "title": "Sempre Sempre",
+      "artist": "Dejw",
+      "title": "Ananas",
       "plays": 2,
-      "previous_position": 115,
-      "movement": 106,
+      "previous_position": 73,
+      "movement": 64,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "DJ Jerry",
-      "title": "Shanghai",
+      "artist": "Die Trovatos",
+      "title": "Sempre Sempre",
       "plays": 2,
-      "previous_position": 55,
-      "movement": 45,
+      "previous_position": 115,
+      "movement": 105,
       "trend": "up"
     },
     {
       "position": 11,
+      "artist": "DJ Jerry",
+      "title": "Shanghai",
+      "plays": 2,
+      "previous_position": 55,
+      "movement": 44,
+      "trend": "up"
+    },
+    {
+      "position": 12,
       "artist": "Engelherz",
       "title": "Stille Wasser Sind Tief",
       "plays": 2,
@@ -106,25 +115,25 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 13,
       "artist": "Fancy",
       "title": "Slice Me Nice",
       "plays": 2,
       "previous_position": 37,
-      "movement": 25,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "Frank Schöbel",
-      "title": "Dich Hat Der Himmel Geschickt",
-      "plays": 2,
-      "previous_position": 16,
-      "movement": 3,
+      "movement": 24,
       "trend": "up"
     },
     {
       "position": 14,
+      "artist": "Frank Schöbel",
+      "title": "Dich Hat Der Himmel Geschickt",
+      "plays": 2,
+      "previous_position": 16,
+      "movement": 2,
+      "trend": "up"
+    },
+    {
+      "position": 15,
       "artist": "Italo Disco Is Back",
       "title": "Urlaubsausgabe KW 38 - Teil 4",
       "plays": 2,
@@ -133,58 +142,49 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 16,
       "artist": "Jörg Bausch",
       "title": "Totale Chaoten",
       "plays": 2,
       "previous_position": 34,
-      "movement": 19,
-      "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "Lian Ross",
-      "title": "The Rules Of Love",
-      "plays": 2,
-      "previous_position": 25,
-      "movement": 9,
+      "movement": 18,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "Magda Niewiñska",
-      "title": "Mezu Drogi Mój",
+      "artist": "Lian Ross",
+      "title": "The Rules Of Love",
       "plays": 2,
-      "previous_position": 174,
-      "movement": 157,
+      "previous_position": 25,
+      "movement": 8,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Melissa Naschenweng",
-      "title": "Dein Herz Verliert",
+      "artist": "Magda Niewiñska",
+      "title": "Mezu Drogi Mój",
       "plays": 2,
-      "previous_position": 200,
-      "movement": 182,
+      "previous_position": 174,
+      "movement": 156,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "MIG",
-      "title": "Zawsze Będę Obok Ciebie",
+      "artist": "Margitta",
+      "title": "Lieben Heißt",
       "plays": 2,
-      "previous_position": 97,
-      "movement": 78,
-      "trend": "up"
+      "previous_position": 13,
+      "movement": -6,
+      "trend": "down"
     },
     {
       "position": 20,
-      "artist": "NeoNite",
-      "title": "Kiss Me",
+      "artist": "Markus Wolfahrt",
+      "title": "Hallelujah Auf Die Liebe",
       "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 2,
+      "movement": -18,
+      "trend": "down"
     }
   ]
 }
