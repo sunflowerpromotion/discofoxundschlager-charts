@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W38",
   "previous_week": "2026-W37",
-  "updated": "2026-09-17T15:10:01.722790+00:00",
+  "updated": "2026-09-17T19:00:55.359670+00:00",
   "charts": [
     {
       "position": 1,
@@ -62,24 +62,42 @@
     },
     {
       "position": 7,
+      "artist": "Peter Milski",
+      "title": "Wahnsinn",
+      "plays": 3,
+      "previous_position": 193,
+      "movement": 186,
+      "trend": "up"
+    },
+    {
+      "position": 8,
       "artist": "Roger De Win",
       "title": "Choo-Choo",
       "plays": 3,
       "previous_position": 1,
-      "movement": -6,
+      "movement": -7,
       "trend": "down"
     },
     {
-      "position": 8,
+      "position": 9,
       "artist": "Schlager-Rallye",
       "title": "1360 - Teil 1",
       "plays": 3,
       "previous_position": 113,
-      "movement": 105,
+      "movement": 104,
       "trend": "up"
     },
     {
-      "position": 9,
+      "position": 10,
+      "artist": "Spitzbua Markus",
+      "title": "Ti Amo Ciao Ciao",
+      "plays": 3,
+      "previous_position": 101,
+      "movement": 91,
+      "trend": "up"
+    },
+    {
+      "position": 11,
       "artist": "TQ",
       "title": "In The Night",
       "plays": 3,
@@ -88,16 +106,16 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 12,
       "artist": "Alex Blue",
       "title": "Let Us Dance",
       "plays": 2,
       "previous_position": 90,
-      "movement": 80,
+      "movement": 78,
       "trend": "up"
     },
     {
-      "position": 11,
+      "position": 13,
       "artist": "Andrea Berg",
       "title": "Die Geheimen Träumer",
       "plays": 2,
@@ -106,16 +124,16 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 14,
       "artist": "Andrea Berg",
       "title": "Ja Ich Will",
       "plays": 2,
       "previous_position": 208,
-      "movement": 196,
+      "movement": 194,
       "trend": "up"
     },
     {
-      "position": 13,
+      "position": 15,
       "artist": "Ansgar Deters feat. Kerstin",
       "title": "Ich Umarme Die Welt",
       "plays": 2,
@@ -124,7 +142,7 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 16,
       "artist": "Baby's Gang",
       "title": "Happy Song",
       "plays": 2,
@@ -133,7 +151,7 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 17,
       "artist": "Ben Zucker",
       "title": "Genau Jetzt",
       "plays": 2,
@@ -142,49 +160,31 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 18,
       "artist": "Blue Crew",
       "title": "Santa Cruz",
       "plays": 2,
       "previous_position": 47,
-      "movement": 31,
+      "movement": 29,
       "trend": "up"
     },
     {
-      "position": 17,
+      "position": 19,
       "artist": "Blue Talking",
       "title": "Love Me",
       "plays": 2,
       "previous_position": 54,
-      "movement": 37,
+      "movement": 35,
       "trend": "up"
     },
     {
-      "position": 18,
+      "position": 20,
       "artist": "Boski Heniek, Maka & Pancio",
       "title": "Biały Benz",
       "plays": 2,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Caesar",
-      "title": "My Black Lady",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Dani Mirell",
-      "title": "Fantasy Girl",
-      "plays": 2,
-      "previous_position": 103,
-      "movement": 83,
-      "trend": "up"
     }
   ]
 }
