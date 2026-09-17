@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W38",
   "previous_week": "2026-W37",
-  "updated": "2026-09-16T22:48:25.787192+00:00",
+  "updated": "2026-09-17T00:54:49.597616+00:00",
   "charts": [
     {
       "position": 1,
@@ -17,33 +17,42 @@
     },
     {
       "position": 2,
-      "artist": "Melissa Naschenweng",
-      "title": "Dein Herz Verliert",
+      "artist": "Magda Niewiñska",
+      "title": "Mezu Drogi Mój",
       "plays": 3,
-      "previous_position": 200,
-      "movement": 198,
+      "previous_position": 174,
+      "movement": 172,
       "trend": "up"
     },
     {
       "position": 3,
+      "artist": "Melissa Naschenweng",
+      "title": "Dein Herz Verliert",
+      "plays": 3,
+      "previous_position": 200,
+      "movement": 197,
+      "trend": "up"
+    },
+    {
+      "position": 4,
       "artist": "Roger De Win",
       "title": "Choo-Choo",
       "plays": 3,
       "previous_position": 1,
-      "movement": -2,
+      "movement": -3,
       "trend": "down"
     },
     {
-      "position": 4,
+      "position": 5,
       "artist": "Schlager-Rallye",
       "title": "1360 - Teil 1",
       "plays": 3,
       "previous_position": 113,
-      "movement": 109,
+      "movement": 108,
       "trend": "up"
     },
     {
-      "position": 5,
+      "position": 6,
       "artist": "Andrea Berg",
       "title": "Die Geheimen Träumer",
       "plays": 2,
@@ -52,25 +61,25 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 7,
       "artist": "Andrea Berg",
       "title": "Ja Ich Will",
       "plays": 2,
       "previous_position": 208,
-      "movement": 202,
-      "trend": "up"
-    },
-    {
-      "position": 7,
-      "artist": "Anja Nova",
-      "title": "High",
-      "plays": 2,
-      "previous_position": 111,
-      "movement": 104,
+      "movement": 201,
       "trend": "up"
     },
     {
       "position": 8,
+      "artist": "Anja Nova",
+      "title": "High",
+      "plays": 2,
+      "previous_position": 111,
+      "movement": 103,
+      "trend": "up"
+    },
+    {
+      "position": 9,
       "artist": "Ansgar Deters feat. Kerstin",
       "title": "Ich Umarme Die Welt",
       "plays": 2,
@@ -79,7 +88,7 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 10,
       "artist": "Ben Zucker",
       "title": "Genau Jetzt",
       "plays": 2,
@@ -88,16 +97,25 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 11,
       "artist": "Blue Talking",
       "title": "Love Me",
       "plays": 2,
       "previous_position": 54,
-      "movement": 44,
+      "movement": 43,
       "trend": "up"
     },
     {
-      "position": 11,
+      "position": 12,
+      "artist": "Boski Heniek, Maka & Pancio",
+      "title": "Biały Benz",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 13,
       "artist": "Caesar",
       "title": "My Black Lady",
       "plays": 2,
@@ -106,43 +124,52 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 14,
       "artist": "Dani Mirell",
       "title": "Fantasy Girl",
       "plays": 2,
       "previous_position": 103,
-      "movement": 91,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "Dejw",
-      "title": "Ananas",
-      "plays": 2,
-      "previous_position": 73,
-      "movement": 60,
-      "trend": "up"
-    },
-    {
-      "position": 14,
-      "artist": "Die Trovatos",
-      "title": "Sempre Sempre",
-      "plays": 2,
-      "previous_position": 115,
-      "movement": 101,
+      "movement": 89,
       "trend": "up"
     },
     {
       "position": 15,
-      "artist": "DJ Jerry",
-      "title": "Shanghai",
+      "artist": "Dejw",
+      "title": "Ananas",
       "plays": 2,
-      "previous_position": 55,
-      "movement": 40,
+      "previous_position": 73,
+      "movement": 58,
       "trend": "up"
     },
     {
       "position": 16,
+      "artist": "Die Trovatos",
+      "title": "Sempre Sempre",
+      "plays": 2,
+      "previous_position": 115,
+      "movement": 99,
+      "trend": "up"
+    },
+    {
+      "position": 17,
+      "artist": "DJ Jerry",
+      "title": "Shanghai",
+      "plays": 2,
+      "previous_position": 55,
+      "movement": 38,
+      "trend": "up"
+    },
+    {
+      "position": 18,
+      "artist": "Drossel",
+      "title": "Najwazniejsza",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 19,
       "artist": "Engelherz",
       "title": "Stille Wasser Sind Tief",
       "plays": 2,
@@ -151,40 +178,13 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 20,
       "artist": "Fancy",
       "title": "Slice Me Nice",
       "plays": 2,
       "previous_position": 37,
-      "movement": 20,
+      "movement": 17,
       "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Frank Schöbel",
-      "title": "Dich Hat Der Himmel Geschickt",
-      "plays": 2,
-      "previous_position": 16,
-      "movement": -2,
-      "trend": "down"
-    },
-    {
-      "position": 19,
-      "artist": "Gentlemen Forever",
-      "title": "Mittendrin Im Leben",
-      "plays": 2,
-      "previous_position": 201,
-      "movement": 182,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "Italo Disco Is Back",
-      "title": "Urlaubsausgabe KW 38 - Teil 4",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
     }
   ]
 }
