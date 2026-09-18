@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W38",
   "previous_week": "2026-W37",
-  "updated": "2026-09-18T00:09:29.422664+00:00",
+  "updated": "2026-09-18T04:40:16.731491+00:00",
   "charts": [
     {
       "position": 1,
@@ -17,6 +17,15 @@
     },
     {
       "position": 2,
+      "artist": "Magda Niewiñska",
+      "title": "Mezu Drogi Mój",
+      "plays": 4,
+      "previous_position": 174,
+      "movement": 172,
+      "trend": "up"
+    },
+    {
+      "position": 3,
       "artist": "Andre Busse",
       "title": "Zwing Mich Doch Zu Meinem Glück",
       "plays": 3,
@@ -25,16 +34,16 @@
       "trend": "new"
     },
     {
-      "position": 3,
+      "position": 4,
       "artist": "Andrea Berg",
       "title": "Ja Ich Will",
       "plays": 3,
       "previous_position": 208,
-      "movement": 205,
+      "movement": 204,
       "trend": "up"
     },
     {
-      "position": 4,
+      "position": 5,
       "artist": "André & Michael",
       "title": "Sag Es Oder Schweig",
       "plays": 3,
@@ -43,145 +52,136 @@
       "trend": "new"
     },
     {
-      "position": 5,
+      "position": 6,
       "artist": "Anja Nova",
       "title": "High",
       "plays": 3,
       "previous_position": 111,
-      "movement": 106,
-      "trend": "up"
-    },
-    {
-      "position": 6,
-      "artist": "Christin Stark",
-      "title": "Spinnst Du",
-      "plays": 3,
-      "previous_position": 196,
-      "movement": 190,
+      "movement": 105,
       "trend": "up"
     },
     {
       "position": 7,
-      "artist": "Gentlemen Forever",
-      "title": "Mittendrin Im Leben",
+      "artist": "Blue Crew",
+      "title": "Santa Cruz",
       "plays": 3,
-      "previous_position": 201,
-      "movement": 194,
+      "previous_position": 47,
+      "movement": 40,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "Magda Niewiñska",
-      "title": "Mezu Drogi Mój",
+      "artist": "Christin Stark",
+      "title": "Spinnst Du",
       "plays": 3,
-      "previous_position": 174,
-      "movement": 166,
+      "previous_position": 196,
+      "movement": 188,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "Melissa Naschenweng",
-      "title": "Dein Herz Verliert",
+      "artist": "DJ Jerry",
+      "title": "Shanghai",
       "plays": 3,
-      "previous_position": 200,
-      "movement": 191,
+      "previous_position": 55,
+      "movement": 46,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "Peter Milski",
-      "title": "Wahnsinn",
+      "artist": "Fancy",
+      "title": "Slice Me Nice",
       "plays": 3,
-      "previous_position": 193,
-      "movement": 183,
+      "previous_position": 37,
+      "movement": 27,
       "trend": "up"
     },
     {
       "position": 11,
-      "artist": "Roger De Win",
-      "title": "Choo-Choo",
+      "artist": "Gentlemen Forever",
+      "title": "Mittendrin Im Leben",
       "plays": 3,
-      "previous_position": 1,
-      "movement": -10,
-      "trend": "down"
+      "previous_position": 201,
+      "movement": 190,
+      "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Schlager-Rallye",
-      "title": "1360 - Teil 1",
+      "artist": "Melissa Naschenweng",
+      "title": "Dein Herz Verliert",
       "plays": 3,
-      "previous_position": 113,
-      "movement": 101,
+      "previous_position": 200,
+      "movement": 188,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "Spitzbua Markus",
-      "title": "Ti Amo Ciao Ciao",
+      "artist": "NeoNite",
+      "title": "Kiss Me",
       "plays": 3,
-      "previous_position": 101,
-      "movement": 88,
-      "trend": "up"
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
       "position": 14,
-      "artist": "Thomas Anders & Florian Silbereisen",
-      "title": "Neonfarbenwelt",
+      "artist": "Peter Milski",
+      "title": "Wahnsinn",
       "plays": 3,
-      "previous_position": 198,
-      "movement": 184,
+      "previous_position": 193,
+      "movement": 179,
       "trend": "up"
     },
     {
       "position": 15,
-      "artist": "TQ",
-      "title": "In The Night",
+      "artist": "Roger De Win",
+      "title": "Choo-Choo",
       "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 1,
+      "movement": -14,
+      "trend": "down"
     },
     {
       "position": 16,
-      "artist": "Alex Blue",
-      "title": "Let Us Dance",
-      "plays": 2,
-      "previous_position": 90,
-      "movement": 74,
+      "artist": "Schlager-Rallye",
+      "title": "1360 - Teil 1",
+      "plays": 3,
+      "previous_position": 113,
+      "movement": 97,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "Andrea Berg",
-      "title": "Die Geheimen Träumer",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "artist": "Silent Circle",
+      "title": "Stop The Rain In The Night",
+      "plays": 3,
+      "previous_position": 68,
+      "movement": 51,
+      "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Ansgar Deters feat. Kerstin",
-      "title": "Ich Umarme Die Welt",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "artist": "Spitzbua Markus",
+      "title": "Ti Amo Ciao Ciao",
+      "plays": 3,
+      "previous_position": 101,
+      "movement": 83,
+      "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Baby's Gang",
-      "title": "Happy Song",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "artist": "Thomas Anders & Florian Silbereisen",
+      "title": "Neonfarbenwelt",
+      "plays": 3,
+      "previous_position": 198,
+      "movement": 179,
+      "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Ben Zucker",
-      "title": "Genau Jetzt",
-      "plays": 2,
+      "artist": "TQ",
+      "title": "In The Night",
+      "plays": 3,
       "previous_position": null,
       "movement": null,
       "trend": "new"
