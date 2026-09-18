@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W38",
   "previous_week": "2026-W37",
-  "updated": "2026-09-18T21:50:04.047256+00:00",
+  "updated": "2026-09-18T23:39:24.518791+00:00",
   "charts": [
     {
       "position": 1,
@@ -116,15 +116,24 @@
     },
     {
       "position": 13,
-      "artist": "DJ Jerry",
-      "title": "Shanghai",
+      "artist": "Dejw",
+      "title": "Ananas",
       "plays": 3,
-      "previous_position": 55,
-      "movement": 42,
+      "previous_position": 73,
+      "movement": 60,
       "trend": "up"
     },
     {
       "position": 14,
+      "artist": "DJ Jerry",
+      "title": "Shanghai",
+      "plays": 3,
+      "previous_position": 55,
+      "movement": 41,
+      "trend": "up"
+    },
+    {
+      "position": 15,
       "artist": "Engelherz",
       "title": "Stille Wasser Sind Tief",
       "plays": 3,
@@ -133,25 +142,25 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 16,
       "artist": "Fancy",
       "title": "Slice Me Nice",
       "plays": 3,
       "previous_position": 37,
-      "movement": 22,
-      "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "Gentlemen Forever",
-      "title": "Mittendrin Im Leben",
-      "plays": 3,
-      "previous_position": 201,
-      "movement": 185,
+      "movement": 21,
       "trend": "up"
     },
     {
       "position": 17,
+      "artist": "Gentlemen Forever",
+      "title": "Mittendrin Im Leben",
+      "plays": 3,
+      "previous_position": 201,
+      "movement": 184,
+      "trend": "up"
+    },
+    {
+      "position": 18,
       "artist": "Italo Disco Is Back",
       "title": "Urlaubsausgabe KW 38 - Teil 2",
       "plays": 3,
@@ -160,7 +169,7 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 19,
       "artist": "Italo Disco Is Back",
       "title": "Urlaubsausgabe KW 38 - Teil 3",
       "plays": 3,
@@ -169,18 +178,9 @@
       "trend": "new"
     },
     {
-      "position": 19,
-      "artist": "Italo Disco Is Back",
-      "title": "Urlaubsausgabe KW 38 - Teil 5",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
       "position": 20,
       "artist": "Italo Disco Is Back",
-      "title": "Urlaubsausgabe KW 38 - Teil 6",
+      "title": "Urlaubsausgabe KW 38 - Teil 5",
       "plays": 3,
       "previous_position": null,
       "movement": null,
