@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W38",
   "previous_week": "2026-W37",
-  "updated": "2026-09-18T17:11:27.033810+00:00",
+  "updated": "2026-09-18T19:36:22.692004+00:00",
   "charts": [
     {
       "position": 1,
@@ -53,6 +53,24 @@
     },
     {
       "position": 6,
+      "artist": "Peter Milski",
+      "title": "Wahnsinn",
+      "plays": 4,
+      "previous_position": 193,
+      "movement": 187,
+      "trend": "up"
+    },
+    {
+      "position": 7,
+      "artist": "Tommy Steib",
+      "title": "Ich Verbrenn Mir Nicht Die Finger",
+      "plays": 4,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 8,
       "artist": "Andre Busse",
       "title": "Zwing Mich Doch Zu Meinem Glück",
       "plays": 3,
@@ -61,70 +79,79 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 9,
       "artist": "Andrea Berg",
       "title": "Ja Ich Will",
       "plays": 3,
       "previous_position": 208,
-      "movement": 201,
-      "trend": "up"
-    },
-    {
-      "position": 8,
-      "artist": "Anja Nova",
-      "title": "High",
-      "plays": 3,
-      "previous_position": 111,
-      "movement": 103,
-      "trend": "up"
-    },
-    {
-      "position": 9,
-      "artist": "Blue Crew",
-      "title": "Santa Cruz",
-      "plays": 3,
-      "previous_position": 47,
-      "movement": 38,
+      "movement": 199,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "Christin Stark",
-      "title": "Spinnst Du",
+      "artist": "Anja Nova",
+      "title": "High",
       "plays": 3,
-      "previous_position": 196,
-      "movement": 186,
+      "previous_position": 111,
+      "movement": 101,
       "trend": "up"
     },
     {
       "position": 11,
-      "artist": "DJ Jerry",
-      "title": "Shanghai",
+      "artist": "Blue Crew",
+      "title": "Santa Cruz",
       "plays": 3,
-      "previous_position": 55,
-      "movement": 44,
+      "previous_position": 47,
+      "movement": 36,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Fancy",
-      "title": "Slice Me Nice",
+      "artist": "Christin Stark",
+      "title": "Spinnst Du",
       "plays": 3,
-      "previous_position": 37,
-      "movement": 25,
+      "previous_position": 196,
+      "movement": 184,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "Gentlemen Forever",
-      "title": "Mittendrin Im Leben",
+      "artist": "DJ Jerry",
+      "title": "Shanghai",
       "plays": 3,
-      "previous_position": 201,
-      "movement": 188,
+      "previous_position": 55,
+      "movement": 42,
       "trend": "up"
     },
     {
       "position": 14,
+      "artist": "Engelherz",
+      "title": "Stille Wasser Sind Tief",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 15,
+      "artist": "Fancy",
+      "title": "Slice Me Nice",
+      "plays": 3,
+      "previous_position": 37,
+      "movement": 22,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "Gentlemen Forever",
+      "title": "Mittendrin Im Leben",
+      "plays": 3,
+      "previous_position": 201,
+      "movement": 185,
+      "trend": "up"
+    },
+    {
+      "position": 17,
       "artist": "Italo Disco Is Back",
       "title": "Urlaubsausgabe KW 38 - Teil 2",
       "plays": 3,
@@ -133,7 +160,7 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 18,
       "artist": "Italo Disco Is Back",
       "title": "Urlaubsausgabe KW 38 - Teil 3",
       "plays": 3,
@@ -142,7 +169,7 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 19,
       "artist": "Italo Disco Is Back",
       "title": "Urlaubsausgabe KW 38 - Teil 5",
       "plays": 3,
@@ -151,40 +178,13 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 20,
       "artist": "Italo Disco Is Back",
       "title": "Urlaubsausgabe KW 38 - Teil 6",
       "plays": 3,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 18,
-      "artist": "Italo Disco Is Back",
-      "title": "Urlaubsausgabe KW 38 - Teil 7",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Italo Disco Is Back",
-      "title": "Urlaubsausgabe KW 38 - Teil 8",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Liane",
-      "title": "Unter Die Haut",
-      "plays": 3,
-      "previous_position": 102,
-      "movement": 82,
-      "trend": "up"
     }
   ]
 }
