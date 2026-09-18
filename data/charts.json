@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W38",
   "previous_week": "2026-W37",
-  "updated": "2026-09-18T13:36:49.532485+00:00",
+  "updated": "2026-09-18T17:11:27.033810+00:00",
   "charts": [
     {
       "position": 1,
@@ -17,6 +17,15 @@
     },
     {
       "position": 2,
+      "artist": "André & Michael",
+      "title": "Sag Es Oder Schweig",
+      "plays": 4,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 3,
       "artist": "Italo Disco Is Back",
       "title": "Urlaubsausgabe KW 38 - Teil 1",
       "plays": 4,
@@ -25,16 +34,16 @@
       "trend": "new"
     },
     {
-      "position": 3,
+      "position": 4,
       "artist": "Magda Niewiñska",
       "title": "Mezu Drogi Mój",
       "plays": 4,
       "previous_position": 174,
-      "movement": 171,
+      "movement": 170,
       "trend": "up"
     },
     {
-      "position": 4,
+      "position": 5,
       "artist": "NeoNite",
       "title": "Kiss Me",
       "plays": 4,
@@ -43,7 +52,7 @@
       "trend": "new"
     },
     {
-      "position": 5,
+      "position": 6,
       "artist": "Andre Busse",
       "title": "Zwing Mich Doch Zu Meinem Glück",
       "plays": 3,
@@ -52,22 +61,13 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 7,
       "artist": "Andrea Berg",
       "title": "Ja Ich Will",
       "plays": 3,
       "previous_position": 208,
-      "movement": 202,
+      "movement": 201,
       "trend": "up"
-    },
-    {
-      "position": 7,
-      "artist": "André & Michael",
-      "title": "Sag Es Oder Schweig",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
     },
     {
       "position": 8,
