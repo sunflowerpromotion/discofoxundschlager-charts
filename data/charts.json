@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W38",
   "previous_week": "2026-W37",
-  "updated": "2026-09-17T22:04:13.228023+00:00",
+  "updated": "2026-09-18T00:09:29.422664+00:00",
   "charts": [
     {
       "position": 1,
@@ -53,69 +53,87 @@
     },
     {
       "position": 6,
-      "artist": "Magda Niewiñska",
-      "title": "Mezu Drogi Mój",
+      "artist": "Christin Stark",
+      "title": "Spinnst Du",
       "plays": 3,
-      "previous_position": 174,
-      "movement": 168,
+      "previous_position": 196,
+      "movement": 190,
       "trend": "up"
     },
     {
       "position": 7,
-      "artist": "Melissa Naschenweng",
-      "title": "Dein Herz Verliert",
+      "artist": "Gentlemen Forever",
+      "title": "Mittendrin Im Leben",
       "plays": 3,
-      "previous_position": 200,
-      "movement": 193,
+      "previous_position": 201,
+      "movement": 194,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "Peter Milski",
-      "title": "Wahnsinn",
+      "artist": "Magda Niewiñska",
+      "title": "Mezu Drogi Mój",
       "plays": 3,
-      "previous_position": 193,
-      "movement": 185,
+      "previous_position": 174,
+      "movement": 166,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "Roger De Win",
-      "title": "Choo-Choo",
+      "artist": "Melissa Naschenweng",
+      "title": "Dein Herz Verliert",
       "plays": 3,
-      "previous_position": 1,
-      "movement": -8,
-      "trend": "down"
+      "previous_position": 200,
+      "movement": 191,
+      "trend": "up"
     },
     {
       "position": 10,
-      "artist": "Schlager-Rallye",
-      "title": "1360 - Teil 1",
+      "artist": "Peter Milski",
+      "title": "Wahnsinn",
       "plays": 3,
-      "previous_position": 113,
-      "movement": 103,
+      "previous_position": 193,
+      "movement": 183,
       "trend": "up"
     },
     {
       "position": 11,
-      "artist": "Spitzbua Markus",
-      "title": "Ti Amo Ciao Ciao",
+      "artist": "Roger De Win",
+      "title": "Choo-Choo",
       "plays": 3,
-      "previous_position": 101,
-      "movement": 90,
-      "trend": "up"
+      "previous_position": 1,
+      "movement": -10,
+      "trend": "down"
     },
     {
       "position": 12,
-      "artist": "Thomas Anders & Florian Silbereisen",
-      "title": "Neonfarbenwelt",
+      "artist": "Schlager-Rallye",
+      "title": "1360 - Teil 1",
       "plays": 3,
-      "previous_position": 198,
-      "movement": 186,
+      "previous_position": 113,
+      "movement": 101,
       "trend": "up"
     },
     {
       "position": 13,
+      "artist": "Spitzbua Markus",
+      "title": "Ti Amo Ciao Ciao",
+      "plays": 3,
+      "previous_position": 101,
+      "movement": 88,
+      "trend": "up"
+    },
+    {
+      "position": 14,
+      "artist": "Thomas Anders & Florian Silbereisen",
+      "title": "Neonfarbenwelt",
+      "plays": 3,
+      "previous_position": 198,
+      "movement": 184,
+      "trend": "up"
+    },
+    {
+      "position": 15,
       "artist": "TQ",
       "title": "In The Night",
       "plays": 3,
@@ -124,16 +142,16 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 16,
       "artist": "Alex Blue",
       "title": "Let Us Dance",
       "plays": 2,
       "previous_position": 90,
-      "movement": 76,
+      "movement": 74,
       "trend": "up"
     },
     {
-      "position": 15,
+      "position": 17,
       "artist": "Andrea Berg",
       "title": "Die Geheimen Träumer",
       "plays": 2,
@@ -142,7 +160,7 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 18,
       "artist": "Ansgar Deters feat. Kerstin",
       "title": "Ich Umarme Die Welt",
       "plays": 2,
@@ -151,7 +169,7 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 19,
       "artist": "Baby's Gang",
       "title": "Happy Song",
       "plays": 2,
@@ -160,31 +178,13 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 20,
       "artist": "Ben Zucker",
       "title": "Genau Jetzt",
       "plays": 2,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Blue Crew",
-      "title": "Santa Cruz",
-      "plays": 2,
-      "previous_position": 47,
-      "movement": 28,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "Blue Talking",
-      "title": "Love Me",
-      "plays": 2,
-      "previous_position": 54,
-      "movement": 34,
-      "trend": "up"
     }
   ]
 }
