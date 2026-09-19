@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W38",
   "previous_week": "2026-W37",
-  "updated": "2026-09-19T21:39:35.397837+00:00",
+  "updated": "2026-09-19T23:32:54.092357+00:00",
   "charts": [
     {
       "position": 1,
@@ -179,12 +179,12 @@
     },
     {
       "position": 20,
-      "artist": "Bianca App",
-      "title": "Diese Liebe Bleibt",
+      "artist": "Andreas Kuhne",
+      "title": "Wunder",
       "plays": 3,
-      "previous_position": 110,
-      "movement": 90,
-      "trend": "up"
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     }
   ]
 }
