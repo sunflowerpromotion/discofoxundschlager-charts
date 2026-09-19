@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W38",
   "previous_week": "2026-W37",
-  "updated": "2026-09-19T11:28:15.504675+00:00",
+  "updated": "2026-09-19T14:41:56.975570+00:00",
   "charts": [
     {
       "position": 1,
@@ -35,15 +35,33 @@
     },
     {
       "position": 4,
-      "artist": "DJ Jerry",
-      "title": "Shanghai",
+      "artist": "Anja Nova",
+      "title": "High",
       "plays": 4,
-      "previous_position": 55,
-      "movement": 51,
+      "previous_position": 111,
+      "movement": 107,
       "trend": "up"
     },
     {
       "position": 5,
+      "artist": "DJ Jerry",
+      "title": "Shanghai",
+      "plays": 4,
+      "previous_position": 55,
+      "movement": 50,
+      "trend": "up"
+    },
+    {
+      "position": 6,
+      "artist": "Engelherz",
+      "title": "Stille Wasser Sind Tief",
+      "plays": 4,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 7,
       "artist": "Italo Disco Is Back",
       "title": "Urlaubsausgabe KW 38 - Teil 1",
       "plays": 4,
@@ -52,34 +70,52 @@
       "trend": "new"
     },
     {
-      "position": 6,
-      "artist": "Magda Niewiñska",
-      "title": "Mezu Drogi Mój",
-      "plays": 4,
-      "previous_position": 174,
-      "movement": 168,
-      "trend": "up"
-    },
-    {
-      "position": 7,
-      "artist": "Peter Milski",
-      "title": "Wahnsinn",
-      "plays": 4,
-      "previous_position": 193,
-      "movement": 186,
-      "trend": "up"
-    },
-    {
       "position": 8,
-      "artist": "Silent Circle",
-      "title": "Stop The Rain In The Night",
+      "artist": "Liane",
+      "title": "Unter Die Haut",
       "plays": 4,
-      "previous_position": 68,
-      "movement": 60,
+      "previous_position": 102,
+      "movement": 94,
       "trend": "up"
     },
     {
       "position": 9,
+      "artist": "Magda Niewiñska",
+      "title": "Mezu Drogi Mój",
+      "plays": 4,
+      "previous_position": 174,
+      "movement": 165,
+      "trend": "up"
+    },
+    {
+      "position": 10,
+      "artist": "Markus Wolfahrt",
+      "title": "Hallelujah Auf Die Liebe",
+      "plays": 4,
+      "previous_position": 2,
+      "movement": -8,
+      "trend": "down"
+    },
+    {
+      "position": 11,
+      "artist": "Peter Milski",
+      "title": "Wahnsinn",
+      "plays": 4,
+      "previous_position": 193,
+      "movement": 182,
+      "trend": "up"
+    },
+    {
+      "position": 12,
+      "artist": "Silent Circle",
+      "title": "Stop The Rain In The Night",
+      "plays": 4,
+      "previous_position": 68,
+      "movement": 56,
+      "trend": "up"
+    },
+    {
+      "position": 13,
       "artist": "Tommy Steib",
       "title": "Ich Verbrenn Mir Nicht Die Finger",
       "plays": 4,
@@ -88,7 +124,7 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 14,
       "artist": "TQ",
       "title": "In The Night",
       "plays": 4,
@@ -97,7 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 15,
       "artist": "Andre Busse",
       "title": "Zwing Mich Doch Zu Meinem Glück",
       "plays": 3,
@@ -106,84 +142,48 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 16,
       "artist": "Andrea Berg",
       "title": "Ja Ich Will",
       "plays": 3,
       "previous_position": 208,
-      "movement": 196,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "Anja Nova",
-      "title": "High",
-      "plays": 3,
-      "previous_position": 111,
-      "movement": 98,
-      "trend": "up"
-    },
-    {
-      "position": 14,
-      "artist": "Blue Crew",
-      "title": "Santa Cruz",
-      "plays": 3,
-      "previous_position": 47,
-      "movement": 33,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "Christin Stark",
-      "title": "Spinnst Du",
-      "plays": 3,
-      "previous_position": 196,
-      "movement": 181,
-      "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "Dejw",
-      "title": "Ananas",
-      "plays": 3,
-      "previous_position": 73,
-      "movement": 57,
+      "movement": 192,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "Engelherz",
-      "title": "Stille Wasser Sind Tief",
+      "artist": "Blue Crew",
+      "title": "Santa Cruz",
       "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 47,
+      "movement": 30,
+      "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Fancy",
-      "title": "Slice Me Nice",
+      "artist": "Christin Stark",
+      "title": "Spinnst Du",
       "plays": 3,
-      "previous_position": 37,
-      "movement": 19,
+      "previous_position": 196,
+      "movement": 178,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Gentlemen Forever",
-      "title": "Mittendrin Im Leben",
+      "artist": "Dejw",
+      "title": "Ananas",
       "plays": 3,
-      "previous_position": 201,
-      "movement": 182,
+      "previous_position": 73,
+      "movement": 54,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Grant Miller",
-      "title": "Star",
+      "artist": "Fancy",
+      "title": "Slice Me Nice",
       "plays": 3,
-      "previous_position": 36,
-      "movement": 16,
+      "previous_position": 37,
+      "movement": 17,
       "trend": "up"
     }
   ]
