@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W38",
   "previous_week": "2026-W37",
-  "updated": "2026-09-19T01:35:50.057188+00:00",
+  "updated": "2026-09-19T06:34:26.341820+00:00",
   "charts": [
     {
       "position": 1,
@@ -17,6 +17,15 @@
     },
     {
       "position": 2,
+      "artist": "NeoNite",
+      "title": "Kiss Me",
+      "plays": 5,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 3,
       "artist": "André & Michael",
       "title": "Sag Es Oder Schweig",
       "plays": 4,
@@ -25,7 +34,16 @@
       "trend": "new"
     },
     {
-      "position": 3,
+      "position": 4,
+      "artist": "DJ Jerry",
+      "title": "Shanghai",
+      "plays": 4,
+      "previous_position": 55,
+      "movement": 51,
+      "trend": "up"
+    },
+    {
+      "position": 5,
       "artist": "Italo Disco Is Back",
       "title": "Urlaubsausgabe KW 38 - Teil 1",
       "plays": 4,
@@ -34,34 +52,34 @@
       "trend": "new"
     },
     {
-      "position": 4,
+      "position": 6,
       "artist": "Magda Niewiñska",
       "title": "Mezu Drogi Mój",
       "plays": 4,
       "previous_position": 174,
-      "movement": 170,
-      "trend": "up"
-    },
-    {
-      "position": 5,
-      "artist": "NeoNite",
-      "title": "Kiss Me",
-      "plays": 4,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 6,
-      "artist": "Peter Milski",
-      "title": "Wahnsinn",
-      "plays": 4,
-      "previous_position": 193,
-      "movement": 187,
+      "movement": 168,
       "trend": "up"
     },
     {
       "position": 7,
+      "artist": "Peter Milski",
+      "title": "Wahnsinn",
+      "plays": 4,
+      "previous_position": 193,
+      "movement": 186,
+      "trend": "up"
+    },
+    {
+      "position": 8,
+      "artist": "Silent Circle",
+      "title": "Stop The Rain In The Night",
+      "plays": 4,
+      "previous_position": 68,
+      "movement": 60,
+      "trend": "up"
+    },
+    {
+      "position": 9,
       "artist": "Tommy Steib",
       "title": "Ich Verbrenn Mir Nicht Die Finger",
       "plays": 4,
@@ -70,7 +88,16 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 10,
+      "artist": "TQ",
+      "title": "In The Night",
+      "plays": 4,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 11,
       "artist": "Andre Busse",
       "title": "Zwing Mich Doch Zu Meinem Glück",
       "plays": 3,
@@ -79,61 +106,52 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 12,
       "artist": "Andrea Berg",
       "title": "Ja Ich Will",
       "plays": 3,
       "previous_position": 208,
-      "movement": 199,
-      "trend": "up"
-    },
-    {
-      "position": 10,
-      "artist": "Anja Nova",
-      "title": "High",
-      "plays": 3,
-      "previous_position": 111,
-      "movement": 101,
-      "trend": "up"
-    },
-    {
-      "position": 11,
-      "artist": "Blue Crew",
-      "title": "Santa Cruz",
-      "plays": 3,
-      "previous_position": 47,
-      "movement": 36,
-      "trend": "up"
-    },
-    {
-      "position": 12,
-      "artist": "Christin Stark",
-      "title": "Spinnst Du",
-      "plays": 3,
-      "previous_position": 196,
-      "movement": 184,
+      "movement": 196,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "Dejw",
-      "title": "Ananas",
+      "artist": "Anja Nova",
+      "title": "High",
       "plays": 3,
-      "previous_position": 73,
-      "movement": 60,
+      "previous_position": 111,
+      "movement": 98,
       "trend": "up"
     },
     {
       "position": 14,
-      "artist": "DJ Jerry",
-      "title": "Shanghai",
+      "artist": "Blue Crew",
+      "title": "Santa Cruz",
       "plays": 3,
-      "previous_position": 55,
-      "movement": 41,
+      "previous_position": 47,
+      "movement": 33,
       "trend": "up"
     },
     {
       "position": 15,
+      "artist": "Christin Stark",
+      "title": "Spinnst Du",
+      "plays": 3,
+      "previous_position": 196,
+      "movement": 181,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "Dejw",
+      "title": "Ananas",
+      "plays": 3,
+      "previous_position": 73,
+      "movement": 57,
+      "trend": "up"
+    },
+    {
+      "position": 17,
       "artist": "Engelherz",
       "title": "Stille Wasser Sind Tief",
       "plays": 3,
@@ -142,49 +160,31 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 18,
       "artist": "Fancy",
       "title": "Slice Me Nice",
       "plays": 3,
       "previous_position": 37,
-      "movement": 21,
+      "movement": 19,
       "trend": "up"
     },
     {
-      "position": 17,
+      "position": 19,
       "artist": "Gentlemen Forever",
       "title": "Mittendrin Im Leben",
       "plays": 3,
       "previous_position": 201,
-      "movement": 184,
+      "movement": 182,
       "trend": "up"
     },
     {
-      "position": 18,
-      "artist": "Italo Disco Is Back",
-      "title": "Urlaubsausgabe KW 38 - Teil 2",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Italo Disco Is Back",
-      "title": "Urlaubsausgabe KW 38 - Teil 3",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
       "position": 20,
-      "artist": "Italo Disco Is Back",
-      "title": "Urlaubsausgabe KW 38 - Teil 5",
+      "artist": "Grant Miller",
+      "title": "Star",
       "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 36,
+      "movement": 16,
+      "trend": "up"
     }
   ]
 }
