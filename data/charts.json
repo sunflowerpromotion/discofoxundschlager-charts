@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W38",
   "previous_week": "2026-W37",
-  "updated": "2026-09-19T14:41:56.975570+00:00",
+  "updated": "2026-09-19T17:26:58.634028+00:00",
   "charts": [
     {
       "position": 1,
@@ -98,24 +98,33 @@
     },
     {
       "position": 11,
-      "artist": "Peter Milski",
-      "title": "Wahnsinn",
+      "artist": "MIG",
+      "title": "Zawsze Będę Obok Ciebie",
       "plays": 4,
-      "previous_position": 193,
-      "movement": 182,
+      "previous_position": 97,
+      "movement": 86,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Silent Circle",
-      "title": "Stop The Rain In The Night",
+      "artist": "Peter Milski",
+      "title": "Wahnsinn",
       "plays": 4,
-      "previous_position": 68,
-      "movement": 56,
+      "previous_position": 193,
+      "movement": 181,
       "trend": "up"
     },
     {
       "position": 13,
+      "artist": "Silent Circle",
+      "title": "Stop The Rain In The Night",
+      "plays": 4,
+      "previous_position": 68,
+      "movement": 55,
+      "trend": "up"
+    },
+    {
+      "position": 14,
       "artist": "Tommy Steib",
       "title": "Ich Verbrenn Mir Nicht Die Finger",
       "plays": 4,
@@ -124,7 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 15,
       "artist": "TQ",
       "title": "In The Night",
       "plays": 4,
@@ -133,7 +142,16 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 16,
+      "artist": "Andre",
+      "title": "Dama Zegna Pana",
+      "plays": 3,
+      "previous_position": 166,
+      "movement": 150,
+      "trend": "up"
+    },
+    {
+      "position": 17,
       "artist": "Andre Busse",
       "title": "Zwing Mich Doch Zu Meinem Glück",
       "plays": 3,
@@ -142,48 +160,30 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 18,
       "artist": "Andrea Berg",
       "title": "Ja Ich Will",
       "plays": 3,
       "previous_position": 208,
-      "movement": 192,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Blue Crew",
-      "title": "Santa Cruz",
-      "plays": 3,
-      "previous_position": 47,
-      "movement": 30,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Christin Stark",
-      "title": "Spinnst Du",
-      "plays": 3,
-      "previous_position": 196,
-      "movement": 178,
+      "movement": 190,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Dejw",
-      "title": "Ananas",
+      "artist": "Blue Crew",
+      "title": "Santa Cruz",
       "plays": 3,
-      "previous_position": 73,
-      "movement": 54,
+      "previous_position": 47,
+      "movement": 28,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Fancy",
-      "title": "Slice Me Nice",
+      "artist": "Christin Stark",
+      "title": "Spinnst Du",
       "plays": 3,
-      "previous_position": 37,
-      "movement": 17,
+      "previous_position": 196,
+      "movement": 176,
       "trend": "up"
     }
   ]
