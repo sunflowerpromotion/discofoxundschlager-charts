@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W38",
   "previous_week": "2026-W37",
-  "updated": "2026-09-19T19:29:06.981767+00:00",
+  "updated": "2026-09-19T21:39:35.397837+00:00",
   "charts": [
     {
       "position": 1,
@@ -26,6 +26,15 @@
     },
     {
       "position": 3,
+      "artist": "Tommy Steib",
+      "title": "Ich Verbrenn Mir Nicht Die Finger",
+      "plays": 5,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 4,
       "artist": "André & Michael",
       "title": "Sag Es Oder Schweig",
       "plays": 4,
@@ -34,25 +43,25 @@
       "trend": "new"
     },
     {
-      "position": 4,
+      "position": 5,
       "artist": "Anja Nova",
       "title": "High",
       "plays": 4,
       "previous_position": 111,
-      "movement": 107,
-      "trend": "up"
-    },
-    {
-      "position": 5,
-      "artist": "DJ Jerry",
-      "title": "Shanghai",
-      "plays": 4,
-      "previous_position": 55,
-      "movement": 50,
+      "movement": 106,
       "trend": "up"
     },
     {
       "position": 6,
+      "artist": "DJ Jerry",
+      "title": "Shanghai",
+      "plays": 4,
+      "previous_position": 55,
+      "movement": 49,
+      "trend": "up"
+    },
+    {
+      "position": 7,
       "artist": "Engelherz",
       "title": "Stille Wasser Sind Tief",
       "plays": 4,
@@ -61,7 +70,7 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 8,
       "artist": "Italo Disco Is Back",
       "title": "Urlaubsausgabe KW 38 - Teil 1",
       "plays": 4,
@@ -70,67 +79,58 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 9,
       "artist": "Liane",
       "title": "Unter Die Haut",
       "plays": 4,
       "previous_position": 102,
-      "movement": 94,
-      "trend": "up"
-    },
-    {
-      "position": 9,
-      "artist": "Magda Niewiñska",
-      "title": "Mezu Drogi Mój",
-      "plays": 4,
-      "previous_position": 174,
-      "movement": 165,
+      "movement": 93,
       "trend": "up"
     },
     {
       "position": 10,
+      "artist": "Magda Niewiñska",
+      "title": "Mezu Drogi Mój",
+      "plays": 4,
+      "previous_position": 174,
+      "movement": 164,
+      "trend": "up"
+    },
+    {
+      "position": 11,
       "artist": "Markus Wolfahrt",
       "title": "Hallelujah Auf Die Liebe",
       "plays": 4,
       "previous_position": 2,
-      "movement": -8,
+      "movement": -9,
       "trend": "down"
     },
     {
-      "position": 11,
+      "position": 12,
       "artist": "MIG",
       "title": "Zawsze Będę Obok Ciebie",
       "plays": 4,
       "previous_position": 97,
-      "movement": 86,
-      "trend": "up"
-    },
-    {
-      "position": 12,
-      "artist": "Peter Milski",
-      "title": "Wahnsinn",
-      "plays": 4,
-      "previous_position": 193,
-      "movement": 181,
+      "movement": 85,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "Silent Circle",
-      "title": "Stop The Rain In The Night",
+      "artist": "Peter Milski",
+      "title": "Wahnsinn",
       "plays": 4,
-      "previous_position": 68,
-      "movement": 55,
+      "previous_position": 193,
+      "movement": 180,
       "trend": "up"
     },
     {
       "position": 14,
-      "artist": "Tommy Steib",
-      "title": "Ich Verbrenn Mir Nicht Die Finger",
+      "artist": "Silent Circle",
+      "title": "Stop The Rain In The Night",
       "plays": 4,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 68,
+      "movement": 54,
+      "trend": "up"
     },
     {
       "position": 15,
@@ -143,15 +143,24 @@
     },
     {
       "position": 16,
+      "artist": "Alexander Martin",
+      "title": "Mond",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 17,
       "artist": "Andre",
       "title": "Dama Zegna Pana",
       "plays": 3,
       "previous_position": 166,
-      "movement": 150,
+      "movement": 149,
       "trend": "up"
     },
     {
-      "position": 17,
+      "position": 18,
       "artist": "Andre Busse",
       "title": "Zwing Mich Doch Zu Meinem Glück",
       "plays": 3,
@@ -160,30 +169,21 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 19,
       "artist": "Andrea Berg",
       "title": "Ja Ich Will",
       "plays": 3,
       "previous_position": 208,
-      "movement": 190,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Blue Crew",
-      "title": "Santa Cruz",
-      "plays": 3,
-      "previous_position": 47,
-      "movement": 28,
+      "movement": 189,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Christin Stark",
-      "title": "Spinnst Du",
+      "artist": "Bianca App",
+      "title": "Diese Liebe Bleibt",
       "plays": 3,
-      "previous_position": 196,
-      "movement": 176,
+      "previous_position": 110,
+      "movement": 90,
       "trend": "up"
     }
   ]
