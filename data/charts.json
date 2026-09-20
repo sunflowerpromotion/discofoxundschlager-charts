@@ -4,10 +4,28 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W38",
   "previous_week": "2026-W37",
-  "updated": "2026-09-19T23:32:54.092357+00:00",
+  "updated": "2026-09-20T01:32:59.984296+00:00",
   "charts": [
     {
       "position": 1,
+      "artist": "André & Michael",
+      "title": "Sag Es Oder Schweig",
+      "plays": 5,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 2,
+      "artist": "Anja Nova",
+      "title": "High",
+      "plays": 5,
+      "previous_position": 111,
+      "movement": 109,
+      "trend": "up"
+    },
+    {
+      "position": 3,
       "artist": "Italo Disco Is Back",
       "title": "Urlaubsausgabe KW 38 - Teil 4",
       "plays": 5,
@@ -16,7 +34,16 @@
       "trend": "new"
     },
     {
-      "position": 2,
+      "position": 4,
+      "artist": "Liane",
+      "title": "Unter Die Haut",
+      "plays": 5,
+      "previous_position": 102,
+      "movement": 98,
+      "trend": "up"
+    },
+    {
+      "position": 5,
       "artist": "NeoNite",
       "title": "Kiss Me",
       "plays": 5,
@@ -25,7 +52,7 @@
       "trend": "new"
     },
     {
-      "position": 3,
+      "position": 6,
       "artist": "Tommy Steib",
       "title": "Ich Verbrenn Mir Nicht Die Finger",
       "plays": 5,
@@ -34,34 +61,16 @@
       "trend": "new"
     },
     {
-      "position": 4,
-      "artist": "André & Michael",
-      "title": "Sag Es Oder Schweig",
-      "plays": 4,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 5,
-      "artist": "Anja Nova",
-      "title": "High",
-      "plays": 4,
-      "previous_position": 111,
-      "movement": 106,
-      "trend": "up"
-    },
-    {
-      "position": 6,
+      "position": 7,
       "artist": "DJ Jerry",
       "title": "Shanghai",
       "plays": 4,
       "previous_position": 55,
-      "movement": 49,
+      "movement": 48,
       "trend": "up"
     },
     {
-      "position": 7,
+      "position": 8,
       "artist": "Engelherz",
       "title": "Stille Wasser Sind Tief",
       "plays": 4,
@@ -70,22 +79,13 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 9,
       "artist": "Italo Disco Is Back",
       "title": "Urlaubsausgabe KW 38 - Teil 1",
       "plays": 4,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 9,
-      "artist": "Liane",
-      "title": "Unter Die Haut",
-      "plays": 4,
-      "previous_position": 102,
-      "movement": 93,
-      "trend": "up"
     },
     {
       "position": 10,
