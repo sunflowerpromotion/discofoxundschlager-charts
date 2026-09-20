@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W38",
   "previous_week": "2026-W37",
-  "updated": "2026-09-20T15:44:35.537959+00:00",
+  "updated": "2026-09-20T18:18:55.641688+00:00",
   "charts": [
     {
       "position": 1,
@@ -161,30 +161,30 @@
     },
     {
       "position": 18,
-      "artist": "Magda Niewiñska",
-      "title": "Mezu Drogi Mój",
+      "artist": "Jessika",
+      "title": "Bajki Dwie",
       "plays": 4,
-      "previous_position": 174,
-      "movement": 156,
+      "previous_position": 157,
+      "movement": 139,
       "trend": "up"
     },
     {
       "position": 19,
+      "artist": "Magda Niewiñska",
+      "title": "Mezu Drogi Mój",
+      "plays": 4,
+      "previous_position": 174,
+      "movement": 155,
+      "trend": "up"
+    },
+    {
+      "position": 20,
       "artist": "Markus Wolfahrt",
       "title": "Hallelujah Auf Die Liebe",
       "plays": 4,
       "previous_position": 2,
-      "movement": -17,
+      "movement": -18,
       "trend": "down"
-    },
-    {
-      "position": 20,
-      "artist": "Merkur",
-      "title": "Wer Ist Jetzt Dieser Jürgen",
-      "plays": 4,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
     }
   ]
 }
