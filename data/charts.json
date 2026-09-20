@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W38",
   "previous_week": "2026-W37",
-  "updated": "2026-09-20T11:58:12.613889+00:00",
+  "updated": "2026-09-20T15:44:35.537959+00:00",
   "charts": [
     {
       "position": 1,
@@ -179,12 +179,12 @@
     },
     {
       "position": 20,
-      "artist": "MIG",
-      "title": "Zawsze Będę Obok Ciebie",
+      "artist": "Merkur",
+      "title": "Wer Ist Jetzt Dieser Jürgen",
       "plays": 4,
-      "previous_position": 97,
-      "movement": 77,
-      "trend": "up"
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     }
   ]
 }
