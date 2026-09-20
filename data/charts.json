@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W38",
   "previous_week": "2026-W37",
-  "updated": "2026-09-20T01:32:59.984296+00:00",
+  "updated": "2026-09-20T06:54:51.017614+00:00",
   "charts": [
     {
       "position": 1,
@@ -62,15 +62,24 @@
     },
     {
       "position": 7,
+      "artist": "TQ",
+      "title": "In The Night",
+      "plays": 5,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 8,
       "artist": "DJ Jerry",
       "title": "Shanghai",
       "plays": 4,
       "previous_position": 55,
-      "movement": 48,
+      "movement": 47,
       "trend": "up"
     },
     {
-      "position": 8,
+      "position": 9,
       "artist": "Engelherz",
       "title": "Stille Wasser Sind Tief",
       "plays": 4,
@@ -79,7 +88,16 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 10,
+      "artist": "Fancy",
+      "title": "Slice Me Nice",
+      "plays": 4,
+      "previous_position": 37,
+      "movement": 27,
+      "trend": "up"
+    },
+    {
+      "position": 11,
       "artist": "Italo Disco Is Back",
       "title": "Urlaubsausgabe KW 38 - Teil 1",
       "plays": 4,
@@ -88,61 +106,61 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 12,
       "artist": "Magda Niewiñska",
       "title": "Mezu Drogi Mój",
       "plays": 4,
       "previous_position": 174,
-      "movement": 164,
-      "trend": "up"
-    },
-    {
-      "position": 11,
-      "artist": "Markus Wolfahrt",
-      "title": "Hallelujah Auf Die Liebe",
-      "plays": 4,
-      "previous_position": 2,
-      "movement": -9,
-      "trend": "down"
-    },
-    {
-      "position": 12,
-      "artist": "MIG",
-      "title": "Zawsze Będę Obok Ciebie",
-      "plays": 4,
-      "previous_position": 97,
-      "movement": 85,
+      "movement": 162,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "Peter Milski",
-      "title": "Wahnsinn",
+      "artist": "Markus Wolfahrt",
+      "title": "Hallelujah Auf Die Liebe",
       "plays": 4,
-      "previous_position": 193,
-      "movement": 180,
-      "trend": "up"
+      "previous_position": 2,
+      "movement": -11,
+      "trend": "down"
     },
     {
       "position": 14,
-      "artist": "Silent Circle",
-      "title": "Stop The Rain In The Night",
+      "artist": "MIG",
+      "title": "Zawsze Będę Obok Ciebie",
       "plays": 4,
-      "previous_position": 68,
-      "movement": 54,
+      "previous_position": 97,
+      "movement": 83,
       "trend": "up"
     },
     {
       "position": 15,
-      "artist": "TQ",
-      "title": "In The Night",
+      "artist": "Peter Milski",
+      "title": "Wahnsinn",
       "plays": 4,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 193,
+      "movement": 178,
+      "trend": "up"
     },
     {
       "position": 16,
+      "artist": "Silent Circle",
+      "title": "Stop The Rain In The Night",
+      "plays": 4,
+      "previous_position": 68,
+      "movement": 52,
+      "trend": "up"
+    },
+    {
+      "position": 17,
+      "artist": "Alex Blue",
+      "title": "Let Us Dance",
+      "plays": 3,
+      "previous_position": 90,
+      "movement": 73,
+      "trend": "up"
+    },
+    {
+      "position": 18,
       "artist": "Alexander Martin",
       "title": "Mond",
       "plays": 3,
@@ -151,36 +169,18 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 19,
       "artist": "Andre",
       "title": "Dama Zegna Pana",
       "plays": 3,
       "previous_position": 166,
-      "movement": 149,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Andre Busse",
-      "title": "Zwing Mich Doch Zu Meinem Glück",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Andrea Berg",
-      "title": "Ja Ich Will",
-      "plays": 3,
-      "previous_position": 208,
-      "movement": 189,
+      "movement": 147,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Andreas Kuhne",
-      "title": "Wunder",
+      "artist": "Andre Busse",
+      "title": "Zwing Mich Doch Zu Meinem Glück",
       "plays": 3,
       "previous_position": null,
       "movement": null,
