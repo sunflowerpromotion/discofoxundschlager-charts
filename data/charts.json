@@ -4,10 +4,46 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W39",
   "previous_week": "2026-W38",
-  "updated": "2026-09-20T22:56:07.473338+00:00",
+  "updated": "2026-09-21T00:50:35.841207+00:00",
   "charts": [
     {
       "position": 1,
+      "artist": "Allessa",
+      "title": "20.000 Meilen",
+      "plays": 1,
+      "previous_position": 128,
+      "movement": 127,
+      "trend": "up"
+    },
+    {
+      "position": 2,
+      "artist": "Andreas Kuhne",
+      "title": "Wunder",
+      "plays": 1,
+      "previous_position": 63,
+      "movement": 61,
+      "trend": "up"
+    },
+    {
+      "position": 3,
+      "artist": "Celina Mars",
+      "title": "Gefühle Total",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 4,
+      "artist": "Femme X2",
+      "title": "Sommer Auf Repeat",
+      "plays": 1,
+      "previous_position": 212,
+      "movement": 208,
+      "trend": "up"
+    },
+    {
+      "position": 5,
       "artist": "FemmeX2",
       "title": "Hallo Leben",
       "plays": 1,
@@ -16,25 +52,43 @@
       "trend": "new"
     },
     {
-      "position": 2,
+      "position": 6,
+      "artist": "Frank Lukas",
+      "title": "Schach Matt",
+      "plays": 1,
+      "previous_position": 217,
+      "movement": 211,
+      "trend": "up"
+    },
+    {
+      "position": 7,
       "artist": "Hubert Fella",
       "title": "Ein Gläschen Wein Mi Amor",
       "plays": 1,
       "previous_position": 120,
-      "movement": 118,
+      "movement": 113,
       "trend": "up"
     },
     {
-      "position": 3,
+      "position": 8,
       "artist": "Janine Frei",
       "title": "Das Ist Deine Nacht",
       "plays": 1,
       "previous_position": 55,
-      "movement": 52,
+      "movement": 47,
       "trend": "up"
     },
     {
-      "position": 4,
+      "position": 9,
+      "artist": "Kasey Neumann",
+      "title": "Viertel Nach Glück",
+      "plays": 1,
+      "previous_position": 62,
+      "movement": 53,
+      "trend": "up"
+    },
+    {
+      "position": 10,
       "artist": "Kerstin Ott",
       "title": "Ich Wünsche Mir Von Dir",
       "plays": 1,
@@ -43,57 +97,93 @@
       "trend": "new"
     },
     {
-      "position": 5,
+      "position": 11,
+      "artist": "Liane",
+      "title": "Unter Die Haut",
+      "plays": 1,
+      "previous_position": 8,
+      "movement": -3,
+      "trend": "down"
+    },
+    {
+      "position": 12,
+      "artist": "Lyane Hegemann",
+      "title": "Kiss And Fly",
+      "plays": 1,
+      "previous_position": 121,
+      "movement": 109,
+      "trend": "up"
+    },
+    {
+      "position": 13,
+      "artist": "Manuela Buck",
+      "title": "Tanz Mit Mir",
+      "plays": 1,
+      "previous_position": 78,
+      "movement": 65,
+      "trend": "up"
+    },
+    {
+      "position": 14,
       "artist": "Martin Juen",
       "title": "Liebe Ist...",
       "plays": 1,
       "previous_position": 81,
-      "movement": 76,
+      "movement": 67,
       "trend": "up"
     },
     {
-      "position": 6,
+      "position": 15,
       "artist": "Philipp Schmidt",
       "title": "Alles Ist Möglich",
       "plays": 1,
       "previous_position": 202,
-      "movement": 196,
+      "movement": 187,
       "trend": "up"
     },
     {
-      "position": 7,
+      "position": 16,
       "artist": "Pia-Sophie",
       "title": "Rien Ne Va Plus",
       "plays": 1,
       "previous_position": 123,
-      "movement": 116,
+      "movement": 107,
       "trend": "up"
     },
     {
-      "position": 8,
+      "position": 17,
       "artist": "Roger De Win",
       "title": "Choo-Choo",
       "plays": 1,
       "previous_position": 34,
-      "movement": 26,
+      "movement": 17,
       "trend": "up"
     },
     {
-      "position": 9,
+      "position": 18,
       "artist": "Tanja Lasch",
       "title": "Zimmer 17",
       "plays": 1,
       "previous_position": 172,
-      "movement": 163,
+      "movement": 154,
       "trend": "up"
     },
     {
-      "position": 10,
+      "position": 19,
+      "artist": "Vanessa Mai",
+      "title": "Ich Fall In Love",
+      "plays": 1,
+      "previous_position": 47,
+      "movement": 28,
+      "trend": "up"
+    },
+    {
+      "position": 20,
       "artist": "ZWIRN",
       "title": "Hammer",
       "plays": 1,
       "previous_position": 215,
-      "movement": 205,
+      "movement": 195,
       "trend": "up"
     }
   ]
