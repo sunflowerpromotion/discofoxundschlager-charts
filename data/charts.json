@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W39",
   "previous_week": "2026-W38",
-  "updated": "2026-09-21T16:59:16.880535+00:00",
+  "updated": "2026-09-21T20:56:01.559569+00:00",
   "charts": [
     {
       "position": 1,
@@ -26,15 +26,24 @@
     },
     {
       "position": 3,
+      "artist": "Joker & Sequence",
+      "title": "Ten Jeden Pocałunek",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 4,
       "artist": "Savage",
       "title": "Don't Cry Tonight",
       "plays": 2,
       "previous_position": 115,
-      "movement": 112,
+      "movement": 111,
       "trend": "up"
     },
     {
-      "position": 4,
+      "position": 5,
       "artist": "Adam Chrola",
       "title": "Drogi Mój Tesciu",
       "plays": 1,
@@ -43,34 +52,43 @@
       "trend": "new"
     },
     {
-      "position": 5,
-      "artist": "Allessa",
-      "title": "20.000 Meilen",
-      "plays": 1,
-      "previous_position": 128,
-      "movement": 123,
-      "trend": "up"
-    },
-    {
       "position": 6,
-      "artist": "Andre",
-      "title": "Czy Kiedys Cie Znajde",
+      "artist": "After Party",
+      "title": "Zawsze Moja Wina",
       "plays": 1,
-      "previous_position": 136,
-      "movement": 130,
+      "previous_position": 224,
+      "movement": 218,
       "trend": "up"
     },
     {
       "position": 7,
-      "artist": "Andreas Kuhne",
-      "title": "Wunder",
+      "artist": "Allessa",
+      "title": "20.000 Meilen",
       "plays": 1,
-      "previous_position": 63,
-      "movement": 56,
+      "previous_position": 128,
+      "movement": 121,
       "trend": "up"
     },
     {
       "position": 8,
+      "artist": "Andre",
+      "title": "Czy Kiedys Cie Znajde",
+      "plays": 1,
+      "previous_position": 136,
+      "movement": 128,
+      "trend": "up"
+    },
+    {
+      "position": 9,
+      "artist": "Andreas Kuhne",
+      "title": "Wunder",
+      "plays": 1,
+      "previous_position": 63,
+      "movement": 54,
+      "trend": "up"
+    },
+    {
+      "position": 10,
       "artist": "Bad Boys Blue",
       "title": "Come Back And Stay",
       "plays": 1,
@@ -79,7 +97,7 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 11,
       "artist": "Bad Boys Blue",
       "title": "You're A Woman",
       "plays": 1,
@@ -88,16 +106,25 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 12,
+      "artist": "Bobi",
+      "title": "Krolowo Ma",
+      "plays": 1,
+      "previous_position": 209,
+      "movement": 197,
+      "trend": "up"
+    },
+    {
+      "position": 13,
       "artist": "Boski Heniek, Maka & Pancio",
       "title": "Biały Benz",
       "plays": 1,
       "previous_position": 71,
-      "movement": 61,
+      "movement": 58,
       "trend": "up"
     },
     {
-      "position": 11,
+      "position": 14,
       "artist": "Celina Mars",
       "title": "Gefühle Total",
       "plays": 1,
@@ -106,25 +133,34 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 15,
+      "artist": "Classic",
+      "title": "Ja Dla Ciebie Ty Dla Mnie",
+      "plays": 1,
+      "previous_position": 28,
+      "movement": 13,
+      "trend": "up"
+    },
+    {
+      "position": 16,
       "artist": "Fake",
       "title": "Frogs In Spain",
       "plays": 1,
       "previous_position": 118,
-      "movement": 106,
+      "movement": 102,
       "trend": "up"
     },
     {
-      "position": 13,
+      "position": 17,
       "artist": "Femme X2",
       "title": "Sommer Auf Repeat",
       "plays": 1,
       "previous_position": 212,
-      "movement": 199,
+      "movement": 195,
       "trend": "up"
     },
     {
-      "position": 14,
+      "position": 18,
       "artist": "FemmeX2",
       "title": "Hallo Leben",
       "plays": 1,
@@ -133,57 +169,21 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 19,
       "artist": "Frank Lukas",
       "title": "Schach Matt",
       "plays": 1,
       "previous_position": 217,
-      "movement": 202,
+      "movement": 198,
       "trend": "up"
     },
     {
-      "position": 16,
+      "position": 20,
       "artist": "Gesek",
       "title": "Dziewczyna W Bikini",
       "plays": 1,
       "previous_position": 211,
-      "movement": 195,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Hubert Fella",
-      "title": "Ein Gläschen Wein Mi Amor",
-      "plays": 1,
-      "previous_position": 120,
-      "movement": 103,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Italo Disco Is Back",
-      "title": "Urlaubsausgabe KW 38 - Teil 1",
-      "plays": 1,
-      "previous_position": 6,
-      "movement": -12,
-      "trend": "down"
-    },
-    {
-      "position": 19,
-      "artist": "Italo Disco Is Back",
-      "title": "Urlaubsausgabe KW 38 - Teil 2",
-      "plays": 1,
-      "previous_position": 17,
-      "movement": -2,
-      "trend": "down"
-    },
-    {
-      "position": 20,
-      "artist": "Italo Disco Is Back",
-      "title": "Urlaubsausgabe KW 38 - Teil 5",
-      "plays": 1,
-      "previous_position": 21,
-      "movement": 1,
+      "movement": 191,
       "trend": "up"
     }
   ]
