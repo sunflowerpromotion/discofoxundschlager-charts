@@ -4,37 +4,55 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W39",
   "previous_week": "2026-W38",
-  "updated": "2026-09-21T05:34:48.246429+00:00",
+  "updated": "2026-09-21T11:03:56.584044+00:00",
   "charts": [
     {
       "position": 1,
-      "artist": "Savage",
-      "title": "Don't Cry Tonight",
+      "artist": "Italo Disco Is Back",
+      "title": "Urlaubsausgabe KW 38 - Teil 3",
       "plays": 2,
-      "previous_position": 115,
-      "movement": 114,
+      "previous_position": 16,
+      "movement": 15,
       "trend": "up"
     },
     {
       "position": 2,
-      "artist": "Allessa",
-      "title": "20.000 Meilen",
-      "plays": 1,
-      "previous_position": 128,
-      "movement": 126,
-      "trend": "up"
+      "artist": "Italo Disco Is Back",
+      "title": "Urlaubsausgabe KW 38 - Teil 4",
+      "plays": 2,
+      "previous_position": 1,
+      "movement": -1,
+      "trend": "down"
     },
     {
       "position": 3,
-      "artist": "Andreas Kuhne",
-      "title": "Wunder",
-      "plays": 1,
-      "previous_position": 63,
-      "movement": 60,
+      "artist": "Savage",
+      "title": "Don't Cry Tonight",
+      "plays": 2,
+      "previous_position": 115,
+      "movement": 112,
       "trend": "up"
     },
     {
       "position": 4,
+      "artist": "Allessa",
+      "title": "20.000 Meilen",
+      "plays": 1,
+      "previous_position": 128,
+      "movement": 124,
+      "trend": "up"
+    },
+    {
+      "position": 5,
+      "artist": "Andreas Kuhne",
+      "title": "Wunder",
+      "plays": 1,
+      "previous_position": 63,
+      "movement": 58,
+      "trend": "up"
+    },
+    {
+      "position": 6,
       "artist": "Bad Boys Blue",
       "title": "Come Back And Stay",
       "plays": 1,
@@ -43,7 +61,7 @@
       "trend": "new"
     },
     {
-      "position": 5,
+      "position": 7,
       "artist": "Bad Boys Blue",
       "title": "You're A Woman",
       "plays": 1,
@@ -52,7 +70,7 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 8,
       "artist": "Celina Mars",
       "title": "Gefühle Total",
       "plays": 1,
@@ -61,25 +79,25 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 9,
       "artist": "Fake",
       "title": "Frogs In Spain",
       "plays": 1,
       "previous_position": 118,
-      "movement": 111,
+      "movement": 109,
       "trend": "up"
     },
     {
-      "position": 8,
+      "position": 10,
       "artist": "Femme X2",
       "title": "Sommer Auf Repeat",
       "plays": 1,
       "previous_position": 212,
-      "movement": 204,
+      "movement": 202,
       "trend": "up"
     },
     {
-      "position": 9,
+      "position": 11,
       "artist": "FemmeX2",
       "title": "Hallo Leben",
       "plays": 1,
@@ -88,103 +106,85 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 12,
       "artist": "Frank Lukas",
       "title": "Schach Matt",
       "plays": 1,
       "previous_position": 217,
-      "movement": 207,
-      "trend": "up"
-    },
-    {
-      "position": 11,
-      "artist": "Hubert Fella",
-      "title": "Ein Gläschen Wein Mi Amor",
-      "plays": 1,
-      "previous_position": 120,
-      "movement": 109,
-      "trend": "up"
-    },
-    {
-      "position": 12,
-      "artist": "Janine Frei",
-      "title": "Das Ist Deine Nacht",
-      "plays": 1,
-      "previous_position": 55,
-      "movement": 43,
+      "movement": 205,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "Kasey Neumann",
-      "title": "Viertel Nach Glück",
+      "artist": "Hubert Fella",
+      "title": "Ein Gläschen Wein Mi Amor",
       "plays": 1,
-      "previous_position": 62,
-      "movement": 49,
+      "previous_position": 120,
+      "movement": 107,
       "trend": "up"
     },
     {
       "position": 14,
-      "artist": "Kerstin Ott",
-      "title": "Ich Wünsche Mir Von Dir",
+      "artist": "Italo Disco Is Back",
+      "title": "Urlaubsausgabe KW 38 - Teil 1",
       "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 15,
-      "artist": "Liane",
-      "title": "Unter Die Haut",
-      "plays": 1,
-      "previous_position": 8,
-      "movement": -7,
+      "previous_position": 6,
+      "movement": -8,
       "trend": "down"
     },
     {
-      "position": 16,
-      "artist": "Lyane Hegemann",
-      "title": "Kiss And Fly",
+      "position": 15,
+      "artist": "Italo Disco Is Back",
+      "title": "Urlaubsausgabe KW 38 - Teil 2",
       "plays": 1,
-      "previous_position": 121,
-      "movement": 105,
+      "previous_position": 17,
+      "movement": 2,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "Italo Disco Is Back",
+      "title": "Urlaubsausgabe KW 38 - Teil 5",
+      "plays": 1,
+      "previous_position": 21,
+      "movement": 5,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "Manuela Buck",
-      "title": "Tanz Mit Mir",
+      "artist": "Italo Disco Is Back",
+      "title": "Urlaubsausgabe KW 38 - Teil 6",
       "plays": 1,
-      "previous_position": 78,
-      "movement": 61,
+      "previous_position": 20,
+      "movement": 3,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Martin Juen",
-      "title": "Liebe Ist...",
+      "artist": "Italo Disco Is Back",
+      "title": "Urlaubsausgabe KW 38 - Teil 7",
       "plays": 1,
-      "previous_position": 81,
-      "movement": 63,
+      "previous_position": 19,
+      "movement": 1,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Mauro",
-      "title": "Buona Sera - Ciao Ciao",
+      "artist": "Italo Disco Is Back",
+      "title": "Urlaubsausgabe KW 38 - Teil 8",
       "plays": 1,
-      "previous_position": 219,
-      "movement": 200,
-      "trend": "up"
+      "previous_position": 18,
+      "movement": -1,
+      "trend": "down"
     },
     {
       "position": 20,
-      "artist": "Miko Mission",
-      "title": "How Old Are You",
+      "artist": "Janine Frei",
+      "title": "Das Ist Deine Nacht",
       "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 55,
+      "movement": 35,
+      "trend": "up"
     }
   ]
 }
