@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W39",
   "previous_week": "2026-W38",
-  "updated": "2026-09-22T20:14:42.030090+00:00",
+  "updated": "2026-09-22T22:59:17.853291+00:00",
   "charts": [
     {
       "position": 1,
@@ -35,6 +35,15 @@
     },
     {
       "position": 4,
+      "artist": "Ansgar Deters feat. Kerstin",
+      "title": "Ich Umarme Die Welt",
+      "plays": 2,
+      "previous_position": 95,
+      "movement": 91,
+      "trend": "up"
+    },
+    {
+      "position": 5,
       "artist": "Bad Boys Blue",
       "title": "Come Back And Stay",
       "plays": 2,
@@ -43,34 +52,43 @@
       "trend": "new"
     },
     {
-      "position": 5,
+      "position": 6,
       "artist": "Beat Magic",
       "title": "W Cieniu Wierzb",
       "plays": 2,
       "previous_position": 161,
-      "movement": 156,
-      "trend": "up"
-    },
-    {
-      "position": 6,
-      "artist": "Classic",
-      "title": "Ja Dla Ciebie Ty Dla Mnie",
-      "plays": 2,
-      "previous_position": 28,
-      "movement": 22,
+      "movement": 155,
       "trend": "up"
     },
     {
       "position": 7,
+      "artist": "Celina Mars",
+      "title": "Gefühle Total",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 8,
+      "artist": "Classic",
+      "title": "Ja Dla Ciebie Ty Dla Mnie",
+      "plays": 2,
+      "previous_position": 28,
+      "movement": 20,
+      "trend": "up"
+    },
+    {
+      "position": 9,
       "artist": "Effect",
       "title": "I Love You",
       "plays": 2,
       "previous_position": 207,
-      "movement": 200,
+      "movement": 198,
       "trend": "up"
     },
     {
-      "position": 8,
+      "position": 10,
       "artist": "Funky Marys",
       "title": "Fehler",
       "plays": 2,
@@ -79,25 +97,34 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 11,
+      "artist": "Hubert Fella",
+      "title": "Ein Gläschen Wein Mi Amor",
+      "plays": 2,
+      "previous_position": 120,
+      "movement": 109,
+      "trend": "up"
+    },
+    {
+      "position": 12,
       "artist": "Italo Disco Is Back",
       "title": "Urlaubsausgabe KW 38 - Teil 3",
       "plays": 2,
       "previous_position": 16,
-      "movement": 7,
+      "movement": 4,
       "trend": "up"
     },
     {
-      "position": 10,
+      "position": 13,
       "artist": "Italo Disco Is Back",
       "title": "Urlaubsausgabe KW 38 - Teil 4",
       "plays": 2,
       "previous_position": 1,
-      "movement": -9,
+      "movement": -12,
       "trend": "down"
     },
     {
-      "position": 11,
+      "position": 14,
       "artist": "Joker & Sequence",
       "title": "Ten Jeden Pocałunek",
       "plays": 2,
@@ -106,84 +133,57 @@
       "trend": "new"
     },
     {
-      "position": 12,
-      "artist": "Martin Juen",
-      "title": "Liebe Ist...",
-      "plays": 2,
-      "previous_position": 81,
-      "movement": 69,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "MATSONIK",
-      "title": "Zakochalem Sie",
-      "plays": 2,
-      "previous_position": 168,
-      "movement": 155,
-      "trend": "up"
-    },
-    {
-      "position": 14,
-      "artist": "Mauro",
-      "title": "Buona Sera - Ciao Ciao",
-      "plays": 2,
-      "previous_position": 219,
-      "movement": 205,
-      "trend": "up"
-    },
-    {
       "position": 15,
-      "artist": "Ramona Martiness",
-      "title": "Räumungsverkauf",
+      "artist": "Kasey Neumann",
+      "title": "Viertel Nach Glück",
       "plays": 2,
-      "previous_position": 179,
-      "movement": 164,
+      "previous_position": 62,
+      "movement": 47,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "Roger De Win",
-      "title": "Choo-Choo",
+      "artist": "Lyane Hegemann",
+      "title": "Kiss And Fly",
       "plays": 2,
-      "previous_position": 34,
-      "movement": 18,
+      "previous_position": 121,
+      "movement": 105,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "Savage",
-      "title": "Don't Cry Tonight",
+      "artist": "Martin Juen",
+      "title": "Liebe Ist...",
       "plays": 2,
-      "previous_position": 115,
-      "movement": 98,
+      "previous_position": 81,
+      "movement": 64,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "ZWIRN",
-      "title": "Hammer",
+      "artist": "MATSONIK",
+      "title": "Zakochalem Sie",
       "plays": 2,
-      "previous_position": 215,
-      "movement": 197,
+      "previous_position": 168,
+      "movement": 150,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Adam Chrola",
-      "title": "Drogi Mój Tesciu",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "artist": "Mauro",
+      "title": "Buona Sera - Ciao Ciao",
+      "plays": 2,
+      "previous_position": 219,
+      "movement": 200,
+      "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Alexander Martin",
-      "title": "Mond",
-      "plays": 1,
-      "previous_position": 61,
-      "movement": 41,
+      "artist": "Ramona Martiness",
+      "title": "Räumungsverkauf",
+      "plays": 2,
+      "previous_position": 179,
+      "movement": 159,
       "trend": "up"
     }
   ]
