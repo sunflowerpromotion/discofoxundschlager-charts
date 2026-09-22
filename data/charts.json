@@ -4,28 +4,37 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W39",
   "previous_week": "2026-W38",
-  "updated": "2026-09-22T01:56:01.603293+00:00",
+  "updated": "2026-09-22T07:18:45.375340+00:00",
   "charts": [
     {
       "position": 1,
-      "artist": "Italo Disco Is Back",
-      "title": "Urlaubsausgabe KW 38 - Teil 3",
+      "artist": "Bad Boys Blue",
+      "title": "Come Back And Stay",
       "plays": 2,
-      "previous_position": 16,
-      "movement": 15,
-      "trend": "up"
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
       "position": 2,
       "artist": "Italo Disco Is Back",
-      "title": "Urlaubsausgabe KW 38 - Teil 4",
+      "title": "Urlaubsausgabe KW 38 - Teil 3",
       "plays": 2,
-      "previous_position": 1,
-      "movement": -1,
-      "trend": "down"
+      "previous_position": 16,
+      "movement": 14,
+      "trend": "up"
     },
     {
       "position": 3,
+      "artist": "Italo Disco Is Back",
+      "title": "Urlaubsausgabe KW 38 - Teil 4",
+      "plays": 2,
+      "previous_position": 1,
+      "movement": -2,
+      "trend": "down"
+    },
+    {
+      "position": 4,
       "artist": "Joker & Sequence",
       "title": "Ten Jeden Pocałunek",
       "plays": 2,
@@ -34,34 +43,43 @@
       "trend": "new"
     },
     {
-      "position": 4,
+      "position": 5,
       "artist": "Martin Juen",
       "title": "Liebe Ist...",
       "plays": 2,
       "previous_position": 81,
-      "movement": 77,
-      "trend": "up"
-    },
-    {
-      "position": 5,
-      "artist": "Savage",
-      "title": "Don't Cry Tonight",
-      "plays": 2,
-      "previous_position": 115,
-      "movement": 110,
+      "movement": 76,
       "trend": "up"
     },
     {
       "position": 6,
-      "artist": "ZWIRN",
-      "title": "Hammer",
+      "artist": "Mauro",
+      "title": "Buona Sera - Ciao Ciao",
       "plays": 2,
-      "previous_position": 215,
-      "movement": 209,
+      "previous_position": 219,
+      "movement": 213,
       "trend": "up"
     },
     {
       "position": 7,
+      "artist": "Savage",
+      "title": "Don't Cry Tonight",
+      "plays": 2,
+      "previous_position": 115,
+      "movement": 108,
+      "trend": "up"
+    },
+    {
+      "position": 8,
+      "artist": "ZWIRN",
+      "title": "Hammer",
+      "plays": 2,
+      "previous_position": 215,
+      "movement": 207,
+      "trend": "up"
+    },
+    {
+      "position": 9,
       "artist": "Adam Chrola",
       "title": "Drogi Mój Tesciu",
       "plays": 1,
@@ -70,79 +88,70 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 10,
       "artist": "After Party",
       "title": "Zawsze Moja Wina",
       "plays": 1,
       "previous_position": 224,
-      "movement": 216,
-      "trend": "up"
-    },
-    {
-      "position": 9,
-      "artist": "Alexander Martin",
-      "title": "Mond",
-      "plays": 1,
-      "previous_position": 61,
-      "movement": 52,
-      "trend": "up"
-    },
-    {
-      "position": 10,
-      "artist": "Allessa",
-      "title": "20.000 Meilen",
-      "plays": 1,
-      "previous_position": 128,
-      "movement": 118,
+      "movement": 214,
       "trend": "up"
     },
     {
       "position": 11,
-      "artist": "Andre",
-      "title": "Czy Kiedys Cie Znajde",
+      "artist": "Alexander Martin",
+      "title": "Mond",
       "plays": 1,
-      "previous_position": 136,
-      "movement": 125,
+      "previous_position": 61,
+      "movement": 50,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Andreas Kuhne",
-      "title": "Wunder",
+      "artist": "Allessa",
+      "title": "20.000 Meilen",
       "plays": 1,
-      "previous_position": 63,
-      "movement": 51,
+      "previous_position": 128,
+      "movement": 116,
       "trend": "up"
     },
     {
       "position": 13,
+      "artist": "Andre",
+      "title": "Czy Kiedys Cie Znajde",
+      "plays": 1,
+      "previous_position": 136,
+      "movement": 123,
+      "trend": "up"
+    },
+    {
+      "position": 14,
+      "artist": "Andreas Kuhne",
+      "title": "Wunder",
+      "plays": 1,
+      "previous_position": 63,
+      "movement": 49,
+      "trend": "up"
+    },
+    {
+      "position": 15,
       "artist": "André & Michael",
       "title": "Sag Es Oder Schweig",
       "plays": 1,
       "previous_position": 3,
-      "movement": -10,
+      "movement": -12,
       "trend": "down"
     },
     {
-      "position": 14,
+      "position": 16,
       "artist": "Anja Nova",
       "title": "High",
       "plays": 1,
       "previous_position": 4,
-      "movement": -10,
+      "movement": -12,
       "trend": "down"
     },
     {
-      "position": 15,
-      "artist": "Bad Boys Blue",
-      "title": "Come Back And Stay",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 16,
+      "position": 17,
       "artist": "Bad Boys Blue",
       "title": "You're A Woman",
       "plays": 1,
@@ -151,39 +160,30 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 18,
       "artist": "Bianca App",
       "title": "Diese Liebe Bleibt",
       "plays": 1,
       "previous_position": 56,
-      "movement": 39,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Bianca Erbe",
-      "title": "Für Liebe Gibt Es Kein Rezept",
-      "plays": 1,
-      "previous_position": 222,
-      "movement": 204,
+      "movement": 38,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Bobi",
-      "title": "Krolowo Ma",
+      "artist": "Bianca Erbe",
+      "title": "Für Liebe Gibt Es Kein Rezept",
       "plays": 1,
-      "previous_position": 209,
-      "movement": 190,
+      "previous_position": 222,
+      "movement": 203,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Boski Heniek, Maka & Pancio",
-      "title": "Biały Benz",
+      "artist": "Bobi",
+      "title": "Krolowo Ma",
       "plays": 1,
-      "previous_position": 71,
-      "movement": 51,
+      "previous_position": 209,
+      "movement": 189,
       "trend": "up"
     }
   ]
