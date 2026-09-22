@@ -4,10 +4,28 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W39",
   "previous_week": "2026-W38",
-  "updated": "2026-09-22T07:18:45.375340+00:00",
+  "updated": "2026-09-22T12:40:57.056345+00:00",
   "charts": [
     {
       "position": 1,
+      "artist": "Andreas Kuhne",
+      "title": "Wunder",
+      "plays": 2,
+      "previous_position": 63,
+      "movement": 62,
+      "trend": "up"
+    },
+    {
+      "position": 2,
+      "artist": "Anja Nova",
+      "title": "High",
+      "plays": 2,
+      "previous_position": 4,
+      "movement": 2,
+      "trend": "up"
+    },
+    {
+      "position": 3,
       "artist": "Bad Boys Blue",
       "title": "Come Back And Stay",
       "plays": 2,
@@ -16,25 +34,34 @@
       "trend": "new"
     },
     {
-      "position": 2,
+      "position": 4,
+      "artist": "Funky Marys",
+      "title": "Fehler",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 5,
       "artist": "Italo Disco Is Back",
       "title": "Urlaubsausgabe KW 38 - Teil 3",
       "plays": 2,
       "previous_position": 16,
-      "movement": 14,
+      "movement": 11,
       "trend": "up"
     },
     {
-      "position": 3,
+      "position": 6,
       "artist": "Italo Disco Is Back",
       "title": "Urlaubsausgabe KW 38 - Teil 4",
       "plays": 2,
       "previous_position": 1,
-      "movement": -2,
+      "movement": -5,
       "trend": "down"
     },
     {
-      "position": 4,
+      "position": 7,
       "artist": "Joker & Sequence",
       "title": "Ten Jeden Pocałunek",
       "plays": 2,
@@ -43,43 +70,61 @@
       "trend": "new"
     },
     {
-      "position": 5,
+      "position": 8,
       "artist": "Martin Juen",
       "title": "Liebe Ist...",
       "plays": 2,
       "previous_position": 81,
-      "movement": 76,
-      "trend": "up"
-    },
-    {
-      "position": 6,
-      "artist": "Mauro",
-      "title": "Buona Sera - Ciao Ciao",
-      "plays": 2,
-      "previous_position": 219,
-      "movement": 213,
-      "trend": "up"
-    },
-    {
-      "position": 7,
-      "artist": "Savage",
-      "title": "Don't Cry Tonight",
-      "plays": 2,
-      "previous_position": 115,
-      "movement": 108,
-      "trend": "up"
-    },
-    {
-      "position": 8,
-      "artist": "ZWIRN",
-      "title": "Hammer",
-      "plays": 2,
-      "previous_position": 215,
-      "movement": 207,
+      "movement": 73,
       "trend": "up"
     },
     {
       "position": 9,
+      "artist": "Mauro",
+      "title": "Buona Sera - Ciao Ciao",
+      "plays": 2,
+      "previous_position": 219,
+      "movement": 210,
+      "trend": "up"
+    },
+    {
+      "position": 10,
+      "artist": "Ramona Martiness",
+      "title": "Räumungsverkauf",
+      "plays": 2,
+      "previous_position": 179,
+      "movement": 169,
+      "trend": "up"
+    },
+    {
+      "position": 11,
+      "artist": "Roger De Win",
+      "title": "Choo-Choo",
+      "plays": 2,
+      "previous_position": 34,
+      "movement": 23,
+      "trend": "up"
+    },
+    {
+      "position": 12,
+      "artist": "Savage",
+      "title": "Don't Cry Tonight",
+      "plays": 2,
+      "previous_position": 115,
+      "movement": 103,
+      "trend": "up"
+    },
+    {
+      "position": 13,
+      "artist": "ZWIRN",
+      "title": "Hammer",
+      "plays": 2,
+      "previous_position": 215,
+      "movement": 202,
+      "trend": "up"
+    },
+    {
+      "position": 14,
       "artist": "Adam Chrola",
       "title": "Drogi Mój Tesciu",
       "plays": 1,
@@ -88,102 +133,57 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 15,
       "artist": "After Party",
       "title": "Zawsze Moja Wina",
       "plays": 1,
       "previous_position": 224,
-      "movement": 214,
+      "movement": 209,
       "trend": "up"
     },
     {
-      "position": 11,
+      "position": 16,
       "artist": "Alexander Martin",
       "title": "Mond",
       "plays": 1,
       "previous_position": 61,
-      "movement": 50,
+      "movement": 45,
       "trend": "up"
     },
     {
-      "position": 12,
+      "position": 17,
       "artist": "Allessa",
       "title": "20.000 Meilen",
       "plays": 1,
       "previous_position": 128,
-      "movement": 116,
+      "movement": 111,
       "trend": "up"
     },
     {
-      "position": 13,
+      "position": 18,
       "artist": "Andre",
       "title": "Czy Kiedys Cie Znajde",
       "plays": 1,
       "previous_position": 136,
-      "movement": 123,
-      "trend": "up"
-    },
-    {
-      "position": 14,
-      "artist": "Andreas Kuhne",
-      "title": "Wunder",
-      "plays": 1,
-      "previous_position": 63,
-      "movement": 49,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "André & Michael",
-      "title": "Sag Es Oder Schweig",
-      "plays": 1,
-      "previous_position": 3,
-      "movement": -12,
-      "trend": "down"
-    },
-    {
-      "position": 16,
-      "artist": "Anja Nova",
-      "title": "High",
-      "plays": 1,
-      "previous_position": 4,
-      "movement": -12,
-      "trend": "down"
-    },
-    {
-      "position": 17,
-      "artist": "Bad Boys Blue",
-      "title": "You're A Woman",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 18,
-      "artist": "Bianca App",
-      "title": "Diese Liebe Bleibt",
-      "plays": 1,
-      "previous_position": 56,
-      "movement": 38,
+      "movement": 118,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Bianca Erbe",
-      "title": "Für Liebe Gibt Es Kein Rezept",
+      "artist": "André & Michael",
+      "title": "Sag Es Oder Schweig",
       "plays": 1,
-      "previous_position": 222,
-      "movement": 203,
-      "trend": "up"
+      "previous_position": 3,
+      "movement": -16,
+      "trend": "down"
     },
     {
       "position": 20,
-      "artist": "Bobi",
-      "title": "Krolowo Ma",
+      "artist": "Ansgar Deters feat. Kerstin",
+      "title": "Ich Umarme Die Welt",
       "plays": 1,
-      "previous_position": 209,
-      "movement": 189,
+      "previous_position": 95,
+      "movement": 75,
       "trend": "up"
     }
   ]
