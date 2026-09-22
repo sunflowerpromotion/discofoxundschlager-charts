@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W39",
   "previous_week": "2026-W38",
-  "updated": "2026-09-22T17:18:12.041756+00:00",
+  "updated": "2026-09-22T20:14:42.030090+00:00",
   "charts": [
     {
       "position": 1,
@@ -44,15 +44,33 @@
     },
     {
       "position": 5,
-      "artist": "Classic",
-      "title": "Ja Dla Ciebie Ty Dla Mnie",
+      "artist": "Beat Magic",
+      "title": "W Cieniu Wierzb",
       "plays": 2,
-      "previous_position": 28,
-      "movement": 23,
+      "previous_position": 161,
+      "movement": 156,
       "trend": "up"
     },
     {
       "position": 6,
+      "artist": "Classic",
+      "title": "Ja Dla Ciebie Ty Dla Mnie",
+      "plays": 2,
+      "previous_position": 28,
+      "movement": 22,
+      "trend": "up"
+    },
+    {
+      "position": 7,
+      "artist": "Effect",
+      "title": "I Love You",
+      "plays": 2,
+      "previous_position": 207,
+      "movement": 200,
+      "trend": "up"
+    },
+    {
+      "position": 8,
       "artist": "Funky Marys",
       "title": "Fehler",
       "plays": 2,
@@ -61,25 +79,25 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 9,
       "artist": "Italo Disco Is Back",
       "title": "Urlaubsausgabe KW 38 - Teil 3",
       "plays": 2,
       "previous_position": 16,
-      "movement": 9,
+      "movement": 7,
       "trend": "up"
     },
     {
-      "position": 8,
+      "position": 10,
       "artist": "Italo Disco Is Back",
       "title": "Urlaubsausgabe KW 38 - Teil 4",
       "plays": 2,
       "previous_position": 1,
-      "movement": -7,
+      "movement": -9,
       "trend": "down"
     },
     {
-      "position": 9,
+      "position": 11,
       "artist": "Joker & Sequence",
       "title": "Ten Jeden Pocałunek",
       "plays": 2,
@@ -88,70 +106,70 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 12,
       "artist": "Martin Juen",
       "title": "Liebe Ist...",
       "plays": 2,
       "previous_position": 81,
-      "movement": 71,
-      "trend": "up"
-    },
-    {
-      "position": 11,
-      "artist": "MATSONIK",
-      "title": "Zakochalem Sie",
-      "plays": 2,
-      "previous_position": 168,
-      "movement": 157,
-      "trend": "up"
-    },
-    {
-      "position": 12,
-      "artist": "Mauro",
-      "title": "Buona Sera - Ciao Ciao",
-      "plays": 2,
-      "previous_position": 219,
-      "movement": 207,
+      "movement": 69,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "Ramona Martiness",
-      "title": "Räumungsverkauf",
+      "artist": "MATSONIK",
+      "title": "Zakochalem Sie",
       "plays": 2,
-      "previous_position": 179,
-      "movement": 166,
+      "previous_position": 168,
+      "movement": 155,
       "trend": "up"
     },
     {
       "position": 14,
-      "artist": "Roger De Win",
-      "title": "Choo-Choo",
+      "artist": "Mauro",
+      "title": "Buona Sera - Ciao Ciao",
       "plays": 2,
-      "previous_position": 34,
-      "movement": 20,
+      "previous_position": 219,
+      "movement": 205,
       "trend": "up"
     },
     {
       "position": 15,
-      "artist": "Savage",
-      "title": "Don't Cry Tonight",
+      "artist": "Ramona Martiness",
+      "title": "Räumungsverkauf",
       "plays": 2,
-      "previous_position": 115,
-      "movement": 100,
+      "previous_position": 179,
+      "movement": 164,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "ZWIRN",
-      "title": "Hammer",
+      "artist": "Roger De Win",
+      "title": "Choo-Choo",
       "plays": 2,
-      "previous_position": 215,
-      "movement": 199,
+      "previous_position": 34,
+      "movement": 18,
       "trend": "up"
     },
     {
       "position": 17,
+      "artist": "Savage",
+      "title": "Don't Cry Tonight",
+      "plays": 2,
+      "previous_position": 115,
+      "movement": 98,
+      "trend": "up"
+    },
+    {
+      "position": 18,
+      "artist": "ZWIRN",
+      "title": "Hammer",
+      "plays": 2,
+      "previous_position": 215,
+      "movement": 197,
+      "trend": "up"
+    },
+    {
+      "position": 19,
       "artist": "Adam Chrola",
       "title": "Drogi Mój Tesciu",
       "plays": 1,
@@ -160,30 +178,12 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 20,
       "artist": "Alexander Martin",
       "title": "Mond",
       "plays": 1,
       "previous_position": 61,
-      "movement": 43,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Allessa",
-      "title": "20.000 Meilen",
-      "plays": 1,
-      "previous_position": 128,
-      "movement": 109,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "Andre",
-      "title": "Czy Kiedys Cie Znajde",
-      "plays": 1,
-      "previous_position": 136,
-      "movement": 116,
+      "movement": 41,
       "trend": "up"
     }
   ]
