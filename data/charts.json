@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W39",
   "previous_week": "2026-W38",
-  "updated": "2026-09-23T01:22:48.328433+00:00",
+  "updated": "2026-09-23T06:10:14.598662+00:00",
   "charts": [
     {
       "position": 1,
@@ -62,24 +62,33 @@
     },
     {
       "position": 7,
+      "artist": "Bad Boys Blue",
+      "title": "You're A Woman",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 8,
       "artist": "Beat Magic",
       "title": "W Cieniu Wierzb",
       "plays": 2,
       "previous_position": 161,
-      "movement": 154,
-      "trend": "up"
-    },
-    {
-      "position": 8,
-      "artist": "Bianca Erbe",
-      "title": "Für Liebe Gibt Es Kein Rezept",
-      "plays": 2,
-      "previous_position": 222,
-      "movement": 214,
+      "movement": 153,
       "trend": "up"
     },
     {
       "position": 9,
+      "artist": "Bianca Erbe",
+      "title": "Für Liebe Gibt Es Kein Rezept",
+      "plays": 2,
+      "previous_position": 222,
+      "movement": 213,
+      "trend": "up"
+    },
+    {
+      "position": 10,
       "artist": "Celina Mars",
       "title": "Gefühle Total",
       "plays": 2,
@@ -88,34 +97,34 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 11,
       "artist": "Classic",
       "title": "Ja Dla Ciebie Ty Dla Mnie",
       "plays": 2,
       "previous_position": 28,
-      "movement": 18,
-      "trend": "up"
-    },
-    {
-      "position": 11,
-      "artist": "Effect",
-      "title": "I Love You",
-      "plays": 2,
-      "previous_position": 207,
-      "movement": 196,
+      "movement": 17,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Femme X2",
-      "title": "Sommer Auf Repeat",
+      "artist": "Effect",
+      "title": "I Love You",
       "plays": 2,
-      "previous_position": 212,
-      "movement": 200,
+      "previous_position": 207,
+      "movement": 195,
       "trend": "up"
     },
     {
       "position": 13,
+      "artist": "Femme X2",
+      "title": "Sommer Auf Repeat",
+      "plays": 2,
+      "previous_position": 212,
+      "movement": 199,
+      "trend": "up"
+    },
+    {
+      "position": 14,
       "artist": "Funky Marys",
       "title": "Fehler",
       "plays": 2,
@@ -124,34 +133,34 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 15,
       "artist": "Hubert Fella",
       "title": "Ein Gläschen Wein Mi Amor",
       "plays": 2,
       "previous_position": 120,
-      "movement": 106,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "Italo Disco Is Back",
-      "title": "Urlaubsausgabe KW 38 - Teil 3",
-      "plays": 2,
-      "previous_position": 16,
-      "movement": 1,
+      "movement": 105,
       "trend": "up"
     },
     {
       "position": 16,
       "artist": "Italo Disco Is Back",
-      "title": "Urlaubsausgabe KW 38 - Teil 4",
+      "title": "Urlaubsausgabe KW 38 - Teil 3",
       "plays": 2,
-      "previous_position": 1,
-      "movement": -15,
-      "trend": "down"
+      "previous_position": 16,
+      "movement": 0,
+      "trend": "same"
     },
     {
       "position": 17,
+      "artist": "Italo Disco Is Back",
+      "title": "Urlaubsausgabe KW 38 - Teil 4",
+      "plays": 2,
+      "previous_position": 1,
+      "movement": -16,
+      "trend": "down"
+    },
+    {
+      "position": 18,
       "artist": "Joker & Sequence",
       "title": "Ten Jeden Pocałunek",
       "plays": 2,
@@ -160,30 +169,21 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 19,
       "artist": "Kasey Neumann",
       "title": "Viertel Nach Glück",
       "plays": 2,
       "previous_position": 62,
-      "movement": 44,
+      "movement": 43,
       "trend": "up"
     },
     {
-      "position": 19,
-      "artist": "Kerstin Ott",
-      "title": "Ich Wünsche Mir Von Dir",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
       "position": 20,
-      "artist": "Lyane Hegemann",
-      "title": "Kiss And Fly",
+      "artist": "Ken Laszlo",
+      "title": "Hey Hey Guy",
       "plays": 2,
-      "previous_position": 121,
-      "movement": 101,
+      "previous_position": 107,
+      "movement": 87,
       "trend": "up"
     }
   ]
