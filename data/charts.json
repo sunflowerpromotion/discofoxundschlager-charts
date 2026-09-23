@@ -4,55 +4,64 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W39",
   "previous_week": "2026-W38",
-  "updated": "2026-09-23T06:10:14.598662+00:00",
+  "updated": "2026-09-23T11:33:32.339112+00:00",
   "charts": [
     {
       "position": 1,
-      "artist": "After Party",
-      "title": "Zawsze Moja Wina",
-      "plays": 2,
-      "previous_position": 224,
-      "movement": 223,
+      "artist": "Vincent & Fernando",
+      "title": "Unter 100.000 Sternen",
+      "plays": 3,
+      "previous_position": 90,
+      "movement": 89,
       "trend": "up"
     },
     {
       "position": 2,
-      "artist": "Alexander Martin",
-      "title": "Mond",
+      "artist": "After Party",
+      "title": "Zawsze Moja Wina",
       "plays": 2,
-      "previous_position": 61,
-      "movement": 59,
+      "previous_position": 224,
+      "movement": 222,
       "trend": "up"
     },
     {
       "position": 3,
-      "artist": "Andreas Kuhne",
-      "title": "Wunder",
+      "artist": "Alexander Martin",
+      "title": "Mond",
       "plays": 2,
-      "previous_position": 63,
-      "movement": 60,
+      "previous_position": 61,
+      "movement": 58,
       "trend": "up"
     },
     {
       "position": 4,
+      "artist": "Andreas Kuhne",
+      "title": "Wunder",
+      "plays": 2,
+      "previous_position": 63,
+      "movement": 59,
+      "trend": "up"
+    },
+    {
+      "position": 5,
       "artist": "Anja Nova",
       "title": "High",
       "plays": 2,
       "previous_position": 4,
-      "movement": 0,
-      "trend": "same"
+      "movement": -1,
+      "trend": "down"
     },
     {
-      "position": 5,
+      "position": 6,
       "artist": "Ansgar Deters feat. Kerstin",
       "title": "Ich Umarme Die Welt",
       "plays": 2,
       "previous_position": 95,
-      "movement": 90,
+      "movement": 89,
       "trend": "up"
     },
     {
-      "position": 6,
+      "position": 7,
       "artist": "Bad Boys Blue",
       "title": "Come Back And Stay",
       "plays": 2,
@@ -61,7 +70,7 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 8,
       "artist": "Bad Boys Blue",
       "title": "You're A Woman",
       "plays": 2,
@@ -70,25 +79,34 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 9,
       "artist": "Beat Magic",
       "title": "W Cieniu Wierzb",
       "plays": 2,
       "previous_position": 161,
-      "movement": 153,
-      "trend": "up"
-    },
-    {
-      "position": 9,
-      "artist": "Bianca Erbe",
-      "title": "Für Liebe Gibt Es Kein Rezept",
-      "plays": 2,
-      "previous_position": 222,
-      "movement": 213,
+      "movement": 152,
       "trend": "up"
     },
     {
       "position": 10,
+      "artist": "Bianca App",
+      "title": "Diese Liebe Bleibt",
+      "plays": 2,
+      "previous_position": 56,
+      "movement": 46,
+      "trend": "up"
+    },
+    {
+      "position": 11,
+      "artist": "Bianca Erbe",
+      "title": "Für Liebe Gibt Es Kein Rezept",
+      "plays": 2,
+      "previous_position": 222,
+      "movement": 211,
+      "trend": "up"
+    },
+    {
+      "position": 12,
       "artist": "Celina Mars",
       "title": "Gefühle Total",
       "plays": 2,
@@ -97,34 +115,34 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 13,
       "artist": "Classic",
       "title": "Ja Dla Ciebie Ty Dla Mnie",
       "plays": 2,
       "previous_position": 28,
-      "movement": 17,
-      "trend": "up"
-    },
-    {
-      "position": 12,
-      "artist": "Effect",
-      "title": "I Love You",
-      "plays": 2,
-      "previous_position": 207,
-      "movement": 195,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "Femme X2",
-      "title": "Sommer Auf Repeat",
-      "plays": 2,
-      "previous_position": 212,
-      "movement": 199,
+      "movement": 15,
       "trend": "up"
     },
     {
       "position": 14,
+      "artist": "Effect",
+      "title": "I Love You",
+      "plays": 2,
+      "previous_position": 207,
+      "movement": 193,
+      "trend": "up"
+    },
+    {
+      "position": 15,
+      "artist": "Femme X2",
+      "title": "Sommer Auf Repeat",
+      "plays": 2,
+      "previous_position": 212,
+      "movement": 197,
+      "trend": "up"
+    },
+    {
+      "position": 16,
       "artist": "Funky Marys",
       "title": "Fehler",
       "plays": 2,
@@ -133,58 +151,40 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 17,
       "artist": "Hubert Fella",
       "title": "Ein Gläschen Wein Mi Amor",
       "plays": 2,
       "previous_position": 120,
-      "movement": 105,
+      "movement": 103,
       "trend": "up"
     },
     {
-      "position": 16,
+      "position": 18,
       "artist": "Italo Disco Is Back",
       "title": "Urlaubsausgabe KW 38 - Teil 3",
       "plays": 2,
       "previous_position": 16,
-      "movement": 0,
-      "trend": "same"
+      "movement": -2,
+      "trend": "down"
     },
     {
-      "position": 17,
+      "position": 19,
       "artist": "Italo Disco Is Back",
       "title": "Urlaubsausgabe KW 38 - Teil 4",
       "plays": 2,
       "previous_position": 1,
-      "movement": -16,
+      "movement": -18,
       "trend": "down"
     },
     {
-      "position": 18,
+      "position": 20,
       "artist": "Joker & Sequence",
       "title": "Ten Jeden Pocałunek",
       "plays": 2,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Kasey Neumann",
-      "title": "Viertel Nach Glück",
-      "plays": 2,
-      "previous_position": 62,
-      "movement": 43,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "Ken Laszlo",
-      "title": "Hey Hey Guy",
-      "plays": 2,
-      "previous_position": 107,
-      "movement": 87,
-      "trend": "up"
     }
   ]
 }
