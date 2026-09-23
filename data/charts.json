@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W39",
   "previous_week": "2026-W38",
-  "updated": "2026-09-23T19:11:33.619561+00:00",
+  "updated": "2026-09-23T22:17:20.382498+00:00",
   "charts": [
     {
       "position": 1,
@@ -26,60 +26,78 @@
     },
     {
       "position": 3,
-      "artist": "Vincent & Fernando",
-      "title": "Unter 100.000 Sternen",
+      "artist": "Tanja Lasch",
+      "title": "Zimmer 17",
       "plays": 3,
-      "previous_position": 90,
-      "movement": 87,
+      "previous_position": 172,
+      "movement": 169,
       "trend": "up"
     },
     {
       "position": 4,
-      "artist": "After Party",
-      "title": "Zawsze Moja Wina",
-      "plays": 2,
-      "previous_position": 224,
-      "movement": 220,
+      "artist": "Vincent & Fernando",
+      "title": "Unter 100.000 Sternen",
+      "plays": 3,
+      "previous_position": 90,
+      "movement": 86,
       "trend": "up"
     },
     {
       "position": 5,
-      "artist": "Alexander Martin",
-      "title": "Mond",
+      "artist": "After Party",
+      "title": "Zawsze Moja Wina",
       "plays": 2,
-      "previous_position": 61,
-      "movement": 56,
+      "previous_position": 224,
+      "movement": 219,
       "trend": "up"
     },
     {
       "position": 6,
-      "artist": "Andreas Kuhne",
-      "title": "Wunder",
+      "artist": "Alexander Martin",
+      "title": "Mond",
       "plays": 2,
-      "previous_position": 63,
-      "movement": 57,
+      "previous_position": 61,
+      "movement": 55,
       "trend": "up"
     },
     {
       "position": 7,
-      "artist": "Anja Nova",
-      "title": "High",
+      "artist": "Allessa",
+      "title": "20.000 Meilen",
       "plays": 2,
-      "previous_position": 4,
-      "movement": -3,
-      "trend": "down"
+      "previous_position": 128,
+      "movement": 121,
+      "trend": "up"
     },
     {
       "position": 8,
-      "artist": "Ansgar Deters feat. Kerstin",
-      "title": "Ich Umarme Die Welt",
+      "artist": "Andreas Kuhne",
+      "title": "Wunder",
       "plays": 2,
-      "previous_position": 95,
-      "movement": 87,
+      "previous_position": 63,
+      "movement": 55,
       "trend": "up"
     },
     {
       "position": 9,
+      "artist": "Anja Nova",
+      "title": "High",
+      "plays": 2,
+      "previous_position": 4,
+      "movement": -5,
+      "trend": "down"
+    },
+    {
+      "position": 10,
+      "artist": "Ansgar Deters feat. Kerstin",
+      "title": "Ich Umarme Die Welt",
+      "plays": 2,
+      "previous_position": 95,
+      "movement": 85,
+      "trend": "up"
+    },
+    {
+      "position": 11,
       "artist": "Bad Boys Blue",
       "title": "Come Back And Stay",
       "plays": 2,
@@ -88,7 +106,7 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 12,
       "artist": "Bad Boys Blue",
       "title": "You're A Woman",
       "plays": 2,
@@ -97,43 +115,43 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 13,
       "artist": "Beat Magic",
       "title": "W Cieniu Wierzb",
       "plays": 2,
       "previous_position": 161,
-      "movement": 150,
-      "trend": "up"
-    },
-    {
-      "position": 12,
-      "artist": "Bianca App",
-      "title": "Diese Liebe Bleibt",
-      "plays": 2,
-      "previous_position": 56,
-      "movement": 44,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "Bianca Erbe",
-      "title": "Für Liebe Gibt Es Kein Rezept",
-      "plays": 2,
-      "previous_position": 222,
-      "movement": 209,
+      "movement": 148,
       "trend": "up"
     },
     {
       "position": 14,
-      "artist": "Bobi",
-      "title": "Krolowo Ma",
+      "artist": "Bianca App",
+      "title": "Diese Liebe Bleibt",
       "plays": 2,
-      "previous_position": 209,
-      "movement": 195,
+      "previous_position": 56,
+      "movement": 42,
       "trend": "up"
     },
     {
       "position": 15,
+      "artist": "Bianca Erbe",
+      "title": "Für Liebe Gibt Es Kein Rezept",
+      "plays": 2,
+      "previous_position": 222,
+      "movement": 207,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "Bobi",
+      "title": "Krolowo Ma",
+      "plays": 2,
+      "previous_position": 209,
+      "movement": 193,
+      "trend": "up"
+    },
+    {
+      "position": 17,
       "artist": "Celina Mars",
       "title": "Gefühle Total",
       "plays": 2,
@@ -142,49 +160,31 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 18,
       "artist": "Classic",
       "title": "Ja Dla Ciebie Ty Dla Mnie",
       "plays": 2,
       "previous_position": 28,
-      "movement": 12,
+      "movement": 10,
       "trend": "up"
     },
     {
-      "position": 17,
+      "position": 19,
       "artist": "Femme X2",
       "title": "Sommer Auf Repeat",
       "plays": 2,
       "previous_position": 212,
-      "movement": 195,
+      "movement": 193,
       "trend": "up"
     },
     {
-      "position": 18,
+      "position": 20,
       "artist": "Funky Marys",
       "title": "Fehler",
       "plays": 2,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Fäaschtbänkler",
-      "title": "Kleines Lied",
-      "plays": 2,
-      "previous_position": 214,
-      "movement": 195,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "Hubert Fella",
-      "title": "Ein Gläschen Wein Mi Amor",
-      "plays": 2,
-      "previous_position": 120,
-      "movement": 100,
-      "trend": "up"
     }
   ]
 }
