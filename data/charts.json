@@ -4,10 +4,19 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W39",
   "previous_week": "2026-W38",
-  "updated": "2026-09-24T19:04:50.992793+00:00",
+  "updated": "2026-09-24T22:18:39.457809+00:00",
   "charts": [
     {
       "position": 1,
+      "artist": "Ramona Martiness",
+      "title": "Räumungsverkauf",
+      "plays": 4,
+      "previous_position": 179,
+      "movement": 178,
+      "trend": "up"
+    },
+    {
+      "position": 2,
       "artist": "Bad Boys Blue",
       "title": "You're A Woman",
       "plays": 3,
@@ -16,34 +25,34 @@
       "trend": "new"
     },
     {
-      "position": 2,
+      "position": 3,
       "artist": "Classic",
       "title": "Ja Dla Ciebie Ty Dla Mnie",
       "plays": 3,
       "previous_position": 28,
-      "movement": 26,
-      "trend": "up"
-    },
-    {
-      "position": 3,
-      "artist": "Effect",
-      "title": "I Love You",
-      "plays": 3,
-      "previous_position": 207,
-      "movement": 204,
+      "movement": 25,
       "trend": "up"
     },
     {
       "position": 4,
-      "artist": "Femme X2",
-      "title": "Sommer Auf Repeat",
+      "artist": "Effect",
+      "title": "I Love You",
       "plays": 3,
-      "previous_position": 212,
-      "movement": 208,
+      "previous_position": 207,
+      "movement": 203,
       "trend": "up"
     },
     {
       "position": 5,
+      "artist": "Femme X2",
+      "title": "Sommer Auf Repeat",
+      "plays": 3,
+      "previous_position": 212,
+      "movement": 207,
+      "trend": "up"
+    },
+    {
+      "position": 6,
       "artist": "Funky Marys",
       "title": "Fehler",
       "plays": 3,
@@ -52,7 +61,7 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 7,
       "artist": "Italo Disco Is Back",
       "title": "Neue Ausgabe - Teil 1",
       "plays": 3,
@@ -61,25 +70,25 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 8,
       "artist": "Jordan Hanson",
       "title": "Hör Nie Auf Zu Leuchten",
       "plays": 3,
       "previous_position": 96,
-      "movement": 89,
-      "trend": "up"
-    },
-    {
-      "position": 8,
-      "artist": "Ken Laszlo",
-      "title": "Hey Hey Guy",
-      "plays": 3,
-      "previous_position": 107,
-      "movement": 99,
+      "movement": 88,
       "trend": "up"
     },
     {
       "position": 9,
+      "artist": "Ken Laszlo",
+      "title": "Hey Hey Guy",
+      "plays": 3,
+      "previous_position": 107,
+      "movement": 98,
+      "trend": "up"
+    },
+    {
+      "position": 10,
       "artist": "Kerstin Ott",
       "title": "Ich Wünsche Mir Von Dir",
       "plays": 3,
@@ -88,102 +97,93 @@
       "trend": "new"
     },
     {
-      "position": 10,
-      "artist": "Micha",
-      "title": "Insomnia",
-      "plays": 3,
-      "previous_position": 216,
-      "movement": 206,
-      "trend": "up"
-    },
-    {
       "position": 11,
-      "artist": "Ramona Martiness",
-      "title": "Räumungsverkauf",
+      "artist": "Liane",
+      "title": "Unter Die Haut",
       "plays": 3,
-      "previous_position": 179,
-      "movement": 168,
-      "trend": "up"
+      "previous_position": 8,
+      "movement": -3,
+      "trend": "down"
     },
     {
       "position": 12,
-      "artist": "Tanja Lasch",
-      "title": "Zimmer 17",
+      "artist": "Mazo",
+      "title": "Ich Denk An Dich",
       "plays": 3,
-      "previous_position": 172,
-      "movement": 160,
+      "previous_position": 116,
+      "movement": 104,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "Vincent & Fernando",
-      "title": "Unter 100.000 Sternen",
+      "artist": "Micha",
+      "title": "Insomnia",
       "plays": 3,
-      "previous_position": 90,
-      "movement": 77,
+      "previous_position": 216,
+      "movement": 203,
       "trend": "up"
     },
     {
       "position": 14,
-      "artist": "After Party",
-      "title": "Zawsze Moja Wina",
-      "plays": 2,
-      "previous_position": 224,
-      "movement": 210,
+      "artist": "Tanja Lasch",
+      "title": "Zimmer 17",
+      "plays": 3,
+      "previous_position": 172,
+      "movement": 158,
       "trend": "up"
     },
     {
       "position": 15,
-      "artist": "Alexander Martin",
-      "title": "Mond",
-      "plays": 2,
-      "previous_position": 61,
-      "movement": 46,
+      "artist": "Vincent & Fernando",
+      "title": "Unter 100.000 Sternen",
+      "plays": 3,
+      "previous_position": 90,
+      "movement": 75,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "Allessa",
-      "title": "20.000 Meilen",
+      "artist": "After Party",
+      "title": "Zawsze Moja Wina",
       "plays": 2,
-      "previous_position": 128,
-      "movement": 112,
+      "previous_position": 224,
+      "movement": 208,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "Andreas Kuhne",
-      "title": "Wunder",
+      "artist": "Alexander Martin",
+      "title": "Mond",
       "plays": 2,
-      "previous_position": 63,
-      "movement": 46,
+      "previous_position": 61,
+      "movement": 44,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Angelika Martin",
-      "title": "Happy End",
+      "artist": "Allessa",
+      "title": "20.000 Meilen",
       "plays": 2,
-      "previous_position": 124,
-      "movement": 106,
+      "previous_position": 128,
+      "movement": 110,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Anja Nova",
-      "title": "High",
+      "artist": "Andreas Kuhne",
+      "title": "Wunder",
       "plays": 2,
-      "previous_position": 4,
-      "movement": -15,
-      "trend": "down"
+      "previous_position": 63,
+      "movement": 44,
+      "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Ansgar Deters feat. Kerstin",
-      "title": "Ich Umarme Die Welt",
+      "artist": "Angelika Martin",
+      "title": "Happy End",
       "plays": 2,
-      "previous_position": 95,
-      "movement": 75,
+      "previous_position": 124,
+      "movement": 104,
       "trend": "up"
     }
   ]
