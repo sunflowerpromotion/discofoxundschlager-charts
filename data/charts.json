@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W39",
   "previous_week": "2026-W38",
-  "updated": "2026-09-23T22:17:20.382498+00:00",
+  "updated": "2026-09-24T00:33:39.808726+00:00",
   "charts": [
     {
       "position": 1,
@@ -17,6 +17,24 @@
     },
     {
       "position": 2,
+      "artist": "Femme X2",
+      "title": "Sommer Auf Repeat",
+      "plays": 3,
+      "previous_position": 212,
+      "movement": 210,
+      "trend": "up"
+    },
+    {
+      "position": 3,
+      "artist": "Funky Marys",
+      "title": "Fehler",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 4,
       "artist": "Kerstin Ott",
       "title": "Ich Wünsche Mir Von Dir",
       "plays": 3,
@@ -25,79 +43,88 @@
       "trend": "new"
     },
     {
-      "position": 3,
-      "artist": "Tanja Lasch",
-      "title": "Zimmer 17",
-      "plays": 3,
-      "previous_position": 172,
-      "movement": 169,
-      "trend": "up"
-    },
-    {
-      "position": 4,
-      "artist": "Vincent & Fernando",
-      "title": "Unter 100.000 Sternen",
-      "plays": 3,
-      "previous_position": 90,
-      "movement": 86,
-      "trend": "up"
-    },
-    {
       "position": 5,
-      "artist": "After Party",
-      "title": "Zawsze Moja Wina",
-      "plays": 2,
-      "previous_position": 224,
-      "movement": 219,
+      "artist": "Ramona Martiness",
+      "title": "Räumungsverkauf",
+      "plays": 3,
+      "previous_position": 179,
+      "movement": 174,
       "trend": "up"
     },
     {
       "position": 6,
-      "artist": "Alexander Martin",
-      "title": "Mond",
-      "plays": 2,
-      "previous_position": 61,
-      "movement": 55,
+      "artist": "Tanja Lasch",
+      "title": "Zimmer 17",
+      "plays": 3,
+      "previous_position": 172,
+      "movement": 166,
       "trend": "up"
     },
     {
       "position": 7,
-      "artist": "Allessa",
-      "title": "20.000 Meilen",
-      "plays": 2,
-      "previous_position": 128,
-      "movement": 121,
+      "artist": "Vincent & Fernando",
+      "title": "Unter 100.000 Sternen",
+      "plays": 3,
+      "previous_position": 90,
+      "movement": 83,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "Andreas Kuhne",
-      "title": "Wunder",
+      "artist": "After Party",
+      "title": "Zawsze Moja Wina",
       "plays": 2,
-      "previous_position": 63,
-      "movement": 55,
+      "previous_position": 224,
+      "movement": 216,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "Anja Nova",
-      "title": "High",
+      "artist": "Alexander Martin",
+      "title": "Mond",
       "plays": 2,
-      "previous_position": 4,
-      "movement": -5,
-      "trend": "down"
+      "previous_position": 61,
+      "movement": 52,
+      "trend": "up"
     },
     {
       "position": 10,
-      "artist": "Ansgar Deters feat. Kerstin",
-      "title": "Ich Umarme Die Welt",
+      "artist": "Allessa",
+      "title": "20.000 Meilen",
       "plays": 2,
-      "previous_position": 95,
-      "movement": 85,
+      "previous_position": 128,
+      "movement": 118,
       "trend": "up"
     },
     {
       "position": 11,
+      "artist": "Andreas Kuhne",
+      "title": "Wunder",
+      "plays": 2,
+      "previous_position": 63,
+      "movement": 52,
+      "trend": "up"
+    },
+    {
+      "position": 12,
+      "artist": "Anja Nova",
+      "title": "High",
+      "plays": 2,
+      "previous_position": 4,
+      "movement": -8,
+      "trend": "down"
+    },
+    {
+      "position": 13,
+      "artist": "Ansgar Deters feat. Kerstin",
+      "title": "Ich Umarme Die Welt",
+      "plays": 2,
+      "previous_position": 95,
+      "movement": 82,
+      "trend": "up"
+    },
+    {
+      "position": 14,
       "artist": "Bad Boys Blue",
       "title": "Come Back And Stay",
       "plays": 2,
@@ -106,7 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 15,
       "artist": "Bad Boys Blue",
       "title": "You're A Woman",
       "plays": 2,
@@ -115,72 +142,45 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 16,
       "artist": "Beat Magic",
       "title": "W Cieniu Wierzb",
       "plays": 2,
       "previous_position": 161,
-      "movement": 148,
-      "trend": "up"
-    },
-    {
-      "position": 14,
-      "artist": "Bianca App",
-      "title": "Diese Liebe Bleibt",
-      "plays": 2,
-      "previous_position": 56,
-      "movement": 42,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "Bianca Erbe",
-      "title": "Für Liebe Gibt Es Kein Rezept",
-      "plays": 2,
-      "previous_position": 222,
-      "movement": 207,
-      "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "Bobi",
-      "title": "Krolowo Ma",
-      "plays": 2,
-      "previous_position": 209,
-      "movement": 193,
+      "movement": 145,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "Celina Mars",
-      "title": "Gefühle Total",
+      "artist": "Bianca App",
+      "title": "Diese Liebe Bleibt",
       "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 56,
+      "movement": 39,
+      "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Classic",
-      "title": "Ja Dla Ciebie Ty Dla Mnie",
+      "artist": "Bianca Erbe",
+      "title": "Für Liebe Gibt Es Kein Rezept",
       "plays": 2,
-      "previous_position": 28,
-      "movement": 10,
+      "previous_position": 222,
+      "movement": 204,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Femme X2",
-      "title": "Sommer Auf Repeat",
+      "artist": "Bobi",
+      "title": "Krolowo Ma",
       "plays": 2,
-      "previous_position": 212,
-      "movement": 193,
+      "previous_position": 209,
+      "movement": 190,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Funky Marys",
-      "title": "Fehler",
+      "artist": "Celina Mars",
+      "title": "Gefühle Total",
       "plays": 2,
       "previous_position": null,
       "movement": null,
