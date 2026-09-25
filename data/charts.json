@@ -4,39 +4,39 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W39",
   "previous_week": "2026-W38",
-  "updated": "2026-09-25T05:21:37.470048+00:00",
+  "updated": "2026-09-25T10:18:33.913828+00:00",
   "charts": [
     {
       "position": 1,
-      "artist": "Jordan Hanson",
-      "title": "Hör Nie Auf Zu Leuchten",
-      "plays": 4,
-      "previous_position": 96,
-      "movement": 95,
-      "trend": "up"
-    },
-    {
-      "position": 2,
-      "artist": "Ramona Martiness",
-      "title": "Räumungsverkauf",
-      "plays": 4,
-      "previous_position": 179,
-      "movement": 177,
-      "trend": "up"
-    },
-    {
-      "position": 3,
       "artist": "Bad Boys Blue",
-      "title": "Come Back And Stay",
-      "plays": 3,
+      "title": "You're A Woman",
+      "plays": 4,
       "previous_position": null,
       "movement": null,
       "trend": "new"
     },
     {
+      "position": 2,
+      "artist": "Jordan Hanson",
+      "title": "Hör Nie Auf Zu Leuchten",
+      "plays": 4,
+      "previous_position": 96,
+      "movement": 94,
+      "trend": "up"
+    },
+    {
+      "position": 3,
+      "artist": "Ramona Martiness",
+      "title": "Räumungsverkauf",
+      "plays": 4,
+      "previous_position": 179,
+      "movement": 176,
+      "trend": "up"
+    },
+    {
       "position": 4,
       "artist": "Bad Boys Blue",
-      "title": "You're A Woman",
+      "title": "Come Back And Stay",
       "plays": 3,
       "previous_position": null,
       "movement": null,
