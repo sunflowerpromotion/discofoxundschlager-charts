@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W39",
   "previous_week": "2026-W38",
-  "updated": "2026-09-25T10:18:33.913828+00:00",
+  "updated": "2026-09-25T15:20:39.279832+00:00",
   "charts": [
     {
       "position": 1,
@@ -179,11 +179,11 @@
     },
     {
       "position": 20,
-      "artist": "Tanja Lasch",
-      "title": "Zimmer 17",
+      "artist": "Schlager-Rallye",
+      "title": "1361 - Teil 1",
       "plays": 3,
-      "previous_position": 172,
-      "movement": 152,
+      "previous_position": 193,
+      "movement": 173,
       "trend": "up"
     }
   ]
