@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W39",
   "previous_week": "2026-W38",
-  "updated": "2026-09-25T15:20:39.279832+00:00",
+  "updated": "2026-09-25T19:20:58.166569+00:00",
   "charts": [
     {
       "position": 1,
@@ -35,6 +35,15 @@
     },
     {
       "position": 4,
+      "artist": "After Party",
+      "title": "Zawsze Moja Wina",
+      "plays": 3,
+      "previous_position": 224,
+      "movement": 220,
+      "trend": "up"
+    },
+    {
+      "position": 5,
       "artist": "Bad Boys Blue",
       "title": "Come Back And Stay",
       "plays": 3,
@@ -43,34 +52,34 @@
       "trend": "new"
     },
     {
-      "position": 5,
+      "position": 6,
       "artist": "Classic",
       "title": "Ja Dla Ciebie Ty Dla Mnie",
       "plays": 3,
       "previous_position": 28,
-      "movement": 23,
-      "trend": "up"
-    },
-    {
-      "position": 6,
-      "artist": "Denny Schönemann",
-      "title": "Room Number 1",
-      "plays": 3,
-      "previous_position": 35,
-      "movement": 29,
+      "movement": 22,
       "trend": "up"
     },
     {
       "position": 7,
-      "artist": "Effect",
-      "title": "I Love You",
+      "artist": "Denny Schönemann",
+      "title": "Room Number 1",
       "plays": 3,
-      "previous_position": 207,
-      "movement": 200,
+      "previous_position": 35,
+      "movement": 28,
       "trend": "up"
     },
     {
       "position": 8,
+      "artist": "Effect",
+      "title": "I Love You",
+      "plays": 3,
+      "previous_position": 207,
+      "movement": 199,
+      "trend": "up"
+    },
+    {
+      "position": 9,
       "artist": "Facts & Fiction",
       "title": "Give Me The Night",
       "plays": 3,
@@ -79,16 +88,16 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 10,
       "artist": "Femme X2",
       "title": "Sommer Auf Repeat",
       "plays": 3,
       "previous_position": 212,
-      "movement": 203,
+      "movement": 202,
       "trend": "up"
     },
     {
-      "position": 10,
+      "position": 11,
       "artist": "Frank Lars",
       "title": "Wenn Du Diesen Brief Liest (Die Antwort)",
       "plays": 3,
@@ -97,7 +106,7 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 12,
       "artist": "Funky Marys",
       "title": "Fehler",
       "plays": 3,
@@ -106,7 +115,7 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 13,
       "artist": "Italo Disco Is Back",
       "title": "Neue Ausgabe - Teil 1",
       "plays": 3,
@@ -115,16 +124,25 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 14,
+      "artist": "Joker & Sequence",
+      "title": "Ten Jeden Pocałunek",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 15,
       "artist": "Ken Laszlo",
       "title": "Hey Hey Guy",
       "plays": 3,
       "previous_position": 107,
-      "movement": 94,
+      "movement": 92,
       "trend": "up"
     },
     {
-      "position": 14,
+      "position": 16,
       "artist": "Kerstin Ott",
       "title": "Ich Wünsche Mir Von Dir",
       "plays": 3,
@@ -133,58 +151,40 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 17,
       "artist": "Liane",
       "title": "Unter Die Haut",
       "plays": 3,
       "previous_position": 8,
-      "movement": -7,
+      "movement": -9,
       "trend": "down"
     },
     {
-      "position": 16,
+      "position": 18,
       "artist": "Mazo",
       "title": "Ich Denk An Dich",
       "plays": 3,
       "previous_position": 116,
-      "movement": 100,
+      "movement": 98,
       "trend": "up"
     },
     {
-      "position": 17,
+      "position": 19,
       "artist": "Micha",
       "title": "Insomnia",
       "plays": 3,
       "previous_position": 216,
-      "movement": 199,
+      "movement": 197,
       "trend": "up"
     },
     {
-      "position": 18,
+      "position": 20,
       "artist": "Miko Mission",
       "title": "How Old Are You",
       "plays": 3,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Savage",
-      "title": "Don't Cry Tonight",
-      "plays": 3,
-      "previous_position": 115,
-      "movement": 96,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "Schlager-Rallye",
-      "title": "1361 - Teil 1",
-      "plays": 3,
-      "previous_position": 193,
-      "movement": 173,
-      "trend": "up"
     }
   ]
 }
