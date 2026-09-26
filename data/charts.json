@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W39",
   "previous_week": "2026-W38",
-  "updated": "2026-09-26T10:13:59.960095+00:00",
+  "updated": "2026-09-26T14:31:46.710748+00:00",
   "charts": [
     {
       "position": 1,
@@ -62,24 +62,33 @@
     },
     {
       "position": 7,
-      "artist": "Baby's Gang",
-      "title": "Happy Song",
+      "artist": "Alexander Martin",
+      "title": "Mond",
       "plays": 3,
-      "previous_position": 106,
-      "movement": 99,
+      "previous_position": 61,
+      "movement": 54,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "Baccara",
-      "title": "My Love In China",
+      "artist": "Baby's Gang",
+      "title": "Happy Song",
       "plays": 3,
-      "previous_position": 74,
-      "movement": 66,
+      "previous_position": 106,
+      "movement": 98,
       "trend": "up"
     },
     {
       "position": 9,
+      "artist": "Baccara",
+      "title": "My Love In China",
+      "plays": 3,
+      "previous_position": 74,
+      "movement": 65,
+      "trend": "up"
+    },
+    {
+      "position": 10,
       "artist": "Bad Boys Blue",
       "title": "Come Back And Stay",
       "plays": 3,
@@ -88,7 +97,7 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 11,
       "artist": "Celina Mars",
       "title": "Gefühle Total",
       "plays": 3,
@@ -97,34 +106,34 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 12,
       "artist": "Classic",
       "title": "Ja Dla Ciebie Ty Dla Mnie",
       "plays": 3,
       "previous_position": 28,
-      "movement": 17,
-      "trend": "up"
-    },
-    {
-      "position": 12,
-      "artist": "Denny Schönemann",
-      "title": "Room Number 1",
-      "plays": 3,
-      "previous_position": 35,
-      "movement": 23,
+      "movement": 16,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "Effect",
-      "title": "I Love You",
+      "artist": "Denny Schönemann",
+      "title": "Room Number 1",
       "plays": 3,
-      "previous_position": 207,
-      "movement": 194,
+      "previous_position": 35,
+      "movement": 22,
       "trend": "up"
     },
     {
       "position": 14,
+      "artist": "Effect",
+      "title": "I Love You",
+      "plays": 3,
+      "previous_position": 207,
+      "movement": 193,
+      "trend": "up"
+    },
+    {
+      "position": 15,
       "artist": "Facts & Fiction",
       "title": "Give Me The Night",
       "plays": 3,
@@ -133,16 +142,16 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 16,
       "artist": "Femme X2",
       "title": "Sommer Auf Repeat",
       "plays": 3,
       "previous_position": 212,
-      "movement": 197,
+      "movement": 196,
       "trend": "up"
     },
     {
-      "position": 16,
+      "position": 17,
       "artist": "Frank Lars",
       "title": "Wenn Du Diesen Brief Liest (Die Antwort)",
       "plays": 3,
@@ -151,7 +160,7 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 18,
       "artist": "Funky Marys",
       "title": "Fehler",
       "plays": 3,
@@ -160,31 +169,22 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 19,
+      "artist": "Hubert Fella",
+      "title": "Ein Gläschen Wein Mi Amor",
+      "plays": 3,
+      "previous_position": 120,
+      "movement": 101,
+      "trend": "up"
+    },
+    {
+      "position": 20,
       "artist": "Inferno",
       "title": "Hey DJ",
       "plays": 3,
       "previous_position": 175,
-      "movement": 157,
+      "movement": 155,
       "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Italo Disco Is Back",
-      "title": "Neue Ausgabe - Teil 2",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Italo Disco Is Back",
-      "title": "Neue Ausgabe - Teil 3",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
     }
   ]
 }
