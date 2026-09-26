@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W39",
   "previous_week": "2026-W38",
-  "updated": "2026-09-26T20:45:12.586977+00:00",
+  "updated": "2026-09-26T23:10:51.597386+00:00",
   "charts": [
     {
       "position": 1,
@@ -53,6 +53,24 @@
     },
     {
       "position": 6,
+      "artist": "Liane",
+      "title": "Unter Die Haut",
+      "plays": 4,
+      "previous_position": 8,
+      "movement": 2,
+      "trend": "up"
+    },
+    {
+      "position": 7,
+      "artist": "Lyane Hegemann",
+      "title": "Kiss And Fly",
+      "plays": 4,
+      "previous_position": 121,
+      "movement": 114,
+      "trend": "up"
+    },
+    {
+      "position": 8,
       "artist": "Miko Mission",
       "title": "How Old Are You",
       "plays": 4,
@@ -61,43 +79,43 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 9,
       "artist": "Ramona Martiness",
       "title": "Räumungsverkauf",
       "plays": 4,
       "previous_position": 179,
-      "movement": 172,
-      "trend": "up"
-    },
-    {
-      "position": 8,
-      "artist": "Alexander Martin",
-      "title": "Mond",
-      "plays": 3,
-      "previous_position": 61,
-      "movement": 53,
-      "trend": "up"
-    },
-    {
-      "position": 9,
-      "artist": "Baby's Gang",
-      "title": "Happy Song",
-      "plays": 3,
-      "previous_position": 106,
-      "movement": 97,
+      "movement": 170,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "Baccara",
-      "title": "My Love In China",
+      "artist": "Alexander Martin",
+      "title": "Mond",
       "plays": 3,
-      "previous_position": 74,
-      "movement": 64,
+      "previous_position": 61,
+      "movement": 51,
       "trend": "up"
     },
     {
       "position": 11,
+      "artist": "Baby's Gang",
+      "title": "Happy Song",
+      "plays": 3,
+      "previous_position": 106,
+      "movement": 95,
+      "trend": "up"
+    },
+    {
+      "position": 12,
+      "artist": "Baccara",
+      "title": "My Love In China",
+      "plays": 3,
+      "previous_position": 74,
+      "movement": 62,
+      "trend": "up"
+    },
+    {
+      "position": 13,
       "artist": "Bad Boys Blue",
       "title": "Come Back And Stay",
       "plays": 3,
@@ -106,25 +124,25 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 14,
       "artist": "Bobi",
       "title": "Krolowo Ma",
       "plays": 3,
       "previous_position": 209,
-      "movement": 197,
+      "movement": 195,
       "trend": "up"
     },
     {
-      "position": 13,
+      "position": 15,
       "artist": "BOYS & WEEKEND",
       "title": "Muzykę W Duszy Mamy",
       "plays": 3,
       "previous_position": 135,
-      "movement": 122,
+      "movement": 120,
       "trend": "up"
     },
     {
-      "position": 14,
+      "position": 16,
       "artist": "Celina Mars",
       "title": "Gefühle Total",
       "plays": 3,
@@ -133,25 +151,25 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 17,
       "artist": "Classic",
       "title": "Ja Dla Ciebie Ty Dla Mnie",
       "plays": 3,
       "previous_position": 28,
-      "movement": 13,
+      "movement": 11,
       "trend": "up"
     },
     {
-      "position": 16,
+      "position": 18,
       "artist": "Denny Schönemann",
       "title": "Room Number 1",
       "plays": 3,
       "previous_position": 35,
-      "movement": 19,
+      "movement": 17,
       "trend": "up"
     },
     {
-      "position": 17,
+      "position": 19,
       "artist": "Facts & Fiction",
       "title": "Give Me The Night",
       "plays": 3,
@@ -160,31 +178,13 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 20,
       "artist": "Femme X2",
       "title": "Sommer Auf Repeat",
       "plays": 3,
       "previous_position": 212,
-      "movement": 194,
+      "movement": 192,
       "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Frank Lars",
-      "title": "Wenn Du Diesen Brief Liest (Die Antwort)",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Funky Marys",
-      "title": "Fehler",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
     }
   ]
 }
