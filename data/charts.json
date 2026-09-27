@@ -4,13 +4,13 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W39",
   "previous_week": "2026-W38",
-  "updated": "2026-09-27T01:26:20.464916+00:00",
+  "updated": "2026-09-27T06:53:03.215877+00:00",
   "charts": [
     {
       "position": 1,
       "artist": "Bad Boys Blue",
       "title": "You're A Woman",
-      "plays": 5,
+      "plays": 6,
       "previous_position": null,
       "movement": null,
       "trend": "new"
@@ -35,42 +35,51 @@
     },
     {
       "position": 4,
-      "artist": "Effect",
-      "title": "I Love You",
+      "artist": "Baby's Gang",
+      "title": "Happy Song",
       "plays": 4,
-      "previous_position": 207,
-      "movement": 203,
+      "previous_position": 106,
+      "movement": 102,
       "trend": "up"
     },
     {
       "position": 5,
-      "artist": "Jordan Hanson",
-      "title": "Hör Nie Auf Zu Leuchten",
+      "artist": "Effect",
+      "title": "I Love You",
       "plays": 4,
-      "previous_position": 96,
-      "movement": 91,
+      "previous_position": 207,
+      "movement": 202,
       "trend": "up"
     },
     {
       "position": 6,
-      "artist": "Liane",
-      "title": "Unter Die Haut",
+      "artist": "Jordan Hanson",
+      "title": "Hör Nie Auf Zu Leuchten",
       "plays": 4,
-      "previous_position": 8,
-      "movement": 2,
+      "previous_position": 96,
+      "movement": 90,
       "trend": "up"
     },
     {
       "position": 7,
-      "artist": "Lyane Hegemann",
-      "title": "Kiss And Fly",
+      "artist": "Liane",
+      "title": "Unter Die Haut",
       "plays": 4,
-      "previous_position": 121,
-      "movement": 114,
+      "previous_position": 8,
+      "movement": 1,
       "trend": "up"
     },
     {
       "position": 8,
+      "artist": "Lyane Hegemann",
+      "title": "Kiss And Fly",
+      "plays": 4,
+      "previous_position": 121,
+      "movement": 113,
+      "trend": "up"
+    },
+    {
+      "position": 9,
       "artist": "Miko Mission",
       "title": "How Old Are You",
       "plays": 4,
@@ -79,61 +88,61 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 10,
       "artist": "Ramona Martiness",
       "title": "Räumungsverkauf",
       "plays": 4,
       "previous_position": 179,
-      "movement": 170,
-      "trend": "up"
-    },
-    {
-      "position": 10,
-      "artist": "Renate Neumayr",
-      "title": "Mit Dir Im Herbst",
-      "plays": 4,
-      "previous_position": 122,
-      "movement": 112,
+      "movement": 169,
       "trend": "up"
     },
     {
       "position": 11,
-      "artist": "Tanja Lasch",
-      "title": "Zimmer 17",
+      "artist": "Renate Neumayr",
+      "title": "Mit Dir Im Herbst",
       "plays": 4,
-      "previous_position": 172,
-      "movement": 161,
+      "previous_position": 122,
+      "movement": 111,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Alexander Martin",
-      "title": "Mond",
-      "plays": 3,
-      "previous_position": 61,
-      "movement": 49,
+      "artist": "Tanja Lasch",
+      "title": "Zimmer 17",
+      "plays": 4,
+      "previous_position": 172,
+      "movement": 160,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "Baby's Gang",
-      "title": "Happy Song",
+      "artist": "Alex Blue",
+      "title": "Let Us Dance",
       "plays": 3,
-      "previous_position": 106,
-      "movement": 93,
+      "previous_position": 31,
+      "movement": 18,
       "trend": "up"
     },
     {
       "position": 14,
-      "artist": "Baccara",
-      "title": "My Love In China",
+      "artist": "Alexander Martin",
+      "title": "Mond",
       "plays": 3,
-      "previous_position": 74,
-      "movement": 60,
+      "previous_position": 61,
+      "movement": 47,
       "trend": "up"
     },
     {
       "position": 15,
+      "artist": "Baccara",
+      "title": "My Love In China",
+      "plays": 3,
+      "previous_position": 74,
+      "movement": 59,
+      "trend": "up"
+    },
+    {
+      "position": 16,
       "artist": "Bad Boys Blue",
       "title": "Come Back And Stay",
       "plays": 3,
@@ -142,25 +151,25 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 17,
       "artist": "Bobi",
       "title": "Krolowo Ma",
       "plays": 3,
       "previous_position": 209,
-      "movement": 193,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "BOYS & WEEKEND",
-      "title": "Muzykę W Duszy Mamy",
-      "plays": 3,
-      "previous_position": 135,
-      "movement": 118,
+      "movement": 192,
       "trend": "up"
     },
     {
       "position": 18,
+      "artist": "BOYS & WEEKEND",
+      "title": "Muzykę W Duszy Mamy",
+      "plays": 3,
+      "previous_position": 135,
+      "movement": 117,
+      "trend": "up"
+    },
+    {
+      "position": 19,
       "artist": "Celina Mars",
       "title": "Gefühle Total",
       "plays": 3,
@@ -169,21 +178,12 @@
       "trend": "new"
     },
     {
-      "position": 19,
+      "position": 20,
       "artist": "Classic",
       "title": "Ja Dla Ciebie Ty Dla Mnie",
       "plays": 3,
       "previous_position": 28,
-      "movement": 9,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "Denny Schönemann",
-      "title": "Room Number 1",
-      "plays": 3,
-      "previous_position": 35,
-      "movement": 15,
+      "movement": 8,
       "trend": "up"
     }
   ]
