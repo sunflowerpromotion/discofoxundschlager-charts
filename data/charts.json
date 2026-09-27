@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W39",
   "previous_week": "2026-W38",
-  "updated": "2026-09-27T12:35:01.715840+00:00",
+  "updated": "2026-09-27T17:15:23.122033+00:00",
   "charts": [
     {
       "position": 1,
@@ -152,39 +152,39 @@
     },
     {
       "position": 17,
-      "artist": "Baccara",
-      "title": "My Love In China",
+      "artist": "Allessa",
+      "title": "20.000 Meilen",
       "plays": 3,
-      "previous_position": 74,
-      "movement": 57,
+      "previous_position": 128,
+      "movement": 111,
       "trend": "up"
     },
     {
       "position": 18,
+      "artist": "Anja Nova",
+      "title": "High",
+      "plays": 3,
+      "previous_position": 4,
+      "movement": -14,
+      "trend": "down"
+    },
+    {
+      "position": 19,
+      "artist": "Baccara",
+      "title": "My Love In China",
+      "plays": 3,
+      "previous_position": 74,
+      "movement": 55,
+      "trend": "up"
+    },
+    {
+      "position": 20,
       "artist": "Bad Boys Blue",
       "title": "Come Back And Stay",
       "plays": 3,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Bobi",
-      "title": "Krolowo Ma",
-      "plays": 3,
-      "previous_position": 209,
-      "movement": 190,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "BOYS & WEEKEND",
-      "title": "Muzykę W Duszy Mamy",
-      "plays": 3,
-      "previous_position": 135,
-      "movement": 115,
-      "trend": "up"
     }
   ]
 }
