@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W40",
   "previous_week": "2026-W39",
-  "updated": "2026-09-28T07:33:50.950726+00:00",
+  "updated": "2026-09-28T15:53:00.147733+00:00",
   "charts": [
     {
       "position": 1,
@@ -80,42 +80,78 @@
     },
     {
       "position": 9,
+      "artist": "Denise Jolie",
+      "title": "Mit Dir Will Ich Den Himmel Berühren",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 10,
       "artist": "DJ Jerry",
       "title": "Shanghai",
       "plays": 1,
       "previous_position": 149,
-      "movement": 140,
-      "trend": "up"
-    },
-    {
-      "position": 10,
-      "artist": "Engelherz",
-      "title": "Stille Wasser Sind Tief",
-      "plays": 1,
-      "previous_position": 125,
-      "movement": 115,
+      "movement": 139,
       "trend": "up"
     },
     {
       "position": 11,
-      "artist": "Joe Yellow",
-      "title": "I'm Your Lover",
+      "artist": "Edelgroove",
+      "title": "Ich Schenk Dir Mein Herz",
       "plays": 1,
-      "previous_position": 110,
-      "movement": 99,
+      "previous_position": 204,
+      "movement": 193,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Ken Laszlo",
-      "title": "Tonight",
+      "artist": "Engelherz",
+      "title": "Stille Wasser Sind Tief",
       "plays": 1,
-      "previous_position": 101,
-      "movement": 89,
+      "previous_position": 125,
+      "movement": 113,
       "trend": "up"
     },
     {
       "position": 13,
+      "artist": "Femme X2",
+      "title": "Sommer Auf Repeat",
+      "plays": 1,
+      "previous_position": 24,
+      "movement": 11,
+      "trend": "up"
+    },
+    {
+      "position": 14,
+      "artist": "Joe Yellow",
+      "title": "I'm Your Lover",
+      "plays": 1,
+      "previous_position": 110,
+      "movement": 96,
+      "trend": "up"
+    },
+    {
+      "position": 15,
+      "artist": "Ken Laszlo",
+      "title": "Tonight",
+      "plays": 1,
+      "previous_position": 101,
+      "movement": 86,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "Laura Neuhold",
+      "title": "Leben Ohne Dich",
+      "plays": 1,
+      "previous_position": 165,
+      "movement": 149,
+      "trend": "up"
+    },
+    {
+      "position": 17,
       "artist": "Lian Ross",
       "title": "The Rules Of Love",
       "plays": 1,
@@ -124,67 +160,31 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 18,
       "artist": "Mandy Bischof",
       "title": "Maria Tanzt",
       "plays": 1,
       "previous_position": 80,
-      "movement": 66,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "Markus Wolfahrt",
-      "title": "Hallelujah Auf Die Liebe",
-      "plays": 1,
-      "previous_position": 146,
-      "movement": 131,
-      "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "Micha",
-      "title": "Insomnia",
-      "plays": 1,
-      "previous_position": 46,
-      "movement": 30,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Mirage & Yoko",
-      "title": "Fajna Dziewczyna",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 18,
-      "artist": "Mode-One",
-      "title": "Angels In The Night",
-      "plays": 1,
-      "previous_position": 99,
-      "movement": 81,
+      "movement": 62,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Playboys",
-      "title": "Jak To Sie Stalo",
-      "plays": 1,
-      "previous_position": 45,
-      "movement": 26,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "Power Boy",
-      "title": "Perfekcyjna",
+      "artist": "Margitta",
+      "title": "Lieben Heißt",
       "plays": 1,
       "previous_position": null,
       "movement": null,
       "trend": "new"
+    },
+    {
+      "position": 20,
+      "artist": "Markus Wolfahrt",
+      "title": "Hallelujah Auf Die Liebe",
+      "plays": 1,
+      "previous_position": 146,
+      "movement": 126,
+      "trend": "up"
     }
   ]
 }
