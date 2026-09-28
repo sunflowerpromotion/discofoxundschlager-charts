@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W40",
   "previous_week": "2026-W39",
-  "updated": "2026-09-28T01:34:26.107816+00:00",
+  "updated": "2026-09-28T07:33:50.950726+00:00",
   "charts": [
     {
       "position": 1,
@@ -26,33 +26,51 @@
     },
     {
       "position": 3,
-      "artist": "Beat Magic",
-      "title": "W Cieniu Wierzb",
+      "artist": "Bad Boys Blue",
+      "title": "I Wanna Hear Your Heartbeat",
       "plays": 1,
-      "previous_position": 90,
-      "movement": 87,
+      "previous_position": 202,
+      "movement": 199,
       "trend": "up"
     },
     {
       "position": 4,
-      "artist": "Camasutra",
-      "title": "Grzeszne Mysli",
+      "artist": "Beat Magic",
+      "title": "W Cieniu Wierzb",
       "plays": 1,
-      "previous_position": 94,
-      "movement": 90,
+      "previous_position": 90,
+      "movement": 86,
       "trend": "up"
     },
     {
       "position": 5,
-      "artist": "Classic",
-      "title": "Ja Dla Ciebie Ty Dla Mnie",
+      "artist": "Camasutra",
+      "title": "Grzeszne Mysli",
       "plays": 1,
-      "previous_position": 33,
-      "movement": 28,
+      "previous_position": 94,
+      "movement": 89,
       "trend": "up"
     },
     {
       "position": 6,
+      "artist": "Classic",
+      "title": "Ja Dla Ciebie Ty Dla Mnie",
+      "plays": 1,
+      "previous_position": 33,
+      "movement": 27,
+      "trend": "up"
+    },
+    {
+      "position": 7,
+      "artist": "Cliff Wedge",
+      "title": "With A Broken Heart",
+      "plays": 1,
+      "previous_position": 86,
+      "movement": 79,
+      "trend": "up"
+    },
+    {
+      "position": 8,
       "artist": "Danny Black",
       "title": "Fels In Der Brandung",
       "plays": 1,
@@ -61,43 +79,79 @@
       "trend": "new"
     },
     {
-      "position": 7,
-      "artist": "Engelherz",
-      "title": "Stille Wasser Sind Tief",
-      "plays": 1,
-      "previous_position": 125,
-      "movement": 118,
-      "trend": "up"
-    },
-    {
-      "position": 8,
-      "artist": "Mandy Bischof",
-      "title": "Maria Tanzt",
-      "plays": 1,
-      "previous_position": 80,
-      "movement": 72,
-      "trend": "up"
-    },
-    {
       "position": 9,
-      "artist": "Markus Wolfahrt",
-      "title": "Hallelujah Auf Die Liebe",
+      "artist": "DJ Jerry",
+      "title": "Shanghai",
       "plays": 1,
-      "previous_position": 146,
-      "movement": 137,
+      "previous_position": 149,
+      "movement": 140,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "Micha",
-      "title": "Insomnia",
+      "artist": "Engelherz",
+      "title": "Stille Wasser Sind Tief",
       "plays": 1,
-      "previous_position": 46,
-      "movement": 36,
+      "previous_position": 125,
+      "movement": 115,
       "trend": "up"
     },
     {
       "position": 11,
+      "artist": "Joe Yellow",
+      "title": "I'm Your Lover",
+      "plays": 1,
+      "previous_position": 110,
+      "movement": 99,
+      "trend": "up"
+    },
+    {
+      "position": 12,
+      "artist": "Ken Laszlo",
+      "title": "Tonight",
+      "plays": 1,
+      "previous_position": 101,
+      "movement": 89,
+      "trend": "up"
+    },
+    {
+      "position": 13,
+      "artist": "Lian Ross",
+      "title": "The Rules Of Love",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 14,
+      "artist": "Mandy Bischof",
+      "title": "Maria Tanzt",
+      "plays": 1,
+      "previous_position": 80,
+      "movement": 66,
+      "trend": "up"
+    },
+    {
+      "position": 15,
+      "artist": "Markus Wolfahrt",
+      "title": "Hallelujah Auf Die Liebe",
+      "plays": 1,
+      "previous_position": 146,
+      "movement": 131,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "Micha",
+      "title": "Insomnia",
+      "plays": 1,
+      "previous_position": 46,
+      "movement": 30,
+      "trend": "up"
+    },
+    {
+      "position": 17,
       "artist": "Mirage & Yoko",
       "title": "Fajna Dziewczyna",
       "plays": 1,
@@ -106,76 +160,31 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 18,
+      "artist": "Mode-One",
+      "title": "Angels In The Night",
+      "plays": 1,
+      "previous_position": 99,
+      "movement": 81,
+      "trend": "up"
+    },
+    {
+      "position": 19,
       "artist": "Playboys",
       "title": "Jak To Sie Stalo",
       "plays": 1,
       "previous_position": 45,
-      "movement": 33,
+      "movement": 26,
       "trend": "up"
     },
     {
-      "position": 13,
+      "position": 20,
       "artist": "Power Boy",
       "title": "Perfekcyjna",
       "plays": 1,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 14,
-      "artist": "Ralph Bogard",
-      "title": "Zeit Die Nie Vergeht",
-      "plays": 1,
-      "previous_position": 120,
-      "movement": 106,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "Rokets",
-      "title": "Tylko Tańcz",
-      "plays": 1,
-      "previous_position": 138,
-      "movement": 123,
-      "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "Silvio Samoni",
-      "title": "Lass Es Noch Einmal Geschehen",
-      "plays": 1,
-      "previous_position": 148,
-      "movement": 132,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Sueli de Melo",
-      "title": "Portofino",
-      "plays": 1,
-      "previous_position": 54,
-      "movement": 37,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Tanja Lasch",
-      "title": "Zimmer 17",
-      "plays": 1,
-      "previous_position": 7,
-      "movement": -11,
-      "trend": "down"
-    },
-    {
-      "position": 19,
-      "artist": "Toledo",
-      "title": "Zakochajmy Sie",
-      "plays": 1,
-      "previous_position": 184,
-      "movement": 165,
-      "trend": "up"
     }
   ]
 }
