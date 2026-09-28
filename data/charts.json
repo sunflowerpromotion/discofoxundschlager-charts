@@ -4,73 +4,109 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W40",
   "previous_week": "2026-W39",
-  "updated": "2026-09-28T15:53:00.147733+00:00",
+  "updated": "2026-09-28T21:28:36.009127+00:00",
   "charts": [
     {
       "position": 1,
-      "artist": "After Party",
-      "title": "Zawsze Moja Wina",
-      "plays": 1,
-      "previous_position": 10,
-      "movement": 9,
+      "artist": "Micha",
+      "title": "Insomnia",
+      "plays": 2,
+      "previous_position": 46,
+      "movement": 45,
       "trend": "up"
     },
     {
       "position": 2,
-      "artist": "Andre Busse",
-      "title": "Zwing Mich Doch Zu Meinem Glück",
-      "plays": 1,
-      "previous_position": 168,
-      "movement": 166,
-      "trend": "up"
+      "artist": "Vincent Gross & Tim Peters",
+      "title": "Ich Frage Für Nen Freund",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
       "position": 3,
-      "artist": "Bad Boys Blue",
-      "title": "I Wanna Hear Your Heartbeat",
+      "artist": "After Party",
+      "title": "Zawsze Moja Wina",
       "plays": 1,
-      "previous_position": 202,
-      "movement": 199,
+      "previous_position": 10,
+      "movement": 7,
       "trend": "up"
     },
     {
       "position": 4,
-      "artist": "Beat Magic",
-      "title": "W Cieniu Wierzb",
+      "artist": "Alex Park",
+      "title": "Gib Mir Ehrlichkeit",
       "plays": 1,
-      "previous_position": 90,
-      "movement": 86,
-      "trend": "up"
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
       "position": 5,
-      "artist": "Camasutra",
-      "title": "Grzeszne Mysli",
+      "artist": "Andre Busse",
+      "title": "Zwing Mich Doch Zu Meinem Glück",
       "plays": 1,
-      "previous_position": 94,
-      "movement": 89,
+      "previous_position": 168,
+      "movement": 163,
       "trend": "up"
     },
     {
       "position": 6,
-      "artist": "Classic",
-      "title": "Ja Dla Ciebie Ty Dla Mnie",
+      "artist": "Bad Boys Blue",
+      "title": "I Wanna Hear Your Heartbeat",
       "plays": 1,
-      "previous_position": 33,
-      "movement": 27,
+      "previous_position": 202,
+      "movement": 196,
       "trend": "up"
     },
     {
       "position": 7,
-      "artist": "Cliff Wedge",
-      "title": "With A Broken Heart",
+      "artist": "Beat Magic",
+      "title": "W Cieniu Wierzb",
       "plays": 1,
-      "previous_position": 86,
-      "movement": 79,
+      "previous_position": 90,
+      "movement": 83,
       "trend": "up"
     },
     {
       "position": 8,
+      "artist": "Camasutra",
+      "title": "Grzeszne Mysli",
+      "plays": 1,
+      "previous_position": 94,
+      "movement": 86,
+      "trend": "up"
+    },
+    {
+      "position": 9,
+      "artist": "Classic",
+      "title": "Ja Dla Ciebie Ty Dla Mnie",
+      "plays": 1,
+      "previous_position": 33,
+      "movement": 24,
+      "trend": "up"
+    },
+    {
+      "position": 10,
+      "artist": "Cliff Wedge",
+      "title": "With A Broken Heart",
+      "plays": 1,
+      "previous_position": 86,
+      "movement": 76,
+      "trend": "up"
+    },
+    {
+      "position": 11,
+      "artist": "Dani Mirell",
+      "title": "Fantasy Girl",
+      "plays": 1,
+      "previous_position": 108,
+      "movement": 97,
+      "trend": "up"
+    },
+    {
+      "position": 12,
       "artist": "Danny Black",
       "title": "Fels In Der Brandung",
       "plays": 1,
@@ -79,7 +115,7 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 13,
       "artist": "Denise Jolie",
       "title": "Mit Dir Will Ich Den Himmel Berühren",
       "plays": 1,
@@ -88,102 +124,66 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 14,
       "artist": "DJ Jerry",
       "title": "Shanghai",
       "plays": 1,
       "previous_position": 149,
-      "movement": 139,
-      "trend": "up"
-    },
-    {
-      "position": 11,
-      "artist": "Edelgroove",
-      "title": "Ich Schenk Dir Mein Herz",
-      "plays": 1,
-      "previous_position": 204,
-      "movement": 193,
-      "trend": "up"
-    },
-    {
-      "position": 12,
-      "artist": "Engelherz",
-      "title": "Stille Wasser Sind Tief",
-      "plays": 1,
-      "previous_position": 125,
-      "movement": 113,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "Femme X2",
-      "title": "Sommer Auf Repeat",
-      "plays": 1,
-      "previous_position": 24,
-      "movement": 11,
-      "trend": "up"
-    },
-    {
-      "position": 14,
-      "artist": "Joe Yellow",
-      "title": "I'm Your Lover",
-      "plays": 1,
-      "previous_position": 110,
-      "movement": 96,
+      "movement": 135,
       "trend": "up"
     },
     {
       "position": 15,
-      "artist": "Ken Laszlo",
-      "title": "Tonight",
+      "artist": "Edelgroove",
+      "title": "Ich Schenk Dir Mein Herz",
       "plays": 1,
-      "previous_position": 101,
-      "movement": 86,
+      "previous_position": 204,
+      "movement": 189,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "Laura Neuhold",
-      "title": "Leben Ohne Dich",
+      "artist": "Engelherz",
+      "title": "Stille Wasser Sind Tief",
       "plays": 1,
-      "previous_position": 165,
-      "movement": 149,
+      "previous_position": 125,
+      "movement": 109,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "Lian Ross",
-      "title": "The Rules Of Love",
+      "artist": "Femme X2",
+      "title": "Sommer Auf Repeat",
       "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 24,
+      "movement": 7,
+      "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Mandy Bischof",
-      "title": "Maria Tanzt",
+      "artist": "Joe Yellow",
+      "title": "I'm Your Lover",
       "plays": 1,
-      "previous_position": 80,
-      "movement": 62,
+      "previous_position": 110,
+      "movement": 92,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Margitta",
-      "title": "Lieben Heißt",
+      "artist": "Johanna Giese",
+      "title": "Ab In Den Urlaub",
       "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 103,
+      "movement": 84,
+      "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Markus Wolfahrt",
-      "title": "Hallelujah Auf Die Liebe",
+      "artist": "Jörg Bausch",
+      "title": "Totale Chaoten",
       "plays": 1,
-      "previous_position": 146,
-      "movement": 126,
+      "previous_position": 96,
+      "movement": 76,
       "trend": "up"
     }
   ]
