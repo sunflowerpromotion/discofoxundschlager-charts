@@ -4,19 +4,55 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W40",
   "previous_week": "2026-W39",
-  "updated": "2026-09-27T23:03:30.969764+00:00",
+  "updated": "2026-09-28T01:34:26.107816+00:00",
   "charts": [
     {
       "position": 1,
-      "artist": "Andre Busse",
-      "title": "Zwing Mich Doch Zu Meinem Glück",
+      "artist": "After Party",
+      "title": "Zawsze Moja Wina",
       "plays": 1,
-      "previous_position": 168,
-      "movement": 167,
+      "previous_position": 10,
+      "movement": 9,
       "trend": "up"
     },
     {
       "position": 2,
+      "artist": "Andre Busse",
+      "title": "Zwing Mich Doch Zu Meinem Glück",
+      "plays": 1,
+      "previous_position": 168,
+      "movement": 166,
+      "trend": "up"
+    },
+    {
+      "position": 3,
+      "artist": "Beat Magic",
+      "title": "W Cieniu Wierzb",
+      "plays": 1,
+      "previous_position": 90,
+      "movement": 87,
+      "trend": "up"
+    },
+    {
+      "position": 4,
+      "artist": "Camasutra",
+      "title": "Grzeszne Mysli",
+      "plays": 1,
+      "previous_position": 94,
+      "movement": 90,
+      "trend": "up"
+    },
+    {
+      "position": 5,
+      "artist": "Classic",
+      "title": "Ja Dla Ciebie Ty Dla Mnie",
+      "plays": 1,
+      "previous_position": 33,
+      "movement": 28,
+      "trend": "up"
+    },
+    {
+      "position": 6,
       "artist": "Danny Black",
       "title": "Fels In Der Brandung",
       "plays": 1,
@@ -25,76 +61,121 @@
       "trend": "new"
     },
     {
-      "position": 3,
+      "position": 7,
       "artist": "Engelherz",
       "title": "Stille Wasser Sind Tief",
       "plays": 1,
       "previous_position": 125,
-      "movement": 122,
-      "trend": "up"
-    },
-    {
-      "position": 4,
-      "artist": "Mandy Bischof",
-      "title": "Maria Tanzt",
-      "plays": 1,
-      "previous_position": 80,
-      "movement": 76,
-      "trend": "up"
-    },
-    {
-      "position": 5,
-      "artist": "Markus Wolfahrt",
-      "title": "Hallelujah Auf Die Liebe",
-      "plays": 1,
-      "previous_position": 146,
-      "movement": 141,
-      "trend": "up"
-    },
-    {
-      "position": 6,
-      "artist": "Micha",
-      "title": "Insomnia",
-      "plays": 1,
-      "previous_position": 46,
-      "movement": 40,
-      "trend": "up"
-    },
-    {
-      "position": 7,
-      "artist": "Ralph Bogard",
-      "title": "Zeit Die Nie Vergeht",
-      "plays": 1,
-      "previous_position": 120,
-      "movement": 113,
+      "movement": 118,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "Silvio Samoni",
-      "title": "Lass Es Noch Einmal Geschehen",
+      "artist": "Mandy Bischof",
+      "title": "Maria Tanzt",
       "plays": 1,
-      "previous_position": 148,
-      "movement": 140,
+      "previous_position": 80,
+      "movement": 72,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "Sueli de Melo",
-      "title": "Portofino",
+      "artist": "Markus Wolfahrt",
+      "title": "Hallelujah Auf Die Liebe",
       "plays": 1,
-      "previous_position": 54,
-      "movement": 45,
+      "previous_position": 146,
+      "movement": 137,
       "trend": "up"
     },
     {
       "position": 10,
+      "artist": "Micha",
+      "title": "Insomnia",
+      "plays": 1,
+      "previous_position": 46,
+      "movement": 36,
+      "trend": "up"
+    },
+    {
+      "position": 11,
+      "artist": "Mirage & Yoko",
+      "title": "Fajna Dziewczyna",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 12,
+      "artist": "Playboys",
+      "title": "Jak To Sie Stalo",
+      "plays": 1,
+      "previous_position": 45,
+      "movement": 33,
+      "trend": "up"
+    },
+    {
+      "position": 13,
+      "artist": "Power Boy",
+      "title": "Perfekcyjna",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 14,
+      "artist": "Ralph Bogard",
+      "title": "Zeit Die Nie Vergeht",
+      "plays": 1,
+      "previous_position": 120,
+      "movement": 106,
+      "trend": "up"
+    },
+    {
+      "position": 15,
+      "artist": "Rokets",
+      "title": "Tylko Tańcz",
+      "plays": 1,
+      "previous_position": 138,
+      "movement": 123,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "Silvio Samoni",
+      "title": "Lass Es Noch Einmal Geschehen",
+      "plays": 1,
+      "previous_position": 148,
+      "movement": 132,
+      "trend": "up"
+    },
+    {
+      "position": 17,
+      "artist": "Sueli de Melo",
+      "title": "Portofino",
+      "plays": 1,
+      "previous_position": 54,
+      "movement": 37,
+      "trend": "up"
+    },
+    {
+      "position": 18,
       "artist": "Tanja Lasch",
       "title": "Zimmer 17",
       "plays": 1,
       "previous_position": 7,
-      "movement": -3,
+      "movement": -11,
       "trend": "down"
+    },
+    {
+      "position": 19,
+      "artist": "Toledo",
+      "title": "Zakochajmy Sie",
+      "plays": 1,
+      "previous_position": 184,
+      "movement": 165,
+      "trend": "up"
     }
   ]
 }
