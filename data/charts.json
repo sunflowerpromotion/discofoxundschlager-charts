@@ -4,37 +4,55 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W40",
   "previous_week": "2026-W39",
-  "updated": "2026-09-29T18:51:00.002687+00:00",
+  "updated": "2026-09-29T22:42:13.461373+00:00",
   "charts": [
     {
       "position": 1,
+      "artist": "Vincent Gross & Tim Peters",
+      "title": "Ich Frage Für Nen Freund",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 2,
       "artist": "Beat Magic",
       "title": "W Cieniu Wierzb",
       "plays": 2,
       "previous_position": 90,
-      "movement": 89,
-      "trend": "up"
-    },
-    {
-      "position": 2,
-      "artist": "Jörg Bausch",
-      "title": "Totale Chaoten",
-      "plays": 2,
-      "previous_position": 96,
-      "movement": 94,
+      "movement": 88,
       "trend": "up"
     },
     {
       "position": 3,
+      "artist": "Denise Jolie",
+      "title": "Mit Dir Will Ich Den Himmel Berühren",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 4,
+      "artist": "Jörg Bausch",
+      "title": "Totale Chaoten",
+      "plays": 2,
+      "previous_position": 96,
+      "movement": 92,
+      "trend": "up"
+    },
+    {
+      "position": 5,
       "artist": "Martin Juen",
       "title": "Liebe Ist...",
       "plays": 2,
       "previous_position": 20,
-      "movement": 17,
+      "movement": 15,
       "trend": "up"
     },
     {
-      "position": 4,
+      "position": 6,
       "artist": "Martin Schmiderer",
       "title": "So Schön",
       "plays": 2,
@@ -43,25 +61,25 @@
       "trend": "new"
     },
     {
-      "position": 5,
+      "position": 7,
       "artist": "Micha",
       "title": "Insomnia",
       "plays": 2,
       "previous_position": 46,
-      "movement": 41,
+      "movement": 39,
       "trend": "up"
     },
     {
-      "position": 6,
+      "position": 8,
       "artist": "Savage",
       "title": "Don't Cry Tonight",
       "plays": 2,
       "previous_position": 29,
-      "movement": 23,
+      "movement": 21,
       "trend": "up"
     },
     {
-      "position": 7,
+      "position": 9,
       "artist": "Siegfried Walch",
       "title": "Unter Der Sonne",
       "plays": 2,
@@ -70,7 +88,7 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 10,
       "artist": "Studio Hoppe Pop",
       "title": "Folge 7 - Teil 1",
       "plays": 2,
@@ -79,7 +97,7 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 11,
       "artist": "Studio Hoppe Pop",
       "title": "Folge 7 - Teil 2",
       "plays": 2,
@@ -88,34 +106,25 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 12,
       "artist": "Studio Hoppe Pop",
       "title": "Folge 7 - Teil 3",
       "plays": 2,
       "previous_position": 205,
-      "movement": 195,
+      "movement": 193,
       "trend": "up"
     },
     {
-      "position": 11,
-      "artist": "Vincent Gross & Tim Peters",
-      "title": "Ich Frage Für Nen Freund",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 12,
+      "position": 13,
       "artist": "After Party",
       "title": "Zawsze Moja Wina",
       "plays": 1,
       "previous_position": 10,
-      "movement": -2,
+      "movement": -3,
       "trend": "down"
     },
     {
-      "position": 13,
+      "position": 14,
       "artist": "Alex Park",
       "title": "Gib Mir Ehrlichkeit",
       "plays": 1,
@@ -124,66 +133,57 @@
       "trend": "new"
     },
     {
-      "position": 14,
-      "artist": "Andre Busse",
-      "title": "Zwing Mich Doch Zu Meinem Glück",
-      "plays": 1,
-      "previous_position": 168,
-      "movement": 154,
-      "trend": "up"
-    },
-    {
       "position": 15,
-      "artist": "Baby's Gang",
-      "title": "Happy Song",
+      "artist": "Alexander Martin",
+      "title": "Mond",
       "plays": 1,
-      "previous_position": 17,
-      "movement": 2,
-      "trend": "up"
+      "previous_position": 13,
+      "movement": -2,
+      "trend": "down"
     },
     {
       "position": 16,
-      "artist": "Bad Boys Blue",
-      "title": "I Wanna Hear Your Heartbeat",
+      "artist": "AmadinoS",
+      "title": "Wahnsinn (Remix 2026)",
       "plays": 1,
-      "previous_position": 202,
-      "movement": 186,
+      "previous_position": 200,
+      "movement": 184,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "C.C.Catch",
-      "title": "You Can Be My Lucky Star Tonight",
+      "artist": "Andre Busse",
+      "title": "Zwing Mich Doch Zu Meinem Glück",
       "plays": 1,
-      "previous_position": 167,
-      "movement": 150,
+      "previous_position": 168,
+      "movement": 151,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Camasutra",
-      "title": "Grzeszne Mysli",
+      "artist": "André & Michael",
+      "title": "Sag Es Oder Schweig",
       "plays": 1,
-      "previous_position": 94,
-      "movement": 76,
+      "previous_position": 82,
+      "movement": 64,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Classic",
-      "title": "Ja Dla Ciebie Ty Dla Mnie",
+      "artist": "Baby's Gang",
+      "title": "Happy Song",
       "plays": 1,
-      "previous_position": 33,
-      "movement": 14,
-      "trend": "up"
+      "previous_position": 17,
+      "movement": -2,
+      "trend": "down"
     },
     {
       "position": 20,
-      "artist": "Cliff Wedge",
-      "title": "With A Broken Heart",
+      "artist": "Bad Boys Blue",
+      "title": "I Wanna Hear Your Heartbeat",
       "plays": 1,
-      "previous_position": 86,
-      "movement": 66,
+      "previous_position": 202,
+      "movement": 182,
       "trend": "up"
     }
   ]
