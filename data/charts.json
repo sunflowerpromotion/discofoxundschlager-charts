@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W40",
   "previous_week": "2026-W39",
-  "updated": "2026-09-29T01:10:56.898054+00:00",
+  "updated": "2026-09-29T06:53:45.220791+00:00",
   "charts": [
     {
       "position": 1,
@@ -35,6 +35,15 @@
     },
     {
       "position": 4,
+      "artist": "Savage",
+      "title": "Don't Cry Tonight",
+      "plays": 2,
+      "previous_position": 29,
+      "movement": 25,
+      "trend": "up"
+    },
+    {
+      "position": 5,
       "artist": "Siegfried Walch",
       "title": "Unter Der Sonne",
       "plays": 2,
@@ -43,7 +52,7 @@
       "trend": "new"
     },
     {
-      "position": 5,
+      "position": 6,
       "artist": "Vincent Gross & Tim Peters",
       "title": "Ich Frage Für Nen Freund",
       "plays": 2,
@@ -52,16 +61,16 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 7,
       "artist": "After Party",
       "title": "Zawsze Moja Wina",
       "plays": 1,
       "previous_position": 10,
-      "movement": 4,
+      "movement": 3,
       "trend": "up"
     },
     {
-      "position": 7,
+      "position": 8,
       "artist": "Alex Park",
       "title": "Gib Mir Ehrlichkeit",
       "plays": 1,
@@ -70,61 +79,79 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 9,
       "artist": "Andre Busse",
       "title": "Zwing Mich Doch Zu Meinem Glück",
       "plays": 1,
       "previous_position": 168,
-      "movement": 160,
-      "trend": "up"
-    },
-    {
-      "position": 9,
-      "artist": "Bad Boys Blue",
-      "title": "I Wanna Hear Your Heartbeat",
-      "plays": 1,
-      "previous_position": 202,
-      "movement": 193,
+      "movement": 159,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "Camasutra",
-      "title": "Grzeszne Mysli",
+      "artist": "Baby's Gang",
+      "title": "Happy Song",
       "plays": 1,
-      "previous_position": 94,
-      "movement": 84,
+      "previous_position": 17,
+      "movement": 7,
       "trend": "up"
     },
     {
       "position": 11,
-      "artist": "Classic",
-      "title": "Ja Dla Ciebie Ty Dla Mnie",
+      "artist": "Bad Boys Blue",
+      "title": "I Wanna Hear Your Heartbeat",
       "plays": 1,
-      "previous_position": 33,
-      "movement": 22,
+      "previous_position": 202,
+      "movement": 191,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Cliff Wedge",
-      "title": "With A Broken Heart",
+      "artist": "C.C.Catch",
+      "title": "You Can Be My Lucky Star Tonight",
       "plays": 1,
-      "previous_position": 86,
-      "movement": 74,
+      "previous_position": 167,
+      "movement": 155,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "Dani Mirell",
-      "title": "Fantasy Girl",
+      "artist": "Camasutra",
+      "title": "Grzeszne Mysli",
       "plays": 1,
-      "previous_position": 108,
-      "movement": 95,
+      "previous_position": 94,
+      "movement": 81,
       "trend": "up"
     },
     {
       "position": 14,
+      "artist": "Classic",
+      "title": "Ja Dla Ciebie Ty Dla Mnie",
+      "plays": 1,
+      "previous_position": 33,
+      "movement": 19,
+      "trend": "up"
+    },
+    {
+      "position": 15,
+      "artist": "Cliff Wedge",
+      "title": "With A Broken Heart",
+      "plays": 1,
+      "previous_position": 86,
+      "movement": 71,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "Dani Mirell",
+      "title": "Fantasy Girl",
+      "plays": 1,
+      "previous_position": 108,
+      "movement": 92,
+      "trend": "up"
+    },
+    {
+      "position": 17,
       "artist": "Danny Black",
       "title": "Fels In Der Brandung",
       "plays": 1,
@@ -133,7 +160,7 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 18,
       "artist": "Denise Jolie",
       "title": "Mit Dir Will Ich Den Himmel Berühren",
       "plays": 1,
@@ -142,48 +169,21 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 19,
       "artist": "DJ Jerry",
       "title": "Shanghai",
       "plays": 1,
       "previous_position": 149,
-      "movement": 133,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Drossel",
-      "title": "Najwazniejsza",
-      "plays": 1,
-      "previous_position": 173,
-      "movement": 156,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Edelgroove",
-      "title": "Ich Schenk Dir Mein Herz",
-      "plays": 1,
-      "previous_position": 204,
-      "movement": 186,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Engelherz",
-      "title": "Stille Wasser Sind Tief",
-      "plays": 1,
-      "previous_position": 125,
-      "movement": 106,
+      "movement": 130,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Femme X2",
-      "title": "Sommer Auf Repeat",
+      "artist": "Drossel",
+      "title": "Najwazniejsza",
       "plays": 1,
-      "previous_position": 24,
-      "movement": 4,
+      "previous_position": 173,
+      "movement": 153,
       "trend": "up"
     }
   ]
