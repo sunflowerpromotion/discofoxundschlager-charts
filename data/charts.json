@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W40",
   "previous_week": "2026-W39",
-  "updated": "2026-09-29T22:42:13.461373+00:00",
+  "updated": "2026-09-30T01:36:53.324096+00:00",
   "charts": [
     {
       "position": 1,
@@ -35,24 +35,33 @@
     },
     {
       "position": 4,
+      "artist": "July June",
+      "title": "Diese Tage",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 5,
       "artist": "Jörg Bausch",
       "title": "Totale Chaoten",
       "plays": 2,
       "previous_position": 96,
-      "movement": 92,
-      "trend": "up"
-    },
-    {
-      "position": 5,
-      "artist": "Martin Juen",
-      "title": "Liebe Ist...",
-      "plays": 2,
-      "previous_position": 20,
-      "movement": 15,
+      "movement": 91,
       "trend": "up"
     },
     {
       "position": 6,
+      "artist": "Martin Juen",
+      "title": "Liebe Ist...",
+      "plays": 2,
+      "previous_position": 20,
+      "movement": 14,
+      "trend": "up"
+    },
+    {
+      "position": 7,
       "artist": "Martin Schmiderer",
       "title": "So Schön",
       "plays": 2,
@@ -61,25 +70,25 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 8,
       "artist": "Micha",
       "title": "Insomnia",
       "plays": 2,
       "previous_position": 46,
-      "movement": 39,
-      "trend": "up"
-    },
-    {
-      "position": 8,
-      "artist": "Savage",
-      "title": "Don't Cry Tonight",
-      "plays": 2,
-      "previous_position": 29,
-      "movement": 21,
+      "movement": 38,
       "trend": "up"
     },
     {
       "position": 9,
+      "artist": "Savage",
+      "title": "Don't Cry Tonight",
+      "plays": 2,
+      "previous_position": 29,
+      "movement": 20,
+      "trend": "up"
+    },
+    {
+      "position": 10,
       "artist": "Siegfried Walch",
       "title": "Unter Der Sonne",
       "plays": 2,
@@ -88,7 +97,7 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 11,
       "artist": "Studio Hoppe Pop",
       "title": "Folge 7 - Teil 1",
       "plays": 2,
@@ -97,7 +106,7 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 12,
       "artist": "Studio Hoppe Pop",
       "title": "Folge 7 - Teil 2",
       "plays": 2,
@@ -106,25 +115,25 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 13,
       "artist": "Studio Hoppe Pop",
       "title": "Folge 7 - Teil 3",
       "plays": 2,
       "previous_position": 205,
-      "movement": 193,
+      "movement": 192,
       "trend": "up"
     },
     {
-      "position": 13,
+      "position": 14,
       "artist": "After Party",
       "title": "Zawsze Moja Wina",
       "plays": 1,
       "previous_position": 10,
-      "movement": -3,
+      "movement": -4,
       "trend": "down"
     },
     {
-      "position": 14,
+      "position": 15,
       "artist": "Alex Park",
       "title": "Gib Mir Ehrlichkeit",
       "plays": 1,
@@ -133,58 +142,49 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 16,
       "artist": "Alexander Martin",
       "title": "Mond",
       "plays": 1,
       "previous_position": 13,
-      "movement": -2,
+      "movement": -3,
       "trend": "down"
     },
     {
-      "position": 16,
+      "position": 17,
       "artist": "AmadinoS",
       "title": "Wahnsinn (Remix 2026)",
       "plays": 1,
       "previous_position": 200,
-      "movement": 184,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Andre Busse",
-      "title": "Zwing Mich Doch Zu Meinem Glück",
-      "plays": 1,
-      "previous_position": 168,
-      "movement": 151,
+      "movement": 183,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "André & Michael",
-      "title": "Sag Es Oder Schweig",
+      "artist": "Andre Busse",
+      "title": "Zwing Mich Doch Zu Meinem Glück",
       "plays": 1,
-      "previous_position": 82,
-      "movement": 64,
+      "previous_position": 168,
+      "movement": 150,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Baby's Gang",
-      "title": "Happy Song",
+      "artist": "André & Michael",
+      "title": "Sag Es Oder Schweig",
       "plays": 1,
-      "previous_position": 17,
-      "movement": -2,
-      "trend": "down"
+      "previous_position": 82,
+      "movement": 63,
+      "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Bad Boys Blue",
-      "title": "I Wanna Hear Your Heartbeat",
+      "artist": "Andy Soda",
+      "title": "Wir Zwei Im Glück",
       "plays": 1,
-      "previous_position": 202,
-      "movement": 182,
-      "trend": "up"
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     }
   ]
 }
