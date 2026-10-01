@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W40",
   "previous_week": "2026-W39",
-  "updated": "2026-10-01T01:55:06.307343+00:00",
+  "updated": "2026-10-01T08:14:18.999597+00:00",
   "charts": [
     {
       "position": 1,
@@ -98,15 +98,42 @@
     },
     {
       "position": 11,
+      "artist": "Italo Disco Is Back",
+      "title": "Ausgabe 40 - Teil 1",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 12,
+      "artist": "Italo Disco Is Back",
+      "title": "Ausgabe 40 - Teil 2",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 13,
+      "artist": "Italo Disco Is Back",
+      "title": "Ausgabe 40 - Teil 3",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 14,
       "artist": "Joe Yellow",
       "title": "I'm Your Lover",
       "plays": 2,
       "previous_position": 110,
-      "movement": 99,
+      "movement": 96,
       "trend": "up"
     },
     {
-      "position": 12,
+      "position": 15,
       "artist": "July June",
       "title": "Diese Tage",
       "plays": 2,
@@ -115,16 +142,16 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 16,
       "artist": "Jörg Bausch",
       "title": "Totale Chaoten",
       "plays": 2,
       "previous_position": 96,
-      "movement": 83,
+      "movement": 80,
       "trend": "up"
     },
     {
-      "position": 14,
+      "position": 17,
       "artist": "LaBix & the Fizzy Tones",
       "title": "Barfuß",
       "plays": 2,
@@ -133,16 +160,16 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 18,
       "artist": "Mandy Bischof",
       "title": "Maria Tanzt",
       "plays": 2,
       "previous_position": 80,
-      "movement": 65,
+      "movement": 62,
       "trend": "up"
     },
     {
-      "position": 16,
+      "position": 19,
       "artist": "Margitta",
       "title": "Lieben Heißt",
       "plays": 2,
@@ -151,40 +178,13 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 20,
       "artist": "Markus Wolfahrt",
       "title": "Hallelujah Auf Die Liebe",
       "plays": 2,
       "previous_position": 146,
-      "movement": 129,
+      "movement": 126,
       "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Martin Juen",
-      "title": "Liebe Ist...",
-      "plays": 2,
-      "previous_position": 20,
-      "movement": 2,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Martin Schmiderer",
-      "title": "So Schön",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Matakustix",
-      "title": "Blas Ich Euch Den Marsch",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
     }
   ]
 }
