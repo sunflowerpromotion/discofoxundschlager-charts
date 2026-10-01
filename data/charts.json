@@ -4,28 +4,46 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W40",
   "previous_week": "2026-W39",
-  "updated": "2026-10-01T15:28:43.849960+00:00",
+  "updated": "2026-10-01T20:26:28.731279+00:00",
   "charts": [
     {
       "position": 1,
-      "artist": "Savage",
-      "title": "Don't Cry Tonight",
+      "artist": "NdeeN",
+      "title": "Sonne",
       "plays": 3,
-      "previous_position": 29,
-      "movement": 28,
+      "previous_position": 107,
+      "movement": 106,
       "trend": "up"
     },
     {
       "position": 2,
-      "artist": "Silvio Samoni",
-      "title": "Lass Es Noch Einmal Geschehen",
+      "artist": "Savage",
+      "title": "Don't Cry Tonight",
       "plays": 3,
-      "previous_position": 148,
-      "movement": 146,
+      "previous_position": 29,
+      "movement": 27,
       "trend": "up"
     },
     {
       "position": 3,
+      "artist": "Silvio Samoni",
+      "title": "Lass Es Noch Einmal Geschehen",
+      "plays": 3,
+      "previous_position": 148,
+      "movement": 145,
+      "trend": "up"
+    },
+    {
+      "position": 4,
+      "artist": "Spitzbua Markus",
+      "title": "Ti Amo Ciao Ciao",
+      "plays": 3,
+      "previous_position": 60,
+      "movement": 56,
+      "trend": "up"
+    },
+    {
+      "position": 5,
       "artist": "Vincent Gross & Tim Peters",
       "title": "Ich Frage Für Nen Freund",
       "plays": 3,
@@ -34,7 +52,7 @@
       "trend": "new"
     },
     {
-      "position": 4,
+      "position": 6,
       "artist": "Alex Park",
       "title": "Gib Mir Ehrlichkeit",
       "plays": 2,
@@ -43,7 +61,7 @@
       "trend": "new"
     },
     {
-      "position": 5,
+      "position": 7,
       "artist": "Andy Soda",
       "title": "Wir Zwei Im Glück",
       "plays": 2,
@@ -52,25 +70,34 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 8,
       "artist": "Bad Boys Blue",
       "title": "I Wanna Hear Your Heartbeat",
       "plays": 2,
       "previous_position": 202,
-      "movement": 196,
+      "movement": 194,
       "trend": "up"
     },
     {
-      "position": 7,
+      "position": 9,
       "artist": "Beat Magic",
       "title": "W Cieniu Wierzb",
       "plays": 2,
       "previous_position": 90,
-      "movement": 83,
+      "movement": 81,
       "trend": "up"
     },
     {
-      "position": 8,
+      "position": 10,
+      "artist": "Dani Mirell",
+      "title": "Fantasy Girl",
+      "plays": 2,
+      "previous_position": 108,
+      "movement": 98,
+      "trend": "up"
+    },
+    {
+      "position": 11,
       "artist": "Denise Jolie",
       "title": "Mit Dir Will Ich Den Himmel Berühren",
       "plays": 2,
@@ -79,25 +106,25 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 12,
       "artist": "Fake",
       "title": "Frogs In Spain",
       "plays": 2,
       "previous_position": 130,
-      "movement": 121,
+      "movement": 118,
       "trend": "up"
     },
     {
-      "position": 10,
+      "position": 13,
       "artist": "Fäaschtbänkler",
       "title": "Kleines Lied",
       "plays": 2,
       "previous_position": 37,
-      "movement": 27,
+      "movement": 24,
       "trend": "up"
     },
     {
-      "position": 11,
+      "position": 14,
       "artist": "Italo Disco Is Back",
       "title": "Ausgabe 40 - Teil 1",
       "plays": 2,
@@ -106,7 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 15,
       "artist": "Italo Disco Is Back",
       "title": "Ausgabe 40 - Teil 2",
       "plays": 2,
@@ -115,7 +142,7 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 16,
       "artist": "Italo Disco Is Back",
       "title": "Ausgabe 40 - Teil 3",
       "plays": 2,
@@ -124,16 +151,16 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 17,
       "artist": "Joe Yellow",
       "title": "I'm Your Lover",
       "plays": 2,
       "previous_position": 110,
-      "movement": 96,
+      "movement": 93,
       "trend": "up"
     },
     {
-      "position": 15,
+      "position": 18,
       "artist": "July June",
       "title": "Diese Tage",
       "plays": 2,
@@ -142,49 +169,22 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 19,
       "artist": "Jörg Bausch",
       "title": "Totale Chaoten",
       "plays": 2,
       "previous_position": 96,
-      "movement": 80,
+      "movement": 77,
       "trend": "up"
     },
     {
-      "position": 17,
+      "position": 20,
       "artist": "LaBix & the Fizzy Tones",
       "title": "Barfuß",
       "plays": 2,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 18,
-      "artist": "Mandy Bischof",
-      "title": "Maria Tanzt",
-      "plays": 2,
-      "previous_position": 80,
-      "movement": 62,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Margitta",
-      "title": "Lieben Heißt",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Markus Wolfahrt",
-      "title": "Hallelujah Auf Die Liebe",
-      "plays": 2,
-      "previous_position": 146,
-      "movement": 126,
-      "trend": "up"
     }
   ]
 }
