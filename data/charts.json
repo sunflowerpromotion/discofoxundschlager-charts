@@ -4,10 +4,19 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W40",
   "previous_week": "2026-W39",
-  "updated": "2026-10-02T16:38:43.729687+00:00",
+  "updated": "2026-10-02T20:57:40.839475+00:00",
   "charts": [
     {
       "position": 1,
+      "artist": "Silvio Samoni",
+      "title": "Lass Es Noch Einmal Geschehen",
+      "plays": 4,
+      "previous_position": 148,
+      "movement": 147,
+      "trend": "up"
+    },
+    {
+      "position": 2,
       "artist": "Italo Disco Is Back",
       "title": "Ausgabe 40 - Teil 1",
       "plays": 3,
@@ -16,7 +25,7 @@
       "trend": "new"
     },
     {
-      "position": 2,
+      "position": 3,
       "artist": "Italo Disco Is Back",
       "title": "Ausgabe 40 - Teil 2",
       "plays": 3,
@@ -25,7 +34,7 @@
       "trend": "new"
     },
     {
-      "position": 3,
+      "position": 4,
       "artist": "Italo Disco Is Back",
       "title": "Ausgabe 40 - Teil 3",
       "plays": 3,
@@ -34,16 +43,25 @@
       "trend": "new"
     },
     {
-      "position": 4,
+      "position": 5,
+      "artist": "Mandy Bischof",
+      "title": "Maria Tanzt",
+      "plays": 3,
+      "previous_position": 80,
+      "movement": 75,
+      "trend": "up"
+    },
+    {
+      "position": 6,
       "artist": "Mode-One",
       "title": "Angels In The Night",
       "plays": 3,
       "previous_position": 99,
-      "movement": 95,
+      "movement": 93,
       "trend": "up"
     },
     {
-      "position": 5,
+      "position": 7,
       "artist": "Modern Talking",
       "title": "Atlantis Is Calling (S.O.S. For Love)",
       "plays": 3,
@@ -52,43 +70,43 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 8,
       "artist": "NdeeN",
       "title": "Sonne",
       "plays": 3,
       "previous_position": 107,
-      "movement": 101,
-      "trend": "up"
-    },
-    {
-      "position": 7,
-      "artist": "Savage",
-      "title": "Don't Cry Tonight",
-      "plays": 3,
-      "previous_position": 29,
-      "movement": 22,
-      "trend": "up"
-    },
-    {
-      "position": 8,
-      "artist": "Silvio Samoni",
-      "title": "Lass Es Noch Einmal Geschehen",
-      "plays": 3,
-      "previous_position": 148,
-      "movement": 140,
+      "movement": 99,
       "trend": "up"
     },
     {
       "position": 9,
+      "artist": "Sandra",
+      "title": "Der Himmel Hat Mir Dich Geschickt",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 10,
+      "artist": "Savage",
+      "title": "Don't Cry Tonight",
+      "plays": 3,
+      "previous_position": 29,
+      "movement": 19,
+      "trend": "up"
+    },
+    {
+      "position": 11,
       "artist": "Spitzbua Markus",
       "title": "Ti Amo Ciao Ciao",
       "plays": 3,
       "previous_position": 60,
-      "movement": 51,
+      "movement": 49,
       "trend": "up"
     },
     {
-      "position": 10,
+      "position": 12,
       "artist": "Studio Hoppe Pop",
       "title": "Folge 7 - Teil 1",
       "plays": 3,
@@ -97,7 +115,7 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 13,
       "artist": "Studio Hoppe Pop",
       "title": "Folge 7 - Teil 2",
       "plays": 3,
@@ -106,16 +124,16 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 14,
       "artist": "Studio Hoppe Pop",
       "title": "Folge 7 - Teil 3",
       "plays": 3,
       "previous_position": 205,
-      "movement": 193,
+      "movement": 191,
       "trend": "up"
     },
     {
-      "position": 13,
+      "position": 15,
       "artist": "Vincent Gross & Tim Peters",
       "title": "Ich Frage Für Nen Freund",
       "plays": 3,
@@ -124,7 +142,16 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 16,
+      "artist": "ZWIRN",
+      "title": "Hammer",
+      "plays": 3,
+      "previous_position": 22,
+      "movement": 6,
+      "trend": "up"
+    },
+    {
+      "position": 17,
       "artist": "Airplay",
       "title": "For Your Love",
       "plays": 2,
@@ -133,7 +160,7 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 18,
       "artist": "Alex Park",
       "title": "Gib Mir Ehrlichkeit",
       "plays": 2,
@@ -142,45 +169,18 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 19,
       "artist": "Andre Busse",
       "title": "Zwing Mich Doch Zu Meinem Glück",
       "plays": 2,
       "previous_position": 168,
-      "movement": 152,
+      "movement": 149,
       "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Andy Soda",
-      "title": "Wir Zwei Im Glück",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 18,
-      "artist": "Bad Boys Blue",
-      "title": "I Wanna Hear Your Heartbeat",
-      "plays": 2,
-      "previous_position": 202,
-      "movement": 184,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Bad Boys Blue",
-      "title": "You're A Woman",
-      "plays": 2,
-      "previous_position": 1,
-      "movement": -18,
-      "trend": "down"
     },
     {
       "position": 20,
-      "artist": "Banditos Bonitos feat. Nina",
-      "title": "Gimme Sunshine",
+      "artist": "Andy Soda",
+      "title": "Wir Zwei Im Glück",
       "plays": 2,
       "previous_position": null,
       "movement": null,
