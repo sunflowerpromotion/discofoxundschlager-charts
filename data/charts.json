@@ -4,46 +4,55 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W40",
   "previous_week": "2026-W39",
-  "updated": "2026-10-02T00:01:27.313236+00:00",
+  "updated": "2026-10-02T05:24:11.285977+00:00",
   "charts": [
     {
       "position": 1,
-      "artist": "NdeeN",
-      "title": "Sonne",
+      "artist": "Mode-One",
+      "title": "Angels In The Night",
       "plays": 3,
-      "previous_position": 107,
-      "movement": 106,
+      "previous_position": 99,
+      "movement": 98,
       "trend": "up"
     },
     {
       "position": 2,
-      "artist": "Savage",
-      "title": "Don't Cry Tonight",
+      "artist": "NdeeN",
+      "title": "Sonne",
       "plays": 3,
-      "previous_position": 29,
-      "movement": 27,
+      "previous_position": 107,
+      "movement": 105,
       "trend": "up"
     },
     {
       "position": 3,
-      "artist": "Silvio Samoni",
-      "title": "Lass Es Noch Einmal Geschehen",
+      "artist": "Savage",
+      "title": "Don't Cry Tonight",
       "plays": 3,
-      "previous_position": 148,
-      "movement": 145,
+      "previous_position": 29,
+      "movement": 26,
       "trend": "up"
     },
     {
       "position": 4,
-      "artist": "Spitzbua Markus",
-      "title": "Ti Amo Ciao Ciao",
+      "artist": "Silvio Samoni",
+      "title": "Lass Es Noch Einmal Geschehen",
       "plays": 3,
-      "previous_position": 60,
-      "movement": 56,
+      "previous_position": 148,
+      "movement": 144,
       "trend": "up"
     },
     {
       "position": 5,
+      "artist": "Spitzbua Markus",
+      "title": "Ti Amo Ciao Ciao",
+      "plays": 3,
+      "previous_position": 60,
+      "movement": 55,
+      "trend": "up"
+    },
+    {
+      "position": 6,
       "artist": "Studio Hoppe Pop",
       "title": "Folge 7 - Teil 1",
       "plays": 3,
@@ -52,7 +61,7 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 7,
       "artist": "Studio Hoppe Pop",
       "title": "Folge 7 - Teil 2",
       "plays": 3,
@@ -61,16 +70,16 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 8,
       "artist": "Studio Hoppe Pop",
       "title": "Folge 7 - Teil 3",
       "plays": 3,
       "previous_position": 205,
-      "movement": 198,
+      "movement": 197,
       "trend": "up"
     },
     {
-      "position": 8,
+      "position": 9,
       "artist": "Vincent Gross & Tim Peters",
       "title": "Ich Frage Für Nen Freund",
       "plays": 3,
@@ -79,7 +88,7 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 10,
       "artist": "Alex Park",
       "title": "Gib Mir Ehrlichkeit",
       "plays": 2,
@@ -88,16 +97,16 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 11,
       "artist": "Andre Busse",
       "title": "Zwing Mich Doch Zu Meinem Glück",
       "plays": 2,
       "previous_position": 168,
-      "movement": 158,
+      "movement": 157,
       "trend": "up"
     },
     {
-      "position": 11,
+      "position": 12,
       "artist": "Andy Soda",
       "title": "Wir Zwei Im Glück",
       "plays": 2,
@@ -106,34 +115,52 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 13,
       "artist": "Bad Boys Blue",
       "title": "I Wanna Hear Your Heartbeat",
       "plays": 2,
       "previous_position": 202,
-      "movement": 190,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "Beat Magic",
-      "title": "W Cieniu Wierzb",
-      "plays": 2,
-      "previous_position": 90,
-      "movement": 77,
+      "movement": 189,
       "trend": "up"
     },
     {
       "position": 14,
-      "artist": "Dani Mirell",
-      "title": "Fantasy Girl",
+      "artist": "Beat Magic",
+      "title": "W Cieniu Wierzb",
       "plays": 2,
-      "previous_position": 108,
-      "movement": 94,
+      "previous_position": 90,
+      "movement": 76,
       "trend": "up"
     },
     {
       "position": 15,
+      "artist": "Blue Crew",
+      "title": "Santa Cruz",
+      "plays": 2,
+      "previous_position": 203,
+      "movement": 188,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "Cliff Wedge",
+      "title": "With A Broken Heart",
+      "plays": 2,
+      "previous_position": 86,
+      "movement": 70,
+      "trend": "up"
+    },
+    {
+      "position": 17,
+      "artist": "Dani Mirell",
+      "title": "Fantasy Girl",
+      "plays": 2,
+      "previous_position": 108,
+      "movement": 91,
+      "trend": "up"
+    },
+    {
+      "position": 18,
       "artist": "Danny Black",
       "title": "Fels In Der Brandung",
       "plays": 2,
@@ -142,7 +169,7 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 19,
       "artist": "Denise Jolie",
       "title": "Mit Dir Will Ich Den Himmel Berühren",
       "plays": 2,
@@ -151,40 +178,13 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 20,
       "artist": "Fake",
       "title": "Frogs In Spain",
       "plays": 2,
       "previous_position": 130,
-      "movement": 113,
+      "movement": 110,
       "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Fäaschtbänkler",
-      "title": "Kleines Lied",
-      "plays": 2,
-      "previous_position": 37,
-      "movement": 19,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Italo Disco Is Back",
-      "title": "Ausgabe 40 - Teil 1",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Italo Disco Is Back",
-      "title": "Ausgabe 40 - Teil 2",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
     }
   ]
 }
