@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W40",
   "previous_week": "2026-W39",
-  "updated": "2026-10-01T20:26:28.731279+00:00",
+  "updated": "2026-10-02T00:01:27.313236+00:00",
   "charts": [
     {
       "position": 1,
@@ -44,6 +44,33 @@
     },
     {
       "position": 5,
+      "artist": "Studio Hoppe Pop",
+      "title": "Folge 7 - Teil 1",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 6,
+      "artist": "Studio Hoppe Pop",
+      "title": "Folge 7 - Teil 2",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 7,
+      "artist": "Studio Hoppe Pop",
+      "title": "Folge 7 - Teil 3",
+      "plays": 3,
+      "previous_position": 205,
+      "movement": 198,
+      "trend": "up"
+    },
+    {
+      "position": 8,
       "artist": "Vincent Gross & Tim Peters",
       "title": "Ich Frage Für Nen Freund",
       "plays": 3,
@@ -52,7 +79,7 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 9,
       "artist": "Alex Park",
       "title": "Gib Mir Ehrlichkeit",
       "plays": 2,
@@ -61,7 +88,16 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 10,
+      "artist": "Andre Busse",
+      "title": "Zwing Mich Doch Zu Meinem Glück",
+      "plays": 2,
+      "previous_position": 168,
+      "movement": 158,
+      "trend": "up"
+    },
+    {
+      "position": 11,
       "artist": "Andy Soda",
       "title": "Wir Zwei Im Glück",
       "plays": 2,
@@ -70,34 +106,43 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 12,
       "artist": "Bad Boys Blue",
       "title": "I Wanna Hear Your Heartbeat",
       "plays": 2,
       "previous_position": 202,
-      "movement": 194,
+      "movement": 190,
       "trend": "up"
     },
     {
-      "position": 9,
+      "position": 13,
       "artist": "Beat Magic",
       "title": "W Cieniu Wierzb",
       "plays": 2,
       "previous_position": 90,
-      "movement": 81,
+      "movement": 77,
       "trend": "up"
     },
     {
-      "position": 10,
+      "position": 14,
       "artist": "Dani Mirell",
       "title": "Fantasy Girl",
       "plays": 2,
       "previous_position": 108,
-      "movement": 98,
+      "movement": 94,
       "trend": "up"
     },
     {
-      "position": 11,
+      "position": 15,
+      "artist": "Danny Black",
+      "title": "Fels In Der Brandung",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 16,
       "artist": "Denise Jolie",
       "title": "Mit Dir Will Ich Den Himmel Berühren",
       "plays": 2,
@@ -106,25 +151,25 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 17,
       "artist": "Fake",
       "title": "Frogs In Spain",
       "plays": 2,
       "previous_position": 130,
-      "movement": 118,
+      "movement": 113,
       "trend": "up"
     },
     {
-      "position": 13,
+      "position": 18,
       "artist": "Fäaschtbänkler",
       "title": "Kleines Lied",
       "plays": 2,
       "previous_position": 37,
-      "movement": 24,
+      "movement": 19,
       "trend": "up"
     },
     {
-      "position": 14,
+      "position": 19,
       "artist": "Italo Disco Is Back",
       "title": "Ausgabe 40 - Teil 1",
       "plays": 2,
@@ -133,54 +178,9 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 20,
       "artist": "Italo Disco Is Back",
       "title": "Ausgabe 40 - Teil 2",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 16,
-      "artist": "Italo Disco Is Back",
-      "title": "Ausgabe 40 - Teil 3",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 17,
-      "artist": "Joe Yellow",
-      "title": "I'm Your Lover",
-      "plays": 2,
-      "previous_position": 110,
-      "movement": 93,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "July June",
-      "title": "Diese Tage",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Jörg Bausch",
-      "title": "Totale Chaoten",
-      "plays": 2,
-      "previous_position": 96,
-      "movement": 77,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "LaBix & the Fizzy Tones",
-      "title": "Barfuß",
       "plays": 2,
       "previous_position": null,
       "movement": null,
