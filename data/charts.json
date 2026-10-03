@@ -4,19 +4,64 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W40",
   "previous_week": "2026-W39",
-  "updated": "2026-10-02T20:57:40.839475+00:00",
+  "updated": "2026-10-03T00:14:42.412478+00:00",
   "charts": [
     {
       "position": 1,
-      "artist": "Silvio Samoni",
-      "title": "Lass Es Noch Einmal Geschehen",
+      "artist": "Mandy Bischof",
+      "title": "Maria Tanzt",
       "plays": 4,
-      "previous_position": 148,
-      "movement": 147,
+      "previous_position": 80,
+      "movement": 79,
       "trend": "up"
     },
     {
       "position": 2,
+      "artist": "Silvio Samoni",
+      "title": "Lass Es Noch Einmal Geschehen",
+      "plays": 4,
+      "previous_position": 148,
+      "movement": 146,
+      "trend": "up"
+    },
+    {
+      "position": 3,
+      "artist": "Studio Hoppe Pop",
+      "title": "Folge 7 - Teil 1",
+      "plays": 4,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 4,
+      "artist": "Studio Hoppe Pop",
+      "title": "Folge 7 - Teil 2",
+      "plays": 4,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 5,
+      "artist": "Studio Hoppe Pop",
+      "title": "Folge 7 - Teil 3",
+      "plays": 4,
+      "previous_position": 205,
+      "movement": 200,
+      "trend": "up"
+    },
+    {
+      "position": 6,
+      "artist": "Andre Busse",
+      "title": "Zwing Mich Doch Zu Meinem Glück",
+      "plays": 3,
+      "previous_position": 168,
+      "movement": 162,
+      "trend": "up"
+    },
+    {
+      "position": 7,
       "artist": "Italo Disco Is Back",
       "title": "Ausgabe 40 - Teil 1",
       "plays": 3,
@@ -25,7 +70,7 @@
       "trend": "new"
     },
     {
-      "position": 3,
+      "position": 8,
       "artist": "Italo Disco Is Back",
       "title": "Ausgabe 40 - Teil 2",
       "plays": 3,
@@ -34,7 +79,7 @@
       "trend": "new"
     },
     {
-      "position": 4,
+      "position": 9,
       "artist": "Italo Disco Is Back",
       "title": "Ausgabe 40 - Teil 3",
       "plays": 3,
@@ -43,25 +88,16 @@
       "trend": "new"
     },
     {
-      "position": 5,
-      "artist": "Mandy Bischof",
-      "title": "Maria Tanzt",
-      "plays": 3,
-      "previous_position": 80,
-      "movement": 75,
-      "trend": "up"
-    },
-    {
-      "position": 6,
+      "position": 10,
       "artist": "Mode-One",
       "title": "Angels In The Night",
       "plays": 3,
       "previous_position": 99,
-      "movement": 93,
+      "movement": 89,
       "trend": "up"
     },
     {
-      "position": 7,
+      "position": 11,
       "artist": "Modern Talking",
       "title": "Atlantis Is Calling (S.O.S. For Love)",
       "plays": 3,
@@ -70,16 +106,16 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 12,
       "artist": "NdeeN",
       "title": "Sonne",
       "plays": 3,
       "previous_position": 107,
-      "movement": 99,
+      "movement": 95,
       "trend": "up"
     },
     {
-      "position": 9,
+      "position": 13,
       "artist": "Sandra",
       "title": "Der Himmel Hat Mir Dich Geschickt",
       "plays": 3,
@@ -88,52 +124,34 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 14,
       "artist": "Savage",
       "title": "Don't Cry Tonight",
       "plays": 3,
       "previous_position": 29,
-      "movement": 19,
-      "trend": "up"
-    },
-    {
-      "position": 11,
-      "artist": "Spitzbua Markus",
-      "title": "Ti Amo Ciao Ciao",
-      "plays": 3,
-      "previous_position": 60,
-      "movement": 49,
-      "trend": "up"
-    },
-    {
-      "position": 12,
-      "artist": "Studio Hoppe Pop",
-      "title": "Folge 7 - Teil 1",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 13,
-      "artist": "Studio Hoppe Pop",
-      "title": "Folge 7 - Teil 2",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 14,
-      "artist": "Studio Hoppe Pop",
-      "title": "Folge 7 - Teil 3",
-      "plays": 3,
-      "previous_position": 205,
-      "movement": 191,
+      "movement": 15,
       "trend": "up"
     },
     {
       "position": 15,
+      "artist": "Spitzbua Markus",
+      "title": "Ti Amo Ciao Ciao",
+      "plays": 3,
+      "previous_position": 60,
+      "movement": 45,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "Tina Heeschen",
+      "title": "Trau Dich Doch",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 17,
       "artist": "Vincent Gross & Tim Peters",
       "title": "Ich Frage Für Nen Freund",
       "plays": 3,
@@ -142,16 +160,16 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 18,
       "artist": "ZWIRN",
       "title": "Hammer",
       "plays": 3,
       "previous_position": 22,
-      "movement": 6,
+      "movement": 4,
       "trend": "up"
     },
     {
-      "position": 17,
+      "position": 19,
       "artist": "Airplay",
       "title": "For Your Love",
       "plays": 2,
@@ -160,27 +178,9 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 20,
       "artist": "Alex Park",
       "title": "Gib Mir Ehrlichkeit",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Andre Busse",
-      "title": "Zwing Mich Doch Zu Meinem Glück",
-      "plays": 2,
-      "previous_position": 168,
-      "movement": 149,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "Andy Soda",
-      "title": "Wir Zwei Im Glück",
       "plays": 2,
       "previous_position": null,
       "movement": null,
