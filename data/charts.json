@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W40",
   "previous_week": "2026-W39",
-  "updated": "2026-10-03T18:20:23.216446+00:00",
+  "updated": "2026-10-03T21:28:43.182873+00:00",
   "charts": [
     {
       "position": 1,
@@ -107,24 +107,51 @@
     },
     {
       "position": 12,
+      "artist": "Banditos Bonitos feat. Nina",
+      "title": "Gimme Sunshine",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 13,
       "artist": "Dani Mirell",
       "title": "Fantasy Girl",
       "plays": 3,
       "previous_position": 108,
-      "movement": 96,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "Jörg Bausch",
-      "title": "Totale Chaoten",
-      "plays": 3,
-      "previous_position": 96,
-      "movement": 83,
+      "movement": 95,
       "trend": "up"
     },
     {
       "position": 14,
+      "artist": "Hurricanes",
+      "title": "Only One Night",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 15,
+      "artist": "Joy",
+      "title": "Touch By Touch",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 16,
+      "artist": "Jörg Bausch",
+      "title": "Totale Chaoten",
+      "plays": 3,
+      "previous_position": 96,
+      "movement": 80,
+      "trend": "up"
+    },
+    {
+      "position": 17,
       "artist": "Lian Ross",
       "title": "The Rules Of Love",
       "plays": 3,
@@ -133,16 +160,16 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 18,
       "artist": "Mode-One",
       "title": "Angels In The Night",
       "plays": 3,
       "previous_position": 99,
-      "movement": 84,
+      "movement": 81,
       "trend": "up"
     },
     {
-      "position": 16,
+      "position": 19,
       "artist": "Modern Talking",
       "title": "Atlantis Is Calling (S.O.S. For Love)",
       "plays": 3,
@@ -151,39 +178,12 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 20,
       "artist": "NdeeN",
       "title": "Sonne",
       "plays": 3,
       "previous_position": 107,
-      "movement": 90,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Sandra",
-      "title": "Der Himmel Hat Mir Dich Geschickt",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Savage",
-      "title": "Don't Cry Tonight",
-      "plays": 3,
-      "previous_position": 29,
-      "movement": 10,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "Spitzbua Markus",
-      "title": "Ti Amo Ciao Ciao",
-      "plays": 3,
-      "previous_position": 60,
-      "movement": 40,
+      "movement": 87,
       "trend": "up"
     }
   ]
