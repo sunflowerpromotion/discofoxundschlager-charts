@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W40",
   "previous_week": "2026-W39",
-  "updated": "2026-10-03T10:30:00.341969+00:00",
+  "updated": "2026-10-03T14:49:52.370225+00:00",
   "charts": [
     {
       "position": 1,
@@ -89,15 +89,42 @@
     },
     {
       "position": 10,
+      "artist": "Tina Heeschen",
+      "title": "Trau Dich Doch",
+      "plays": 4,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 11,
       "artist": "Andre Busse",
       "title": "Zwing Mich Doch Zu Meinem Glück",
       "plays": 3,
       "previous_position": 168,
-      "movement": 158,
+      "movement": 157,
       "trend": "up"
     },
     {
-      "position": 11,
+      "position": 12,
+      "artist": "Dani Mirell",
+      "title": "Fantasy Girl",
+      "plays": 3,
+      "previous_position": 108,
+      "movement": 96,
+      "trend": "up"
+    },
+    {
+      "position": 13,
+      "artist": "Jörg Bausch",
+      "title": "Totale Chaoten",
+      "plays": 3,
+      "previous_position": 96,
+      "movement": 83,
+      "trend": "up"
+    },
+    {
+      "position": 14,
       "artist": "Lian Ross",
       "title": "The Rules Of Love",
       "plays": 3,
@@ -106,16 +133,16 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 15,
       "artist": "Mode-One",
       "title": "Angels In The Night",
       "plays": 3,
       "previous_position": 99,
-      "movement": 87,
+      "movement": 84,
       "trend": "up"
     },
     {
-      "position": 13,
+      "position": 16,
       "artist": "Modern Talking",
       "title": "Atlantis Is Calling (S.O.S. For Love)",
       "plays": 3,
@@ -124,16 +151,16 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 17,
       "artist": "NdeeN",
       "title": "Sonne",
       "plays": 3,
       "previous_position": 107,
-      "movement": 93,
+      "movement": 90,
       "trend": "up"
     },
     {
-      "position": 15,
+      "position": 18,
       "artist": "Sandra",
       "title": "Der Himmel Hat Mir Dich Geschickt",
       "plays": 3,
@@ -142,49 +169,22 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 19,
       "artist": "Savage",
       "title": "Don't Cry Tonight",
       "plays": 3,
       "previous_position": 29,
-      "movement": 13,
+      "movement": 10,
       "trend": "up"
     },
     {
-      "position": 17,
+      "position": 20,
       "artist": "Spitzbua Markus",
       "title": "Ti Amo Ciao Ciao",
       "plays": 3,
       "previous_position": 60,
-      "movement": 43,
+      "movement": 40,
       "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Systems In Blue",
-      "title": "Blue Odyssey",
-      "plays": 3,
-      "previous_position": 187,
-      "movement": 169,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Tina Heeschen",
-      "title": "Trau Dich Doch",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Vincent Gross & Tim Peters",
-      "title": "Ich Frage Für Nen Freund",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
     }
   ]
 }
