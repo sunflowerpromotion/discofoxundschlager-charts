@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W40",
   "previous_week": "2026-W39",
-  "updated": "2026-10-04T18:48:59.123344+00:00",
+  "updated": "2026-10-04T21:59:41.724841+00:00",
   "charts": [
     {
       "position": 1,
@@ -44,15 +44,24 @@
     },
     {
       "position": 5,
+      "artist": "Joy",
+      "title": "Touch By Touch",
+      "plays": 5,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 6,
       "artist": "Jörg Bausch",
       "title": "Totale Chaoten",
       "plays": 5,
       "previous_position": 96,
-      "movement": 91,
+      "movement": 90,
       "trend": "up"
     },
     {
-      "position": 6,
+      "position": 7,
       "artist": "Tina Heeschen",
       "title": "Trau Dich Doch",
       "plays": 5,
@@ -61,16 +70,25 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 8,
       "artist": "Andre Busse",
       "title": "Zwing Mich Doch Zu Meinem Glück",
       "plays": 4,
       "previous_position": 168,
-      "movement": 161,
+      "movement": 160,
       "trend": "up"
     },
     {
-      "position": 8,
+      "position": 9,
+      "artist": "Bad Boys Blue",
+      "title": "You're A Woman",
+      "plays": 4,
+      "previous_position": 1,
+      "movement": -8,
+      "trend": "down"
+    },
+    {
+      "position": 10,
       "artist": "Italo Disco Is Back",
       "title": "Ausgabe 40 - Teil 4",
       "plays": 4,
@@ -79,43 +97,34 @@
       "trend": "new"
     },
     {
-      "position": 9,
-      "artist": "Joy",
-      "title": "Touch By Touch",
-      "plays": 4,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 10,
+      "position": 11,
       "artist": "Mandy Bischof",
       "title": "Maria Tanzt",
       "plays": 4,
       "previous_position": 80,
-      "movement": 70,
-      "trend": "up"
-    },
-    {
-      "position": 11,
-      "artist": "Savage",
-      "title": "Don't Cry Tonight",
-      "plays": 4,
-      "previous_position": 29,
-      "movement": 18,
+      "movement": 69,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Silvio Samoni",
-      "title": "Lass Es Noch Einmal Geschehen",
+      "artist": "Savage",
+      "title": "Don't Cry Tonight",
       "plays": 4,
-      "previous_position": 148,
-      "movement": 136,
+      "previous_position": 29,
+      "movement": 17,
       "trend": "up"
     },
     {
       "position": 13,
+      "artist": "Silvio Samoni",
+      "title": "Lass Es Noch Einmal Geschehen",
+      "plays": 4,
+      "previous_position": 148,
+      "movement": 135,
+      "trend": "up"
+    },
+    {
+      "position": 14,
       "artist": "Studio Hoppe Pop",
       "title": "Folge 7 - Teil 1",
       "plays": 4,
@@ -124,7 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 15,
       "artist": "Studio Hoppe Pop",
       "title": "Folge 7 - Teil 2",
       "plays": 4,
@@ -133,16 +142,16 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 16,
       "artist": "Studio Hoppe Pop",
       "title": "Folge 7 - Teil 3",
       "plays": 4,
       "previous_position": 205,
-      "movement": 190,
+      "movement": 189,
       "trend": "up"
     },
     {
-      "position": 16,
+      "position": 17,
       "artist": "Wolframm",
       "title": "Give Me All Your Love",
       "plays": 4,
@@ -151,16 +160,16 @@
       "trend": "new"
     },
     {
-      "position": 17,
-      "artist": "Bad Boys Blue",
-      "title": "You're A Woman",
+      "position": 18,
+      "artist": "Airplay",
+      "title": "For Your Love",
       "plays": 3,
-      "previous_position": 1,
-      "movement": -16,
-      "trend": "down"
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
-      "position": 18,
+      "position": 19,
       "artist": "Banditos Bonitos feat. Nina",
       "title": "Gimme Sunshine",
       "plays": 3,
@@ -169,18 +178,9 @@
       "trend": "new"
     },
     {
-      "position": 19,
+      "position": 20,
       "artist": "Blue System",
       "title": "Magic Symphony",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Hurricanes",
-      "title": "Only One Night",
       "plays": 3,
       "previous_position": null,
       "movement": null,
