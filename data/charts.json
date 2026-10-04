@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W40",
   "previous_week": "2026-W39",
-  "updated": "2026-10-04T15:48:19.105921+00:00",
+  "updated": "2026-10-04T18:48:59.123344+00:00",
   "charts": [
     {
       "position": 1,
@@ -26,6 +26,15 @@
     },
     {
       "position": 3,
+      "artist": "Dani Mirell",
+      "title": "Fantasy Girl",
+      "plays": 5,
+      "previous_position": 108,
+      "movement": 105,
+      "trend": "up"
+    },
+    {
+      "position": 4,
       "artist": "Italo Disco Is Back",
       "title": "Ausgabe 40 - Teil 3",
       "plays": 5,
@@ -34,7 +43,16 @@
       "trend": "new"
     },
     {
-      "position": 4,
+      "position": 5,
+      "artist": "Jörg Bausch",
+      "title": "Totale Chaoten",
+      "plays": 5,
+      "previous_position": 96,
+      "movement": 91,
+      "trend": "up"
+    },
+    {
+      "position": 6,
       "artist": "Tina Heeschen",
       "title": "Trau Dich Doch",
       "plays": 5,
@@ -43,16 +61,16 @@
       "trend": "new"
     },
     {
-      "position": 5,
-      "artist": "Dani Mirell",
-      "title": "Fantasy Girl",
+      "position": 7,
+      "artist": "Andre Busse",
+      "title": "Zwing Mich Doch Zu Meinem Glück",
       "plays": 4,
-      "previous_position": 108,
-      "movement": 103,
+      "previous_position": 168,
+      "movement": 161,
       "trend": "up"
     },
     {
-      "position": 6,
+      "position": 8,
       "artist": "Italo Disco Is Back",
       "title": "Ausgabe 40 - Teil 4",
       "plays": 4,
@@ -61,7 +79,7 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 9,
       "artist": "Joy",
       "title": "Touch By Touch",
       "plays": 4,
@@ -70,43 +88,34 @@
       "trend": "new"
     },
     {
-      "position": 8,
-      "artist": "Jörg Bausch",
-      "title": "Totale Chaoten",
-      "plays": 4,
-      "previous_position": 96,
-      "movement": 88,
-      "trend": "up"
-    },
-    {
-      "position": 9,
+      "position": 10,
       "artist": "Mandy Bischof",
       "title": "Maria Tanzt",
       "plays": 4,
       "previous_position": 80,
-      "movement": 71,
-      "trend": "up"
-    },
-    {
-      "position": 10,
-      "artist": "Savage",
-      "title": "Don't Cry Tonight",
-      "plays": 4,
-      "previous_position": 29,
-      "movement": 19,
+      "movement": 70,
       "trend": "up"
     },
     {
       "position": 11,
-      "artist": "Silvio Samoni",
-      "title": "Lass Es Noch Einmal Geschehen",
+      "artist": "Savage",
+      "title": "Don't Cry Tonight",
       "plays": 4,
-      "previous_position": 148,
-      "movement": 137,
+      "previous_position": 29,
+      "movement": 18,
       "trend": "up"
     },
     {
       "position": 12,
+      "artist": "Silvio Samoni",
+      "title": "Lass Es Noch Einmal Geschehen",
+      "plays": 4,
+      "previous_position": 148,
+      "movement": 136,
+      "trend": "up"
+    },
+    {
+      "position": 13,
       "artist": "Studio Hoppe Pop",
       "title": "Folge 7 - Teil 1",
       "plays": 4,
@@ -115,7 +124,7 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 14,
       "artist": "Studio Hoppe Pop",
       "title": "Folge 7 - Teil 2",
       "plays": 4,
@@ -124,31 +133,22 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 15,
       "artist": "Studio Hoppe Pop",
       "title": "Folge 7 - Teil 3",
       "plays": 4,
       "previous_position": 205,
-      "movement": 191,
+      "movement": 190,
       "trend": "up"
     },
     {
-      "position": 15,
+      "position": 16,
       "artist": "Wolframm",
       "title": "Give Me All Your Love",
       "plays": 4,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 16,
-      "artist": "Andre Busse",
-      "title": "Zwing Mich Doch Zu Meinem Glück",
-      "plays": 3,
-      "previous_position": 168,
-      "movement": 152,
-      "trend": "up"
     },
     {
       "position": 17,
