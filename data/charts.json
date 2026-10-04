@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W40",
   "previous_week": "2026-W39",
-  "updated": "2026-10-03T23:58:57.491908+00:00",
+  "updated": "2026-10-04T05:25:22.151124+00:00",
   "charts": [
     {
       "position": 1,
@@ -71,15 +71,24 @@
     },
     {
       "position": 8,
-      "artist": "Silvio Samoni",
-      "title": "Lass Es Noch Einmal Geschehen",
+      "artist": "Savage",
+      "title": "Don't Cry Tonight",
       "plays": 4,
-      "previous_position": 148,
-      "movement": 140,
+      "previous_position": 29,
+      "movement": 21,
       "trend": "up"
     },
     {
       "position": 9,
+      "artist": "Silvio Samoni",
+      "title": "Lass Es Noch Einmal Geschehen",
+      "plays": 4,
+      "previous_position": 148,
+      "movement": 139,
+      "trend": "up"
+    },
+    {
+      "position": 10,
       "artist": "Studio Hoppe Pop",
       "title": "Folge 7 - Teil 1",
       "plays": 4,
@@ -88,7 +97,7 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 11,
       "artist": "Studio Hoppe Pop",
       "title": "Folge 7 - Teil 2",
       "plays": 4,
@@ -97,16 +106,16 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 12,
       "artist": "Studio Hoppe Pop",
       "title": "Folge 7 - Teil 3",
       "plays": 4,
       "previous_position": 205,
-      "movement": 194,
+      "movement": 193,
       "trend": "up"
     },
     {
-      "position": 12,
+      "position": 13,
       "artist": "Wolframm",
       "title": "Give Me All Your Love",
       "plays": 4,
@@ -115,16 +124,25 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 14,
       "artist": "Andre Busse",
       "title": "Zwing Mich Doch Zu Meinem Glück",
       "plays": 3,
       "previous_position": 168,
-      "movement": 155,
+      "movement": 154,
       "trend": "up"
     },
     {
-      "position": 14,
+      "position": 15,
+      "artist": "Bad Boys Blue",
+      "title": "You're A Woman",
+      "plays": 3,
+      "previous_position": 1,
+      "movement": -14,
+      "trend": "down"
+    },
+    {
+      "position": 16,
       "artist": "Banditos Bonitos feat. Nina",
       "title": "Gimme Sunshine",
       "plays": 3,
@@ -133,7 +151,7 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 17,
       "artist": "Blue System",
       "title": "Magic Symphony",
       "plays": 3,
@@ -142,16 +160,16 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 18,
       "artist": "Dani Mirell",
       "title": "Fantasy Girl",
       "plays": 3,
       "previous_position": 108,
-      "movement": 92,
+      "movement": 90,
       "trend": "up"
     },
     {
-      "position": 17,
+      "position": 19,
       "artist": "Hurricanes",
       "title": "Only One Night",
       "plays": 3,
@@ -160,30 +178,12 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 20,
       "artist": "Jörg Bausch",
       "title": "Totale Chaoten",
       "plays": 3,
       "previous_position": 96,
-      "movement": 78,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Lian Ross",
-      "title": "The Rules Of Love",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Mode-One",
-      "title": "Angels In The Night",
-      "plays": 3,
-      "previous_position": 99,
-      "movement": 79,
+      "movement": 76,
       "trend": "up"
     }
   ]
