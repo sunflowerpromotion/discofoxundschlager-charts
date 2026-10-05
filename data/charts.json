@@ -2,186 +2,78 @@
   "station": "discofoxundschlager",
   "station_url": "https://laut.fm/discofoxundschlager",
   "title": "Discofox & Schlager Charts",
-  "week": "2026-W40",
-  "previous_week": "2026-W39",
-  "updated": "2026-10-04T21:59:41.724841+00:00",
+  "week": "2026-W41",
+  "previous_week": "2026-W40",
+  "updated": "2026-10-05T00:42:25.712649+00:00",
   "charts": [
     {
       "position": 1,
-      "artist": "Italo Disco Is Back",
-      "title": "Ausgabe 40 - Teil 1",
-      "plays": 6,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "artist": "Studio Hoppe Pop",
+      "title": "Folge 8 - Teil 1",
+      "plays": 2,
+      "previous_position": 174,
+      "movement": 173,
+      "trend": "up"
     },
     {
       "position": 2,
-      "artist": "Italo Disco Is Back",
-      "title": "Ausgabe 40 - Teil 2",
-      "plays": 6,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "artist": "Studio Hoppe Pop",
+      "title": "Folge 8 - Teil 2",
+      "plays": 2,
+      "previous_position": 173,
+      "movement": 171,
+      "trend": "up"
     },
     {
       "position": 3,
-      "artist": "Dani Mirell",
-      "title": "Fantasy Girl",
-      "plays": 5,
-      "previous_position": 108,
-      "movement": 105,
+      "artist": "Banditos Bonitos feat. Nina",
+      "title": "Gimme Sunshine",
+      "plays": 1,
+      "previous_position": 29,
+      "movement": 26,
       "trend": "up"
     },
     {
       "position": 4,
-      "artist": "Italo Disco Is Back",
-      "title": "Ausgabe 40 - Teil 3",
-      "plays": 5,
+      "artist": "D. White",
+      "title": "Follow Me",
+      "plays": 1,
       "previous_position": null,
       "movement": null,
       "trend": "new"
     },
     {
       "position": 5,
-      "artist": "Joy",
-      "title": "Touch By Touch",
-      "plays": 5,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "artist": "Hurricanes",
+      "title": "Only One Night",
+      "plays": 1,
+      "previous_position": 32,
+      "movement": 27,
+      "trend": "up"
     },
     {
       "position": 6,
-      "artist": "Jörg Bausch",
-      "title": "Totale Chaoten",
-      "plays": 5,
-      "previous_position": 96,
-      "movement": 90,
+      "artist": "Lift Up",
+      "title": "Diamonds Never Made A Lady",
+      "plays": 1,
+      "previous_position": 152,
+      "movement": 146,
       "trend": "up"
     },
     {
       "position": 7,
-      "artist": "Tina Heeschen",
-      "title": "Trau Dich Doch",
-      "plays": 5,
+      "artist": "Saphir",
+      "title": "I Am Alive",
+      "plays": 1,
       "previous_position": null,
       "movement": null,
       "trend": "new"
     },
     {
       "position": 8,
-      "artist": "Andre Busse",
-      "title": "Zwing Mich Doch Zu Meinem Glück",
-      "plays": 4,
-      "previous_position": 168,
-      "movement": 160,
-      "trend": "up"
-    },
-    {
-      "position": 9,
-      "artist": "Bad Boys Blue",
-      "title": "You're A Woman",
-      "plays": 4,
-      "previous_position": 1,
-      "movement": -8,
-      "trend": "down"
-    },
-    {
-      "position": 10,
-      "artist": "Italo Disco Is Back",
-      "title": "Ausgabe 40 - Teil 4",
-      "plays": 4,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 11,
-      "artist": "Mandy Bischof",
-      "title": "Maria Tanzt",
-      "plays": 4,
-      "previous_position": 80,
-      "movement": 69,
-      "trend": "up"
-    },
-    {
-      "position": 12,
-      "artist": "Savage",
-      "title": "Don't Cry Tonight",
-      "plays": 4,
-      "previous_position": 29,
-      "movement": 17,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "Silvio Samoni",
-      "title": "Lass Es Noch Einmal Geschehen",
-      "plays": 4,
-      "previous_position": 148,
-      "movement": 135,
-      "trend": "up"
-    },
-    {
-      "position": 14,
       "artist": "Studio Hoppe Pop",
-      "title": "Folge 7 - Teil 1",
-      "plays": 4,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 15,
-      "artist": "Studio Hoppe Pop",
-      "title": "Folge 7 - Teil 2",
-      "plays": 4,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 16,
-      "artist": "Studio Hoppe Pop",
-      "title": "Folge 7 - Teil 3",
-      "plays": 4,
-      "previous_position": 205,
-      "movement": 189,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Wolframm",
-      "title": "Give Me All Your Love",
-      "plays": 4,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 18,
-      "artist": "Airplay",
-      "title": "For Your Love",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Banditos Bonitos feat. Nina",
-      "title": "Gimme Sunshine",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Blue System",
-      "title": "Magic Symphony",
-      "plays": 3,
+      "title": "Folge 8 - Teil 3",
+      "plays": 1,
       "previous_position": null,
       "movement": null,
       "trend": "new"
