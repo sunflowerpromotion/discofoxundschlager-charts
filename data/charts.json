@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W41",
   "previous_week": "2026-W40",
-  "updated": "2026-10-05T06:15:12.012998+00:00",
+  "updated": "2026-10-05T14:50:06.314556+00:00",
   "charts": [
     {
       "position": 1,
@@ -80,51 +80,96 @@
     },
     {
       "position": 9,
-      "artist": "Grant Miller",
-      "title": "Star",
+      "artist": "Die Grubertaler",
+      "title": "Hier Komm Ich Her, Hier Will Ich Sein",
       "plays": 1,
-      "previous_position": 80,
-      "movement": 71,
+      "previous_position": 180,
+      "movement": 171,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "Hurricanes",
-      "title": "Only One Night",
+      "artist": "DJ Herzbeat & Daliah Lavi",
+      "title": "Mut",
       "plays": 1,
-      "previous_position": 32,
-      "movement": 22,
+      "previous_position": 81,
+      "movement": 71,
       "trend": "up"
     },
     {
       "position": 11,
-      "artist": "Joe Yellow",
-      "title": "I'm Your Lover",
+      "artist": "FRANZ K.",
+      "title": "Zum Glück Ein Neues Glück",
       "plays": 1,
-      "previous_position": 48,
-      "movement": 37,
+      "previous_position": 171,
+      "movement": 160,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Ken Laszlo",
-      "title": "Tonight",
+      "artist": "Grant Miller",
+      "title": "Star",
       "plays": 1,
-      "previous_position": 20,
-      "movement": 8,
+      "previous_position": 80,
+      "movement": 68,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "Lift Up",
-      "title": "Diamonds Never Made A Lady",
+      "artist": "Hurricanes",
+      "title": "Only One Night",
       "plays": 1,
-      "previous_position": 152,
-      "movement": 139,
+      "previous_position": 32,
+      "movement": 19,
       "trend": "up"
     },
     {
       "position": 14,
+      "artist": "ID",
+      "title": "Schlager",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 15,
+      "artist": "Joe Yellow",
+      "title": "I'm Your Lover",
+      "plays": 1,
+      "previous_position": 48,
+      "movement": 33,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "Jörg Bausch",
+      "title": "Schleier Und Zylinder",
+      "plays": 1,
+      "previous_position": 181,
+      "movement": 165,
+      "trend": "up"
+    },
+    {
+      "position": 17,
+      "artist": "Ken Laszlo",
+      "title": "Tonight",
+      "plays": 1,
+      "previous_position": 20,
+      "movement": 3,
+      "trend": "up"
+    },
+    {
+      "position": 18,
+      "artist": "Lift Up",
+      "title": "Diamonds Never Made A Lady",
+      "plays": 1,
+      "previous_position": 152,
+      "movement": 134,
+      "trend": "up"
+    },
+    {
+      "position": 19,
       "artist": "London Boys",
       "title": "Requiem",
       "plays": 1,
@@ -133,40 +178,13 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 20,
       "artist": "Mauro",
       "title": "Buona Sera - Ciao Ciao",
       "plays": 1,
       "previous_position": 25,
-      "movement": 10,
+      "movement": 5,
       "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "Saphir",
-      "title": "I Am Alive",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 17,
-      "artist": "Spy 71",
-      "title": "Take Me…Mr. Love",
-      "plays": 1,
-      "previous_position": 86,
-      "movement": 69,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Studio Hoppe Pop",
-      "title": "Folge 8 - Teil 3",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
     }
   ]
 }
