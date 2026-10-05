@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W41",
   "previous_week": "2026-W40",
-  "updated": "2026-10-05T00:42:25.712649+00:00",
+  "updated": "2026-10-05T06:15:12.012998+00:00",
   "charts": [
     {
       "position": 1,
@@ -26,15 +26,51 @@
     },
     {
       "position": 3,
-      "artist": "Banditos Bonitos feat. Nina",
-      "title": "Gimme Sunshine",
+      "artist": "Baby's Gang",
+      "title": "Happy Song",
       "plays": 1,
-      "previous_position": 29,
-      "movement": 26,
+      "previous_position": 67,
+      "movement": 64,
       "trend": "up"
     },
     {
       "position": 4,
+      "artist": "Bad Boys Blue",
+      "title": "Come Back And Stay",
+      "plays": 1,
+      "previous_position": 163,
+      "movement": 159,
+      "trend": "up"
+    },
+    {
+      "position": 5,
+      "artist": "Banditos Bonitos feat. Nina",
+      "title": "Gimme Sunshine",
+      "plays": 1,
+      "previous_position": 29,
+      "movement": 24,
+      "trend": "up"
+    },
+    {
+      "position": 6,
+      "artist": "Blue Crew",
+      "title": "Santa Cruz",
+      "plays": 1,
+      "previous_position": 79,
+      "movement": 73,
+      "trend": "up"
+    },
+    {
+      "position": 7,
+      "artist": "C.C.Catch",
+      "title": "Stay",
+      "plays": 1,
+      "previous_position": 158,
+      "movement": 151,
+      "trend": "up"
+    },
+    {
+      "position": 8,
       "artist": "D. White",
       "title": "Follow Me",
       "plays": 1,
@@ -43,25 +79,70 @@
       "trend": "new"
     },
     {
-      "position": 5,
+      "position": 9,
+      "artist": "Grant Miller",
+      "title": "Star",
+      "plays": 1,
+      "previous_position": 80,
+      "movement": 71,
+      "trend": "up"
+    },
+    {
+      "position": 10,
       "artist": "Hurricanes",
       "title": "Only One Night",
       "plays": 1,
       "previous_position": 32,
-      "movement": 27,
+      "movement": 22,
       "trend": "up"
     },
     {
-      "position": 6,
+      "position": 11,
+      "artist": "Joe Yellow",
+      "title": "I'm Your Lover",
+      "plays": 1,
+      "previous_position": 48,
+      "movement": 37,
+      "trend": "up"
+    },
+    {
+      "position": 12,
+      "artist": "Ken Laszlo",
+      "title": "Tonight",
+      "plays": 1,
+      "previous_position": 20,
+      "movement": 8,
+      "trend": "up"
+    },
+    {
+      "position": 13,
       "artist": "Lift Up",
       "title": "Diamonds Never Made A Lady",
       "plays": 1,
       "previous_position": 152,
-      "movement": 146,
+      "movement": 139,
       "trend": "up"
     },
     {
-      "position": 7,
+      "position": 14,
+      "artist": "London Boys",
+      "title": "Requiem",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 15,
+      "artist": "Mauro",
+      "title": "Buona Sera - Ciao Ciao",
+      "plays": 1,
+      "previous_position": 25,
+      "movement": 10,
+      "trend": "up"
+    },
+    {
+      "position": 16,
       "artist": "Saphir",
       "title": "I Am Alive",
       "plays": 1,
@@ -70,7 +151,16 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 17,
+      "artist": "Spy 71",
+      "title": "Take Me…Mr. Love",
+      "plays": 1,
+      "previous_position": 86,
+      "movement": 69,
+      "trend": "up"
+    },
+    {
+      "position": 18,
       "artist": "Studio Hoppe Pop",
       "title": "Folge 8 - Teil 3",
       "plays": 1,
