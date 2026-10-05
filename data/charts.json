@@ -4,127 +4,163 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W41",
   "previous_week": "2026-W40",
-  "updated": "2026-10-05T14:50:06.314556+00:00",
+  "updated": "2026-10-05T21:41:23.540677+00:00",
   "charts": [
     {
       "position": 1,
-      "artist": "Studio Hoppe Pop",
-      "title": "Folge 8 - Teil 1",
-      "plays": 2,
-      "previous_position": 174,
-      "movement": 173,
-      "trend": "up"
-    },
-    {
-      "position": 2,
-      "artist": "Studio Hoppe Pop",
-      "title": "Folge 8 - Teil 2",
-      "plays": 2,
-      "previous_position": 173,
-      "movement": 171,
-      "trend": "up"
-    },
-    {
-      "position": 3,
-      "artist": "Baby's Gang",
-      "title": "Happy Song",
-      "plays": 1,
-      "previous_position": 67,
-      "movement": 64,
-      "trend": "up"
-    },
-    {
-      "position": 4,
-      "artist": "Bad Boys Blue",
-      "title": "Come Back And Stay",
-      "plays": 1,
-      "previous_position": 163,
-      "movement": 159,
-      "trend": "up"
-    },
-    {
-      "position": 5,
-      "artist": "Banditos Bonitos feat. Nina",
-      "title": "Gimme Sunshine",
-      "plays": 1,
-      "previous_position": 29,
-      "movement": 24,
-      "trend": "up"
-    },
-    {
-      "position": 6,
-      "artist": "Blue Crew",
-      "title": "Santa Cruz",
-      "plays": 1,
-      "previous_position": 79,
-      "movement": 73,
-      "trend": "up"
-    },
-    {
-      "position": 7,
-      "artist": "C.C.Catch",
-      "title": "Stay",
-      "plays": 1,
-      "previous_position": 158,
-      "movement": 151,
-      "trend": "up"
-    },
-    {
-      "position": 8,
       "artist": "D. White",
       "title": "Follow Me",
-      "plays": 1,
+      "plays": 2,
       "previous_position": null,
       "movement": null,
       "trend": "new"
     },
     {
-      "position": 9,
-      "artist": "Die Grubertaler",
-      "title": "Hier Komm Ich Her, Hier Will Ich Sein",
+      "position": 2,
+      "artist": "Hurricanes",
+      "title": "Only One Night",
+      "plays": 2,
+      "previous_position": 32,
+      "movement": 30,
+      "trend": "up"
+    },
+    {
+      "position": 3,
+      "artist": "Lift Up",
+      "title": "Diamonds Never Made A Lady",
+      "plays": 2,
+      "previous_position": 152,
+      "movement": 149,
+      "trend": "up"
+    },
+    {
+      "position": 4,
+      "artist": "Saphir",
+      "title": "I Am Alive",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 5,
+      "artist": "Studio Hoppe Pop",
+      "title": "Folge 8 - Teil 1",
+      "plays": 2,
+      "previous_position": 174,
+      "movement": 169,
+      "trend": "up"
+    },
+    {
+      "position": 6,
+      "artist": "Studio Hoppe Pop",
+      "title": "Folge 8 - Teil 2",
+      "plays": 2,
+      "previous_position": 173,
+      "movement": 167,
+      "trend": "up"
+    },
+    {
+      "position": 7,
+      "artist": "Airplay",
+      "title": "For Your Love",
       "plays": 1,
-      "previous_position": 180,
-      "movement": 171,
+      "previous_position": 38,
+      "movement": 31,
+      "trend": "up"
+    },
+    {
+      "position": 8,
+      "artist": "Baby's Gang",
+      "title": "Happy Song",
+      "plays": 1,
+      "previous_position": 67,
+      "movement": 59,
+      "trend": "up"
+    },
+    {
+      "position": 9,
+      "artist": "Bad Boys Blue",
+      "title": "Come Back And Stay",
+      "plays": 1,
+      "previous_position": 163,
+      "movement": 154,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "DJ Herzbeat & Daliah Lavi",
-      "title": "Mut",
+      "artist": "Banditos Bonitos feat. Nina",
+      "title": "Gimme Sunshine",
       "plays": 1,
-      "previous_position": 81,
-      "movement": 71,
-      "trend": "up"
-    },
-    {
-      "position": 11,
-      "artist": "FRANZ K.",
-      "title": "Zum Glück Ein Neues Glück",
-      "plays": 1,
-      "previous_position": 171,
-      "movement": 160,
-      "trend": "up"
-    },
-    {
-      "position": 12,
-      "artist": "Grant Miller",
-      "title": "Star",
-      "plays": 1,
-      "previous_position": 80,
-      "movement": 68,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "Hurricanes",
-      "title": "Only One Night",
-      "plays": 1,
-      "previous_position": 32,
+      "previous_position": 29,
       "movement": 19,
       "trend": "up"
     },
     {
+      "position": 11,
+      "artist": "Blue Crew",
+      "title": "Santa Cruz",
+      "plays": 1,
+      "previous_position": 79,
+      "movement": 68,
+      "trend": "up"
+    },
+    {
+      "position": 12,
+      "artist": "Blue System",
+      "title": "My Bed Is Too Big",
+      "plays": 1,
+      "previous_position": 96,
+      "movement": 84,
+      "trend": "up"
+    },
+    {
+      "position": 13,
+      "artist": "C.C.Catch",
+      "title": "Stay",
+      "plays": 1,
+      "previous_position": 158,
+      "movement": 145,
+      "trend": "up"
+    },
+    {
       "position": 14,
+      "artist": "Die Grubertaler",
+      "title": "Hier Komm Ich Her, Hier Will Ich Sein",
+      "plays": 1,
+      "previous_position": 180,
+      "movement": 166,
+      "trend": "up"
+    },
+    {
+      "position": 15,
+      "artist": "DJ Herzbeat & Daliah Lavi",
+      "title": "Mut",
+      "plays": 1,
+      "previous_position": 81,
+      "movement": 66,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "FRANZ K.",
+      "title": "Zum Glück Ein Neues Glück",
+      "plays": 1,
+      "previous_position": 171,
+      "movement": 155,
+      "trend": "up"
+    },
+    {
+      "position": 17,
+      "artist": "Grant Miller",
+      "title": "Star",
+      "plays": 1,
+      "previous_position": 80,
+      "movement": 63,
+      "trend": "up"
+    },
+    {
+      "position": 18,
       "artist": "ID",
       "title": "Schlager",
       "plays": 1,
@@ -133,57 +169,21 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 19,
       "artist": "Joe Yellow",
       "title": "I'm Your Lover",
       "plays": 1,
       "previous_position": 48,
-      "movement": 33,
+      "movement": 29,
       "trend": "up"
     },
     {
-      "position": 16,
+      "position": 20,
       "artist": "Jörg Bausch",
       "title": "Schleier Und Zylinder",
       "plays": 1,
       "previous_position": 181,
-      "movement": 165,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Ken Laszlo",
-      "title": "Tonight",
-      "plays": 1,
-      "previous_position": 20,
-      "movement": 3,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Lift Up",
-      "title": "Diamonds Never Made A Lady",
-      "plays": 1,
-      "previous_position": 152,
-      "movement": 134,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "London Boys",
-      "title": "Requiem",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Mauro",
-      "title": "Buona Sera - Ciao Ciao",
-      "plays": 1,
-      "previous_position": 25,
-      "movement": 5,
+      "movement": 161,
       "trend": "up"
     }
   ]
