@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W41",
   "previous_week": "2026-W40",
-  "updated": "2026-10-05T21:41:23.540677+00:00",
+  "updated": "2026-10-06T01:55:08.471118+00:00",
   "charts": [
     {
       "position": 1,
@@ -125,65 +125,65 @@
     },
     {
       "position": 14,
-      "artist": "Die Grubertaler",
-      "title": "Hier Komm Ich Her, Hier Will Ich Sein",
+      "artist": "Claudia Stern & Band",
+      "title": "Autowaschtag",
       "plays": 1,
-      "previous_position": 180,
-      "movement": 166,
+      "previous_position": 140,
+      "movement": 126,
       "trend": "up"
     },
     {
       "position": 15,
-      "artist": "DJ Herzbeat & Daliah Lavi",
-      "title": "Mut",
+      "artist": "Die Grubertaler",
+      "title": "Hier Komm Ich Her, Hier Will Ich Sein",
       "plays": 1,
-      "previous_position": 81,
-      "movement": 66,
+      "previous_position": 180,
+      "movement": 165,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "FRANZ K.",
-      "title": "Zum Glück Ein Neues Glück",
+      "artist": "DJ Herzbeat & Daliah Lavi",
+      "title": "Mut",
       "plays": 1,
-      "previous_position": 171,
-      "movement": 155,
+      "previous_position": 81,
+      "movement": 65,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "Grant Miller",
-      "title": "Star",
-      "plays": 1,
-      "previous_position": 80,
-      "movement": 63,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "ID",
-      "title": "Schlager",
+      "artist": "Dominik Baumer",
+      "title": "Grenzen Verschieben",
       "plays": 1,
       "previous_position": null,
       "movement": null,
       "trend": "new"
     },
     {
-      "position": 19,
-      "artist": "Joe Yellow",
-      "title": "I'm Your Lover",
+      "position": 18,
+      "artist": "Flickentanz",
+      "title": "Kein Zuhause Mehr (Alles Finster)",
       "plays": 1,
-      "previous_position": 48,
-      "movement": 29,
+      "previous_position": 147,
+      "movement": 129,
+      "trend": "up"
+    },
+    {
+      "position": 19,
+      "artist": "FRANZ K.",
+      "title": "Zum Glück Ein Neues Glück",
+      "plays": 1,
+      "previous_position": 171,
+      "movement": 152,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Jörg Bausch",
-      "title": "Schleier Und Zylinder",
+      "artist": "Grant Miller",
+      "title": "Star",
       "plays": 1,
-      "previous_position": 181,
-      "movement": 161,
+      "previous_position": 80,
+      "movement": 60,
       "trend": "up"
     }
   ]
