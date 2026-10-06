@@ -4,28 +4,55 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W41",
   "previous_week": "2026-W40",
-  "updated": "2026-10-06T20:25:36.799121+00:00",
+  "updated": "2026-10-06T23:57:49.738615+00:00",
   "charts": [
     {
       "position": 1,
-      "artist": "Michael Wendler",
-      "title": "Unzerstörbar",
+      "artist": "Die Grubertaler",
+      "title": "Hier Komm Ich Her, Hier Will Ich Sein",
       "plays": 3,
-      "previous_position": 182,
-      "movement": 181,
+      "previous_position": 180,
+      "movement": 179,
       "trend": "up"
     },
     {
       "position": 2,
-      "artist": "Baby's Gang",
-      "title": "Happy Song",
-      "plays": 2,
-      "previous_position": 67,
-      "movement": 65,
+      "artist": "Michael Wendler",
+      "title": "Unzerstörbar",
+      "plays": 3,
+      "previous_position": 182,
+      "movement": 180,
       "trend": "up"
     },
     {
       "position": 3,
+      "artist": "Baby's Gang",
+      "title": "Happy Song",
+      "plays": 2,
+      "previous_position": 67,
+      "movement": 64,
+      "trend": "up"
+    },
+    {
+      "position": 4,
+      "artist": "Beatrice Egli",
+      "title": "Vollmond",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 5,
+      "artist": "Birgit Bega",
+      "title": "Mein Spiegelbild",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 6,
       "artist": "D. White",
       "title": "Follow Me",
       "plays": 2,
@@ -34,52 +61,61 @@
       "trend": "new"
     },
     {
-      "position": 4,
-      "artist": "Die Grubertaler",
-      "title": "Hier Komm Ich Her, Hier Will Ich Sein",
-      "plays": 2,
-      "previous_position": 180,
-      "movement": 176,
-      "trend": "up"
-    },
-    {
-      "position": 5,
+      "position": 7,
       "artist": "DJ Herzbeat & Daliah Lavi",
       "title": "Mut",
       "plays": 2,
       "previous_position": 81,
-      "movement": 76,
-      "trend": "up"
-    },
-    {
-      "position": 6,
-      "artist": "Eric Philippi",
-      "title": "Ich Denk An Dich",
-      "plays": 2,
-      "previous_position": 186,
-      "movement": 180,
-      "trend": "up"
-    },
-    {
-      "position": 7,
-      "artist": "Hurricanes",
-      "title": "Only One Night",
-      "plays": 2,
-      "previous_position": 32,
-      "movement": 25,
+      "movement": 74,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "Lift Up",
-      "title": "Diamonds Never Made A Lady",
+      "artist": "Eric Philippi",
+      "title": "Ich Denk An Dich",
       "plays": 2,
-      "previous_position": 152,
-      "movement": 144,
+      "previous_position": 186,
+      "movement": 178,
       "trend": "up"
     },
     {
       "position": 9,
+      "artist": "Hurricanes",
+      "title": "Only One Night",
+      "plays": 2,
+      "previous_position": 32,
+      "movement": 23,
+      "trend": "up"
+    },
+    {
+      "position": 10,
+      "artist": "Lift Up",
+      "title": "Diamonds Never Made A Lady",
+      "plays": 2,
+      "previous_position": 152,
+      "movement": 142,
+      "trend": "up"
+    },
+    {
+      "position": 11,
+      "artist": "Michelle",
+      "title": "Antequera",
+      "plays": 2,
+      "previous_position": 40,
+      "movement": 29,
+      "trend": "up"
+    },
+    {
+      "position": 12,
+      "artist": "RadioAid",
+      "title": "Spot",
+      "plays": 2,
+      "previous_position": 172,
+      "movement": 160,
+      "trend": "up"
+    },
+    {
+      "position": 13,
       "artist": "Saphir",
       "title": "I Am Alive",
       "plays": 2,
@@ -88,102 +124,66 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 14,
       "artist": "Studio Hoppe Pop",
       "title": "Folge 8 - Teil 1",
       "plays": 2,
       "previous_position": 174,
-      "movement": 164,
+      "movement": 160,
       "trend": "up"
     },
     {
-      "position": 11,
+      "position": 15,
       "artist": "Studio Hoppe Pop",
       "title": "Folge 8 - Teil 2",
       "plays": 2,
       "previous_position": 173,
-      "movement": 162,
-      "trend": "up"
-    },
-    {
-      "position": 12,
-      "artist": "Vanessa Mai",
-      "title": "Ich Fall In Love",
-      "plays": 2,
-      "previous_position": 71,
-      "movement": 59,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "Airplay",
-      "title": "For Your Love",
-      "plays": 1,
-      "previous_position": 38,
-      "movement": 25,
-      "trend": "up"
-    },
-    {
-      "position": 14,
-      "artist": "Andre Busse",
-      "title": "Zwing Mich Doch Zu Meinem Glück",
-      "plays": 1,
-      "previous_position": 10,
-      "movement": -4,
-      "trend": "down"
-    },
-    {
-      "position": 15,
-      "artist": "Bad Boys Blue",
-      "title": "Come Back And Stay",
-      "plays": 1,
-      "previous_position": 163,
-      "movement": 148,
+      "movement": 158,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "Banditos Bonitos feat. Nina",
-      "title": "Gimme Sunshine",
-      "plays": 1,
-      "previous_position": 29,
-      "movement": 13,
+      "artist": "Vanessa Mai",
+      "title": "Ich Fall In Love",
+      "plays": 2,
+      "previous_position": 71,
+      "movement": 55,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "Beatrice Egli",
-      "title": "Vollmond",
+      "artist": "Airplay",
+      "title": "For Your Love",
       "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 38,
+      "movement": 21,
+      "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Birgit Bega",
-      "title": "Mein Spiegelbild",
+      "artist": "Andre Busse",
+      "title": "Zwing Mich Doch Zu Meinem Glück",
       "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 10,
+      "movement": -8,
+      "trend": "down"
     },
     {
       "position": 19,
-      "artist": "Blue Crew",
-      "title": "Santa Cruz",
+      "artist": "Andrea Berg",
+      "title": "Nächstes Mal Sag Ich Dann Nein",
       "plays": 1,
-      "previous_position": 79,
-      "movement": 60,
+      "previous_position": 183,
+      "movement": 164,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Blue System",
-      "title": "My Bed Is Too Big",
+      "artist": "Bad Boys Blue",
+      "title": "Come Back And Stay",
       "plays": 1,
-      "previous_position": 96,
-      "movement": 76,
+      "previous_position": 163,
+      "movement": 143,
       "trend": "up"
     }
   ]
