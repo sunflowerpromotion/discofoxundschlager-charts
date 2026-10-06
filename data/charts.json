@@ -4,19 +4,28 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W41",
   "previous_week": "2026-W40",
-  "updated": "2026-10-06T15:22:37.051991+00:00",
+  "updated": "2026-10-06T20:25:36.799121+00:00",
   "charts": [
     {
       "position": 1,
-      "artist": "Baby's Gang",
-      "title": "Happy Song",
-      "plays": 2,
-      "previous_position": 67,
-      "movement": 66,
+      "artist": "Michael Wendler",
+      "title": "Unzerstörbar",
+      "plays": 3,
+      "previous_position": 182,
+      "movement": 181,
       "trend": "up"
     },
     {
       "position": 2,
+      "artist": "Baby's Gang",
+      "title": "Happy Song",
+      "plays": 2,
+      "previous_position": 67,
+      "movement": 65,
+      "trend": "up"
+    },
+    {
+      "position": 3,
       "artist": "D. White",
       "title": "Follow Me",
       "plays": 2,
@@ -25,43 +34,52 @@
       "trend": "new"
     },
     {
-      "position": 3,
+      "position": 4,
       "artist": "Die Grubertaler",
       "title": "Hier Komm Ich Her, Hier Will Ich Sein",
       "plays": 2,
       "previous_position": 180,
-      "movement": 177,
-      "trend": "up"
-    },
-    {
-      "position": 4,
-      "artist": "Hurricanes",
-      "title": "Only One Night",
-      "plays": 2,
-      "previous_position": 32,
-      "movement": 28,
-      "trend": "up"
-    },
-    {
-      "position": 5,
-      "artist": "Lift Up",
-      "title": "Diamonds Never Made A Lady",
-      "plays": 2,
-      "previous_position": 152,
-      "movement": 147,
-      "trend": "up"
-    },
-    {
-      "position": 6,
-      "artist": "Michael Wendler",
-      "title": "Unzerstörbar",
-      "plays": 2,
-      "previous_position": 182,
       "movement": 176,
       "trend": "up"
     },
     {
+      "position": 5,
+      "artist": "DJ Herzbeat & Daliah Lavi",
+      "title": "Mut",
+      "plays": 2,
+      "previous_position": 81,
+      "movement": 76,
+      "trend": "up"
+    },
+    {
+      "position": 6,
+      "artist": "Eric Philippi",
+      "title": "Ich Denk An Dich",
+      "plays": 2,
+      "previous_position": 186,
+      "movement": 180,
+      "trend": "up"
+    },
+    {
       "position": 7,
+      "artist": "Hurricanes",
+      "title": "Only One Night",
+      "plays": 2,
+      "previous_position": 32,
+      "movement": 25,
+      "trend": "up"
+    },
+    {
+      "position": 8,
+      "artist": "Lift Up",
+      "title": "Diamonds Never Made A Lady",
+      "plays": 2,
+      "previous_position": 152,
+      "movement": 144,
+      "trend": "up"
+    },
+    {
+      "position": 9,
       "artist": "Saphir",
       "title": "I Am Alive",
       "plays": 2,
@@ -70,52 +88,70 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 10,
       "artist": "Studio Hoppe Pop",
       "title": "Folge 8 - Teil 1",
       "plays": 2,
       "previous_position": 174,
-      "movement": 166,
-      "trend": "up"
-    },
-    {
-      "position": 9,
-      "artist": "Studio Hoppe Pop",
-      "title": "Folge 8 - Teil 2",
-      "plays": 2,
-      "previous_position": 173,
       "movement": 164,
       "trend": "up"
     },
     {
-      "position": 10,
-      "artist": "Airplay",
-      "title": "For Your Love",
-      "plays": 1,
-      "previous_position": 38,
-      "movement": 28,
-      "trend": "up"
-    },
-    {
       "position": 11,
-      "artist": "Bad Boys Blue",
-      "title": "Come Back And Stay",
-      "plays": 1,
-      "previous_position": 163,
-      "movement": 152,
+      "artist": "Studio Hoppe Pop",
+      "title": "Folge 8 - Teil 2",
+      "plays": 2,
+      "previous_position": 173,
+      "movement": 162,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Banditos Bonitos feat. Nina",
-      "title": "Gimme Sunshine",
-      "plays": 1,
-      "previous_position": 29,
-      "movement": 17,
+      "artist": "Vanessa Mai",
+      "title": "Ich Fall In Love",
+      "plays": 2,
+      "previous_position": 71,
+      "movement": 59,
       "trend": "up"
     },
     {
       "position": 13,
+      "artist": "Airplay",
+      "title": "For Your Love",
+      "plays": 1,
+      "previous_position": 38,
+      "movement": 25,
+      "trend": "up"
+    },
+    {
+      "position": 14,
+      "artist": "Andre Busse",
+      "title": "Zwing Mich Doch Zu Meinem Glück",
+      "plays": 1,
+      "previous_position": 10,
+      "movement": -4,
+      "trend": "down"
+    },
+    {
+      "position": 15,
+      "artist": "Bad Boys Blue",
+      "title": "Come Back And Stay",
+      "plays": 1,
+      "previous_position": 163,
+      "movement": 148,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "Banditos Bonitos feat. Nina",
+      "title": "Gimme Sunshine",
+      "plays": 1,
+      "previous_position": 29,
+      "movement": 13,
+      "trend": "up"
+    },
+    {
+      "position": 17,
       "artist": "Beatrice Egli",
       "title": "Vollmond",
       "plays": 1,
@@ -124,67 +160,31 @@
       "trend": "new"
     },
     {
-      "position": 14,
-      "artist": "Blue Crew",
-      "title": "Santa Cruz",
-      "plays": 1,
-      "previous_position": 79,
-      "movement": 65,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "Blue System",
-      "title": "My Bed Is Too Big",
-      "plays": 1,
-      "previous_position": 96,
-      "movement": 81,
-      "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "C.C.Catch",
-      "title": "Stay",
-      "plays": 1,
-      "previous_position": 158,
-      "movement": 142,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Claudia Stern & Band",
-      "title": "Autowaschtag",
-      "plays": 1,
-      "previous_position": 140,
-      "movement": 123,
-      "trend": "up"
-    },
-    {
       "position": 18,
-      "artist": "Dani Mirell",
-      "title": "Fantasy Girl",
-      "plays": 1,
-      "previous_position": 3,
-      "movement": -15,
-      "trend": "down"
-    },
-    {
-      "position": 19,
-      "artist": "DJ Herzbeat & Daliah Lavi",
-      "title": "Mut",
-      "plays": 1,
-      "previous_position": 81,
-      "movement": 62,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "Dominik Baumer",
-      "title": "Grenzen Verschieben",
+      "artist": "Birgit Bega",
+      "title": "Mein Spiegelbild",
       "plays": 1,
       "previous_position": null,
       "movement": null,
       "trend": "new"
+    },
+    {
+      "position": 19,
+      "artist": "Blue Crew",
+      "title": "Santa Cruz",
+      "plays": 1,
+      "previous_position": 79,
+      "movement": 60,
+      "trend": "up"
+    },
+    {
+      "position": 20,
+      "artist": "Blue System",
+      "title": "My Bed Is Too Big",
+      "plays": 1,
+      "previous_position": 96,
+      "movement": 76,
+      "trend": "up"
     }
   ]
 }
