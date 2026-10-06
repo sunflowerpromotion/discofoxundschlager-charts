@@ -4,10 +4,19 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W41",
   "previous_week": "2026-W40",
-  "updated": "2026-10-06T01:55:08.471118+00:00",
+  "updated": "2026-10-06T08:26:58.013891+00:00",
   "charts": [
     {
       "position": 1,
+      "artist": "Baby's Gang",
+      "title": "Happy Song",
+      "plays": 2,
+      "previous_position": 67,
+      "movement": 66,
+      "trend": "up"
+    },
+    {
+      "position": 2,
       "artist": "D. White",
       "title": "Follow Me",
       "plays": 2,
@@ -16,25 +25,25 @@
       "trend": "new"
     },
     {
-      "position": 2,
+      "position": 3,
       "artist": "Hurricanes",
       "title": "Only One Night",
       "plays": 2,
       "previous_position": 32,
-      "movement": 30,
-      "trend": "up"
-    },
-    {
-      "position": 3,
-      "artist": "Lift Up",
-      "title": "Diamonds Never Made A Lady",
-      "plays": 2,
-      "previous_position": 152,
-      "movement": 149,
+      "movement": 29,
       "trend": "up"
     },
     {
       "position": 4,
+      "artist": "Lift Up",
+      "title": "Diamonds Never Made A Lady",
+      "plays": 2,
+      "previous_position": 152,
+      "movement": 148,
+      "trend": "up"
+    },
+    {
+      "position": 5,
       "artist": "Saphir",
       "title": "I Am Alive",
       "plays": 2,
@@ -43,39 +52,30 @@
       "trend": "new"
     },
     {
-      "position": 5,
+      "position": 6,
       "artist": "Studio Hoppe Pop",
       "title": "Folge 8 - Teil 1",
       "plays": 2,
       "previous_position": 174,
-      "movement": 169,
-      "trend": "up"
-    },
-    {
-      "position": 6,
-      "artist": "Studio Hoppe Pop",
-      "title": "Folge 8 - Teil 2",
-      "plays": 2,
-      "previous_position": 173,
-      "movement": 167,
+      "movement": 168,
       "trend": "up"
     },
     {
       "position": 7,
-      "artist": "Airplay",
-      "title": "For Your Love",
-      "plays": 1,
-      "previous_position": 38,
-      "movement": 31,
+      "artist": "Studio Hoppe Pop",
+      "title": "Folge 8 - Teil 2",
+      "plays": 2,
+      "previous_position": 173,
+      "movement": 166,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "Baby's Gang",
-      "title": "Happy Song",
+      "artist": "Airplay",
+      "title": "For Your Love",
       "plays": 1,
-      "previous_position": 67,
-      "movement": 59,
+      "previous_position": 38,
+      "movement": 30,
       "trend": "up"
     },
     {
@@ -180,11 +180,11 @@
     {
       "position": 20,
       "artist": "Grant Miller",
-      "title": "Star",
+      "title": "Colder Than Ice",
       "plays": 1,
-      "previous_position": 80,
-      "movement": 60,
-      "trend": "up"
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     }
   ]
 }
