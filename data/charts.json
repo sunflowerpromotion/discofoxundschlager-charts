@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W41",
   "previous_week": "2026-W40",
-  "updated": "2026-10-07T17:57:57.149068+00:00",
+  "updated": "2026-10-07T22:53:48.133439+00:00",
   "charts": [
     {
       "position": 1,
@@ -17,6 +17,15 @@
     },
     {
       "position": 2,
+      "artist": "RadioAid",
+      "title": "Spot",
+      "plays": 4,
+      "previous_position": 172,
+      "movement": 170,
+      "trend": "up"
+    },
+    {
+      "position": 3,
       "artist": "D. White",
       "title": "Follow Me",
       "plays": 3,
@@ -25,21 +34,12 @@
       "trend": "new"
     },
     {
-      "position": 3,
+      "position": 4,
       "artist": "Michael Wendler",
       "title": "Unzerstörbar",
       "plays": 3,
       "previous_position": 182,
-      "movement": 179,
-      "trend": "up"
-    },
-    {
-      "position": 4,
-      "artist": "RadioAid",
-      "title": "Spot",
-      "plays": 3,
-      "previous_position": 172,
-      "movement": 168,
+      "movement": 178,
       "trend": "up"
     },
     {
@@ -62,15 +62,24 @@
     },
     {
       "position": 7,
-      "artist": "Baby's Gang",
-      "title": "Happy Song",
+      "artist": "Andre Busse",
+      "title": "Zwing Mich Doch Zu Meinem Glück",
       "plays": 2,
-      "previous_position": 67,
-      "movement": 60,
+      "previous_position": 10,
+      "movement": 3,
       "trend": "up"
     },
     {
       "position": 8,
+      "artist": "Baby's Gang",
+      "title": "Happy Song",
+      "plays": 2,
+      "previous_position": 67,
+      "movement": 59,
+      "trend": "up"
+    },
+    {
+      "position": 9,
       "artist": "Beatrice Egli",
       "title": "Vollmond",
       "plays": 2,
@@ -79,7 +88,7 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 10,
       "artist": "Birgit Bega",
       "title": "Mein Spiegelbild",
       "plays": 2,
@@ -88,34 +97,52 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 11,
       "artist": "C.C.Catch",
       "title": "Stay",
       "plays": 2,
       "previous_position": 158,
-      "movement": 148,
-      "trend": "up"
-    },
-    {
-      "position": 11,
-      "artist": "DJ Herzbeat & Daliah Lavi",
-      "title": "Mut",
-      "plays": 2,
-      "previous_position": 81,
-      "movement": 70,
+      "movement": 147,
       "trend": "up"
     },
     {
       "position": 12,
+      "artist": "DJ Herzbeat & Andrea Jürgens",
+      "title": "Dieses Parfüm Auf Deiner Haut",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 13,
+      "artist": "DJ Herzbeat & Daliah Lavi",
+      "title": "Mut",
+      "plays": 2,
+      "previous_position": 81,
+      "movement": 68,
+      "trend": "up"
+    },
+    {
+      "position": 14,
       "artist": "Eric Philippi",
       "title": "Ich Denk An Dich",
       "plays": 2,
       "previous_position": 186,
-      "movement": 174,
+      "movement": 172,
       "trend": "up"
     },
     {
-      "position": 13,
+      "position": 15,
+      "artist": "FRANZ K.",
+      "title": "Zum Glück Ein Neues Glück",
+      "plays": 2,
+      "previous_position": 171,
+      "movement": 156,
+      "trend": "up"
+    },
+    {
+      "position": 16,
       "artist": "Grant Miller",
       "title": "Colder Than Ice",
       "plays": 2,
@@ -124,16 +151,16 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 17,
       "artist": "Hurricanes",
       "title": "Only One Night",
       "plays": 2,
       "previous_position": 32,
-      "movement": 18,
+      "movement": 15,
       "trend": "up"
     },
     {
-      "position": 15,
+      "position": 18,
       "artist": "Italo Disco Is Back",
       "title": "Ausgabe 41 - Teil 1",
       "plays": 2,
@@ -142,49 +169,22 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 19,
+      "artist": "Jörg Bausch",
+      "title": "Totale Chaoten",
+      "plays": 2,
+      "previous_position": 4,
+      "movement": -15,
+      "trend": "down"
+    },
+    {
+      "position": 20,
       "artist": "Lian Ross",
       "title": "The Rules Of Love",
       "plays": 2,
       "previous_position": 19,
-      "movement": 3,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Lift Up",
-      "title": "Diamonds Never Made A Lady",
-      "plays": 2,
-      "previous_position": 152,
-      "movement": 135,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "London Boys",
-      "title": "Requiem",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Michelle",
-      "title": "Antequera",
-      "plays": 2,
-      "previous_position": 40,
-      "movement": 21,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "Saphir",
-      "title": "I Am Alive",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "movement": -1,
+      "trend": "down"
     }
   ]
 }
