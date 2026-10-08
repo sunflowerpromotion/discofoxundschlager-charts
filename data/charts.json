@@ -4,24 +4,24 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W41",
   "previous_week": "2026-W40",
-  "updated": "2026-10-07T22:53:48.133439+00:00",
+  "updated": "2026-10-08T02:22:46.879643+00:00",
   "charts": [
     {
       "position": 1,
-      "artist": "Die Grubertaler",
-      "title": "Hier Komm Ich Her, Hier Will Ich Sein",
-      "plays": 4,
-      "previous_position": 180,
-      "movement": 179,
+      "artist": "RadioAid",
+      "title": "Spot",
+      "plays": 5,
+      "previous_position": 172,
+      "movement": 171,
       "trend": "up"
     },
     {
       "position": 2,
-      "artist": "RadioAid",
-      "title": "Spot",
+      "artist": "Die Grubertaler",
+      "title": "Hier Komm Ich Her, Hier Will Ich Sein",
       "plays": 4,
-      "previous_position": 172,
-      "movement": 170,
+      "previous_position": 180,
+      "movement": 178,
       "trend": "up"
     },
     {
@@ -134,15 +134,33 @@
     },
     {
       "position": 15,
-      "artist": "FRANZ K.",
-      "title": "Zum Glück Ein Neues Glück",
+      "artist": "Flickentanz",
+      "title": "Kein Zuhause Mehr (Alles Finster)",
       "plays": 2,
-      "previous_position": 171,
-      "movement": 156,
+      "previous_position": 147,
+      "movement": 132,
       "trend": "up"
     },
     {
       "position": 16,
+      "artist": "FRANZ K.",
+      "title": "Zum Glück Ein Neues Glück",
+      "plays": 2,
+      "previous_position": 171,
+      "movement": 155,
+      "trend": "up"
+    },
+    {
+      "position": 17,
+      "artist": "Fäaschtbänkler",
+      "title": "Kleines Lied",
+      "plays": 2,
+      "previous_position": 73,
+      "movement": 56,
+      "trend": "up"
+    },
+    {
+      "position": 18,
       "artist": "Grant Miller",
       "title": "Colder Than Ice",
       "plays": 2,
@@ -151,40 +169,22 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 19,
       "artist": "Hurricanes",
       "title": "Only One Night",
       "plays": 2,
       "previous_position": 32,
-      "movement": 15,
+      "movement": 13,
       "trend": "up"
     },
     {
-      "position": 18,
+      "position": 20,
       "artist": "Italo Disco Is Back",
       "title": "Ausgabe 41 - Teil 1",
       "plays": 2,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Jörg Bausch",
-      "title": "Totale Chaoten",
-      "plays": 2,
-      "previous_position": 4,
-      "movement": -15,
-      "trend": "down"
-    },
-    {
-      "position": 20,
-      "artist": "Lian Ross",
-      "title": "The Rules Of Love",
-      "plays": 2,
-      "previous_position": 19,
-      "movement": -1,
-      "trend": "down"
     }
   ]
 }
