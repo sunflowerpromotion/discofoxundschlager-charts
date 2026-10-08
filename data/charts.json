@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W41",
   "previous_week": "2026-W40",
-  "updated": "2026-10-08T09:11:58.977075+00:00",
+  "updated": "2026-10-08T16:28:53.867183+00:00",
   "charts": [
     {
       "position": 1,
@@ -26,6 +26,15 @@
     },
     {
       "position": 3,
+      "artist": "Birgit Bega",
+      "title": "Mein Spiegelbild",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 4,
       "artist": "D. White",
       "title": "Follow Me",
       "plays": 3,
@@ -34,52 +43,79 @@
       "trend": "new"
     },
     {
-      "position": 4,
-      "artist": "Michael Wendler",
-      "title": "Unzerstörbar",
-      "plays": 3,
-      "previous_position": 182,
-      "movement": 178,
-      "trend": "up"
-    },
-    {
       "position": 5,
-      "artist": "Studio Hoppe Pop",
-      "title": "Folge 8 - Teil 1",
+      "artist": "FRANZ K.",
+      "title": "Zum Glück Ein Neues Glück",
       "plays": 3,
-      "previous_position": 174,
-      "movement": 169,
+      "previous_position": 171,
+      "movement": 166,
       "trend": "up"
     },
     {
       "position": 6,
-      "artist": "Studio Hoppe Pop",
-      "title": "Folge 8 - Teil 2",
+      "artist": "Jörg Bausch",
+      "title": "Totale Chaoten",
       "plays": 3,
-      "previous_position": 173,
-      "movement": 167,
-      "trend": "up"
+      "previous_position": 4,
+      "movement": -2,
+      "trend": "down"
     },
     {
       "position": 7,
-      "artist": "Andre Busse",
-      "title": "Zwing Mich Doch Zu Meinem Glück",
-      "plays": 2,
-      "previous_position": 10,
-      "movement": 3,
+      "artist": "Maite Kelly",
+      "title": "Der Morgen Danach",
+      "plays": 3,
+      "previous_position": 185,
+      "movement": 178,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "Baby's Gang",
-      "title": "Happy Song",
-      "plays": 2,
-      "previous_position": 67,
-      "movement": 59,
+      "artist": "Michael Wendler",
+      "title": "Unzerstörbar",
+      "plays": 3,
+      "previous_position": 182,
+      "movement": 174,
       "trend": "up"
     },
     {
       "position": 9,
+      "artist": "Studio Hoppe Pop",
+      "title": "Folge 8 - Teil 1",
+      "plays": 3,
+      "previous_position": 174,
+      "movement": 165,
+      "trend": "up"
+    },
+    {
+      "position": 10,
+      "artist": "Studio Hoppe Pop",
+      "title": "Folge 8 - Teil 2",
+      "plays": 3,
+      "previous_position": 173,
+      "movement": 163,
+      "trend": "up"
+    },
+    {
+      "position": 11,
+      "artist": "Andre Busse",
+      "title": "Zwing Mich Doch Zu Meinem Glück",
+      "plays": 2,
+      "previous_position": 10,
+      "movement": -1,
+      "trend": "down"
+    },
+    {
+      "position": 12,
+      "artist": "Baby's Gang",
+      "title": "Happy Song",
+      "plays": 2,
+      "previous_position": 67,
+      "movement": 55,
+      "trend": "up"
+    },
+    {
+      "position": 13,
       "artist": "Beatrice Egli",
       "title": "Vollmond",
       "plays": 2,
@@ -88,25 +124,25 @@
       "trend": "new"
     },
     {
-      "position": 10,
-      "artist": "Birgit Bega",
-      "title": "Mein Spiegelbild",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 11,
+      "position": 14,
       "artist": "C.C.Catch",
       "title": "Stay",
       "plays": 2,
       "previous_position": 158,
-      "movement": 147,
+      "movement": 144,
       "trend": "up"
     },
     {
-      "position": 12,
+      "position": 15,
+      "artist": "Dani Mirell",
+      "title": "Fantasy Girl",
+      "plays": 2,
+      "previous_position": 3,
+      "movement": -12,
+      "trend": "down"
+    },
+    {
+      "position": 16,
       "artist": "DJ Herzbeat & Andrea Jürgens",
       "title": "Dieses Parfüm Auf Deiner Haut",
       "plays": 2,
@@ -115,76 +151,40 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 17,
       "artist": "DJ Herzbeat & Daliah Lavi",
       "title": "Mut",
       "plays": 2,
       "previous_position": 81,
-      "movement": 68,
-      "trend": "up"
-    },
-    {
-      "position": 14,
-      "artist": "Eric Philippi",
-      "title": "Ich Denk An Dich",
-      "plays": 2,
-      "previous_position": 186,
-      "movement": 172,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "Flickentanz",
-      "title": "Kein Zuhause Mehr (Alles Finster)",
-      "plays": 2,
-      "previous_position": 147,
-      "movement": 132,
-      "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "FRANZ K.",
-      "title": "Zum Glück Ein Neues Glück",
-      "plays": 2,
-      "previous_position": 171,
-      "movement": 155,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Fäaschtbänkler",
-      "title": "Kleines Lied",
-      "plays": 2,
-      "previous_position": 73,
-      "movement": 56,
+      "movement": 64,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Grant Miller",
-      "title": "Colder Than Ice",
+      "artist": "Eric Philippi",
+      "title": "Ich Denk An Dich",
       "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 186,
+      "movement": 168,
+      "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Hurricanes",
-      "title": "Only One Night",
+      "artist": "Flickentanz",
+      "title": "Kein Zuhause Mehr (Alles Finster)",
       "plays": 2,
-      "previous_position": 32,
-      "movement": 13,
+      "previous_position": 147,
+      "movement": 128,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Italo Disco Is Back",
-      "title": "Ausgabe 41 - Teil 1",
+      "artist": "Fäaschtbänkler",
+      "title": "Kleines Lied",
       "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 73,
+      "movement": 53,
+      "trend": "up"
     }
   ]
 }
