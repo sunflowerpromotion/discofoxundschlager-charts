@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W41",
   "previous_week": "2026-W40",
-  "updated": "2026-10-08T16:28:53.867183+00:00",
+  "updated": "2026-10-08T21:26:43.241953+00:00",
   "charts": [
     {
       "position": 1,
@@ -17,21 +17,21 @@
     },
     {
       "position": 2,
+      "artist": "Birgit Bega",
+      "title": "Mein Spiegelbild",
+      "plays": 4,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 3,
       "artist": "Die Grubertaler",
       "title": "Hier Komm Ich Her, Hier Will Ich Sein",
       "plays": 4,
       "previous_position": 180,
-      "movement": 178,
+      "movement": 177,
       "trend": "up"
-    },
-    {
-      "position": 3,
-      "artist": "Birgit Bega",
-      "title": "Mein Spiegelbild",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
     },
     {
       "position": 4,
