@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W41",
   "previous_week": "2026-W40",
-  "updated": "2026-10-09T14:34:23.715662+00:00",
+  "updated": "2026-10-09T19:41:56.457266+00:00",
   "charts": [
     {
       "position": 1,
@@ -71,15 +71,24 @@
     },
     {
       "position": 8,
+      "artist": "ID",
+      "title": "70s",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 9,
       "artist": "Jörg Bausch",
       "title": "Totale Chaoten",
       "plays": 3,
       "previous_position": 4,
-      "movement": -4,
+      "movement": -5,
       "trend": "down"
     },
     {
-      "position": 9,
+      "position": 10,
       "artist": "London Boys",
       "title": "Requiem",
       "plays": 3,
@@ -88,61 +97,61 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 11,
       "artist": "Maite Kelly",
       "title": "Der Morgen Danach",
       "plays": 3,
       "previous_position": 185,
-      "movement": 175,
-      "trend": "up"
-    },
-    {
-      "position": 11,
-      "artist": "Michael Wendler",
-      "title": "Unzerstörbar",
-      "plays": 3,
-      "previous_position": 182,
-      "movement": 171,
+      "movement": 174,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Studio Hoppe Pop",
-      "title": "Folge 8 - Teil 1",
+      "artist": "Michael Wendler",
+      "title": "Unzerstörbar",
       "plays": 3,
-      "previous_position": 174,
-      "movement": 162,
+      "previous_position": 182,
+      "movement": 170,
       "trend": "up"
     },
     {
       "position": 13,
       "artist": "Studio Hoppe Pop",
-      "title": "Folge 8 - Teil 2",
+      "title": "Folge 8 - Teil 1",
       "plays": 3,
-      "previous_position": 173,
-      "movement": 160,
+      "previous_position": 174,
+      "movement": 161,
       "trend": "up"
     },
     {
       "position": 14,
+      "artist": "Studio Hoppe Pop",
+      "title": "Folge 8 - Teil 2",
+      "plays": 3,
+      "previous_position": 173,
+      "movement": 159,
+      "trend": "up"
+    },
+    {
+      "position": 15,
       "artist": "Andre Busse",
       "title": "Zwing Mich Doch Zu Meinem Glück",
       "plays": 2,
       "previous_position": 10,
-      "movement": -4,
+      "movement": -5,
       "trend": "down"
     },
     {
-      "position": 15,
+      "position": 16,
       "artist": "Baby's Gang",
       "title": "Happy Song",
       "plays": 2,
       "previous_position": 67,
-      "movement": 52,
+      "movement": 51,
       "trend": "up"
     },
     {
-      "position": 16,
+      "position": 17,
       "artist": "Beatrice Egli",
       "title": "Vollmond",
       "plays": 2,
@@ -151,36 +160,27 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 18,
       "artist": "Blue System",
       "title": "My Bed Is Too Big",
       "plays": 2,
       "previous_position": 96,
-      "movement": 79,
+      "movement": 78,
       "trend": "up"
     },
     {
-      "position": 18,
+      "position": 19,
       "artist": "Dani Mirell",
       "title": "Fantasy Girl",
       "plays": 2,
       "previous_position": 3,
-      "movement": -15,
+      "movement": -16,
       "trend": "down"
     },
     {
-      "position": 19,
+      "position": 20,
       "artist": "Daniela Alfinito",
       "title": "Einmal Im Leben",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "DJ Herzbeat & Andrea Jürgens",
-      "title": "Dieses Parfüm Auf Deiner Haut",
       "plays": 2,
       "previous_position": null,
       "movement": null,
