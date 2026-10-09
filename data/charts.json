@@ -4,13 +4,13 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W41",
   "previous_week": "2026-W40",
-  "updated": "2026-10-09T07:29:52.312586+00:00",
+  "updated": "2026-10-09T14:34:23.715662+00:00",
   "charts": [
     {
       "position": 1,
       "artist": "RadioAid",
       "title": "Spot",
-      "plays": 5,
+      "plays": 6,
       "previous_position": 172,
       "movement": 171,
       "trend": "up"
@@ -19,7 +19,7 @@
       "position": 2,
       "artist": "Birgit Bega",
       "title": "Mein Spiegelbild",
-      "plays": 4,
+      "plays": 5,
       "previous_position": null,
       "movement": null,
       "trend": "new"
@@ -35,15 +35,24 @@
     },
     {
       "position": 4,
-      "artist": "C.C.Catch",
-      "title": "Stay",
-      "plays": 3,
-      "previous_position": 158,
-      "movement": 154,
+      "artist": "FRANZ K.",
+      "title": "Zum Glück Ein Neues Glück",
+      "plays": 4,
+      "previous_position": 171,
+      "movement": 167,
       "trend": "up"
     },
     {
       "position": 5,
+      "artist": "C.C.Catch",
+      "title": "Stay",
+      "plays": 3,
+      "previous_position": 158,
+      "movement": 153,
+      "trend": "up"
+    },
+    {
+      "position": 6,
       "artist": "D. White",
       "title": "Follow Me",
       "plays": 3,
@@ -52,25 +61,25 @@
       "trend": "new"
     },
     {
-      "position": 6,
-      "artist": "FRANZ K.",
-      "title": "Zum Glück Ein Neues Glück",
+      "position": 7,
+      "artist": "Eric Philippi",
+      "title": "Ich Denk An Dich",
       "plays": 3,
-      "previous_position": 171,
-      "movement": 165,
+      "previous_position": 186,
+      "movement": 179,
       "trend": "up"
     },
     {
-      "position": 7,
+      "position": 8,
       "artist": "Jörg Bausch",
       "title": "Totale Chaoten",
       "plays": 3,
       "previous_position": 4,
-      "movement": -3,
+      "movement": -4,
       "trend": "down"
     },
     {
-      "position": 8,
+      "position": 9,
       "artist": "London Boys",
       "title": "Requiem",
       "plays": 3,
@@ -79,61 +88,61 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 10,
       "artist": "Maite Kelly",
       "title": "Der Morgen Danach",
       "plays": 3,
       "previous_position": 185,
-      "movement": 176,
-      "trend": "up"
-    },
-    {
-      "position": 10,
-      "artist": "Michael Wendler",
-      "title": "Unzerstörbar",
-      "plays": 3,
-      "previous_position": 182,
-      "movement": 172,
+      "movement": 175,
       "trend": "up"
     },
     {
       "position": 11,
-      "artist": "Studio Hoppe Pop",
-      "title": "Folge 8 - Teil 1",
+      "artist": "Michael Wendler",
+      "title": "Unzerstörbar",
       "plays": 3,
-      "previous_position": 174,
-      "movement": 163,
+      "previous_position": 182,
+      "movement": 171,
       "trend": "up"
     },
     {
       "position": 12,
       "artist": "Studio Hoppe Pop",
-      "title": "Folge 8 - Teil 2",
+      "title": "Folge 8 - Teil 1",
       "plays": 3,
-      "previous_position": 173,
-      "movement": 161,
+      "previous_position": 174,
+      "movement": 162,
       "trend": "up"
     },
     {
       "position": 13,
+      "artist": "Studio Hoppe Pop",
+      "title": "Folge 8 - Teil 2",
+      "plays": 3,
+      "previous_position": 173,
+      "movement": 160,
+      "trend": "up"
+    },
+    {
+      "position": 14,
       "artist": "Andre Busse",
       "title": "Zwing Mich Doch Zu Meinem Glück",
       "plays": 2,
       "previous_position": 10,
-      "movement": -3,
+      "movement": -4,
       "trend": "down"
     },
     {
-      "position": 14,
+      "position": 15,
       "artist": "Baby's Gang",
       "title": "Happy Song",
       "plays": 2,
       "previous_position": 67,
-      "movement": 53,
+      "movement": 52,
       "trend": "up"
     },
     {
-      "position": 15,
+      "position": 16,
       "artist": "Beatrice Egli",
       "title": "Vollmond",
       "plays": 2,
@@ -142,49 +151,40 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 17,
       "artist": "Blue System",
       "title": "My Bed Is Too Big",
       "plays": 2,
       "previous_position": 96,
-      "movement": 80,
+      "movement": 79,
       "trend": "up"
     },
     {
-      "position": 17,
+      "position": 18,
       "artist": "Dani Mirell",
       "title": "Fantasy Girl",
       "plays": 2,
       "previous_position": 3,
-      "movement": -14,
+      "movement": -15,
       "trend": "down"
     },
     {
-      "position": 18,
-      "artist": "DJ Herzbeat & Andrea Jürgens",
-      "title": "Dieses Parfüm Auf Deiner Haut",
+      "position": 19,
+      "artist": "Daniela Alfinito",
+      "title": "Einmal Im Leben",
       "plays": 2,
       "previous_position": null,
       "movement": null,
       "trend": "new"
     },
     {
-      "position": 19,
-      "artist": "DJ Herzbeat & Daliah Lavi",
-      "title": "Mut",
-      "plays": 2,
-      "previous_position": 81,
-      "movement": 62,
-      "trend": "up"
-    },
-    {
       "position": 20,
-      "artist": "Eric Philippi",
-      "title": "Ich Denk An Dich",
+      "artist": "DJ Herzbeat & Andrea Jürgens",
+      "title": "Dieses Parfüm Auf Deiner Haut",
       "plays": 2,
-      "previous_position": 186,
-      "movement": 166,
-      "trend": "up"
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     }
   ]
 }
