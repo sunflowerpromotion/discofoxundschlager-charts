@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W41",
   "previous_week": "2026-W40",
-  "updated": "2026-10-10T02:39:44.499226+00:00",
+  "updated": "2026-10-10T09:00:21.592109+00:00",
   "charts": [
     {
       "position": 1,
@@ -44,15 +44,24 @@
     },
     {
       "position": 5,
-      "artist": "C.C.Catch",
-      "title": "Stay",
+      "artist": "Blue System",
+      "title": "My Bed Is Too Big",
       "plays": 3,
-      "previous_position": 158,
-      "movement": 153,
+      "previous_position": 96,
+      "movement": 91,
       "trend": "up"
     },
     {
       "position": 6,
+      "artist": "C.C.Catch",
+      "title": "Stay",
+      "plays": 3,
+      "previous_position": 158,
+      "movement": 152,
+      "trend": "up"
+    },
+    {
+      "position": 7,
       "artist": "D. White",
       "title": "Follow Me",
       "plays": 3,
@@ -61,16 +70,34 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 8,
       "artist": "Eric Philippi",
       "title": "Ich Denk An Dich",
       "plays": 3,
       "previous_position": 186,
-      "movement": 179,
+      "movement": 178,
       "trend": "up"
     },
     {
-      "position": 8,
+      "position": 9,
+      "artist": "Grant Miller",
+      "title": "Colder Than Ice",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 10,
+      "artist": "Hurricanes",
+      "title": "Only One Night",
+      "plays": 3,
+      "previous_position": 32,
+      "movement": 22,
+      "trend": "up"
+    },
+    {
+      "position": 11,
       "artist": "ID",
       "title": "70s",
       "plays": 3,
@@ -79,16 +106,16 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 12,
       "artist": "Jörg Bausch",
       "title": "Totale Chaoten",
       "plays": 3,
       "previous_position": 4,
-      "movement": -5,
+      "movement": -8,
       "trend": "down"
     },
     {
-      "position": 10,
+      "position": 13,
       "artist": "London Boys",
       "title": "Requiem",
       "plays": 3,
@@ -97,94 +124,67 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 14,
       "artist": "Maite Kelly",
       "title": "Der Morgen Danach",
       "plays": 3,
       "previous_position": 185,
-      "movement": 174,
-      "trend": "up"
-    },
-    {
-      "position": 12,
-      "artist": "Michael Wendler",
-      "title": "Unzerstörbar",
-      "plays": 3,
-      "previous_position": 182,
-      "movement": 170,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "Studio Hoppe Pop",
-      "title": "Folge 8 - Teil 1",
-      "plays": 3,
-      "previous_position": 174,
-      "movement": 161,
-      "trend": "up"
-    },
-    {
-      "position": 14,
-      "artist": "Studio Hoppe Pop",
-      "title": "Folge 8 - Teil 2",
-      "plays": 3,
-      "previous_position": 173,
-      "movement": 159,
+      "movement": 171,
       "trend": "up"
     },
     {
       "position": 15,
-      "artist": "Andre Busse",
-      "title": "Zwing Mich Doch Zu Meinem Glück",
-      "plays": 2,
-      "previous_position": 10,
-      "movement": -5,
-      "trend": "down"
+      "artist": "Michael Wendler",
+      "title": "Unzerstörbar",
+      "plays": 3,
+      "previous_position": 182,
+      "movement": 167,
+      "trend": "up"
     },
     {
       "position": 16,
-      "artist": "Baby's Gang",
-      "title": "Happy Song",
-      "plays": 2,
-      "previous_position": 67,
-      "movement": 51,
+      "artist": "Studio Hoppe Pop",
+      "title": "Folge 8 - Teil 1",
+      "plays": 3,
+      "previous_position": 174,
+      "movement": 158,
       "trend": "up"
     },
     {
       "position": 17,
+      "artist": "Studio Hoppe Pop",
+      "title": "Folge 8 - Teil 2",
+      "plays": 3,
+      "previous_position": 173,
+      "movement": 156,
+      "trend": "up"
+    },
+    {
+      "position": 18,
+      "artist": "Andre Busse",
+      "title": "Zwing Mich Doch Zu Meinem Glück",
+      "plays": 2,
+      "previous_position": 10,
+      "movement": -8,
+      "trend": "down"
+    },
+    {
+      "position": 19,
+      "artist": "Baby's Gang",
+      "title": "Happy Song",
+      "plays": 2,
+      "previous_position": 67,
+      "movement": 48,
+      "trend": "up"
+    },
+    {
+      "position": 20,
       "artist": "Beatrice Egli",
       "title": "Vollmond",
       "plays": 2,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 18,
-      "artist": "Blue System",
-      "title": "My Bed Is Too Big",
-      "plays": 2,
-      "previous_position": 96,
-      "movement": 78,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Claudia Stern & Band",
-      "title": "Autowaschtag",
-      "plays": 2,
-      "previous_position": 140,
-      "movement": 121,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "Dani Mirell",
-      "title": "Fantasy Girl",
-      "plays": 2,
-      "previous_position": 3,
-      "movement": -17,
-      "trend": "down"
     }
   ]
 }
