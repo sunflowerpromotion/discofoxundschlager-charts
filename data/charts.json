@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W41",
   "previous_week": "2026-W40",
-  "updated": "2026-10-09T23:31:55.324036+00:00",
+  "updated": "2026-10-10T02:39:44.499226+00:00",
   "charts": [
     {
       "position": 1,
@@ -170,21 +170,21 @@
     },
     {
       "position": 19,
+      "artist": "Claudia Stern & Band",
+      "title": "Autowaschtag",
+      "plays": 2,
+      "previous_position": 140,
+      "movement": 121,
+      "trend": "up"
+    },
+    {
+      "position": 20,
       "artist": "Dani Mirell",
       "title": "Fantasy Girl",
       "plays": 2,
       "previous_position": 3,
-      "movement": -16,
+      "movement": -17,
       "trend": "down"
-    },
-    {
-      "position": 20,
-      "artist": "Daniela Alfinito",
-      "title": "Einmal Im Leben",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
     }
   ]
 }
