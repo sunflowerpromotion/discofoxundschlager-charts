@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W41",
   "previous_week": "2026-W40",
-  "updated": "2026-10-10T22:40:25.469086+00:00",
+  "updated": "2026-10-11T01:14:48.510429+00:00",
   "charts": [
     {
       "position": 1,
@@ -71,6 +71,15 @@
     },
     {
       "position": 8,
+      "artist": "Claudia Stern & Band",
+      "title": "Autowaschtag",
+      "plays": 3,
+      "previous_position": 140,
+      "movement": 132,
+      "trend": "up"
+    },
+    {
+      "position": 9,
       "artist": "D. White",
       "title": "Follow Me",
       "plays": 3,
@@ -79,7 +88,7 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 10,
       "artist": "Daniela Alfinito",
       "title": "Einmal Im Leben",
       "plays": 3,
@@ -88,25 +97,25 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 11,
       "artist": "DJ Herzbeat & Daliah Lavi",
       "title": "Mut",
       "plays": 3,
       "previous_position": 81,
-      "movement": 71,
-      "trend": "up"
-    },
-    {
-      "position": 11,
-      "artist": "Eric Philippi",
-      "title": "Ich Denk An Dich",
-      "plays": 3,
-      "previous_position": 186,
-      "movement": 175,
+      "movement": 70,
       "trend": "up"
     },
     {
       "position": 12,
+      "artist": "Eric Philippi",
+      "title": "Ich Denk An Dich",
+      "plays": 3,
+      "previous_position": 186,
+      "movement": 174,
+      "trend": "up"
+    },
+    {
+      "position": 13,
       "artist": "Grant Miller",
       "title": "Colder Than Ice",
       "plays": 3,
@@ -115,16 +124,16 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 14,
       "artist": "Hurricanes",
       "title": "Only One Night",
       "plays": 3,
       "previous_position": 32,
-      "movement": 19,
+      "movement": 18,
       "trend": "up"
     },
     {
-      "position": 14,
+      "position": 15,
       "artist": "ID",
       "title": "70s",
       "plays": 3,
@@ -133,16 +142,25 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 16,
       "artist": "Jörg Bausch",
       "title": "Totale Chaoten",
       "plays": 3,
       "previous_position": 4,
-      "movement": -11,
+      "movement": -12,
       "trend": "down"
     },
     {
-      "position": 16,
+      "position": 17,
+      "artist": "Jürgen Drews",
+      "title": "Warum Immer Ich",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 18,
       "artist": "London Boys",
       "title": "Requiem",
       "plays": 3,
@@ -151,40 +169,22 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 19,
       "artist": "Maite Kelly",
       "title": "Der Morgen Danach",
       "plays": 3,
       "previous_position": 185,
-      "movement": 168,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Ross Antony",
-      "title": "Kettenkarussell",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Studio Hoppe Pop",
-      "title": "Folge 8 - Teil 1",
-      "plays": 3,
-      "previous_position": 174,
-      "movement": 155,
+      "movement": 166,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Studio Hoppe Pop",
-      "title": "Folge 8 - Teil 2",
+      "artist": "Nino de Angelo",
+      "title": "Doch Tränen Wirst Du Niemals Sehen",
       "plays": 3,
-      "previous_position": 173,
-      "movement": 153,
-      "trend": "up"
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     }
   ]
 }
