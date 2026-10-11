@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W41",
   "previous_week": "2026-W40",
-  "updated": "2026-10-11T01:14:48.510429+00:00",
+  "updated": "2026-10-11T07:15:43.930930+00:00",
   "charts": [
     {
       "position": 1,
@@ -26,47 +26,47 @@
     },
     {
       "position": 3,
-      "artist": "Die Grubertaler",
-      "title": "Hier Komm Ich Her, Hier Will Ich Sein",
+      "artist": "C.C.Catch",
+      "title": "Stay",
       "plays": 4,
-      "previous_position": 180,
-      "movement": 177,
+      "previous_position": 158,
+      "movement": 155,
       "trend": "up"
     },
     {
       "position": 4,
-      "artist": "FRANZ K.",
-      "title": "Zum Glück Ein Neues Glück",
+      "artist": "Die Grubertaler",
+      "title": "Hier Komm Ich Her, Hier Will Ich Sein",
       "plays": 4,
-      "previous_position": 171,
-      "movement": 167,
+      "previous_position": 180,
+      "movement": 176,
       "trend": "up"
     },
     {
       "position": 5,
-      "artist": "Michael Wendler",
-      "title": "Unzerstörbar",
+      "artist": "FRANZ K.",
+      "title": "Zum Glück Ein Neues Glück",
       "plays": 4,
-      "previous_position": 182,
-      "movement": 177,
+      "previous_position": 171,
+      "movement": 166,
       "trend": "up"
     },
     {
       "position": 6,
-      "artist": "Blue System",
-      "title": "My Bed Is Too Big",
-      "plays": 3,
-      "previous_position": 96,
-      "movement": 90,
+      "artist": "Michael Wendler",
+      "title": "Unzerstörbar",
+      "plays": 4,
+      "previous_position": 182,
+      "movement": 176,
       "trend": "up"
     },
     {
       "position": 7,
-      "artist": "C.C.Catch",
-      "title": "Stay",
+      "artist": "Blue System",
+      "title": "My Bed Is Too Big",
       "plays": 3,
-      "previous_position": 158,
-      "movement": 151,
+      "previous_position": 96,
+      "movement": 89,
       "trend": "up"
     },
     {
