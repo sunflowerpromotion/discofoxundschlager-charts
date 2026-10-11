@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W41",
   "previous_week": "2026-W40",
-  "updated": "2026-10-11T14:07:20.537140+00:00",
+  "updated": "2026-10-11T18:50:18.261645+00:00",
   "charts": [
     {
       "position": 1,
@@ -116,6 +116,15 @@
     },
     {
       "position": 13,
+      "artist": "Exile",
+      "title": "Kiss You All Over",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 14,
       "artist": "Grant Miller",
       "title": "Colder Than Ice",
       "plays": 3,
@@ -124,16 +133,16 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 15,
       "artist": "Hurricanes",
       "title": "Only One Night",
       "plays": 3,
       "previous_position": 32,
-      "movement": 18,
+      "movement": 17,
       "trend": "up"
     },
     {
-      "position": 15,
+      "position": 16,
       "artist": "ID",
       "title": "70s",
       "plays": 3,
@@ -142,16 +151,16 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 17,
       "artist": "Jörg Bausch",
       "title": "Totale Chaoten",
       "plays": 3,
       "previous_position": 4,
-      "movement": -12,
+      "movement": -13,
       "trend": "down"
     },
     {
-      "position": 17,
+      "position": 18,
       "artist": "Jürgen Drews",
       "title": "Warum Immer Ich",
       "plays": 3,
@@ -160,7 +169,7 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 19,
       "artist": "London Boys",
       "title": "Requiem",
       "plays": 3,
@@ -169,22 +178,13 @@
       "trend": "new"
     },
     {
-      "position": 19,
+      "position": 20,
       "artist": "Maite Kelly",
       "title": "Der Morgen Danach",
       "plays": 3,
       "previous_position": 185,
-      "movement": 166,
+      "movement": 165,
       "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "Nino de Angelo",
-      "title": "Doch Tränen Wirst Du Niemals Sehen",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
     }
   ]
 }
