@@ -4,37 +4,73 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W42",
   "previous_week": "2026-W41",
-  "updated": "2026-10-12T01:41:02.159621+00:00",
+  "updated": "2026-10-12T07:59:18.022494+00:00",
   "charts": [
     {
       "position": 1,
-      "artist": "Birgit Bega",
-      "title": "Mein Spiegelbild",
-      "plays": 1,
-      "previous_position": 2,
-      "movement": 1,
-      "trend": "up"
+      "artist": "Savage",
+      "title": "Don't Cry Tonight",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
       "position": 2,
-      "artist": "Die Grubertaler",
-      "title": "Hier Komm Ich Her, Hier Will Ich Sein",
+      "artist": "Alex Blue",
+      "title": "Let Us Dance",
       "plays": 1,
-      "previous_position": 6,
-      "movement": 4,
+      "previous_position": 68,
+      "movement": 66,
       "trend": "up"
     },
     {
       "position": 3,
-      "artist": "DJ Herzbeat & Daliah Lavi",
-      "title": "Mut",
+      "artist": "Bad Boys Blue",
+      "title": "Come Back And Stay",
       "plays": 1,
-      "previous_position": 13,
-      "movement": 10,
+      "previous_position": 84,
+      "movement": 81,
       "trend": "up"
     },
     {
       "position": 4,
+      "artist": "Birgit Bega",
+      "title": "Mein Spiegelbild",
+      "plays": 1,
+      "previous_position": 2,
+      "movement": -2,
+      "trend": "down"
+    },
+    {
+      "position": 5,
+      "artist": "C.C.Catch",
+      "title": "Stay",
+      "plays": 1,
+      "previous_position": 3,
+      "movement": -2,
+      "trend": "down"
+    },
+    {
+      "position": 6,
+      "artist": "Die Grubertaler",
+      "title": "Hier Komm Ich Her, Hier Will Ich Sein",
+      "plays": 1,
+      "previous_position": 6,
+      "movement": 0,
+      "trend": "same"
+    },
+    {
+      "position": 7,
+      "artist": "DJ Herzbeat & Daliah Lavi",
+      "title": "Mut",
+      "plays": 1,
+      "previous_position": 13,
+      "movement": 6,
+      "trend": "up"
+    },
+    {
+      "position": 8,
       "artist": "Ella Endlich",
       "title": "Cinderella",
       "plays": 1,
@@ -43,25 +79,34 @@
       "trend": "new"
     },
     {
-      "position": 5,
+      "position": 9,
+      "artist": "Fancy",
+      "title": "Latin Fire",
+      "plays": 1,
+      "previous_position": 173,
+      "movement": 164,
+      "trend": "up"
+    },
+    {
+      "position": 10,
       "artist": "Francine Jordi",
       "title": "In Allen Farben",
       "plays": 1,
       "previous_position": 100,
-      "movement": 95,
+      "movement": 90,
       "trend": "up"
     },
     {
-      "position": 6,
+      "position": 11,
       "artist": "Fäaschtbänkler",
       "title": "Kleines Lied",
       "plays": 1,
       "previous_position": 55,
-      "movement": 49,
+      "movement": 44,
       "trend": "up"
     },
     {
-      "position": 7,
+      "position": 12,
       "artist": "Fäaschtbänkler & Revelle",
       "title": "Highlightmensch",
       "plays": 1,
@@ -70,7 +115,7 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 13,
       "artist": "ID",
       "title": "Schlager (KI generiert)",
       "plays": 1,
@@ -79,99 +124,54 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 14,
       "artist": "Ingrid Herta",
       "title": "Meine Sinne Erwachen",
       "plays": 1,
       "previous_position": 42,
-      "movement": 33,
+      "movement": 28,
       "trend": "up"
     },
     {
-      "position": 10,
+      "position": 15,
       "artist": "July June",
       "title": "Diese Tage",
       "plays": 1,
       "previous_position": 119,
-      "movement": 109,
+      "movement": 104,
       "trend": "up"
     },
     {
-      "position": 11,
+      "position": 16,
       "artist": "Kreis & Quer",
       "title": "Señorita",
       "plays": 1,
       "previous_position": 44,
-      "movement": 33,
+      "movement": 28,
       "trend": "up"
     },
     {
-      "position": 12,
+      "position": 17,
       "artist": "Mario & Christoph",
       "title": "Du Kannst Dir Sicher Sein",
       "plays": 1,
       "previous_position": 126,
-      "movement": 114,
+      "movement": 109,
       "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "Nordwand",
-      "title": "Dirty Talk",
-      "plays": 1,
-      "previous_position": 61,
-      "movement": 48,
-      "trend": "up"
-    },
-    {
-      "position": 14,
-      "artist": "Philipp Schmidt",
-      "title": "Alles Ist Möglich",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 15,
-      "artist": "Ronny Krappmann",
-      "title": "Im Himmel Fehlt Heut Ein Engel",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 16,
-      "artist": "Stadtpoet",
-      "title": "Gin Tonic",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 17,
-      "artist": "Ulli Schwinge",
-      "title": "Lieben Und Verehren",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
     },
     {
       "position": 18,
-      "artist": "Vanessa Mai",
-      "title": "Ich Fall In Love",
+      "artist": "Miko Mission",
+      "title": "How Old Are You",
       "plays": 1,
-      "previous_position": 12,
-      "movement": -6,
-      "trend": "down"
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
       "position": 19,
-      "artist": "Wintermärz",
-      "title": "Mensch Geblieben",
+      "artist": "Miko Mission",
+      "title": "Toc Toc Toc",
       "plays": 1,
       "previous_position": null,
       "movement": null,
@@ -179,12 +179,12 @@
     },
     {
       "position": 20,
-      "artist": "Wolfgang Frühwirth",
-      "title": "Bis Ans Ende Der Welt",
+      "artist": "Mode-One",
+      "title": "Angels In The Night",
       "plays": 1,
-      "previous_position": 160,
-      "movement": 140,
-      "trend": "up"
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     }
   ]
 }
