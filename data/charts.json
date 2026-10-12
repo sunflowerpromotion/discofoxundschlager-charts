@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W42",
   "previous_week": "2026-W41",
-  "updated": "2026-10-11T22:31:47.455251+00:00",
+  "updated": "2026-10-12T01:41:02.159621+00:00",
   "charts": [
     {
       "position": 1,
@@ -53,6 +53,24 @@
     },
     {
       "position": 6,
+      "artist": "Fäaschtbänkler",
+      "title": "Kleines Lied",
+      "plays": 1,
+      "previous_position": 55,
+      "movement": 49,
+      "trend": "up"
+    },
+    {
+      "position": 7,
+      "artist": "Fäaschtbänkler & Revelle",
+      "title": "Highlightmensch",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 8,
       "artist": "ID",
       "title": "Schlager (KI generiert)",
       "plays": 1,
@@ -61,25 +79,79 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 9,
+      "artist": "Ingrid Herta",
+      "title": "Meine Sinne Erwachen",
+      "plays": 1,
+      "previous_position": 42,
+      "movement": 33,
+      "trend": "up"
+    },
+    {
+      "position": 10,
+      "artist": "July June",
+      "title": "Diese Tage",
+      "plays": 1,
+      "previous_position": 119,
+      "movement": 109,
+      "trend": "up"
+    },
+    {
+      "position": 11,
+      "artist": "Kreis & Quer",
+      "title": "Señorita",
+      "plays": 1,
+      "previous_position": 44,
+      "movement": 33,
+      "trend": "up"
+    },
+    {
+      "position": 12,
       "artist": "Mario & Christoph",
       "title": "Du Kannst Dir Sicher Sein",
       "plays": 1,
       "previous_position": 126,
-      "movement": 119,
+      "movement": 114,
       "trend": "up"
     },
     {
-      "position": 8,
+      "position": 13,
       "artist": "Nordwand",
       "title": "Dirty Talk",
       "plays": 1,
       "previous_position": 61,
-      "movement": 53,
+      "movement": 48,
       "trend": "up"
     },
     {
-      "position": 9,
+      "position": 14,
+      "artist": "Philipp Schmidt",
+      "title": "Alles Ist Möglich",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 15,
+      "artist": "Ronny Krappmann",
+      "title": "Im Himmel Fehlt Heut Ein Engel",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 16,
+      "artist": "Stadtpoet",
+      "title": "Gin Tonic",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 17,
       "artist": "Ulli Schwinge",
       "title": "Lieben Und Verehren",
       "plays": 1,
@@ -88,12 +160,30 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 18,
       "artist": "Vanessa Mai",
       "title": "Ich Fall In Love",
       "plays": 1,
       "previous_position": 12,
-      "movement": 2,
+      "movement": -6,
+      "trend": "down"
+    },
+    {
+      "position": 19,
+      "artist": "Wintermärz",
+      "title": "Mensch Geblieben",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 20,
+      "artist": "Wolfgang Frühwirth",
+      "title": "Bis Ans Ende Der Welt",
+      "plays": 1,
+      "previous_position": 160,
+      "movement": 140,
       "trend": "up"
     }
   ]
