@@ -4,10 +4,19 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W42",
   "previous_week": "2026-W41",
-  "updated": "2026-10-12T17:41:53.713111+00:00",
+  "updated": "2026-10-12T23:45:47.095601+00:00",
   "charts": [
     {
       "position": 1,
+      "artist": "Birgit Bega",
+      "title": "Mein Spiegelbild",
+      "plays": 2,
+      "previous_position": 2,
+      "movement": 1,
+      "trend": "up"
+    },
+    {
+      "position": 2,
       "artist": "Savage",
       "title": "Don't Cry Tonight",
       "plays": 2,
@@ -16,25 +25,34 @@
       "trend": "new"
     },
     {
-      "position": 2,
+      "position": 3,
       "artist": "Alex Blue",
       "title": "Let Us Dance",
       "plays": 1,
       "previous_position": 68,
-      "movement": 66,
-      "trend": "up"
-    },
-    {
-      "position": 3,
-      "artist": "Bad Boys Blue",
-      "title": "Come Back And Stay",
-      "plays": 1,
-      "previous_position": 84,
-      "movement": 81,
+      "movement": 65,
       "trend": "up"
     },
     {
       "position": 4,
+      "artist": "Andre Busse",
+      "title": "Zwing Mich Doch Zu Meinem Glück",
+      "plays": 1,
+      "previous_position": 52,
+      "movement": 48,
+      "trend": "up"
+    },
+    {
+      "position": 5,
+      "artist": "Bad Boys Blue",
+      "title": "Come Back And Stay",
+      "plays": 1,
+      "previous_position": 84,
+      "movement": 79,
+      "trend": "up"
+    },
+    {
+      "position": 6,
       "artist": "Bay City Rollers",
       "title": "Saturday Night",
       "plays": 1,
@@ -43,52 +61,52 @@
       "trend": "new"
     },
     {
-      "position": 5,
-      "artist": "Birgit Bega",
-      "title": "Mein Spiegelbild",
-      "plays": 1,
-      "previous_position": 2,
-      "movement": -3,
-      "trend": "down"
-    },
-    {
-      "position": 6,
+      "position": 7,
       "artist": "C.C.Catch",
       "title": "Stay",
       "plays": 1,
       "previous_position": 3,
-      "movement": -3,
+      "movement": -4,
       "trend": "down"
     },
     {
-      "position": 7,
+      "position": 8,
+      "artist": "Dani Mirell",
+      "title": "Fantasy Girl",
+      "plays": 1,
+      "previous_position": 49,
+      "movement": 41,
+      "trend": "up"
+    },
+    {
+      "position": 9,
       "artist": "David Dundas",
       "title": "Jeans On",
       "plays": 1,
       "previous_position": 135,
-      "movement": 128,
-      "trend": "up"
-    },
-    {
-      "position": 8,
-      "artist": "Die Grubertaler",
-      "title": "Hier Komm Ich Her, Hier Will Ich Sein",
-      "plays": 1,
-      "previous_position": 6,
-      "movement": -2,
-      "trend": "down"
-    },
-    {
-      "position": 9,
-      "artist": "DJ Herzbeat & Daliah Lavi",
-      "title": "Mut",
-      "plays": 1,
-      "previous_position": 13,
-      "movement": 4,
+      "movement": 126,
       "trend": "up"
     },
     {
       "position": 10,
+      "artist": "Die Grubertaler",
+      "title": "Hier Komm Ich Her, Hier Will Ich Sein",
+      "plays": 1,
+      "previous_position": 6,
+      "movement": -4,
+      "trend": "down"
+    },
+    {
+      "position": 11,
+      "artist": "DJ Herzbeat & Daliah Lavi",
+      "title": "Mut",
+      "plays": 1,
+      "previous_position": 13,
+      "movement": 2,
+      "trend": "up"
+    },
+    {
+      "position": 12,
       "artist": "Eagles",
       "title": "One Of These Nights",
       "plays": 1,
@@ -97,7 +115,16 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 13,
+      "artist": "Earl Dean Johnson",
+      "title": "Tut Mir Leid",
+      "plays": 1,
+      "previous_position": 165,
+      "movement": 152,
+      "trend": "up"
+    },
+    {
+      "position": 14,
       "artist": "Ella Endlich",
       "title": "Cinderella",
       "plays": 1,
@@ -106,34 +133,34 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 15,
       "artist": "Fancy",
       "title": "Latin Fire",
       "plays": 1,
       "previous_position": 173,
-      "movement": 161,
+      "movement": 158,
       "trend": "up"
     },
     {
-      "position": 13,
+      "position": 16,
       "artist": "Francine Jordi",
       "title": "In Allen Farben",
       "plays": 1,
       "previous_position": 100,
-      "movement": 87,
+      "movement": 84,
       "trend": "up"
     },
     {
-      "position": 14,
+      "position": 17,
       "artist": "Fäaschtbänkler",
       "title": "Kleines Lied",
       "plays": 1,
       "previous_position": 55,
-      "movement": 41,
+      "movement": 38,
       "trend": "up"
     },
     {
-      "position": 15,
+      "position": 18,
       "artist": "Fäaschtbänkler & Revelle",
       "title": "Highlightmensch",
       "plays": 1,
@@ -142,7 +169,7 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 19,
       "artist": "ID",
       "title": "Schlager (KI generiert)",
       "plays": 1,
@@ -151,39 +178,12 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 20,
       "artist": "Ingrid Herta",
       "title": "Meine Sinne Erwachen",
       "plays": 1,
       "previous_position": 42,
-      "movement": 25,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "July June",
-      "title": "Diese Tage",
-      "plays": 1,
-      "previous_position": 119,
-      "movement": 101,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Kreis & Quer",
-      "title": "Señorita",
-      "plays": 1,
-      "previous_position": 44,
-      "movement": 25,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "Mario & Christoph",
-      "title": "Du Kannst Dir Sicher Sein",
-      "plays": 1,
-      "previous_position": 126,
-      "movement": 106,
+      "movement": 22,
       "trend": "up"
     }
   ]
