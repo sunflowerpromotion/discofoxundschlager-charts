@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W42",
   "previous_week": "2026-W41",
-  "updated": "2026-10-13T11:23:16.622054+00:00",
+  "updated": "2026-10-13T18:24:00.028683+00:00",
   "charts": [
     {
       "position": 1,
@@ -44,24 +44,51 @@
     },
     {
       "position": 5,
+      "artist": "The Doors",
+      "title": "Riders On The Storm",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 6,
+      "artist": "The Trammps",
+      "title": "Disco Inferno",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 7,
+      "artist": "Al Jarreau",
+      "title": "Your Song",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 8,
       "artist": "Alex Blue",
       "title": "Let Us Dance",
       "plays": 1,
       "previous_position": 68,
-      "movement": 63,
+      "movement": 60,
       "trend": "up"
     },
     {
-      "position": 6,
+      "position": 9,
       "artist": "Alicja",
       "title": "So Wonderful",
       "plays": 1,
       "previous_position": 123,
-      "movement": 117,
+      "movement": 114,
       "trend": "up"
     },
     {
-      "position": 7,
+      "position": 10,
       "artist": "Amon",
       "title": "Okay",
       "plays": 1,
@@ -70,16 +97,16 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 11,
       "artist": "Andre Busse",
       "title": "Zwing Mich Doch Zu Meinem Glück",
       "plays": 1,
       "previous_position": 52,
-      "movement": 44,
+      "movement": 41,
       "trend": "up"
     },
     {
-      "position": 9,
+      "position": 12,
       "artist": "Andy Soda",
       "title": "Wir Zwei Im Glück",
       "plays": 1,
@@ -88,25 +115,25 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 13,
       "artist": "Bad Boys Blue",
       "title": "Come Back And Stay",
       "plays": 1,
       "previous_position": 84,
-      "movement": 74,
+      "movement": 71,
       "trend": "up"
     },
     {
-      "position": 11,
+      "position": 14,
       "artist": "Bad Boys Blue",
       "title": "Jungle In My Heart",
       "plays": 1,
       "previous_position": 125,
-      "movement": 114,
+      "movement": 111,
       "trend": "up"
     },
     {
-      "position": 12,
+      "position": 15,
       "artist": "Bay City Rollers",
       "title": "Saturday Night",
       "plays": 1,
@@ -115,7 +142,7 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 16,
       "artist": "Beloved",
       "title": "Sweet Harmony",
       "plays": 1,
@@ -124,67 +151,40 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 17,
       "artist": "Blokkboy",
       "title": "Kopf Aus Metall",
       "plays": 1,
       "previous_position": 156,
-      "movement": 142,
+      "movement": 139,
       "trend": "up"
     },
     {
-      "position": 15,
+      "position": 18,
       "artist": "Blue System",
       "title": "Magic Symphony",
       "plays": 1,
       "previous_position": 124,
-      "movement": 109,
+      "movement": 106,
       "trend": "up"
     },
     {
-      "position": 16,
+      "position": 19,
+      "artist": "Bob Seger",
+      "title": "Still The Same",
+      "plays": 1,
+      "previous_position": 130,
+      "movement": 111,
+      "trend": "up"
+    },
+    {
+      "position": 20,
       "artist": "Bomb The Bass",
       "title": "Beat Dis",
       "plays": 1,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 17,
-      "artist": "C.C.Catch",
-      "title": "Stay",
-      "plays": 1,
-      "previous_position": 3,
-      "movement": -14,
-      "trend": "down"
-    },
-    {
-      "position": 18,
-      "artist": "Claudia Stern & Band",
-      "title": "Autowaschtag",
-      "plays": 1,
-      "previous_position": 15,
-      "movement": -3,
-      "trend": "down"
-    },
-    {
-      "position": 19,
-      "artist": "Dani Mirell",
-      "title": "Fantasy Girl",
-      "plays": 1,
-      "previous_position": 49,
-      "movement": 30,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "David Dundas",
-      "title": "Jeans On",
-      "plays": 1,
-      "previous_position": 135,
-      "movement": 115,
-      "trend": "up"
     }
   ]
 }
