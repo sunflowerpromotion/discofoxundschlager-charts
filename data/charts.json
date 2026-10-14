@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W42",
   "previous_week": "2026-W41",
-  "updated": "2026-10-14T06:43:27.732439+00:00",
+  "updated": "2026-10-14T12:25:31.499969+00:00",
   "charts": [
     {
       "position": 1,
@@ -26,69 +26,105 @@
     },
     {
       "position": 3,
+      "artist": "Beloved",
+      "title": "Sweet Harmony",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 4,
       "artist": "Birgit Bega",
       "title": "Mein Spiegelbild",
       "plays": 2,
       "previous_position": 2,
-      "movement": -1,
+      "movement": -2,
       "trend": "down"
     },
     {
-      "position": 4,
+      "position": 5,
       "artist": "Blokkboy",
       "title": "Kopf Aus Metall",
       "plays": 2,
       "previous_position": 156,
-      "movement": 152,
-      "trend": "up"
-    },
-    {
-      "position": 5,
-      "artist": "DJ Herzbeat & Daliah Lavi",
-      "title": "Mut",
-      "plays": 2,
-      "previous_position": 13,
-      "movement": 8,
+      "movement": 151,
       "trend": "up"
     },
     {
       "position": 6,
-      "artist": "Francine Jordi",
-      "title": "In Allen Farben",
+      "artist": "Blue System",
+      "title": "Magic Symphony",
       "plays": 2,
-      "previous_position": 100,
-      "movement": 94,
+      "previous_position": 124,
+      "movement": 118,
       "trend": "up"
     },
     {
       "position": 7,
-      "artist": "Fäaschtbänkler",
-      "title": "Kleines Lied",
+      "artist": "Bomb The Bass",
+      "title": "Beat Dis",
       "plays": 2,
-      "previous_position": 55,
-      "movement": 48,
-      "trend": "up"
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
       "position": 8,
-      "artist": "July June",
-      "title": "Diese Tage",
+      "artist": "DJ Herzbeat & Daliah Lavi",
+      "title": "Mut",
       "plays": 2,
-      "previous_position": 119,
-      "movement": 111,
+      "previous_position": 13,
+      "movement": 5,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "Mario & Christoph",
-      "title": "Du Kannst Dir Sicher Sein",
+      "artist": "Francine Jordi",
+      "title": "In Allen Farben",
       "plays": 2,
-      "previous_position": 126,
-      "movement": 117,
+      "previous_position": 100,
+      "movement": 91,
       "trend": "up"
     },
     {
       "position": 10,
+      "artist": "Fäaschtbänkler",
+      "title": "Kleines Lied",
+      "plays": 2,
+      "previous_position": 55,
+      "movement": 45,
+      "trend": "up"
+    },
+    {
+      "position": 11,
+      "artist": "Grant Miller",
+      "title": "Doctor For My Heart",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 12,
+      "artist": "July June",
+      "title": "Diese Tage",
+      "plays": 2,
+      "previous_position": 119,
+      "movement": 107,
+      "trend": "up"
+    },
+    {
+      "position": 13,
+      "artist": "Mario & Christoph",
+      "title": "Du Kannst Dir Sicher Sein",
+      "plays": 2,
+      "previous_position": 126,
+      "movement": 113,
+      "trend": "up"
+    },
+    {
+      "position": 14,
       "artist": "Miko Mission",
       "title": "How Old Are You",
       "plays": 2,
@@ -97,16 +133,16 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 15,
       "artist": "Radig",
       "title": "Gib Mir Musik",
       "plays": 2,
       "previous_position": 159,
-      "movement": 148,
+      "movement": 144,
       "trend": "up"
     },
     {
-      "position": 12,
+      "position": 16,
       "artist": "Ronny Krappmann",
       "title": "Im Himmel Fehlt Heut Ein Engel",
       "plays": 2,
@@ -115,7 +151,7 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 17,
       "artist": "Savage",
       "title": "Don't Cry Tonight",
       "plays": 2,
@@ -124,7 +160,7 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 18,
       "artist": "The Doors",
       "title": "Riders On The Storm",
       "plays": 2,
@@ -133,7 +169,7 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 19,
       "artist": "The Trammps",
       "title": "Disco Inferno",
       "plays": 2,
@@ -142,49 +178,13 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 20,
       "artist": "TQ",
       "title": "In The Night",
       "plays": 2,
       "previous_position": 177,
-      "movement": 161,
+      "movement": 157,
       "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Al Jarreau",
-      "title": "Your Song",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 18,
-      "artist": "Alex Blue",
-      "title": "Let Us Dance",
-      "plays": 1,
-      "previous_position": 68,
-      "movement": 50,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Alicja",
-      "title": "So Wonderful",
-      "plays": 1,
-      "previous_position": 123,
-      "movement": 104,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "Amon",
-      "title": "Okay",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
     }
   ]
 }
