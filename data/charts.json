@@ -4,64 +4,109 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W42",
   "previous_week": "2026-W41",
-  "updated": "2026-10-13T22:58:28.805538+00:00",
+  "updated": "2026-10-14T01:42:37.684667+00:00",
   "charts": [
     {
       "position": 1,
-      "artist": "Birgit Bega",
-      "title": "Mein Spiegelbild",
-      "plays": 2,
-      "previous_position": 2,
-      "movement": 1,
-      "trend": "up"
+      "artist": "Fäaschtbänkler & Revelle",
+      "title": "Highlightmensch",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
       "position": 2,
-      "artist": "DJ Herzbeat & Daliah Lavi",
-      "title": "Mut",
-      "plays": 2,
-      "previous_position": 13,
-      "movement": 11,
+      "artist": "Ingrid Herta",
+      "title": "Meine Sinne Erwachen",
+      "plays": 3,
+      "previous_position": 42,
+      "movement": 40,
       "trend": "up"
     },
     {
       "position": 3,
+      "artist": "Birgit Bega",
+      "title": "Mein Spiegelbild",
+      "plays": 2,
+      "previous_position": 2,
+      "movement": -1,
+      "trend": "down"
+    },
+    {
+      "position": 4,
+      "artist": "Blokkboy",
+      "title": "Kopf Aus Metall",
+      "plays": 2,
+      "previous_position": 156,
+      "movement": 152,
+      "trend": "up"
+    },
+    {
+      "position": 5,
+      "artist": "DJ Herzbeat & Daliah Lavi",
+      "title": "Mut",
+      "plays": 2,
+      "previous_position": 13,
+      "movement": 8,
+      "trend": "up"
+    },
+    {
+      "position": 6,
       "artist": "Francine Jordi",
       "title": "In Allen Farben",
       "plays": 2,
       "previous_position": 100,
-      "movement": 97,
+      "movement": 94,
       "trend": "up"
     },
     {
-      "position": 4,
-      "artist": "Fäaschtbänkler & Revelle",
-      "title": "Highlightmensch",
+      "position": 7,
+      "artist": "Fäaschtbänkler",
+      "title": "Kleines Lied",
+      "plays": 2,
+      "previous_position": 55,
+      "movement": 48,
+      "trend": "up"
+    },
+    {
+      "position": 8,
+      "artist": "July June",
+      "title": "Diese Tage",
+      "plays": 2,
+      "previous_position": 119,
+      "movement": 111,
+      "trend": "up"
+    },
+    {
+      "position": 9,
+      "artist": "Mario & Christoph",
+      "title": "Du Kannst Dir Sicher Sein",
+      "plays": 2,
+      "previous_position": 126,
+      "movement": 117,
+      "trend": "up"
+    },
+    {
+      "position": 10,
+      "artist": "Radig",
+      "title": "Gib Mir Musik",
+      "plays": 2,
+      "previous_position": 159,
+      "movement": 149,
+      "trend": "up"
+    },
+    {
+      "position": 11,
+      "artist": "Ronny Krappmann",
+      "title": "Im Himmel Fehlt Heut Ein Engel",
       "plays": 2,
       "previous_position": null,
       "movement": null,
       "trend": "new"
     },
     {
-      "position": 5,
-      "artist": "Ingrid Herta",
-      "title": "Meine Sinne Erwachen",
-      "plays": 2,
-      "previous_position": 42,
-      "movement": 37,
-      "trend": "up"
-    },
-    {
-      "position": 6,
-      "artist": "Mario & Christoph",
-      "title": "Du Kannst Dir Sicher Sein",
-      "plays": 2,
-      "previous_position": 126,
-      "movement": 120,
-      "trend": "up"
-    },
-    {
-      "position": 7,
+      "position": 12,
       "artist": "Savage",
       "title": "Don't Cry Tonight",
       "plays": 2,
@@ -70,7 +115,7 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 13,
       "artist": "The Doors",
       "title": "Riders On The Storm",
       "plays": 2,
@@ -79,7 +124,7 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 14,
       "artist": "The Trammps",
       "title": "Disco Inferno",
       "plays": 2,
@@ -88,7 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 15,
       "artist": "Al Jarreau",
       "title": "Your Song",
       "plays": 1,
@@ -97,25 +142,25 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 16,
       "artist": "Alex Blue",
       "title": "Let Us Dance",
       "plays": 1,
       "previous_position": 68,
-      "movement": 57,
+      "movement": 52,
       "trend": "up"
     },
     {
-      "position": 12,
+      "position": 17,
       "artist": "Alicja",
       "title": "So Wonderful",
       "plays": 1,
       "previous_position": 123,
-      "movement": 111,
+      "movement": 106,
       "trend": "up"
     },
     {
-      "position": 13,
+      "position": 18,
       "artist": "Amon",
       "title": "Okay",
       "plays": 1,
@@ -124,67 +169,22 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 19,
       "artist": "Andre Busse",
       "title": "Zwing Mich Doch Zu Meinem Glück",
       "plays": 1,
       "previous_position": 52,
-      "movement": 38,
+      "movement": 33,
       "trend": "up"
     },
     {
-      "position": 15,
+      "position": 20,
       "artist": "Andy Soda",
       "title": "Wir Zwei Im Glück",
       "plays": 1,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 16,
-      "artist": "Bad Boys Blue",
-      "title": "Come Back And Stay",
-      "plays": 1,
-      "previous_position": 84,
-      "movement": 68,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Bad Boys Blue",
-      "title": "Jungle In My Heart",
-      "plays": 1,
-      "previous_position": 125,
-      "movement": 108,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Bay City Rollers",
-      "title": "Saturday Night",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Beloved",
-      "title": "Sweet Harmony",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Blokkboy",
-      "title": "Kopf Aus Metall",
-      "plays": 1,
-      "previous_position": 156,
-      "movement": 136,
-      "trend": "up"
     }
   ]
 }
