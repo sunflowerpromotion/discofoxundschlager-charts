@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W42",
   "previous_week": "2026-W41",
-  "updated": "2026-10-14T01:42:37.684667+00:00",
+  "updated": "2026-10-14T06:43:27.732439+00:00",
   "charts": [
     {
       "position": 1,
@@ -89,15 +89,24 @@
     },
     {
       "position": 10,
+      "artist": "Miko Mission",
+      "title": "How Old Are You",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 11,
       "artist": "Radig",
       "title": "Gib Mir Musik",
       "plays": 2,
       "previous_position": 159,
-      "movement": 149,
+      "movement": 148,
       "trend": "up"
     },
     {
-      "position": 11,
+      "position": 12,
       "artist": "Ronny Krappmann",
       "title": "Im Himmel Fehlt Heut Ein Engel",
       "plays": 2,
@@ -106,7 +115,7 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 13,
       "artist": "Savage",
       "title": "Don't Cry Tonight",
       "plays": 2,
@@ -115,7 +124,7 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 14,
       "artist": "The Doors",
       "title": "Riders On The Storm",
       "plays": 2,
@@ -124,7 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 15,
       "artist": "The Trammps",
       "title": "Disco Inferno",
       "plays": 2,
@@ -133,7 +142,16 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 16,
+      "artist": "TQ",
+      "title": "In The Night",
+      "plays": 2,
+      "previous_position": 177,
+      "movement": 161,
+      "trend": "up"
+    },
+    {
+      "position": 17,
       "artist": "Al Jarreau",
       "title": "Your Song",
       "plays": 1,
@@ -142,45 +160,27 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 18,
       "artist": "Alex Blue",
       "title": "Let Us Dance",
       "plays": 1,
       "previous_position": 68,
-      "movement": 52,
+      "movement": 50,
       "trend": "up"
     },
     {
-      "position": 17,
+      "position": 19,
       "artist": "Alicja",
       "title": "So Wonderful",
       "plays": 1,
       "previous_position": 123,
-      "movement": 106,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Amon",
-      "title": "Okay",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Andre Busse",
-      "title": "Zwing Mich Doch Zu Meinem Glück",
-      "plays": 1,
-      "previous_position": 52,
-      "movement": 33,
+      "movement": 104,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Andy Soda",
-      "title": "Wir Zwei Im Glück",
+      "artist": "Amon",
+      "title": "Okay",
       "plays": 1,
       "previous_position": null,
       "movement": null,
