@@ -4,34 +4,34 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W42",
   "previous_week": "2026-W41",
-  "updated": "2026-10-14T23:31:23.543548+00:00",
+  "updated": "2026-10-15T01:44:46.326998+00:00",
   "charts": [
     {
       "position": 1,
-      "artist": "Birgit Bega",
-      "title": "Mein Spiegelbild",
-      "plays": 3,
-      "previous_position": 2,
-      "movement": 1,
+      "artist": "Ingrid Herta",
+      "title": "Meine Sinne Erwachen",
+      "plays": 4,
+      "previous_position": 42,
+      "movement": 41,
       "trend": "up"
     },
     {
       "position": 2,
+      "artist": "Birgit Bega",
+      "title": "Mein Spiegelbild",
+      "plays": 3,
+      "previous_position": 2,
+      "movement": 0,
+      "trend": "same"
+    },
+    {
+      "position": 3,
       "artist": "Fäaschtbänkler & Revelle",
       "title": "Highlightmensch",
       "plays": 3,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 3,
-      "artist": "Ingrid Herta",
-      "title": "Meine Sinne Erwachen",
-      "plays": 3,
-      "previous_position": 42,
-      "movement": 39,
-      "trend": "up"
     },
     {
       "position": 4,
@@ -62,6 +62,15 @@
     },
     {
       "position": 7,
+      "artist": "War",
+      "title": "Low Rider",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 8,
       "artist": "Al Jarreau",
       "title": "Your Song",
       "plays": 2,
@@ -70,7 +79,7 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 9,
       "artist": "Beloved",
       "title": "Sweet Harmony",
       "plays": 2,
@@ -79,25 +88,25 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 10,
       "artist": "Blokkboy",
       "title": "Kopf Aus Metall",
       "plays": 2,
       "previous_position": 156,
-      "movement": 147,
-      "trend": "up"
-    },
-    {
-      "position": 10,
-      "artist": "Blue System",
-      "title": "Magic Symphony",
-      "plays": 2,
-      "previous_position": 124,
-      "movement": 114,
+      "movement": 146,
       "trend": "up"
     },
     {
       "position": 11,
+      "artist": "Blue System",
+      "title": "Magic Symphony",
+      "plays": 2,
+      "previous_position": 124,
+      "movement": 113,
+      "trend": "up"
+    },
+    {
+      "position": 12,
       "artist": "Bomb The Bass",
       "title": "Beat Dis",
       "plays": 2,
@@ -106,7 +115,7 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 13,
       "artist": "Dieter Dornig",
       "title": "Oh, Lena",
       "plays": 2,
@@ -115,52 +124,52 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 14,
       "artist": "DJ Herzbeat & Daliah Lavi",
       "title": "Mut",
       "plays": 2,
       "previous_position": 13,
-      "movement": 0,
-      "trend": "same"
+      "movement": -1,
+      "trend": "down"
     },
     {
-      "position": 14,
+      "position": 15,
       "artist": "Fantasy",
       "title": "Das Bleibt Unter Uns Chérie",
       "plays": 2,
       "previous_position": 69,
-      "movement": 55,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "Francine Jordi",
-      "title": "In Allen Farben",
-      "plays": 2,
-      "previous_position": 100,
-      "movement": 85,
+      "movement": 54,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "Frankie Valli & The Four Seasons",
-      "title": "December, 1963 (Oh What A Night!)",
+      "artist": "Francine Jordi",
+      "title": "In Allen Farben",
       "plays": 2,
-      "previous_position": 194,
-      "movement": 178,
+      "previous_position": 100,
+      "movement": 84,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "Fäaschtbänkler",
-      "title": "Kleines Lied",
+      "artist": "Frankie Valli & The Four Seasons",
+      "title": "December, 1963 (Oh What A Night!)",
       "plays": 2,
-      "previous_position": 55,
-      "movement": 38,
+      "previous_position": 194,
+      "movement": 177,
       "trend": "up"
     },
     {
       "position": 18,
+      "artist": "Fäaschtbänkler",
+      "title": "Kleines Lied",
+      "plays": 2,
+      "previous_position": 55,
+      "movement": 37,
+      "trend": "up"
+    },
+    {
+      "position": 19,
       "artist": "Grant Miller",
       "title": "Doctor For My Heart",
       "plays": 2,
@@ -169,21 +178,12 @@
       "trend": "new"
     },
     {
-      "position": 19,
-      "artist": "ID",
-      "title": "Schlager (KI generiert)",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
       "position": 20,
-      "artist": "July June",
-      "title": "Diese Tage",
+      "artist": "ID",
+      "title": "Pop (KI generiert)",
       "plays": 2,
-      "previous_position": 119,
-      "movement": 99,
+      "previous_position": 172,
+      "movement": 152,
       "trend": "up"
     }
   ]
