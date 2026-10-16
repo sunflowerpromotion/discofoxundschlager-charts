@@ -4,13 +4,13 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W42",
   "previous_week": "2026-W41",
-  "updated": "2026-10-16T21:33:11.306653+00:00",
+  "updated": "2026-10-16T23:50:05.827335+00:00",
   "charts": [
     {
       "position": 1,
       "artist": "Al Jarreau",
       "title": "Your Song",
-      "plays": 5,
+      "plays": 6,
       "previous_position": null,
       "movement": null,
       "trend": "new"
@@ -26,24 +26,33 @@
     },
     {
       "position": 3,
+      "artist": "Eagles",
+      "title": "One Of These Nights",
+      "plays": 4,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 4,
       "artist": "Ingrid Herta",
       "title": "Meine Sinne Erwachen",
       "plays": 4,
       "previous_position": 42,
-      "movement": 39,
-      "trend": "up"
-    },
-    {
-      "position": 4,
-      "artist": "Mario & Christoph",
-      "title": "Du Kannst Dir Sicher Sein",
-      "plays": 4,
-      "previous_position": 126,
-      "movement": 122,
+      "movement": 38,
       "trend": "up"
     },
     {
       "position": 5,
+      "artist": "Mario & Christoph",
+      "title": "Du Kannst Dir Sicher Sein",
+      "plays": 4,
+      "previous_position": 126,
+      "movement": 121,
+      "trend": "up"
+    },
+    {
+      "position": 6,
       "artist": "T. Rex",
       "title": "Hot Love",
       "plays": 4,
@@ -52,25 +61,43 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 7,
+      "artist": "The Trammps",
+      "title": "Disco Inferno",
+      "plays": 4,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 8,
       "artist": "TQ",
       "title": "In The Night",
       "plays": 4,
       "previous_position": 177,
-      "movement": 171,
+      "movement": 169,
       "trend": "up"
     },
     {
-      "position": 7,
+      "position": 9,
       "artist": "Vanessa Mai",
       "title": "Ich Fall In Love",
       "plays": 4,
       "previous_position": 12,
-      "movement": 5,
+      "movement": 3,
       "trend": "up"
     },
     {
-      "position": 8,
+      "position": 10,
+      "artist": "Bay City Rollers",
+      "title": "Saturday Night",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 11,
       "artist": "Beloved",
       "title": "Sweet Harmony",
       "plays": 3,
@@ -79,25 +106,25 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 12,
       "artist": "Birgit Bega",
       "title": "Mein Spiegelbild",
       "plays": 3,
       "previous_position": 2,
-      "movement": -7,
+      "movement": -10,
       "trend": "down"
     },
     {
-      "position": 10,
+      "position": 13,
       "artist": "Blue System",
       "title": "Magic Symphony",
       "plays": 3,
       "previous_position": 124,
-      "movement": 114,
+      "movement": 111,
       "trend": "up"
     },
     {
-      "position": 11,
+      "position": 14,
       "artist": "Bomb The Bass",
       "title": "Beat Dis",
       "plays": 3,
@@ -106,16 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 12,
-      "artist": "Eagles",
-      "title": "One Of These Nights",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 13,
+      "position": 15,
       "artist": "Ella Endlich",
       "title": "Cinderella",
       "plays": 3,
@@ -124,34 +142,34 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 16,
       "artist": "Facts & Fiction",
       "title": "Give Me The Night",
       "plays": 3,
       "previous_position": 110,
-      "movement": 96,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "Fantasy",
-      "title": "Das Bleibt Unter Uns Chérie",
-      "plays": 3,
-      "previous_position": 69,
-      "movement": 54,
-      "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "Frankie Valli & The Four Seasons",
-      "title": "December, 1963 (Oh What A Night!)",
-      "plays": 3,
-      "previous_position": 194,
-      "movement": 178,
+      "movement": 94,
       "trend": "up"
     },
     {
       "position": 17,
+      "artist": "Fantasy",
+      "title": "Das Bleibt Unter Uns Chérie",
+      "plays": 3,
+      "previous_position": 69,
+      "movement": 52,
+      "trend": "up"
+    },
+    {
+      "position": 18,
+      "artist": "Frankie Valli & The Four Seasons",
+      "title": "December, 1963 (Oh What A Night!)",
+      "plays": 3,
+      "previous_position": 194,
+      "movement": 176,
+      "trend": "up"
+    },
+    {
+      "position": 19,
       "artist": "Fäaschtbänkler & Revelle",
       "title": "Highlightmensch",
       "plays": 3,
@@ -160,31 +178,13 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 20,
       "artist": "George McCrae",
       "title": "Rock Your Baby",
       "plays": 3,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Michael Wendler",
-      "title": "Unzerstörbar",
-      "plays": 3,
-      "previous_position": 4,
-      "movement": -15,
-      "trend": "down"
-    },
-    {
-      "position": 20,
-      "artist": "Ross Antony",
-      "title": "Kettenkarussell",
-      "plays": 3,
-      "previous_position": 17,
-      "movement": -3,
-      "trend": "down"
     }
   ]
 }
