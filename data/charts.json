@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W42",
   "previous_week": "2026-W41",
-  "updated": "2026-10-16T01:09:37.949570+00:00",
+  "updated": "2026-10-16T05:49:37.431935+00:00",
   "charts": [
     {
       "position": 1,
@@ -35,51 +35,60 @@
     },
     {
       "position": 4,
-      "artist": "Vanessa Mai",
-      "title": "Ich Fall In Love",
+      "artist": "TQ",
+      "title": "In The Night",
       "plays": 4,
-      "previous_position": 12,
-      "movement": 8,
+      "previous_position": 177,
+      "movement": 173,
       "trend": "up"
     },
     {
       "position": 5,
+      "artist": "Vanessa Mai",
+      "title": "Ich Fall In Love",
+      "plays": 4,
+      "previous_position": 12,
+      "movement": 7,
+      "trend": "up"
+    },
+    {
+      "position": 6,
       "artist": "Birgit Bega",
       "title": "Mein Spiegelbild",
       "plays": 3,
       "previous_position": 2,
-      "movement": -3,
+      "movement": -4,
       "trend": "down"
     },
     {
-      "position": 6,
+      "position": 7,
       "artist": "Blue System",
       "title": "Magic Symphony",
       "plays": 3,
       "previous_position": 124,
-      "movement": 118,
-      "trend": "up"
-    },
-    {
-      "position": 7,
-      "artist": "DJ Herzbeat & Daliah Lavi",
-      "title": "Mut",
-      "plays": 3,
-      "previous_position": 13,
-      "movement": 6,
+      "movement": 117,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "Fantasy",
-      "title": "Das Bleibt Unter Uns Chérie",
+      "artist": "DJ Herzbeat & Daliah Lavi",
+      "title": "Mut",
       "plays": 3,
-      "previous_position": 69,
-      "movement": 61,
+      "previous_position": 13,
+      "movement": 5,
       "trend": "up"
     },
     {
       "position": 9,
+      "artist": "Fantasy",
+      "title": "Das Bleibt Unter Uns Chérie",
+      "plays": 3,
+      "previous_position": 69,
+      "movement": 60,
+      "trend": "up"
+    },
+    {
+      "position": 10,
       "artist": "Fäaschtbänkler & Revelle",
       "title": "Highlightmensch",
       "plays": 3,
@@ -88,7 +97,16 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 11,
+      "artist": "Savage",
+      "title": "Don't Cry Tonight",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 12,
       "artist": "T. Rex",
       "title": "Hot Love",
       "plays": 3,
@@ -97,7 +115,7 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 13,
       "artist": "The Doors",
       "title": "Riders On The Storm",
       "plays": 3,
@@ -106,7 +124,7 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 14,
       "artist": "The Trammps",
       "title": "Disco Inferno",
       "plays": 3,
@@ -115,16 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 13,
-      "artist": "TQ",
-      "title": "In The Night",
-      "plays": 3,
-      "previous_position": 177,
-      "movement": 164,
-      "trend": "up"
-    },
-    {
-      "position": 14,
+      "position": 15,
       "artist": "War",
       "title": "Low Rider",
       "plays": 3,
@@ -133,16 +142,25 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 16,
+      "artist": "Alex Blue",
+      "title": "Let Us Dance",
+      "plays": 2,
+      "previous_position": 68,
+      "movement": 52,
+      "trend": "up"
+    },
+    {
+      "position": 17,
       "artist": "Andre Busse",
       "title": "Zwing Mich Doch Zu Meinem Glück",
       "plays": 2,
       "previous_position": 52,
-      "movement": 37,
+      "movement": 35,
       "trend": "up"
     },
     {
-      "position": 16,
+      "position": 18,
       "artist": "Baccara",
       "title": "My Love In China",
       "plays": 2,
@@ -151,40 +169,22 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 19,
       "artist": "Bad Boys Blue",
       "title": "Come Back And Stay",
       "plays": 2,
       "previous_position": 84,
-      "movement": 67,
+      "movement": 65,
       "trend": "up"
     },
     {
-      "position": 18,
+      "position": 20,
       "artist": "Bay City Rollers",
       "title": "Saturday Night",
       "plays": 2,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Beloved",
-      "title": "Sweet Harmony",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Blokkboy",
-      "title": "Kopf Aus Metall",
-      "plays": 2,
-      "previous_position": 156,
-      "movement": 136,
-      "trend": "up"
     }
   ]
 }
