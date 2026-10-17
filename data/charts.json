@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W42",
   "previous_week": "2026-W41",
-  "updated": "2026-10-17T06:09:48.531887+00:00",
+  "updated": "2026-10-17T10:40:35.184053+00:00",
   "charts": [
     {
       "position": 1,
@@ -17,15 +17,33 @@
     },
     {
       "position": 2,
+      "artist": "Beloved",
+      "title": "Sweet Harmony",
+      "plays": 4,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 3,
+      "artist": "Blue System",
+      "title": "Magic Symphony",
+      "plays": 4,
+      "previous_position": 124,
+      "movement": 121,
+      "trend": "up"
+    },
+    {
+      "position": 4,
       "artist": "DJ Herzbeat & Daliah Lavi",
       "title": "Mut",
       "plays": 4,
       "previous_position": 13,
-      "movement": 11,
+      "movement": 9,
       "trend": "up"
     },
     {
-      "position": 3,
+      "position": 5,
       "artist": "Eagles",
       "title": "One Of These Nights",
       "plays": 4,
@@ -34,25 +52,25 @@
       "trend": "new"
     },
     {
-      "position": 4,
+      "position": 6,
       "artist": "Ingrid Herta",
       "title": "Meine Sinne Erwachen",
       "plays": 4,
       "previous_position": 42,
-      "movement": 38,
+      "movement": 36,
       "trend": "up"
     },
     {
-      "position": 5,
+      "position": 7,
       "artist": "Mario & Christoph",
       "title": "Du Kannst Dir Sicher Sein",
       "plays": 4,
       "previous_position": 126,
-      "movement": 121,
+      "movement": 119,
       "trend": "up"
     },
     {
-      "position": 6,
+      "position": 8,
       "artist": "Savage",
       "title": "Don't Cry Tonight",
       "plays": 4,
@@ -61,7 +79,7 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 9,
       "artist": "T. Rex",
       "title": "Hot Love",
       "plays": 4,
@@ -70,7 +88,7 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 10,
       "artist": "The Trammps",
       "title": "Disco Inferno",
       "plays": 4,
@@ -79,25 +97,25 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 11,
       "artist": "TQ",
       "title": "In The Night",
       "plays": 4,
       "previous_position": 177,
-      "movement": 168,
+      "movement": 166,
       "trend": "up"
     },
     {
-      "position": 10,
+      "position": 12,
       "artist": "Vanessa Mai",
       "title": "Ich Fall In Love",
       "plays": 4,
       "previous_position": 12,
-      "movement": 2,
-      "trend": "up"
+      "movement": 0,
+      "trend": "same"
     },
     {
-      "position": 11,
+      "position": 13,
       "artist": "Baccara",
       "title": "My Love In China",
       "plays": 3,
@@ -106,7 +124,7 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 14,
       "artist": "Bay City Rollers",
       "title": "Saturday Night",
       "plays": 3,
@@ -115,31 +133,13 @@
       "trend": "new"
     },
     {
-      "position": 13,
-      "artist": "Beloved",
-      "title": "Sweet Harmony",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 14,
+      "position": 15,
       "artist": "Birgit Bega",
       "title": "Mein Spiegelbild",
       "plays": 3,
       "previous_position": 2,
-      "movement": -12,
+      "movement": -13,
       "trend": "down"
-    },
-    {
-      "position": 15,
-      "artist": "Blue System",
-      "title": "Magic Symphony",
-      "plays": 3,
-      "previous_position": 124,
-      "movement": 109,
-      "trend": "up"
     },
     {
       "position": 16,
