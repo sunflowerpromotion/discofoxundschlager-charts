@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W42",
   "previous_week": "2026-W41",
-  "updated": "2026-10-17T18:54:46.952658+00:00",
+  "updated": "2026-10-17T21:11:22.874458+00:00",
   "charts": [
     {
       "position": 1,
@@ -80,6 +80,15 @@
     },
     {
       "position": 9,
+      "artist": "Natalie Holzner",
+      "title": "Gold Wert",
+      "plays": 4,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 10,
       "artist": "Savage",
       "title": "Don't Cry Tonight",
       "plays": 4,
@@ -88,7 +97,7 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 11,
       "artist": "T. Rex",
       "title": "Hot Love",
       "plays": 4,
@@ -97,7 +106,16 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 12,
+      "artist": "The Doors",
+      "title": "Riders On The Storm",
+      "plays": 4,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 13,
       "artist": "The Trammps",
       "title": "Disco Inferno",
       "plays": 4,
@@ -106,16 +124,16 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 14,
       "artist": "TQ",
       "title": "In The Night",
       "plays": 4,
       "previous_position": 177,
-      "movement": 165,
+      "movement": 163,
       "trend": "up"
     },
     {
-      "position": 13,
+      "position": 15,
       "artist": "Baccara",
       "title": "My Love In China",
       "plays": 3,
@@ -124,7 +142,7 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 16,
       "artist": "Bay City Rollers",
       "title": "Saturday Night",
       "plays": 3,
@@ -133,16 +151,16 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 17,
       "artist": "Birgit Bega",
       "title": "Mein Spiegelbild",
       "plays": 3,
       "previous_position": 2,
-      "movement": -13,
+      "movement": -15,
       "trend": "down"
     },
     {
-      "position": 16,
+      "position": 18,
       "artist": "Bomb The Bass",
       "title": "Beat Dis",
       "plays": 3,
@@ -151,7 +169,7 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 19,
       "artist": "Ella Endlich",
       "title": "Cinderella",
       "plays": 3,
@@ -160,30 +178,12 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 20,
       "artist": "Facts & Fiction",
       "title": "Give Me The Night",
       "plays": 3,
       "previous_position": 110,
-      "movement": 92,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Fantasy",
-      "title": "Das Bleibt Unter Uns Chérie",
-      "plays": 3,
-      "previous_position": 69,
-      "movement": 50,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "Frankie Valli & The Four Seasons",
-      "title": "December, 1963 (Oh What A Night!)",
-      "plays": 3,
-      "previous_position": 194,
-      "movement": 174,
+      "movement": 90,
       "trend": "up"
     }
   ]
