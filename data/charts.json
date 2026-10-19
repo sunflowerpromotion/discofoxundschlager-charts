@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W43",
   "previous_week": "2026-W42",
-  "updated": "2026-10-19T14:02:27.493612+00:00",
+  "updated": "2026-10-19T19:47:52.626126+00:00",
   "charts": [
     {
       "position": 1,
@@ -26,164 +26,164 @@
     },
     {
       "position": 3,
-      "artist": "Andreas Martin",
-      "title": "Ich Fang Dir Den Mond",
+      "artist": "Andre Busse",
+      "title": "Zwing Mich Doch Zu Meinem Glück",
       "plays": 1,
-      "previous_position": 61,
-      "movement": 58,
+      "previous_position": 78,
+      "movement": 75,
       "trend": "up"
     },
     {
       "position": 4,
-      "artist": "Bad Boys Blue",
-      "title": "Come Back And Stay",
+      "artist": "Andreas Martin",
+      "title": "Ich Fang Dir Den Mond",
       "plays": 1,
-      "previous_position": 71,
-      "movement": 67,
+      "previous_position": 61,
+      "movement": 57,
       "trend": "up"
     },
     {
       "position": 5,
       "artist": "Bad Boys Blue",
-      "title": "I Wanna Hear Your Heartbeat",
+      "title": "Come Back And Stay",
       "plays": 1,
-      "previous_position": 97,
-      "movement": 92,
+      "previous_position": 71,
+      "movement": 66,
       "trend": "up"
     },
     {
       "position": 6,
+      "artist": "Bad Boys Blue",
+      "title": "I Wanna Hear Your Heartbeat",
+      "plays": 1,
+      "previous_position": 97,
+      "movement": 91,
+      "trend": "up"
+    },
+    {
+      "position": 7,
       "artist": "Bay City Rollers",
       "title": "Saturday Night",
       "plays": 1,
       "previous_position": 6,
-      "movement": 0,
-      "trend": "same"
+      "movement": -1,
+      "trend": "down"
     },
     {
-      "position": 7,
+      "position": 8,
       "artist": "Bucks Fizz",
       "title": "Making Your Mind Up",
       "plays": 1,
       "previous_position": 163,
-      "movement": 156,
-      "trend": "up"
-    },
-    {
-      "position": 8,
-      "artist": "Cliff Richard",
-      "title": "We Don’t Talk Anymore",
-      "plays": 1,
-      "previous_position": 55,
-      "movement": 47,
+      "movement": 155,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "DJ Jerry",
-      "title": "Shanghai",
+      "artist": "Cliff Richard",
+      "title": "We Don’t Talk Anymore",
       "plays": 1,
-      "previous_position": 152,
-      "movement": 143,
+      "previous_position": 55,
+      "movement": 46,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "Dominik Baumer",
-      "title": "Ich Lauf Los",
+      "artist": "Dani Mirell",
+      "title": "Fantasy Girl",
       "plays": 1,
-      "previous_position": 150,
-      "movement": 140,
+      "previous_position": 33,
+      "movement": 23,
       "trend": "up"
     },
     {
       "position": 11,
-      "artist": "Flickentanz",
-      "title": "Kein Zuhause Mehr (Alles Finster)",
+      "artist": "DJ Jerry",
+      "title": "Shanghai",
       "plays": 1,
-      "previous_position": 175,
-      "movement": 164,
-      "trend": "up"
-    },
-    {
-      "position": 12,
-      "artist": "Fäaschtbänkler & Revelle",
-      "title": "Highlightmensch",
-      "plays": 1,
-      "previous_position": 26,
-      "movement": 14,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "Grant Miller",
-      "title": "Colder Than Ice",
-      "plays": 1,
-      "previous_position": 154,
+      "previous_position": 152,
       "movement": 141,
       "trend": "up"
     },
     {
-      "position": 14,
-      "artist": "Ibo",
-      "title": "Süsses Blut",
+      "position": 12,
+      "artist": "Dominik Baumer",
+      "title": "Ich Lauf Los",
       "plays": 1,
-      "previous_position": 120,
-      "movement": 106,
+      "previous_position": 150,
+      "movement": 138,
       "trend": "up"
     },
     {
-      "position": 15,
-      "artist": "ID",
-      "title": "Pop (KI generiert)",
+      "position": 13,
+      "artist": "Earl Dean Johnson",
+      "title": "Tut Mir Leid",
       "plays": 1,
-      "previous_position": 36,
+      "previous_position": 34,
       "movement": 21,
       "trend": "up"
     },
     {
-      "position": 16,
-      "artist": "Jörg Bausch",
-      "title": "Dieser Flug",
+      "position": 14,
+      "artist": "Fantasy",
+      "title": "Das Bleibt Unter Uns Chérie",
       "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 21,
+      "movement": 7,
+      "trend": "up"
+    },
+    {
+      "position": 15,
+      "artist": "Flickentanz",
+      "title": "Kein Zuhause Mehr (Alles Finster)",
+      "plays": 1,
+      "previous_position": 175,
+      "movement": 160,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "Frank Lars",
+      "title": "Wenn Du Diesen Brief Liest (Die Antwort)",
+      "plays": 1,
+      "previous_position": 93,
+      "movement": 77,
+      "trend": "up"
     },
     {
       "position": 17,
-      "artist": "Kreis & Quer",
-      "title": "Señorita",
+      "artist": "Fäaschtbänkler & Revelle",
+      "title": "Highlightmensch",
       "plays": 1,
-      "previous_position": 128,
-      "movement": 111,
+      "previous_position": 26,
+      "movement": 9,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "London Boys",
-      "title": "Requiem",
+      "artist": "Grant Miller",
+      "title": "Colder Than Ice",
       "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 154,
+      "movement": 136,
+      "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Marie Klee",
-      "title": "Meine Mitte",
+      "artist": "Ibo",
+      "title": "Süsses Blut",
       "plays": 1,
-      "previous_position": 149,
-      "movement": 130,
+      "previous_position": 120,
+      "movement": 101,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Matthias Carras",
-      "title": "Wie Halt' Ich Einen Engel",
+      "artist": "ID",
+      "title": "Pop (KI generiert)",
       "plays": 1,
-      "previous_position": 116,
-      "movement": 96,
+      "previous_position": 36,
+      "movement": 16,
       "trend": "up"
     }
   ]
