@@ -4,82 +4,163 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W43",
   "previous_week": "2026-W42",
-  "updated": "2026-10-18T23:35:08.371736+00:00",
+  "updated": "2026-10-19T01:36:58.350922+00:00",
   "charts": [
     {
       "position": 1,
-      "artist": "Alicia Bridges",
-      "title": "I Love The Nightlife",
-      "plays": 1,
-      "previous_position": 102,
-      "movement": 101,
+      "artist": "Smokie",
+      "title": "If You Think You Know How To Love Me",
+      "plays": 2,
+      "previous_position": 77,
+      "movement": 76,
       "trend": "up"
     },
     {
       "position": 2,
-      "artist": "Bay City Rollers",
-      "title": "Saturday Night",
+      "artist": "Alicia Bridges",
+      "title": "I Love The Nightlife",
       "plays": 1,
-      "previous_position": 6,
-      "movement": 4,
+      "previous_position": 102,
+      "movement": 100,
       "trend": "up"
     },
     {
       "position": 3,
-      "artist": "Bucks Fizz",
-      "title": "Making Your Mind Up",
+      "artist": "Bay City Rollers",
+      "title": "Saturday Night",
       "plays": 1,
-      "previous_position": 163,
-      "movement": 160,
+      "previous_position": 6,
+      "movement": 3,
       "trend": "up"
     },
     {
       "position": 4,
-      "artist": "Cliff Richard",
-      "title": "We Don’t Talk Anymore",
+      "artist": "Bucks Fizz",
+      "title": "Making Your Mind Up",
       "plays": 1,
-      "previous_position": 55,
-      "movement": 51,
+      "previous_position": 163,
+      "movement": 159,
       "trend": "up"
     },
     {
       "position": 5,
-      "artist": "Maxine Nightingale",
-      "title": "Right Back Where We Started From",
+      "artist": "Cliff Richard",
+      "title": "We Don’t Talk Anymore",
       "plays": 1,
-      "previous_position": 91,
-      "movement": 86,
+      "previous_position": 55,
+      "movement": 50,
       "trend": "up"
     },
     {
       "position": 6,
-      "artist": "Pussycat",
-      "title": "Mississippi",
+      "artist": "Dominik Baumer",
+      "title": "Ich Lauf Los",
       "plays": 1,
-      "previous_position": 76,
-      "movement": 70,
+      "previous_position": 150,
+      "movement": 144,
       "trend": "up"
     },
     {
       "position": 7,
-      "artist": "Smokie",
-      "title": "If You Think You Know How To Love Me",
+      "artist": "Flickentanz",
+      "title": "Kein Zuhause Mehr (Alles Finster)",
       "plays": 1,
-      "previous_position": 77,
-      "movement": 70,
+      "previous_position": 175,
+      "movement": 168,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "Smokie",
-      "title": "Lay Back In The Arms Of Someone",
+      "artist": "Fäaschtbänkler & Revelle",
+      "title": "Highlightmensch",
       "plays": 1,
-      "previous_position": 89,
-      "movement": 81,
+      "previous_position": 26,
+      "movement": 18,
       "trend": "up"
     },
     {
       "position": 9,
+      "artist": "ID",
+      "title": "Pop (KI generiert)",
+      "plays": 1,
+      "previous_position": 36,
+      "movement": 27,
+      "trend": "up"
+    },
+    {
+      "position": 10,
+      "artist": "Kreis & Quer",
+      "title": "Señorita",
+      "plays": 1,
+      "previous_position": 128,
+      "movement": 118,
+      "trend": "up"
+    },
+    {
+      "position": 11,
+      "artist": "Marie Klee",
+      "title": "Meine Mitte",
+      "plays": 1,
+      "previous_position": 149,
+      "movement": 138,
+      "trend": "up"
+    },
+    {
+      "position": 12,
+      "artist": "Maxine Nightingale",
+      "title": "Right Back Where We Started From",
+      "plays": 1,
+      "previous_position": 91,
+      "movement": 79,
+      "trend": "up"
+    },
+    {
+      "position": 13,
+      "artist": "Pussycat",
+      "title": "Mississippi",
+      "plays": 1,
+      "previous_position": 76,
+      "movement": 63,
+      "trend": "up"
+    },
+    {
+      "position": 14,
+      "artist": "Ronny Krappmann",
+      "title": "Im Himmel Fehlt Heut Ein Engel",
+      "plays": 1,
+      "previous_position": 70,
+      "movement": 56,
+      "trend": "up"
+    },
+    {
+      "position": 15,
+      "artist": "Sister Sledge",
+      "title": "We Are Family",
+      "plays": 1,
+      "previous_position": 112,
+      "movement": 97,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "Smokie",
+      "title": "Lay Back In The Arms Of Someone",
+      "plays": 1,
+      "previous_position": 89,
+      "movement": 73,
+      "trend": "up"
+    },
+    {
+      "position": 17,
+      "artist": "Stadtpoet",
+      "title": "Gin Tonic",
+      "plays": 1,
+      "previous_position": 129,
+      "movement": 112,
+      "trend": "up"
+    },
+    {
+      "position": 18,
       "artist": "The New Seekers",
       "title": "Never Ending Song Of Love",
       "plays": 1,
@@ -88,13 +169,13 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 19,
       "artist": "The Trammps",
       "title": "Disco Inferno",
       "plays": 1,
       "previous_position": 14,
-      "movement": 4,
-      "trend": "up"
+      "movement": -5,
+      "trend": "down"
     }
   ]
 }
