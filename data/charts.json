@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W43",
   "previous_week": "2026-W42",
-  "updated": "2026-10-20T06:41:45.104440+00:00",
+  "updated": "2026-10-20T12:13:57.464863+00:00",
   "charts": [
     {
       "position": 1,
@@ -161,30 +161,30 @@
     },
     {
       "position": 18,
+      "artist": "Bad Boys Blue",
+      "title": "Kisses And Tears (My One And Only)",
+      "plays": 1,
+      "previous_position": 158,
+      "movement": 140,
+      "trend": "up"
+    },
+    {
+      "position": 19,
+      "artist": "Banditos Bonitos feat. Nina",
+      "title": "Gimme Sunshine",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 20,
       "artist": "Bay City Rollers",
       "title": "Saturday Night",
       "plays": 1,
       "previous_position": 6,
-      "movement": -12,
+      "movement": -14,
       "trend": "down"
-    },
-    {
-      "position": 19,
-      "artist": "Claudia Stern & Band",
-      "title": "Autowaschtag",
-      "plays": 1,
-      "previous_position": 133,
-      "movement": 114,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "Dani Mirell",
-      "title": "Fantasy Girl",
-      "plays": 1,
-      "previous_position": 33,
-      "movement": 13,
-      "trend": "up"
     }
   ]
 }
