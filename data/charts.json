@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W43",
   "previous_week": "2026-W42",
-  "updated": "2026-10-21T06:36:54.525932+00:00",
+  "updated": "2026-10-21T12:21:28.117583+00:00",
   "charts": [
     {
       "position": 1,
@@ -53,51 +53,60 @@
     },
     {
       "position": 6,
-      "artist": "Bucks Fizz",
-      "title": "Making Your Mind Up",
+      "artist": "Bernie Paul",
+      "title": "Azttenzione Go Go Radio",
       "plays": 2,
-      "previous_position": 163,
-      "movement": 157,
+      "previous_position": 196,
+      "movement": 190,
       "trend": "up"
     },
     {
       "position": 7,
-      "artist": "Claudia Stern & Band",
-      "title": "Autowaschtag",
+      "artist": "Bucks Fizz",
+      "title": "Making Your Mind Up",
       "plays": 2,
-      "previous_position": 133,
-      "movement": 126,
+      "previous_position": 163,
+      "movement": 156,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "Cliff Richard",
-      "title": "We Don’t Talk Anymore",
+      "artist": "Claudia Stern & Band",
+      "title": "Autowaschtag",
       "plays": 2,
-      "previous_position": 55,
-      "movement": 47,
+      "previous_position": 133,
+      "movement": 125,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "Dominik Baumer",
-      "title": "Ich Lauf Los",
+      "artist": "Cliff Richard",
+      "title": "We Don’t Talk Anymore",
       "plays": 2,
-      "previous_position": 150,
-      "movement": 141,
+      "previous_position": 55,
+      "movement": 46,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "Fancy",
-      "title": "Slice Me Nice",
+      "artist": "Dominik Baumer",
+      "title": "Ich Lauf Los",
       "plays": 2,
-      "previous_position": 144,
-      "movement": 134,
+      "previous_position": 150,
+      "movement": 140,
       "trend": "up"
     },
     {
       "position": 11,
+      "artist": "Fancy",
+      "title": "Slice Me Nice",
+      "plays": 2,
+      "previous_position": 144,
+      "movement": 133,
+      "trend": "up"
+    },
+    {
+      "position": 12,
       "artist": "Frank Brenner",
       "title": "Vorbei",
       "plays": 2,
@@ -106,85 +115,76 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 13,
       "artist": "Fäaschtbänkler & Revelle",
       "title": "Highlightmensch",
       "plays": 2,
       "previous_position": 26,
-      "movement": 14,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "ID",
-      "title": "Schlager (KI generiert)",
-      "plays": 2,
-      "previous_position": 65,
-      "movement": 52,
+      "movement": 13,
       "trend": "up"
     },
     {
       "position": 14,
-      "artist": "Kreis & Quer",
-      "title": "Señorita",
+      "artist": "ID",
+      "title": "Schlager (KI generiert)",
       "plays": 2,
-      "previous_position": 128,
-      "movement": 114,
+      "previous_position": 65,
+      "movement": 51,
       "trend": "up"
     },
     {
       "position": 15,
-      "artist": "Martin Schmiderer",
-      "title": "So Schön",
+      "artist": "Kreis & Quer",
+      "title": "Señorita",
       "plays": 2,
-      "previous_position": 176,
-      "movement": 161,
+      "previous_position": 128,
+      "movement": 113,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "Maxine Nightingale",
-      "title": "Right Back Where We Started From",
+      "artist": "Martin Schmiderer",
+      "title": "So Schön",
       "plays": 2,
-      "previous_position": 91,
-      "movement": 75,
+      "previous_position": 176,
+      "movement": 160,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "Miko Mission",
-      "title": "How Old Are You",
+      "artist": "Maxine Nightingale",
+      "title": "Right Back Where We Started From",
       "plays": 2,
-      "previous_position": 72,
-      "movement": 55,
+      "previous_position": 91,
+      "movement": 74,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Mode-One",
-      "title": "Angels In The Night",
+      "artist": "Miko Mission",
+      "title": "How Old Are You",
       "plays": 2,
-      "previous_position": 74,
-      "movement": 56,
+      "previous_position": 72,
+      "movement": 54,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Pussycat",
-      "title": "Mississippi",
+      "artist": "Mode-One",
+      "title": "Angels In The Night",
       "plays": 2,
-      "previous_position": 76,
-      "movement": 57,
+      "previous_position": 74,
+      "movement": 55,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Sarah Lesch",
-      "title": "Zwei Von Liebe",
+      "artist": "Pussycat",
+      "title": "Mississippi",
       "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 76,
+      "movement": 56,
+      "trend": "up"
     }
   ]
 }
