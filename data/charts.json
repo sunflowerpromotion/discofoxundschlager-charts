@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W43",
   "previous_week": "2026-W42",
-  "updated": "2026-10-20T23:22:20.296658+00:00",
+  "updated": "2026-10-21T01:44:58.408489+00:00",
   "charts": [
     {
       "position": 1,
@@ -62,69 +62,114 @@
     },
     {
       "position": 7,
-      "artist": "Cliff Richard",
-      "title": "We Don’t Talk Anymore",
+      "artist": "Claudia Stern & Band",
+      "title": "Autowaschtag",
       "plays": 2,
-      "previous_position": 55,
-      "movement": 48,
+      "previous_position": 133,
+      "movement": 126,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "Dominik Baumer",
-      "title": "Ich Lauf Los",
+      "artist": "Cliff Richard",
+      "title": "We Don’t Talk Anymore",
       "plays": 2,
-      "previous_position": 150,
-      "movement": 142,
+      "previous_position": 55,
+      "movement": 47,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "ID",
-      "title": "Schlager (KI generiert)",
+      "artist": "Dominik Baumer",
+      "title": "Ich Lauf Los",
       "plays": 2,
-      "previous_position": 65,
-      "movement": 56,
+      "previous_position": 150,
+      "movement": 141,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "Kreis & Quer",
-      "title": "Señorita",
+      "artist": "Frank Brenner",
+      "title": "Vorbei",
       "plays": 2,
-      "previous_position": 128,
-      "movement": 118,
-      "trend": "up"
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
       "position": 11,
-      "artist": "Maxine Nightingale",
-      "title": "Right Back Where We Started From",
+      "artist": "Fäaschtbänkler & Revelle",
+      "title": "Highlightmensch",
       "plays": 2,
-      "previous_position": 91,
-      "movement": 80,
+      "previous_position": 26,
+      "movement": 15,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Miko Mission",
-      "title": "How Old Are You",
+      "artist": "ID",
+      "title": "Schlager (KI generiert)",
       "plays": 2,
-      "previous_position": 72,
-      "movement": 60,
+      "previous_position": 65,
+      "movement": 53,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "Pussycat",
-      "title": "Mississippi",
+      "artist": "Kreis & Quer",
+      "title": "Señorita",
       "plays": 2,
-      "previous_position": 76,
-      "movement": 63,
+      "previous_position": 128,
+      "movement": 115,
       "trend": "up"
     },
     {
       "position": 14,
+      "artist": "Martin Schmiderer",
+      "title": "So Schön",
+      "plays": 2,
+      "previous_position": 176,
+      "movement": 162,
+      "trend": "up"
+    },
+    {
+      "position": 15,
+      "artist": "Maxine Nightingale",
+      "title": "Right Back Where We Started From",
+      "plays": 2,
+      "previous_position": 91,
+      "movement": 76,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "Miko Mission",
+      "title": "How Old Are You",
+      "plays": 2,
+      "previous_position": 72,
+      "movement": 56,
+      "trend": "up"
+    },
+    {
+      "position": 17,
+      "artist": "Pussycat",
+      "title": "Mississippi",
+      "plays": 2,
+      "previous_position": 76,
+      "movement": 59,
+      "trend": "up"
+    },
+    {
+      "position": 18,
+      "artist": "Sarah Lesch",
+      "title": "Zwei Von Liebe",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 19,
       "artist": "Shirley & Company",
       "title": "Shame, Shame, Shame",
       "plays": 2,
@@ -133,57 +178,12 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 20,
       "artist": "Silent Circle",
       "title": "Touch In The Night",
       "plays": 2,
       "previous_position": 167,
-      "movement": 152,
-      "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "Stadtpoet",
-      "title": "Gin Tonic",
-      "plays": 2,
-      "previous_position": 129,
-      "movement": 113,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "The Lords",
-      "title": "Poor Boy",
-      "plays": 2,
-      "previous_position": 117,
-      "movement": 100,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Alexander Ferro",
-      "title": "Magic Moments",
-      "plays": 1,
-      "previous_position": 123,
-      "movement": 105,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Alicia Bridges",
-      "title": "I Love The Nightlife",
-      "plays": 1,
-      "previous_position": 102,
-      "movement": 83,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "Andre Busse",
-      "title": "Zwing Mich Doch Zu Meinem Glück",
-      "plays": 1,
-      "previous_position": 78,
-      "movement": 58,
+      "movement": 147,
       "trend": "up"
     }
   ]
