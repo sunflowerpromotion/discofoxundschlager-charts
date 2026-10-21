@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W43",
   "previous_week": "2026-W42",
-  "updated": "2026-10-21T01:44:58.408489+00:00",
+  "updated": "2026-10-21T06:36:54.525932+00:00",
   "charts": [
     {
       "position": 1,
@@ -89,6 +89,15 @@
     },
     {
       "position": 10,
+      "artist": "Fancy",
+      "title": "Slice Me Nice",
+      "plays": 2,
+      "previous_position": 144,
+      "movement": 134,
+      "trend": "up"
+    },
+    {
+      "position": 11,
       "artist": "Frank Brenner",
       "title": "Vorbei",
       "plays": 2,
@@ -97,94 +106,85 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 12,
       "artist": "Fäaschtbänkler & Revelle",
       "title": "Highlightmensch",
       "plays": 2,
       "previous_position": 26,
-      "movement": 15,
-      "trend": "up"
-    },
-    {
-      "position": 12,
-      "artist": "ID",
-      "title": "Schlager (KI generiert)",
-      "plays": 2,
-      "previous_position": 65,
-      "movement": 53,
+      "movement": 14,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "Kreis & Quer",
-      "title": "Señorita",
+      "artist": "ID",
+      "title": "Schlager (KI generiert)",
       "plays": 2,
-      "previous_position": 128,
-      "movement": 115,
+      "previous_position": 65,
+      "movement": 52,
       "trend": "up"
     },
     {
       "position": 14,
-      "artist": "Martin Schmiderer",
-      "title": "So Schön",
+      "artist": "Kreis & Quer",
+      "title": "Señorita",
       "plays": 2,
-      "previous_position": 176,
-      "movement": 162,
+      "previous_position": 128,
+      "movement": 114,
       "trend": "up"
     },
     {
       "position": 15,
-      "artist": "Maxine Nightingale",
-      "title": "Right Back Where We Started From",
+      "artist": "Martin Schmiderer",
+      "title": "So Schön",
       "plays": 2,
-      "previous_position": 91,
-      "movement": 76,
+      "previous_position": 176,
+      "movement": 161,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "Miko Mission",
-      "title": "How Old Are You",
+      "artist": "Maxine Nightingale",
+      "title": "Right Back Where We Started From",
       "plays": 2,
-      "previous_position": 72,
-      "movement": 56,
+      "previous_position": 91,
+      "movement": 75,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "Pussycat",
-      "title": "Mississippi",
+      "artist": "Miko Mission",
+      "title": "How Old Are You",
       "plays": 2,
-      "previous_position": 76,
-      "movement": 59,
+      "previous_position": 72,
+      "movement": 55,
       "trend": "up"
     },
     {
       "position": 18,
+      "artist": "Mode-One",
+      "title": "Angels In The Night",
+      "plays": 2,
+      "previous_position": 74,
+      "movement": 56,
+      "trend": "up"
+    },
+    {
+      "position": 19,
+      "artist": "Pussycat",
+      "title": "Mississippi",
+      "plays": 2,
+      "previous_position": 76,
+      "movement": 57,
+      "trend": "up"
+    },
+    {
+      "position": 20,
       "artist": "Sarah Lesch",
       "title": "Zwei Von Liebe",
       "plays": 2,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Shirley & Company",
-      "title": "Shame, Shame, Shame",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Silent Circle",
-      "title": "Touch In The Night",
-      "plays": 2,
-      "previous_position": 167,
-      "movement": 147,
-      "trend": "up"
     }
   ]
 }
