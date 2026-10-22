@@ -4,127 +4,154 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W43",
   "previous_week": "2026-W42",
-  "updated": "2026-10-22T17:33:30.535260+00:00",
+  "updated": "2026-10-22T20:45:25.778436+00:00",
   "charts": [
     {
       "position": 1,
-      "artist": "Earl Dean Johnson",
-      "title": "Tut Mir Leid",
-      "plays": 4,
-      "previous_position": 34,
-      "movement": 33,
+      "artist": "ID",
+      "title": "Schlager (KI generiert)",
+      "plays": 5,
+      "previous_position": 65,
+      "movement": 64,
       "trend": "up"
     },
     {
       "position": 2,
-      "artist": "ID",
-      "title": "Schlager (KI generiert)",
+      "artist": "Earl Dean Johnson",
+      "title": "Tut Mir Leid",
       "plays": 4,
-      "previous_position": 65,
-      "movement": 63,
-      "trend": "up"
-    },
-    {
-      "position": 3,
-      "artist": "ABBA",
-      "title": "Take A Chance On Me",
-      "plays": 3,
-      "previous_position": 60,
-      "movement": 57,
-      "trend": "up"
-    },
-    {
-      "position": 4,
-      "artist": "Andreas Martin",
-      "title": "Ich Fang Dir Den Mond",
-      "plays": 3,
-      "previous_position": 61,
-      "movement": 57,
-      "trend": "up"
-    },
-    {
-      "position": 5,
-      "artist": "Dominik Baumer",
-      "title": "Ich Lauf Los",
-      "plays": 3,
-      "previous_position": 150,
-      "movement": 145,
-      "trend": "up"
-    },
-    {
-      "position": 6,
-      "artist": "Miko Mission",
-      "title": "How Old Are You",
-      "plays": 3,
-      "previous_position": 72,
-      "movement": 66,
-      "trend": "up"
-    },
-    {
-      "position": 7,
-      "artist": "Mode-One",
-      "title": "Angels In The Night",
-      "plays": 3,
-      "previous_position": 74,
-      "movement": 67,
-      "trend": "up"
-    },
-    {
-      "position": 8,
-      "artist": "Pussycat",
-      "title": "Mississippi",
-      "plays": 3,
-      "previous_position": 76,
-      "movement": 68,
-      "trend": "up"
-    },
-    {
-      "position": 9,
-      "artist": "Smokie",
-      "title": "If You Think You Know How To Love Me",
-      "plays": 3,
-      "previous_position": 77,
-      "movement": 68,
-      "trend": "up"
-    },
-    {
-      "position": 10,
-      "artist": "Sonija",
-      "title": "Deine Hand Berührn",
-      "plays": 3,
-      "previous_position": 42,
+      "previous_position": 34,
       "movement": 32,
       "trend": "up"
     },
     {
-      "position": 11,
-      "artist": "Stadtpoet",
-      "title": "Gin Tonic",
+      "position": 3,
+      "artist": "voXXclub",
+      "title": "Nur Weil Ich Dich Liebe",
+      "plays": 4,
+      "previous_position": 110,
+      "movement": 107,
+      "trend": "up"
+    },
+    {
+      "position": 4,
+      "artist": "ABBA",
+      "title": "Take A Chance On Me",
       "plays": 3,
-      "previous_position": 129,
-      "movement": 118,
+      "previous_position": 60,
+      "movement": 56,
+      "trend": "up"
+    },
+    {
+      "position": 5,
+      "artist": "Andre Busse",
+      "title": "Zwing Mich Doch Zu Meinem Glück",
+      "plays": 3,
+      "previous_position": 78,
+      "movement": 73,
+      "trend": "up"
+    },
+    {
+      "position": 6,
+      "artist": "Andreas Martin",
+      "title": "Ich Fang Dir Den Mond",
+      "plays": 3,
+      "previous_position": 61,
+      "movement": 55,
+      "trend": "up"
+    },
+    {
+      "position": 7,
+      "artist": "Dominik Baumer",
+      "title": "Ich Lauf Los",
+      "plays": 3,
+      "previous_position": 150,
+      "movement": 143,
+      "trend": "up"
+    },
+    {
+      "position": 8,
+      "artist": "Frank Lars",
+      "title": "Wenn Du Diesen Brief Liest (Die Antwort)",
+      "plays": 3,
+      "previous_position": 93,
+      "movement": 85,
+      "trend": "up"
+    },
+    {
+      "position": 9,
+      "artist": "Miko Mission",
+      "title": "How Old Are You",
+      "plays": 3,
+      "previous_position": 72,
+      "movement": 63,
+      "trend": "up"
+    },
+    {
+      "position": 10,
+      "artist": "Mode-One",
+      "title": "Angels In The Night",
+      "plays": 3,
+      "previous_position": 74,
+      "movement": 64,
+      "trend": "up"
+    },
+    {
+      "position": 11,
+      "artist": "Natalie Holzner",
+      "title": "Gold Wert",
+      "plays": 3,
+      "previous_position": 17,
+      "movement": 6,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Virgin",
-      "title": "Only You",
+      "artist": "Pussycat",
+      "title": "Mississippi",
       "plays": 3,
-      "previous_position": 164,
-      "movement": 152,
+      "previous_position": 76,
+      "movement": 64,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "voXXclub",
-      "title": "Nur Weil Ich Dich Liebe",
+      "artist": "Smokie",
+      "title": "If You Think You Know How To Love Me",
       "plays": 3,
-      "previous_position": 110,
-      "movement": 97,
+      "previous_position": 77,
+      "movement": 64,
       "trend": "up"
     },
     {
       "position": 14,
+      "artist": "Sonija",
+      "title": "Deine Hand Berührn",
+      "plays": 3,
+      "previous_position": 42,
+      "movement": 28,
+      "trend": "up"
+    },
+    {
+      "position": 15,
+      "artist": "Stadtpoet",
+      "title": "Gin Tonic",
+      "plays": 3,
+      "previous_position": 129,
+      "movement": 114,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "Virgin",
+      "title": "Only You",
+      "plays": 3,
+      "previous_position": 164,
+      "movement": 148,
+      "trend": "up"
+    },
+    {
+      "position": 17,
       "artist": "Wilde Herzen",
       "title": "Definitiv",
       "plays": 3,
@@ -133,57 +160,30 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 18,
       "artist": "ABBA",
       "title": "Dancing Queen",
       "plays": 2,
       "previous_position": 148,
-      "movement": 133,
-      "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "Alicia Bridges",
-      "title": "I Love The Nightlife",
-      "plays": 2,
-      "previous_position": 102,
-      "movement": 86,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Andre Busse",
-      "title": "Zwing Mich Doch Zu Meinem Glück",
-      "plays": 2,
-      "previous_position": 78,
-      "movement": 61,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Bad Boys Blue",
-      "title": "I Wanna Hear Your Heartbeat",
-      "plays": 2,
-      "previous_position": 97,
-      "movement": 79,
+      "movement": 130,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Bernie Paul",
-      "title": "Azttenzione Go Go Radio",
+      "artist": "Alicia Bridges",
+      "title": "I Love The Nightlife",
       "plays": 2,
-      "previous_position": 196,
-      "movement": 177,
+      "previous_position": 102,
+      "movement": 83,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Bucks Fizz",
-      "title": "Making Your Mind Up",
+      "artist": "Bad Boys Blue",
+      "title": "I Wanna Hear Your Heartbeat",
       "plays": 2,
-      "previous_position": 163,
-      "movement": 143,
+      "previous_position": 97,
+      "movement": 77,
       "trend": "up"
     }
   ]
