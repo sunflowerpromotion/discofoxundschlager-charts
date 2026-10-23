@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W43",
   "previous_week": "2026-W42",
-  "updated": "2026-10-22T23:39:31.927961+00:00",
+  "updated": "2026-10-23T01:57:39.361169+00:00",
   "charts": [
     {
       "position": 1,
@@ -116,74 +116,74 @@
     },
     {
       "position": 13,
-      "artist": "Maxine Nightingale",
-      "title": "Right Back Where We Started From",
+      "artist": "Kreis & Quer",
+      "title": "Señorita",
       "plays": 3,
-      "previous_position": 91,
-      "movement": 78,
+      "previous_position": 128,
+      "movement": 115,
       "trend": "up"
     },
     {
       "position": 14,
-      "artist": "Miko Mission",
-      "title": "How Old Are You",
+      "artist": "Martin Schmiderer",
+      "title": "So Schön",
       "plays": 3,
-      "previous_position": 72,
-      "movement": 58,
+      "previous_position": 176,
+      "movement": 162,
       "trend": "up"
     },
     {
       "position": 15,
-      "artist": "Mode-One",
-      "title": "Angels In The Night",
+      "artist": "Maxine Nightingale",
+      "title": "Right Back Where We Started From",
       "plays": 3,
-      "previous_position": 74,
-      "movement": 59,
+      "previous_position": 91,
+      "movement": 76,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "Natalie Holzner",
-      "title": "Gold Wert",
+      "artist": "Miko Mission",
+      "title": "How Old Are You",
       "plays": 3,
-      "previous_position": 17,
-      "movement": 1,
+      "previous_position": 72,
+      "movement": 56,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "Sister Sledge",
-      "title": "We Are Family",
+      "artist": "Mode-One",
+      "title": "Angels In The Night",
       "plays": 3,
-      "previous_position": 112,
-      "movement": 95,
+      "previous_position": 74,
+      "movement": 57,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Smokie",
-      "title": "If You Think You Know How To Love Me",
+      "artist": "Natalie Holzner",
+      "title": "Gold Wert",
       "plays": 3,
-      "previous_position": 77,
-      "movement": 59,
-      "trend": "up"
+      "previous_position": 17,
+      "movement": -1,
+      "trend": "down"
     },
     {
       "position": 19,
-      "artist": "Sonija",
-      "title": "Deine Hand Berührn",
+      "artist": "Sister Sledge",
+      "title": "We Are Family",
       "plays": 3,
-      "previous_position": 42,
-      "movement": 23,
+      "previous_position": 112,
+      "movement": 93,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Stadtpoet",
-      "title": "Gin Tonic",
+      "artist": "Smokie",
+      "title": "If You Think You Know How To Love Me",
       "plays": 3,
-      "previous_position": 129,
-      "movement": 109,
+      "previous_position": 77,
+      "movement": 57,
       "trend": "up"
     }
   ]
