@@ -4,13 +4,13 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W43",
   "previous_week": "2026-W42",
-  "updated": "2026-10-23T12:36:14.483503+00:00",
+  "updated": "2026-10-23T17:25:04.998929+00:00",
   "charts": [
     {
       "position": 1,
       "artist": "ID",
       "title": "Schlager (KI generiert)",
-      "plays": 5,
+      "plays": 6,
       "previous_position": 65,
       "movement": 64,
       "trend": "up"
@@ -134,56 +134,56 @@
     },
     {
       "position": 15,
+      "artist": "Jörg Bausch",
+      "title": "Dieser Flug",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 16,
       "artist": "Kreis & Quer",
       "title": "Señorita",
       "plays": 3,
       "previous_position": 128,
-      "movement": 113,
-      "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "Martin Schmiderer",
-      "title": "So Schön",
-      "plays": 3,
-      "previous_position": 176,
-      "movement": 160,
+      "movement": 112,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "Maxine Nightingale",
-      "title": "Right Back Where We Started From",
+      "artist": "Martin Schmiderer",
+      "title": "So Schön",
       "plays": 3,
-      "previous_position": 91,
-      "movement": 74,
+      "previous_position": 176,
+      "movement": 159,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Michael Wendler",
-      "title": "180 Grad",
+      "artist": "Maxine Nightingale",
+      "title": "Right Back Where We Started From",
       "plays": 3,
-      "previous_position": 52,
-      "movement": 34,
+      "previous_position": 91,
+      "movement": 73,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Miko Mission",
-      "title": "How Old Are You",
+      "artist": "Melanie Payer",
+      "title": "Liebe Versteht",
       "plays": 3,
-      "previous_position": 72,
-      "movement": 53,
+      "previous_position": 192,
+      "movement": 173,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Mode-One",
-      "title": "Angels In The Night",
+      "artist": "Michael Wendler",
+      "title": "180 Grad",
       "plays": 3,
-      "previous_position": 74,
-      "movement": 54,
+      "previous_position": 52,
+      "movement": 32,
       "trend": "up"
     }
   ]
