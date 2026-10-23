@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W43",
   "previous_week": "2026-W42",
-  "updated": "2026-10-23T07:09:36.317629+00:00",
+  "updated": "2026-10-23T12:36:14.483503+00:00",
   "charts": [
     {
       "position": 1,
@@ -161,30 +161,30 @@
     },
     {
       "position": 18,
-      "artist": "Miko Mission",
-      "title": "How Old Are You",
+      "artist": "Michael Wendler",
+      "title": "180 Grad",
       "plays": 3,
-      "previous_position": 72,
-      "movement": 54,
+      "previous_position": 52,
+      "movement": 34,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Mode-One",
-      "title": "Angels In The Night",
+      "artist": "Miko Mission",
+      "title": "How Old Are You",
       "plays": 3,
-      "previous_position": 74,
-      "movement": 55,
+      "previous_position": 72,
+      "movement": 53,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Natalie Holzner",
-      "title": "Gold Wert",
+      "artist": "Mode-One",
+      "title": "Angels In The Night",
       "plays": 3,
-      "previous_position": 17,
-      "movement": -3,
-      "trend": "down"
+      "previous_position": 74,
+      "movement": 54,
+      "trend": "up"
     }
   ]
 }
