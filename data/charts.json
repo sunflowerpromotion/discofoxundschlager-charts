@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W43",
   "previous_week": "2026-W42",
-  "updated": "2026-10-23T20:33:40.641256+00:00",
+  "updated": "2026-10-23T23:26:28.892472+00:00",
   "charts": [
     {
       "position": 1,
@@ -107,51 +107,60 @@
     },
     {
       "position": 12,
-      "artist": "Bucks Fizz",
-      "title": "Making Your Mind Up",
+      "artist": "Bob Seger",
+      "title": "Still The Same",
       "plays": 3,
-      "previous_position": 163,
-      "movement": 151,
+      "previous_position": 90,
+      "movement": 78,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "Cliff Richard",
-      "title": "We Don’t Talk Anymore",
+      "artist": "Bucks Fizz",
+      "title": "Making Your Mind Up",
       "plays": 3,
-      "previous_position": 55,
-      "movement": 42,
+      "previous_position": 163,
+      "movement": 150,
       "trend": "up"
     },
     {
       "position": 14,
-      "artist": "Cliff Wedge",
-      "title": "With A Broken Heart",
+      "artist": "Cliff Richard",
+      "title": "We Don’t Talk Anymore",
       "plays": 3,
-      "previous_position": 153,
-      "movement": 139,
+      "previous_position": 55,
+      "movement": 41,
       "trend": "up"
     },
     {
       "position": 15,
-      "artist": "DJ Herzbeat & Andrea Jürgens",
-      "title": "Dieses Parfüm Auf Deiner Haut",
+      "artist": "Cliff Wedge",
+      "title": "With A Broken Heart",
       "plays": 3,
-      "previous_position": 140,
-      "movement": 125,
+      "previous_position": 153,
+      "movement": 138,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "Dominik Baumer",
-      "title": "Ich Lauf Los",
+      "artist": "DJ Herzbeat & Andrea Jürgens",
+      "title": "Dieses Parfüm Auf Deiner Haut",
       "plays": 3,
-      "previous_position": 150,
-      "movement": 134,
+      "previous_position": 140,
+      "movement": 124,
       "trend": "up"
     },
     {
       "position": 17,
+      "artist": "Dominik Baumer",
+      "title": "Ich Lauf Los",
+      "plays": 3,
+      "previous_position": 150,
+      "movement": 133,
+      "trend": "up"
+    },
+    {
+      "position": 18,
       "artist": "Jörg Bausch",
       "title": "Dieser Flug",
       "plays": 3,
@@ -160,30 +169,21 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 19,
       "artist": "Kreis & Quer",
       "title": "Señorita",
       "plays": 3,
       "previous_position": 128,
-      "movement": 110,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Martin Schmiderer",
-      "title": "So Schön",
-      "plays": 3,
-      "previous_position": 176,
-      "movement": 157,
+      "movement": 109,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Maxine Nightingale",
-      "title": "Right Back Where We Started From",
+      "artist": "Martin Schmiderer",
+      "title": "So Schön",
       "plays": 3,
-      "previous_position": 91,
-      "movement": 71,
+      "previous_position": 176,
+      "movement": 156,
       "trend": "up"
     }
   ]
