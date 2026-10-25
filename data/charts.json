@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W43",
   "previous_week": "2026-W42",
-  "updated": "2026-10-25T17:15:18.544997+00:00",
+  "updated": "2026-10-25T19:42:24.848579+00:00",
   "charts": [
     {
       "position": 1,
@@ -19,7 +19,7 @@
       "position": 2,
       "artist": "Earl Dean Johnson",
       "title": "Tut Mir Leid",
-      "plays": 6,
+      "plays": 7,
       "previous_position": 34,
       "movement": 32,
       "trend": "up"
@@ -71,33 +71,51 @@
     },
     {
       "position": 8,
-      "artist": "The Doors",
-      "title": "Riders On The Storm",
+      "artist": "Sonija",
+      "title": "Deine Hand Berührn",
       "plays": 5,
-      "previous_position": 16,
-      "movement": 8,
+      "previous_position": 42,
+      "movement": 34,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "Cliff Richard",
-      "title": "We Don’t Talk Anymore",
-      "plays": 4,
-      "previous_position": 55,
-      "movement": 46,
+      "artist": "The Doors",
+      "title": "Riders On The Storm",
+      "plays": 5,
+      "previous_position": 16,
+      "movement": 7,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "ID",
-      "title": "Discofox & Schlager Memories (KI generiert)",
+      "artist": "Cliff Richard",
+      "title": "We Don’t Talk Anymore",
       "plays": 4,
-      "previous_position": 56,
-      "movement": 46,
+      "previous_position": 55,
+      "movement": 45,
       "trend": "up"
     },
     {
       "position": 11,
+      "artist": "DJ Herzbeat & Andrea Jürgens",
+      "title": "Dieses Parfüm Auf Deiner Haut",
+      "plays": 4,
+      "previous_position": 140,
+      "movement": 129,
+      "trend": "up"
+    },
+    {
+      "position": 12,
+      "artist": "ID",
+      "title": "Discofox & Schlager Memories (KI generiert)",
+      "plays": 4,
+      "previous_position": 56,
+      "movement": 44,
+      "trend": "up"
+    },
+    {
+      "position": 13,
       "artist": "Jörg Bausch",
       "title": "Dieser Flug",
       "plays": 4,
@@ -106,25 +124,25 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 14,
       "artist": "Kreis & Quer",
       "title": "Señorita",
       "plays": 4,
       "previous_position": 128,
-      "movement": 116,
+      "movement": 114,
       "trend": "up"
     },
     {
-      "position": 13,
+      "position": 15,
       "artist": "Michael Wendler",
       "title": "180 Grad",
       "plays": 4,
       "previous_position": 52,
-      "movement": 39,
+      "movement": 37,
       "trend": "up"
     },
     {
-      "position": 14,
+      "position": 16,
       "artist": "Millionen",
       "title": "Willst Du Mit Mir",
       "plays": 4,
@@ -133,54 +151,36 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 17,
       "artist": "Natalie Holzner",
       "title": "Gold Wert",
       "plays": 4,
       "previous_position": 17,
-      "movement": 2,
-      "trend": "up"
+      "movement": 0,
+      "trend": "same"
     },
     {
-      "position": 16,
+      "position": 18,
       "artist": "Savage",
       "title": "Don't Cry Tonight",
       "plays": 4,
       "previous_position": 4,
-      "movement": -12,
+      "movement": -14,
       "trend": "down"
     },
     {
-      "position": 17,
-      "artist": "Sonija",
-      "title": "Deine Hand Berührn",
-      "plays": 4,
-      "previous_position": 42,
-      "movement": 25,
-      "trend": "up"
-    },
-    {
-      "position": 18,
+      "position": 19,
       "artist": "Stadtpoet",
       "title": "Gin Tonic",
       "plays": 4,
       "previous_position": 129,
-      "movement": 111,
+      "movement": 110,
       "trend": "up"
     },
     {
-      "position": 19,
+      "position": 20,
       "artist": "Stefanie Werger",
       "title": "So Sehr Lieb Ich Dich",
-      "plays": 4,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Wilde Herzen",
-      "title": "Definitiv",
       "plays": 4,
       "previous_position": null,
       "movement": null,
