@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W43",
   "previous_week": "2026-W42",
-  "updated": "2026-10-25T09:22:23.435070+00:00",
+  "updated": "2026-10-25T13:47:25.485421+00:00",
   "charts": [
     {
       "position": 1,
@@ -98,6 +98,15 @@
     },
     {
       "position": 11,
+      "artist": "Michael Wendler",
+      "title": "180 Grad",
+      "plays": 4,
+      "previous_position": 52,
+      "movement": 41,
+      "trend": "up"
+    },
+    {
+      "position": 12,
       "artist": "Millionen",
       "title": "Willst Du Mit Mir",
       "plays": 4,
@@ -106,43 +115,43 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 13,
       "artist": "Natalie Holzner",
       "title": "Gold Wert",
       "plays": 4,
       "previous_position": 17,
-      "movement": 5,
+      "movement": 4,
       "trend": "up"
     },
     {
-      "position": 13,
+      "position": 14,
       "artist": "Savage",
       "title": "Don't Cry Tonight",
       "plays": 4,
       "previous_position": 4,
-      "movement": -9,
+      "movement": -10,
       "trend": "down"
     },
     {
-      "position": 14,
+      "position": 15,
       "artist": "Sonija",
       "title": "Deine Hand Berührn",
       "plays": 4,
       "previous_position": 42,
-      "movement": 28,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "Stadtpoet",
-      "title": "Gin Tonic",
-      "plays": 4,
-      "previous_position": 129,
-      "movement": 114,
+      "movement": 27,
       "trend": "up"
     },
     {
       "position": 16,
+      "artist": "Stadtpoet",
+      "title": "Gin Tonic",
+      "plays": 4,
+      "previous_position": 129,
+      "movement": 113,
+      "trend": "up"
+    },
+    {
+      "position": 17,
       "artist": "Stefanie Werger",
       "title": "So Sehr Lieb Ich Dich",
       "plays": 4,
@@ -151,39 +160,30 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 18,
       "artist": "ABBA",
       "title": "Dancing Queen",
       "plays": 3,
       "previous_position": 148,
-      "movement": 131,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "ABBA",
-      "title": "Take A Chance On Me",
-      "plays": 3,
-      "previous_position": 60,
-      "movement": 42,
+      "movement": 130,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Alicia Bridges",
-      "title": "I Love The Nightlife",
+      "artist": "ABBA",
+      "title": "Take A Chance On Me",
       "plays": 3,
-      "previous_position": 102,
-      "movement": 83,
+      "previous_position": 60,
+      "movement": 41,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Andre Busse",
-      "title": "Zwing Mich Doch Zu Meinem Glück",
+      "artist": "Alicia Bridges",
+      "title": "I Love The Nightlife",
       "plays": 3,
-      "previous_position": 78,
-      "movement": 58,
+      "previous_position": 102,
+      "movement": 82,
       "trend": "up"
     }
   ]
