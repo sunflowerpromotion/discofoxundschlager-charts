@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W44",
   "previous_week": "2026-W43",
-  "updated": "2026-10-26T00:12:24.977625+00:00",
+  "updated": "2026-10-26T04:49:00.364820+00:00",
   "charts": [
     {
       "position": 1,
@@ -26,33 +26,78 @@
     },
     {
       "position": 3,
-      "artist": "Bob Seger",
-      "title": "Still The Same",
+      "artist": "Alin Coen",
+      "title": "Bis Bald",
       "plays": 1,
-      "previous_position": 52,
-      "movement": 49,
+      "previous_position": 97,
+      "movement": 94,
       "trend": "up"
     },
     {
       "position": 4,
-      "artist": "Bucks Fizz",
-      "title": "Making Your Mind Up",
+      "artist": "Amon",
+      "title": "Okay",
       "plays": 1,
-      "previous_position": 27,
-      "movement": 23,
+      "previous_position": 123,
+      "movement": 119,
       "trend": "up"
     },
     {
       "position": 5,
-      "artist": "Frankie Valli & The Four Seasons",
-      "title": "December, 1963 (Oh What A Night!)",
+      "artist": "Blokkboy",
+      "title": "Kopf Aus Metall",
       "plays": 1,
-      "previous_position": 127,
-      "movement": 122,
+      "previous_position": 168,
+      "movement": 163,
       "trend": "up"
     },
     {
       "position": 6,
+      "artist": "Bob Seger",
+      "title": "Still The Same",
+      "plays": 1,
+      "previous_position": 52,
+      "movement": 46,
+      "trend": "up"
+    },
+    {
+      "position": 7,
+      "artist": "Bucks Fizz",
+      "title": "Making Your Mind Up",
+      "plays": 1,
+      "previous_position": 27,
+      "movement": 20,
+      "trend": "up"
+    },
+    {
+      "position": 8,
+      "artist": "Claudia Stern & Band",
+      "title": "Autowaschtag",
+      "plays": 1,
+      "previous_position": 79,
+      "movement": 71,
+      "trend": "up"
+    },
+    {
+      "position": 9,
+      "artist": "Frankie Valli & The Four Seasons",
+      "title": "December, 1963 (Oh What A Night!)",
+      "plays": 1,
+      "previous_position": 127,
+      "movement": 118,
+      "trend": "up"
+    },
+    {
+      "position": 10,
+      "artist": "GentleMänner",
+      "title": "Frei",
+      "plays": 1,
+      "previous_position": 129,
+      "movement": 119,
+      "trend": "up"
+    },
+    {
+      "position": 11,
       "artist": "Hot Chocolate",
       "title": "You Sexy Thing",
       "plays": 1,
@@ -61,39 +106,84 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 12,
+      "artist": "ID",
+      "title": "Pop (KI generiert)",
+      "plays": 1,
+      "previous_position": 66,
+      "movement": 54,
+      "trend": "up"
+    },
+    {
+      "position": 13,
       "artist": "Kool & The Gang",
       "title": "Ladies Night",
       "plays": 1,
       "previous_position": 192,
-      "movement": 185,
+      "movement": 179,
       "trend": "up"
     },
     {
-      "position": 8,
+      "position": 14,
+      "artist": "Martin Schmiderer",
+      "title": "So Schön",
+      "plays": 1,
+      "previous_position": 8,
+      "movement": -6,
+      "trend": "down"
+    },
+    {
+      "position": 15,
+      "artist": "Ronny Krappmann",
+      "title": "Im Himmel Fehlt Heut Ein Engel",
+      "plays": 1,
+      "previous_position": 137,
+      "movement": 122,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "Siegfried Walch",
+      "title": "Die Strassen Dieser Zeit",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 17,
       "artist": "Smokey Robinson & The Miracles",
       "title": "The Tears Of A Clown",
       "plays": 1,
       "previous_position": 108,
-      "movement": 100,
+      "movement": 91,
       "trend": "up"
     },
     {
-      "position": 9,
+      "position": 18,
+      "artist": "Stefanie Werger",
+      "title": "So Sehr Lieb Ich Dich",
+      "plays": 1,
+      "previous_position": 22,
+      "movement": 4,
+      "trend": "up"
+    },
+    {
+      "position": 19,
       "artist": "The Lords",
       "title": "Poor Boy",
       "plays": 1,
       "previous_position": 40,
-      "movement": 31,
+      "movement": 21,
       "trend": "up"
     },
     {
-      "position": 10,
+      "position": 20,
       "artist": "The New Seekers",
       "title": "Never Ending Song Of Love",
       "plays": 1,
       "previous_position": 62,
-      "movement": 52,
+      "movement": 42,
       "trend": "up"
     }
   ]
