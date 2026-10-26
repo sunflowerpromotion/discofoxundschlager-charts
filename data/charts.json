@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W44",
   "previous_week": "2026-W43",
-  "updated": "2026-10-26T10:34:37.278698+00:00",
+  "updated": "2026-10-26T16:57:26.533973+00:00",
   "charts": [
     {
       "position": 1,
@@ -53,51 +53,60 @@
     },
     {
       "position": 6,
-      "artist": "Bad Boys Blue",
-      "title": "Jungle In My Heart",
+      "artist": "Andrea Berg",
+      "title": "Geh Doch, Wenn Du Sie Liebst",
       "plays": 1,
-      "previous_position": 132,
-      "movement": 126,
+      "previous_position": 119,
+      "movement": 113,
       "trend": "up"
     },
     {
       "position": 7,
       "artist": "Bad Boys Blue",
-      "title": "Kisses And Tears (My One And Only)",
+      "title": "Jungle In My Heart",
       "plays": 1,
-      "previous_position": 88,
-      "movement": 81,
+      "previous_position": 132,
+      "movement": 125,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "Blokkboy",
-      "title": "Kopf Aus Metall",
+      "artist": "Bad Boys Blue",
+      "title": "Kisses And Tears (My One And Only)",
       "plays": 1,
-      "previous_position": 168,
-      "movement": 160,
+      "previous_position": 88,
+      "movement": 80,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "Bob Seger",
-      "title": "Still The Same",
+      "artist": "Blokkboy",
+      "title": "Kopf Aus Metall",
       "plays": 1,
-      "previous_position": 52,
-      "movement": 43,
+      "previous_position": 168,
+      "movement": 159,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "Bucks Fizz",
-      "title": "Making Your Mind Up",
+      "artist": "Bob Seger",
+      "title": "Still The Same",
       "plays": 1,
-      "previous_position": 27,
-      "movement": 17,
+      "previous_position": 52,
+      "movement": 42,
       "trend": "up"
     },
     {
       "position": 11,
+      "artist": "Bucks Fizz",
+      "title": "Making Your Mind Up",
+      "plays": 1,
+      "previous_position": 27,
+      "movement": 16,
+      "trend": "up"
+    },
+    {
+      "position": 12,
       "artist": "C.C.Catch",
       "title": "Strangers By Night",
       "plays": 1,
@@ -106,34 +115,61 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 13,
       "artist": "Claudia Stern & Band",
       "title": "Autowaschtag",
       "plays": 1,
       "previous_position": 79,
-      "movement": 67,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "Frankie Valli & The Four Seasons",
-      "title": "December, 1963 (Oh What A Night!)",
-      "plays": 1,
-      "previous_position": 127,
-      "movement": 114,
+      "movement": 66,
       "trend": "up"
     },
     {
       "position": 14,
-      "artist": "GentleMänner",
-      "title": "Frei",
+      "artist": "Daniel Beck",
+      "title": "Tausend Tode",
       "plays": 1,
-      "previous_position": 129,
-      "movement": 115,
+      "previous_position": 185,
+      "movement": 171,
       "trend": "up"
     },
     {
       "position": 15,
+      "artist": "Fantasy",
+      "title": "Ein Weißes Boot",
+      "plays": 1,
+      "previous_position": 200,
+      "movement": 185,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "Frank Lars",
+      "title": "Wahnsinn",
+      "plays": 1,
+      "previous_position": 171,
+      "movement": 155,
+      "trend": "up"
+    },
+    {
+      "position": 17,
+      "artist": "Frankie Valli & The Four Seasons",
+      "title": "December, 1963 (Oh What A Night!)",
+      "plays": 1,
+      "previous_position": 127,
+      "movement": 110,
+      "trend": "up"
+    },
+    {
+      "position": 18,
+      "artist": "GentleMänner",
+      "title": "Frei",
+      "plays": 1,
+      "previous_position": 129,
+      "movement": 111,
+      "trend": "up"
+    },
+    {
+      "position": 19,
       "artist": "Helen",
       "title": "I Love You",
       "plays": 1,
@@ -142,45 +178,9 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 20,
       "artist": "Hot Chocolate",
       "title": "You Sexy Thing",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 17,
-      "artist": "ID",
-      "title": "Pop (KI generiert)",
-      "plays": 1,
-      "previous_position": 66,
-      "movement": 49,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Kool & The Gang",
-      "title": "Ladies Night",
-      "plays": 1,
-      "previous_position": 192,
-      "movement": 174,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Les McKeown",
-      "title": "Love Is Just A Breath Away",
-      "plays": 1,
-      "previous_position": 105,
-      "movement": 86,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "Lift Up",
-      "title": "Diamonds Never Made A Lady",
       "plays": 1,
       "previous_position": null,
       "movement": null,
