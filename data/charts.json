@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W44",
   "previous_week": "2026-W43",
-  "updated": "2026-10-26T16:57:26.533973+00:00",
+  "updated": "2026-10-26T21:26:55.632691+00:00",
   "charts": [
     {
       "position": 1,
@@ -134,57 +134,57 @@
     },
     {
       "position": 15,
-      "artist": "Fantasy",
-      "title": "Ein Weißes Boot",
+      "artist": "Diana Amft & Markus Luca",
+      "title": "Mensch Ärgere Dich Nicht",
       "plays": 1,
-      "previous_position": 200,
-      "movement": 185,
+      "previous_position": 120,
+      "movement": 105,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "Frank Lars",
-      "title": "Wahnsinn",
+      "artist": "Fantasy",
+      "title": "Ein Weißes Boot",
       "plays": 1,
-      "previous_position": 171,
-      "movement": 155,
+      "previous_position": 200,
+      "movement": 184,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "Frankie Valli & The Four Seasons",
-      "title": "December, 1963 (Oh What A Night!)",
+      "artist": "Frank Lars",
+      "title": "Wahnsinn",
       "plays": 1,
-      "previous_position": 127,
-      "movement": 110,
+      "previous_position": 171,
+      "movement": 154,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "GentleMänner",
-      "title": "Frei",
+      "artist": "Frank Lars",
+      "title": "Wenn Du Diesen Brief Liest (Die Antwort)",
       "plays": 1,
-      "previous_position": 129,
-      "movement": 111,
-      "trend": "up"
+      "previous_position": 7,
+      "movement": -11,
+      "trend": "down"
     },
     {
       "position": 19,
-      "artist": "Helen",
-      "title": "I Love You",
+      "artist": "Frank Lukas",
+      "title": "Du Fehlst",
       "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 133,
+      "movement": 114,
+      "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Hot Chocolate",
-      "title": "You Sexy Thing",
+      "artist": "Frankie Valli & The Four Seasons",
+      "title": "December, 1963 (Oh What A Night!)",
       "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 127,
+      "movement": 107,
+      "trend": "up"
     }
   ]
 }
