@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W44",
   "previous_week": "2026-W43",
-  "updated": "2026-10-27T05:37:03.530195+00:00",
+  "updated": "2026-10-27T10:57:02.639824+00:00",
   "charts": [
     {
       "position": 1,
@@ -17,114 +17,159 @@
     },
     {
       "position": 2,
-      "artist": "Bob Seger",
-      "title": "Still The Same",
+      "artist": "Bad Boys Blue",
+      "title": "Kisses And Tears (My One And Only)",
       "plays": 2,
-      "previous_position": 52,
-      "movement": 50,
+      "previous_position": 88,
+      "movement": 86,
       "trend": "up"
     },
     {
       "position": 3,
-      "artist": "Kool & The Gang",
-      "title": "Ladies Night",
+      "artist": "Bob Seger",
+      "title": "Still The Same",
       "plays": 2,
-      "previous_position": 192,
-      "movement": 189,
+      "previous_position": 52,
+      "movement": 49,
       "trend": "up"
     },
     {
       "position": 4,
-      "artist": "Airplay",
-      "title": "For Your Love",
-      "plays": 1,
-      "previous_position": 195,
-      "movement": 191,
+      "artist": "Kool & The Gang",
+      "title": "Ladies Night",
+      "plays": 2,
+      "previous_position": 192,
+      "movement": 188,
       "trend": "up"
     },
     {
       "position": 5,
-      "artist": "Al Jarreau",
-      "title": "Your Song",
-      "plays": 1,
-      "previous_position": 128,
-      "movement": 123,
-      "trend": "up"
+      "artist": "Lift Up",
+      "title": "Diamonds Never Made A Lady",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
       "position": 6,
-      "artist": "Alicia Bridges",
-      "title": "I Love The Nightlife",
-      "plays": 1,
-      "previous_position": 26,
-      "movement": 20,
+      "artist": "Silent Circle",
+      "title": "Moonlight Affair",
+      "plays": 2,
+      "previous_position": 104,
+      "movement": 98,
       "trend": "up"
     },
     {
       "position": 7,
-      "artist": "Alin Coen",
-      "title": "Bis Bald",
-      "plays": 1,
-      "previous_position": 97,
-      "movement": 90,
+      "artist": "Wolframm",
+      "title": "Give Me All Your Love",
+      "plays": 2,
+      "previous_position": 156,
+      "movement": 149,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "Amon",
-      "title": "Okay",
+      "artist": "Airplay",
+      "title": "For Your Love",
       "plays": 1,
-      "previous_position": 123,
-      "movement": 115,
+      "previous_position": 195,
+      "movement": 187,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "Andrea Berg",
-      "title": "Geh Doch, Wenn Du Sie Liebst",
+      "artist": "Al Jarreau",
+      "title": "Your Song",
       "plays": 1,
-      "previous_position": 119,
-      "movement": 110,
+      "previous_position": 128,
+      "movement": 119,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "Bad Boys Blue",
-      "title": "Jungle In My Heart",
+      "artist": "Alicia Bridges",
+      "title": "I Love The Nightlife",
       "plays": 1,
-      "previous_position": 132,
-      "movement": 122,
+      "previous_position": 26,
+      "movement": 16,
       "trend": "up"
     },
     {
       "position": 11,
-      "artist": "Bad Boys Blue",
-      "title": "Kisses And Tears (My One And Only)",
+      "artist": "Alin Coen",
+      "title": "Bis Bald",
       "plays": 1,
-      "previous_position": 88,
-      "movement": 77,
+      "previous_position": 97,
+      "movement": 86,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Blokkboy",
-      "title": "Kopf Aus Metall",
+      "artist": "Amon",
+      "title": "Okay",
       "plays": 1,
-      "previous_position": 168,
-      "movement": 156,
+      "previous_position": 123,
+      "movement": 111,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "Bucks Fizz",
-      "title": "Making Your Mind Up",
+      "artist": "Andrea Berg",
+      "title": "Geh Doch, Wenn Du Sie Liebst",
       "plays": 1,
-      "previous_position": 27,
-      "movement": 14,
+      "previous_position": 119,
+      "movement": 106,
       "trend": "up"
     },
     {
       "position": 14,
+      "artist": "Bad Boys Blue",
+      "title": "Jungle In My Heart",
+      "plays": 1,
+      "previous_position": 132,
+      "movement": 118,
+      "trend": "up"
+    },
+    {
+      "position": 15,
+      "artist": "Beloved",
+      "title": "Sweet Harmony",
+      "plays": 1,
+      "previous_position": 157,
+      "movement": 142,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "Blokkboy",
+      "title": "Kopf Aus Metall",
+      "plays": 1,
+      "previous_position": 168,
+      "movement": 152,
+      "trend": "up"
+    },
+    {
+      "position": 17,
+      "artist": "Blue System",
+      "title": "Magic Symphony",
+      "plays": 1,
+      "previous_position": 126,
+      "movement": 109,
+      "trend": "up"
+    },
+    {
+      "position": 18,
+      "artist": "Bucks Fizz",
+      "title": "Making Your Mind Up",
+      "plays": 1,
+      "previous_position": 27,
+      "movement": 9,
+      "trend": "up"
+    },
+    {
+      "position": 19,
       "artist": "C.C.Catch",
       "title": "Strangers By Night",
       "plays": 1,
@@ -133,57 +178,12 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 20,
       "artist": "Ciao Ciao",
       "title": "Don't Go Breaking My Heart",
       "plays": 1,
       "previous_position": 182,
-      "movement": 167,
-      "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "Claudia Stern & Band",
-      "title": "Autowaschtag",
-      "plays": 1,
-      "previous_position": 79,
-      "movement": 63,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Daniel Beck",
-      "title": "Tausend Tode",
-      "plays": 1,
-      "previous_position": 185,
-      "movement": 168,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "David Dundas",
-      "title": "Jeans On",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Diana Amft & Markus Luca",
-      "title": "Mensch Ärgere Dich Nicht",
-      "plays": 1,
-      "previous_position": 120,
-      "movement": 101,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "DJ Jerry",
-      "title": "Shanghai",
-      "plays": 1,
-      "previous_position": 68,
-      "movement": 48,
+      "movement": 162,
       "trend": "up"
     }
   ]
