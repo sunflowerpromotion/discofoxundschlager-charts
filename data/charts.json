@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W44",
   "previous_week": "2026-W43",
-  "updated": "2026-10-27T00:40:50.799348+00:00",
+  "updated": "2026-10-27T05:37:03.530195+00:00",
   "charts": [
     {
       "position": 1,
@@ -134,24 +134,33 @@
     },
     {
       "position": 15,
-      "artist": "Claudia Stern & Band",
-      "title": "Autowaschtag",
+      "artist": "Ciao Ciao",
+      "title": "Don't Go Breaking My Heart",
       "plays": 1,
-      "previous_position": 79,
-      "movement": 64,
+      "previous_position": 182,
+      "movement": 167,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "Daniel Beck",
-      "title": "Tausend Tode",
+      "artist": "Claudia Stern & Band",
+      "title": "Autowaschtag",
       "plays": 1,
-      "previous_position": 185,
-      "movement": 169,
+      "previous_position": 79,
+      "movement": 63,
       "trend": "up"
     },
     {
       "position": 17,
+      "artist": "Daniel Beck",
+      "title": "Tausend Tode",
+      "plays": 1,
+      "previous_position": 185,
+      "movement": 168,
+      "trend": "up"
+    },
+    {
+      "position": 18,
       "artist": "David Dundas",
       "title": "Jeans On",
       "plays": 1,
@@ -160,30 +169,21 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 19,
       "artist": "Diana Amft & Markus Luca",
       "title": "Mensch Ärgere Dich Nicht",
       "plays": 1,
       "previous_position": 120,
-      "movement": 102,
+      "movement": 101,
       "trend": "up"
     },
     {
-      "position": 19,
-      "artist": "Edison Lighthouse",
-      "title": "Love Grows Where Rosemary Goes",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
       "position": 20,
-      "artist": "Fantasy",
-      "title": "Ein Weißes Boot",
+      "artist": "DJ Jerry",
+      "title": "Shanghai",
       "plays": 1,
-      "previous_position": 200,
-      "movement": 180,
+      "previous_position": 68,
+      "movement": 48,
       "trend": "up"
     }
   ]
