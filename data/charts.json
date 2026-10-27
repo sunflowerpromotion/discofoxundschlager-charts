@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W44",
   "previous_week": "2026-W43",
-  "updated": "2026-10-27T10:57:02.639824+00:00",
+  "updated": "2026-10-27T16:13:29.041144+00:00",
   "charts": [
     {
       "position": 1,
@@ -35,15 +35,24 @@
     },
     {
       "position": 4,
-      "artist": "Kool & The Gang",
-      "title": "Ladies Night",
+      "artist": "Jörg Bausch",
+      "title": "Grosses Kino",
       "plays": 2,
-      "previous_position": 192,
-      "movement": 188,
+      "previous_position": 91,
+      "movement": 87,
       "trend": "up"
     },
     {
       "position": 5,
+      "artist": "Kool & The Gang",
+      "title": "Ladies Night",
+      "plays": 2,
+      "previous_position": 192,
+      "movement": 187,
+      "trend": "up"
+    },
+    {
+      "position": 6,
       "artist": "Lift Up",
       "title": "Diamonds Never Made A Lady",
       "plays": 2,
@@ -52,138 +61,129 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 7,
       "artist": "Silent Circle",
       "title": "Moonlight Affair",
       "plays": 2,
       "previous_position": 104,
-      "movement": 98,
-      "trend": "up"
-    },
-    {
-      "position": 7,
-      "artist": "Wolframm",
-      "title": "Give Me All Your Love",
-      "plays": 2,
-      "previous_position": 156,
-      "movement": 149,
+      "movement": 97,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "Airplay",
-      "title": "For Your Love",
-      "plays": 1,
-      "previous_position": 195,
-      "movement": 187,
+      "artist": "Wolframm",
+      "title": "Give Me All Your Love",
+      "plays": 2,
+      "previous_position": 156,
+      "movement": 148,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "Al Jarreau",
-      "title": "Your Song",
+      "artist": "Airplay",
+      "title": "For Your Love",
       "plays": 1,
-      "previous_position": 128,
-      "movement": 119,
+      "previous_position": 195,
+      "movement": 186,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "Alicia Bridges",
-      "title": "I Love The Nightlife",
+      "artist": "Al Jarreau",
+      "title": "Your Song",
       "plays": 1,
-      "previous_position": 26,
-      "movement": 16,
-      "trend": "up"
-    },
-    {
-      "position": 11,
-      "artist": "Alin Coen",
-      "title": "Bis Bald",
-      "plays": 1,
-      "previous_position": 97,
-      "movement": 86,
-      "trend": "up"
-    },
-    {
-      "position": 12,
-      "artist": "Amon",
-      "title": "Okay",
-      "plays": 1,
-      "previous_position": 123,
-      "movement": 111,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "Andrea Berg",
-      "title": "Geh Doch, Wenn Du Sie Liebst",
-      "plays": 1,
-      "previous_position": 119,
-      "movement": 106,
-      "trend": "up"
-    },
-    {
-      "position": 14,
-      "artist": "Bad Boys Blue",
-      "title": "Jungle In My Heart",
-      "plays": 1,
-      "previous_position": 132,
+      "previous_position": 128,
       "movement": 118,
       "trend": "up"
     },
     {
+      "position": 11,
+      "artist": "Alicia Bridges",
+      "title": "I Love The Nightlife",
+      "plays": 1,
+      "previous_position": 26,
+      "movement": 15,
+      "trend": "up"
+    },
+    {
+      "position": 12,
+      "artist": "Alin Coen",
+      "title": "Bis Bald",
+      "plays": 1,
+      "previous_position": 97,
+      "movement": 85,
+      "trend": "up"
+    },
+    {
+      "position": 13,
+      "artist": "Amon",
+      "title": "Okay",
+      "plays": 1,
+      "previous_position": 123,
+      "movement": 110,
+      "trend": "up"
+    },
+    {
+      "position": 14,
+      "artist": "Andrea Berg",
+      "title": "Geh Doch, Wenn Du Sie Liebst",
+      "plays": 1,
+      "previous_position": 119,
+      "movement": 105,
+      "trend": "up"
+    },
+    {
       "position": 15,
-      "artist": "Beloved",
-      "title": "Sweet Harmony",
-      "plays": 1,
-      "previous_position": 157,
-      "movement": 142,
-      "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "Blokkboy",
-      "title": "Kopf Aus Metall",
-      "plays": 1,
-      "previous_position": 168,
-      "movement": 152,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Blue System",
-      "title": "Magic Symphony",
-      "plays": 1,
-      "previous_position": 126,
-      "movement": 109,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Bucks Fizz",
-      "title": "Making Your Mind Up",
-      "plays": 1,
-      "previous_position": 27,
-      "movement": 9,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "C.C.Catch",
-      "title": "Strangers By Night",
+      "artist": "Andrea Berg",
+      "title": "Mosaik",
       "plays": 1,
       "previous_position": null,
       "movement": null,
       "trend": "new"
     },
     {
-      "position": 20,
-      "artist": "Ciao Ciao",
-      "title": "Don't Go Breaking My Heart",
+      "position": 16,
+      "artist": "Bad Boys Blue",
+      "title": "Jungle In My Heart",
       "plays": 1,
-      "previous_position": 182,
-      "movement": 162,
+      "previous_position": 132,
+      "movement": 116,
+      "trend": "up"
+    },
+    {
+      "position": 17,
+      "artist": "Beloved",
+      "title": "Sweet Harmony",
+      "plays": 1,
+      "previous_position": 157,
+      "movement": 140,
+      "trend": "up"
+    },
+    {
+      "position": 18,
+      "artist": "Blokkboy",
+      "title": "Kopf Aus Metall",
+      "plays": 1,
+      "previous_position": 168,
+      "movement": 150,
+      "trend": "up"
+    },
+    {
+      "position": 19,
+      "artist": "Blue System",
+      "title": "Magic Symphony",
+      "plays": 1,
+      "previous_position": 126,
+      "movement": 107,
+      "trend": "up"
+    },
+    {
+      "position": 20,
+      "artist": "Bucks Fizz",
+      "title": "Making Your Mind Up",
+      "plays": 1,
+      "previous_position": 27,
+      "movement": 7,
       "trend": "up"
     }
   ]
