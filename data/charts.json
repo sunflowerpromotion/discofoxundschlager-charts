@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W44",
   "previous_week": "2026-W43",
-  "updated": "2026-10-28T11:30:04.173441+00:00",
+  "updated": "2026-10-28T17:17:51.427180+00:00",
   "charts": [
     {
       "position": 1,
@@ -80,24 +80,42 @@
     },
     {
       "position": 9,
-      "artist": "Blokkboy",
-      "title": "Kopf Aus Metall",
+      "artist": "Alexander Ferro",
+      "title": "Magic Moments",
       "plays": 2,
-      "previous_position": 168,
-      "movement": 159,
+      "previous_position": 92,
+      "movement": 83,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "Bob Seger",
-      "title": "Still The Same",
+      "artist": "Andrea Berg",
+      "title": "Die Gefühle Haben Schweigepflicht",
       "plays": 2,
-      "previous_position": 52,
-      "movement": 42,
+      "previous_position": 201,
+      "movement": 191,
       "trend": "up"
     },
     {
       "position": 11,
+      "artist": "Blokkboy",
+      "title": "Kopf Aus Metall",
+      "plays": 2,
+      "previous_position": 168,
+      "movement": 157,
+      "trend": "up"
+    },
+    {
+      "position": 12,
+      "artist": "Bob Seger",
+      "title": "Still The Same",
+      "plays": 2,
+      "previous_position": 52,
+      "movement": 40,
+      "trend": "up"
+    },
+    {
+      "position": 13,
       "artist": "Helen",
       "title": "I Love You",
       "plays": 2,
@@ -106,16 +124,25 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 14,
+      "artist": "Ibo",
+      "title": "Süsses Blut",
+      "plays": 2,
+      "previous_position": 73,
+      "movement": 59,
+      "trend": "up"
+    },
+    {
+      "position": 15,
       "artist": "ID",
       "title": "Discofox & Schlager Memories (KI generiert)",
       "plays": 2,
       "previous_position": 23,
-      "movement": 11,
+      "movement": 8,
       "trend": "up"
     },
     {
-      "position": 13,
+      "position": 16,
       "artist": "ID",
       "title": "Italo Disco (KI generiert)",
       "plays": 2,
@@ -124,67 +151,40 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 17,
       "artist": "Jörg Bausch",
       "title": "Grosses Kino",
       "plays": 2,
       "previous_position": 91,
-      "movement": 77,
+      "movement": 74,
       "trend": "up"
     },
     {
-      "position": 15,
+      "position": 18,
       "artist": "Kool & The Gang",
       "title": "Ladies Night",
       "plays": 2,
       "previous_position": 192,
-      "movement": 177,
+      "movement": 174,
       "trend": "up"
     },
     {
-      "position": 16,
+      "position": 19,
       "artist": "Kreis & Quer",
       "title": "Señorita",
       "plays": 2,
       "previous_position": 13,
-      "movement": -3,
+      "movement": -6,
       "trend": "down"
     },
     {
-      "position": 17,
+      "position": 20,
       "artist": "Lift Up",
       "title": "Diamonds Never Made A Lady",
       "plays": 2,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 18,
-      "artist": "Martin Schmiderer",
-      "title": "So Schön",
-      "plays": 2,
-      "previous_position": 8,
-      "movement": -10,
-      "trend": "down"
-    },
-    {
-      "position": 19,
-      "artist": "Michael Wendler",
-      "title": "180 Grad",
-      "plays": 2,
-      "previous_position": 15,
-      "movement": -4,
-      "trend": "down"
-    },
-    {
-      "position": 20,
-      "artist": "Airplay",
-      "title": "For Your Love",
-      "plays": 1,
-      "previous_position": 195,
-      "movement": 175,
-      "trend": "up"
     }
   ]
 }
