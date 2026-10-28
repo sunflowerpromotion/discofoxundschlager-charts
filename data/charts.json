@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W44",
   "previous_week": "2026-W43",
-  "updated": "2026-10-28T17:17:51.427180+00:00",
+  "updated": "2026-10-28T21:43:19.902348+00:00",
   "charts": [
     {
       "position": 1,
@@ -116,6 +116,15 @@
     },
     {
       "position": 13,
+      "artist": "Frank Lukas",
+      "title": "Du Fehlst",
+      "plays": 2,
+      "previous_position": 133,
+      "movement": 120,
+      "trend": "up"
+    },
+    {
+      "position": 14,
       "artist": "Helen",
       "title": "I Love You",
       "plays": 2,
@@ -124,25 +133,25 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 15,
       "artist": "Ibo",
       "title": "Süsses Blut",
       "plays": 2,
       "previous_position": 73,
-      "movement": 59,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "ID",
-      "title": "Discofox & Schlager Memories (KI generiert)",
-      "plays": 2,
-      "previous_position": 23,
-      "movement": 8,
+      "movement": 58,
       "trend": "up"
     },
     {
       "position": 16,
+      "artist": "ID",
+      "title": "Discofox & Schlager Memories (KI generiert)",
+      "plays": 2,
+      "previous_position": 23,
+      "movement": 7,
+      "trend": "up"
+    },
+    {
+      "position": 17,
       "artist": "ID",
       "title": "Italo Disco (KI generiert)",
       "plays": 2,
@@ -151,40 +160,31 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 18,
       "artist": "Jörg Bausch",
       "title": "Grosses Kino",
       "plays": 2,
       "previous_position": 91,
-      "movement": 74,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Kool & The Gang",
-      "title": "Ladies Night",
-      "plays": 2,
-      "previous_position": 192,
-      "movement": 174,
+      "movement": 73,
       "trend": "up"
     },
     {
       "position": 19,
+      "artist": "Kool & The Gang",
+      "title": "Ladies Night",
+      "plays": 2,
+      "previous_position": 192,
+      "movement": 173,
+      "trend": "up"
+    },
+    {
+      "position": 20,
       "artist": "Kreis & Quer",
       "title": "Señorita",
       "plays": 2,
       "previous_position": 13,
-      "movement": -6,
+      "movement": -7,
       "trend": "down"
-    },
-    {
-      "position": 20,
-      "artist": "Lift Up",
-      "title": "Diamonds Never Made A Lady",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
     }
   ]
 }
