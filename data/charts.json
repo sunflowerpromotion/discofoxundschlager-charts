@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W44",
   "previous_week": "2026-W43",
-  "updated": "2026-10-28T05:27:11.868198+00:00",
+  "updated": "2026-10-28T11:30:04.173441+00:00",
   "charts": [
     {
       "position": 1,
@@ -17,6 +17,15 @@
     },
     {
       "position": 2,
+      "artist": "Bad Boys Blue",
+      "title": "Kisses And Tears (My One And Only)",
+      "plays": 3,
+      "previous_position": 88,
+      "movement": 86,
+      "trend": "up"
+    },
+    {
+      "position": 3,
       "artist": "De Lancaster feat. Kay Dörfel",
       "title": "Rosenzeit",
       "plays": 3,
@@ -25,70 +34,88 @@
       "trend": "new"
     },
     {
-      "position": 3,
+      "position": 4,
       "artist": "Jörg Bausch",
       "title": "Ein Schatz Ohne Silber Und Gold",
       "plays": 3,
       "previous_position": 199,
-      "movement": 196,
-      "trend": "up"
-    },
-    {
-      "position": 4,
-      "artist": "Marco Kloss",
-      "title": "Das Ist Unser Letzter Tanz",
-      "plays": 3,
-      "previous_position": 116,
-      "movement": 112,
+      "movement": 195,
       "trend": "up"
     },
     {
       "position": 5,
-      "artist": "ABBA",
-      "title": "Take A Chance On Me",
-      "plays": 2,
-      "previous_position": 38,
-      "movement": 33,
+      "artist": "Marco Kloss",
+      "title": "Das Ist Unser Letzter Tanz",
+      "plays": 3,
+      "previous_position": 116,
+      "movement": 111,
       "trend": "up"
     },
     {
       "position": 6,
-      "artist": "Bad Boys Blue",
-      "title": "Kisses And Tears (My One And Only)",
-      "plays": 2,
-      "previous_position": 88,
-      "movement": 82,
+      "artist": "Silent Circle",
+      "title": "Moonlight Affair",
+      "plays": 3,
+      "previous_position": 104,
+      "movement": 98,
       "trend": "up"
     },
     {
       "position": 7,
-      "artist": "Blokkboy",
-      "title": "Kopf Aus Metall",
-      "plays": 2,
-      "previous_position": 168,
-      "movement": 161,
+      "artist": "Wolframm",
+      "title": "Give Me All Your Love",
+      "plays": 3,
+      "previous_position": 156,
+      "movement": 149,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "Bob Seger",
-      "title": "Still The Same",
+      "artist": "ABBA",
+      "title": "Take A Chance On Me",
       "plays": 2,
-      "previous_position": 52,
-      "movement": 44,
+      "previous_position": 38,
+      "movement": 30,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "ID",
-      "title": "Discofox & Schlager Memories (KI generiert)",
+      "artist": "Blokkboy",
+      "title": "Kopf Aus Metall",
       "plays": 2,
-      "previous_position": 23,
-      "movement": 14,
+      "previous_position": 168,
+      "movement": 159,
       "trend": "up"
     },
     {
       "position": 10,
+      "artist": "Bob Seger",
+      "title": "Still The Same",
+      "plays": 2,
+      "previous_position": 52,
+      "movement": 42,
+      "trend": "up"
+    },
+    {
+      "position": 11,
+      "artist": "Helen",
+      "title": "I Love You",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 12,
+      "artist": "ID",
+      "title": "Discofox & Schlager Memories (KI generiert)",
+      "plays": 2,
+      "previous_position": 23,
+      "movement": 11,
+      "trend": "up"
+    },
+    {
+      "position": 13,
       "artist": "ID",
       "title": "Italo Disco (KI generiert)",
       "plays": 2,
@@ -97,34 +124,34 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 14,
       "artist": "Jörg Bausch",
       "title": "Grosses Kino",
       "plays": 2,
       "previous_position": 91,
-      "movement": 80,
+      "movement": 77,
       "trend": "up"
     },
     {
-      "position": 12,
+      "position": 15,
       "artist": "Kool & The Gang",
       "title": "Ladies Night",
       "plays": 2,
       "previous_position": 192,
-      "movement": 180,
+      "movement": 177,
       "trend": "up"
     },
     {
-      "position": 13,
+      "position": 16,
       "artist": "Kreis & Quer",
       "title": "Señorita",
       "plays": 2,
       "previous_position": 13,
-      "movement": 0,
-      "trend": "same"
+      "movement": -3,
+      "trend": "down"
     },
     {
-      "position": 14,
+      "position": 17,
       "artist": "Lift Up",
       "title": "Diamonds Never Made A Lady",
       "plays": 2,
@@ -133,57 +160,30 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 18,
       "artist": "Martin Schmiderer",
       "title": "So Schön",
       "plays": 2,
       "previous_position": 8,
-      "movement": -7,
+      "movement": -10,
       "trend": "down"
     },
     {
-      "position": 16,
+      "position": 19,
       "artist": "Michael Wendler",
       "title": "180 Grad",
       "plays": 2,
       "previous_position": 15,
-      "movement": -1,
+      "movement": -4,
       "trend": "down"
     },
     {
-      "position": 17,
-      "artist": "Silent Circle",
-      "title": "Moonlight Affair",
-      "plays": 2,
-      "previous_position": 104,
-      "movement": 87,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Wolframm",
-      "title": "Give Me All Your Love",
-      "plays": 2,
-      "previous_position": 156,
-      "movement": 138,
-      "trend": "up"
-    },
-    {
-      "position": 19,
+      "position": 20,
       "artist": "Airplay",
       "title": "For Your Love",
       "plays": 1,
       "previous_position": 195,
-      "movement": 176,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "Al Jarreau",
-      "title": "Your Song",
-      "plays": 1,
-      "previous_position": 128,
-      "movement": 108,
+      "movement": 175,
       "trend": "up"
     }
   ]
