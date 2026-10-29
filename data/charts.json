@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W44",
   "previous_week": "2026-W43",
-  "updated": "2026-10-29T14:16:57.365300+00:00",
+  "updated": "2026-10-29T19:42:44.673940+00:00",
   "charts": [
     {
       "position": 1,
@@ -125,66 +125,66 @@
     },
     {
       "position": 14,
-      "artist": "Fantasy",
-      "title": "Ein Weißes Boot",
+      "artist": "Charly Brunner Und Das Swingorchester Mondschein",
+      "title": "Die Sache Mit Dem Sex",
       "plays": 2,
-      "previous_position": 200,
-      "movement": 186,
-      "trend": "up"
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
       "position": 15,
-      "artist": "Frank Lukas",
-      "title": "Du Fehlst",
+      "artist": "Diana Amft & Markus Luca",
+      "title": "Mensch Ärgere Dich Nicht",
       "plays": 2,
-      "previous_position": 133,
-      "movement": 118,
+      "previous_position": 120,
+      "movement": 105,
       "trend": "up"
     },
     {
       "position": 16,
+      "artist": "Die Grubertaler",
+      "title": "Hier Komm Ich Her, Hier Will Ich Sein",
+      "plays": 2,
+      "previous_position": 55,
+      "movement": 39,
+      "trend": "up"
+    },
+    {
+      "position": 17,
+      "artist": "Fantasy",
+      "title": "Ein Weißes Boot",
+      "plays": 2,
+      "previous_position": 200,
+      "movement": 183,
+      "trend": "up"
+    },
+    {
+      "position": 18,
+      "artist": "Frank Lars",
+      "title": "Wenn Du Diesen Brief Liest (Die Antwort)",
+      "plays": 2,
+      "previous_position": 7,
+      "movement": -11,
+      "trend": "down"
+    },
+    {
+      "position": 19,
+      "artist": "Frank Lukas",
+      "title": "Du Fehlst",
+      "plays": 2,
+      "previous_position": 133,
+      "movement": 114,
+      "trend": "up"
+    },
+    {
+      "position": 20,
       "artist": "Helen",
       "title": "I Love You",
       "plays": 2,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 17,
-      "artist": "Ibo",
-      "title": "Süsses Blut",
-      "plays": 2,
-      "previous_position": 73,
-      "movement": 56,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "ID",
-      "title": "Discofox & Schlager Memories (KI generiert)",
-      "plays": 2,
-      "previous_position": 23,
-      "movement": 5,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "ID",
-      "title": "Italo Disco (KI generiert)",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Jörg Bausch",
-      "title": "Grosses Kino",
-      "plays": 2,
-      "previous_position": 91,
-      "movement": 71,
-      "trend": "up"
     }
   ]
 }
