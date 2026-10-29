@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W44",
   "previous_week": "2026-W43",
-  "updated": "2026-10-29T19:42:44.673940+00:00",
+  "updated": "2026-10-29T23:36:40.306571+00:00",
   "charts": [
     {
       "position": 1,
@@ -44,87 +44,105 @@
     },
     {
       "position": 5,
-      "artist": "Marco Kloss",
-      "title": "Das Ist Unser Letzter Tanz",
+      "artist": "Bob Seger",
+      "title": "Still The Same",
       "plays": 3,
-      "previous_position": 116,
-      "movement": 111,
+      "previous_position": 52,
+      "movement": 47,
       "trend": "up"
     },
     {
       "position": 6,
-      "artist": "Silent Circle",
-      "title": "Moonlight Affair",
+      "artist": "Marco Kloss",
+      "title": "Das Ist Unser Letzter Tanz",
       "plays": 3,
-      "previous_position": 104,
-      "movement": 98,
+      "previous_position": 116,
+      "movement": 110,
       "trend": "up"
     },
     {
       "position": 7,
-      "artist": "Wolframm",
-      "title": "Give Me All Your Love",
+      "artist": "Silent Circle",
+      "title": "Moonlight Affair",
       "plays": 3,
-      "previous_position": 156,
-      "movement": 149,
+      "previous_position": 104,
+      "movement": 97,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "ABBA",
-      "title": "Take A Chance On Me",
-      "plays": 2,
-      "previous_position": 38,
-      "movement": 30,
+      "artist": "The Lords",
+      "title": "Poor Boy",
+      "plays": 3,
+      "previous_position": 40,
+      "movement": 32,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "Alexander Ferro",
-      "title": "Magic Moments",
-      "plays": 2,
-      "previous_position": 92,
-      "movement": 83,
+      "artist": "Wolframm",
+      "title": "Give Me All Your Love",
+      "plays": 3,
+      "previous_position": 156,
+      "movement": 147,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "Andrea Berg",
-      "title": "Die Gefühle Haben Schweigepflicht",
+      "artist": "ABBA",
+      "title": "Take A Chance On Me",
       "plays": 2,
-      "previous_position": 201,
-      "movement": 191,
+      "previous_position": 38,
+      "movement": 28,
       "trend": "up"
     },
     {
       "position": 11,
-      "artist": "Andrea Berg",
-      "title": "Geh Doch, Wenn Du Sie Liebst",
+      "artist": "Al Jarreau",
+      "title": "Your Song",
       "plays": 2,
-      "previous_position": 119,
-      "movement": 108,
+      "previous_position": 128,
+      "movement": 117,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Blokkboy",
-      "title": "Kopf Aus Metall",
+      "artist": "Alexander Ferro",
+      "title": "Magic Moments",
       "plays": 2,
-      "previous_position": 168,
-      "movement": 156,
+      "previous_position": 92,
+      "movement": 80,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "Bob Seger",
-      "title": "Still The Same",
+      "artist": "Andrea Berg",
+      "title": "Die Gefühle Haben Schweigepflicht",
       "plays": 2,
-      "previous_position": 52,
-      "movement": 39,
+      "previous_position": 201,
+      "movement": 188,
       "trend": "up"
     },
     {
       "position": 14,
+      "artist": "Andrea Berg",
+      "title": "Geh Doch, Wenn Du Sie Liebst",
+      "plays": 2,
+      "previous_position": 119,
+      "movement": 105,
+      "trend": "up"
+    },
+    {
+      "position": 15,
+      "artist": "Blokkboy",
+      "title": "Kopf Aus Metall",
+      "plays": 2,
+      "previous_position": 168,
+      "movement": 153,
+      "trend": "up"
+    },
+    {
+      "position": 16,
       "artist": "Charly Brunner Und Das Swingorchester Mondschein",
       "title": "Die Sache Mit Dem Sex",
       "plays": 2,
@@ -133,58 +151,40 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 17,
       "artist": "Diana Amft & Markus Luca",
       "title": "Mensch Ärgere Dich Nicht",
       "plays": 2,
       "previous_position": 120,
-      "movement": 105,
-      "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "Die Grubertaler",
-      "title": "Hier Komm Ich Her, Hier Will Ich Sein",
-      "plays": 2,
-      "previous_position": 55,
-      "movement": 39,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Fantasy",
-      "title": "Ein Weißes Boot",
-      "plays": 2,
-      "previous_position": 200,
-      "movement": 183,
+      "movement": 103,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Frank Lars",
-      "title": "Wenn Du Diesen Brief Liest (Die Antwort)",
+      "artist": "Die Grubertaler",
+      "title": "Hier Komm Ich Her, Hier Will Ich Sein",
       "plays": 2,
-      "previous_position": 7,
-      "movement": -11,
-      "trend": "down"
-    },
-    {
-      "position": 19,
-      "artist": "Frank Lukas",
-      "title": "Du Fehlst",
-      "plays": 2,
-      "previous_position": 133,
-      "movement": 114,
+      "previous_position": 55,
+      "movement": 37,
       "trend": "up"
     },
     {
-      "position": 20,
-      "artist": "Helen",
-      "title": "I Love You",
+      "position": 19,
+      "artist": "Edison Lighthouse",
+      "title": "Love Grows Where Rosemary Goes",
       "plays": 2,
       "previous_position": null,
       "movement": null,
       "trend": "new"
+    },
+    {
+      "position": 20,
+      "artist": "Fantasy",
+      "title": "Ein Weißes Boot",
+      "plays": 2,
+      "previous_position": 200,
+      "movement": 180,
+      "trend": "up"
     }
   ]
 }
