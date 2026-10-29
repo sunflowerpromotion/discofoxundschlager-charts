@@ -4,10 +4,28 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W44",
   "previous_week": "2026-W43",
-  "updated": "2026-10-29T07:10:46.331059+00:00",
+  "updated": "2026-10-29T14:16:57.365300+00:00",
   "charts": [
     {
       "position": 1,
+      "artist": "De Lancaster feat. Kay Dörfel",
+      "title": "Rosenzeit",
+      "plays": 4,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 2,
+      "artist": "Jörg Bausch",
+      "title": "Ein Schatz Ohne Silber Und Gold",
+      "plays": 4,
+      "previous_position": 199,
+      "movement": 197,
+      "trend": "up"
+    },
+    {
+      "position": 3,
       "artist": "Andrea Berg",
       "title": "Mosaik",
       "plays": 3,
@@ -16,30 +34,12 @@
       "trend": "new"
     },
     {
-      "position": 2,
+      "position": 4,
       "artist": "Bad Boys Blue",
       "title": "Kisses And Tears (My One And Only)",
       "plays": 3,
       "previous_position": 88,
-      "movement": 86,
-      "trend": "up"
-    },
-    {
-      "position": 3,
-      "artist": "De Lancaster feat. Kay Dörfel",
-      "title": "Rosenzeit",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 4,
-      "artist": "Jörg Bausch",
-      "title": "Ein Schatz Ohne Silber Und Gold",
-      "plays": 3,
-      "previous_position": 199,
-      "movement": 195,
+      "movement": 84,
       "trend": "up"
     },
     {
@@ -98,33 +98,51 @@
     },
     {
       "position": 11,
-      "artist": "Blokkboy",
-      "title": "Kopf Aus Metall",
+      "artist": "Andrea Berg",
+      "title": "Geh Doch, Wenn Du Sie Liebst",
       "plays": 2,
-      "previous_position": 168,
-      "movement": 157,
+      "previous_position": 119,
+      "movement": 108,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Bob Seger",
-      "title": "Still The Same",
+      "artist": "Blokkboy",
+      "title": "Kopf Aus Metall",
       "plays": 2,
-      "previous_position": 52,
-      "movement": 40,
+      "previous_position": 168,
+      "movement": 156,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "Frank Lukas",
-      "title": "Du Fehlst",
+      "artist": "Bob Seger",
+      "title": "Still The Same",
       "plays": 2,
-      "previous_position": 133,
-      "movement": 120,
+      "previous_position": 52,
+      "movement": 39,
       "trend": "up"
     },
     {
       "position": 14,
+      "artist": "Fantasy",
+      "title": "Ein Weißes Boot",
+      "plays": 2,
+      "previous_position": 200,
+      "movement": 186,
+      "trend": "up"
+    },
+    {
+      "position": 15,
+      "artist": "Frank Lukas",
+      "title": "Du Fehlst",
+      "plays": 2,
+      "previous_position": 133,
+      "movement": 118,
+      "trend": "up"
+    },
+    {
+      "position": 16,
       "artist": "Helen",
       "title": "I Love You",
       "plays": 2,
@@ -133,25 +151,25 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 17,
       "artist": "Ibo",
       "title": "Süsses Blut",
       "plays": 2,
       "previous_position": 73,
-      "movement": 58,
+      "movement": 56,
       "trend": "up"
     },
     {
-      "position": 16,
+      "position": 18,
       "artist": "ID",
       "title": "Discofox & Schlager Memories (KI generiert)",
       "plays": 2,
       "previous_position": 23,
-      "movement": 7,
+      "movement": 5,
       "trend": "up"
     },
     {
-      "position": 17,
+      "position": 19,
       "artist": "ID",
       "title": "Italo Disco (KI generiert)",
       "plays": 2,
@@ -160,31 +178,13 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 20,
       "artist": "Jörg Bausch",
       "title": "Grosses Kino",
       "plays": 2,
       "previous_position": 91,
-      "movement": 73,
+      "movement": 71,
       "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Kool & The Gang",
-      "title": "Ladies Night",
-      "plays": 2,
-      "previous_position": 192,
-      "movement": 173,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "Kreis & Quer",
-      "title": "Señorita",
-      "plays": 2,
-      "previous_position": 13,
-      "movement": -7,
-      "trend": "down"
     }
   ]
 }
