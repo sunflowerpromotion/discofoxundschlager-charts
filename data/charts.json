@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W44",
   "previous_week": "2026-W43",
-  "updated": "2026-10-30T02:54:41.540667+00:00",
+  "updated": "2026-10-30T09:28:50.202857+00:00",
   "charts": [
     {
       "position": 1,
@@ -26,6 +26,15 @@
     },
     {
       "position": 3,
+      "artist": "Silent Circle",
+      "title": "Moonlight Affair",
+      "plays": 4,
+      "previous_position": 104,
+      "movement": 101,
+      "trend": "up"
+    },
+    {
+      "position": 4,
       "artist": "Andrea Berg",
       "title": "Mosaik",
       "plays": 3,
@@ -34,39 +43,30 @@
       "trend": "new"
     },
     {
-      "position": 4,
+      "position": 5,
       "artist": "Bad Boys Blue",
       "title": "Kisses And Tears (My One And Only)",
       "plays": 3,
       "previous_position": 88,
-      "movement": 84,
-      "trend": "up"
-    },
-    {
-      "position": 5,
-      "artist": "Bob Seger",
-      "title": "Still The Same",
-      "plays": 3,
-      "previous_position": 52,
-      "movement": 47,
+      "movement": 83,
       "trend": "up"
     },
     {
       "position": 6,
-      "artist": "Marco Kloss",
-      "title": "Das Ist Unser Letzter Tanz",
+      "artist": "Bob Seger",
+      "title": "Still The Same",
       "plays": 3,
-      "previous_position": 116,
-      "movement": 110,
+      "previous_position": 52,
+      "movement": 46,
       "trend": "up"
     },
     {
       "position": 7,
-      "artist": "Silent Circle",
-      "title": "Moonlight Affair",
+      "artist": "Marco Kloss",
+      "title": "Das Ist Unser Letzter Tanz",
       "plays": 3,
-      "previous_position": 104,
-      "movement": 97,
+      "previous_position": 116,
+      "movement": 109,
       "trend": "up"
     },
     {
@@ -98,51 +98,60 @@
     },
     {
       "position": 11,
-      "artist": "Al Jarreau",
-      "title": "Your Song",
+      "artist": "Airplay",
+      "title": "For Your Love",
       "plays": 2,
-      "previous_position": 128,
-      "movement": 117,
+      "previous_position": 195,
+      "movement": 184,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Alexander Ferro",
-      "title": "Magic Moments",
+      "artist": "Al Jarreau",
+      "title": "Your Song",
       "plays": 2,
-      "previous_position": 92,
-      "movement": 80,
+      "previous_position": 128,
+      "movement": 116,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "Andrea Berg",
-      "title": "Die Gefühle Haben Schweigepflicht",
+      "artist": "Alexander Ferro",
+      "title": "Magic Moments",
       "plays": 2,
-      "previous_position": 201,
-      "movement": 188,
+      "previous_position": 92,
+      "movement": 79,
       "trend": "up"
     },
     {
       "position": 14,
       "artist": "Andrea Berg",
-      "title": "Geh Doch, Wenn Du Sie Liebst",
+      "title": "Die Gefühle Haben Schweigepflicht",
       "plays": 2,
-      "previous_position": 119,
-      "movement": 105,
+      "previous_position": 201,
+      "movement": 187,
       "trend": "up"
     },
     {
       "position": 15,
-      "artist": "Blokkboy",
-      "title": "Kopf Aus Metall",
+      "artist": "Andrea Berg",
+      "title": "Geh Doch, Wenn Du Sie Liebst",
       "plays": 2,
-      "previous_position": 168,
-      "movement": 153,
+      "previous_position": 119,
+      "movement": 104,
       "trend": "up"
     },
     {
       "position": 16,
+      "artist": "Blokkboy",
+      "title": "Kopf Aus Metall",
+      "plays": 2,
+      "previous_position": 168,
+      "movement": 152,
+      "trend": "up"
+    },
+    {
+      "position": 17,
       "artist": "Charly Brunner Und Das Swingorchester Mondschein",
       "title": "Die Sache Mit Dem Sex",
       "plays": 2,
@@ -151,39 +160,30 @@
       "trend": "new"
     },
     {
-      "position": 17,
-      "artist": "Diana Amft & Markus Luca",
-      "title": "Mensch Ärgere Dich Nicht",
-      "plays": 2,
-      "previous_position": 120,
-      "movement": 103,
-      "trend": "up"
-    },
-    {
       "position": 18,
-      "artist": "Die Grubertaler",
-      "title": "Hier Komm Ich Her, Hier Will Ich Sein",
+      "artist": "Cliff Wedge",
+      "title": "With A Broken Heart",
       "plays": 2,
-      "previous_position": 55,
-      "movement": 37,
+      "previous_position": 53,
+      "movement": 35,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Edison Lighthouse",
-      "title": "Love Grows Where Rosemary Goes",
+      "artist": "Diana Amft & Markus Luca",
+      "title": "Mensch Ärgere Dich Nicht",
       "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 120,
+      "movement": 101,
+      "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Fantasy",
-      "title": "Ein Weißes Boot",
+      "artist": "Die Grubertaler",
+      "title": "Hier Komm Ich Her, Hier Will Ich Sein",
       "plays": 2,
-      "previous_position": 200,
-      "movement": 180,
+      "previous_position": 55,
+      "movement": 35,
       "trend": "up"
     }
   ]
