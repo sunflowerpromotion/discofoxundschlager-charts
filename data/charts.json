@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W44",
   "previous_week": "2026-W43",
-  "updated": "2026-10-31T16:05:27.614599+00:00",
+  "updated": "2026-10-31T19:55:06.979370+00:00",
   "charts": [
     {
       "position": 1,
@@ -134,15 +134,24 @@
     },
     {
       "position": 15,
+      "artist": "Jan Simon",
+      "title": "Leb, Leb Deinen Traum",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 16,
       "artist": "Joe Yellow",
       "title": "I'm Your Lover",
       "plays": 3,
       "previous_position": 101,
-      "movement": 86,
+      "movement": 85,
       "trend": "up"
     },
     {
-      "position": 16,
+      "position": 17,
       "artist": "Lift Up",
       "title": "Diamonds Never Made A Lady",
       "plays": 3,
@@ -151,39 +160,30 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 18,
       "artist": "London Boys",
       "title": "Requiem",
       "plays": 3,
       "previous_position": 69,
-      "movement": 52,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Marco Kloss",
-      "title": "Das Ist Unser Letzter Tanz",
-      "plays": 3,
-      "previous_position": 116,
-      "movement": 98,
+      "movement": 51,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Michael Wendler",
-      "title": "180 Grad",
+      "artist": "Marco Kloss",
+      "title": "Das Ist Unser Letzter Tanz",
       "plays": 3,
-      "previous_position": 15,
-      "movement": -4,
-      "trend": "down"
+      "previous_position": 116,
+      "movement": 97,
+      "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Michael Wendler",
-      "title": "Nina",
+      "artist": "Merkur & Patricia Vivanco",
+      "title": "Weißt Du Eigentlich, Warum?",
       "plays": 3,
-      "previous_position": 36,
-      "movement": 16,
+      "previous_position": 56,
+      "movement": 36,
       "trend": "up"
     }
   ]
