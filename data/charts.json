@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W44",
   "previous_week": "2026-W43",
-  "updated": "2026-10-31T19:55:06.979370+00:00",
+  "updated": "2026-10-31T23:00:05.937190+00:00",
   "charts": [
     {
       "position": 1,
@@ -62,33 +62,42 @@
     },
     {
       "position": 7,
-      "artist": "ABBA",
-      "title": "Take A Chance On Me",
-      "plays": 3,
-      "previous_position": 38,
-      "movement": 31,
+      "artist": "The Lords",
+      "title": "Poor Boy",
+      "plays": 4,
+      "previous_position": 40,
+      "movement": 33,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "Al Jarreau",
-      "title": "Your Song",
+      "artist": "ABBA",
+      "title": "Take A Chance On Me",
       "plays": 3,
-      "previous_position": 128,
-      "movement": 120,
+      "previous_position": 38,
+      "movement": 30,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "Bob Seger",
-      "title": "Still The Same",
+      "artist": "Al Jarreau",
+      "title": "Your Song",
       "plays": 3,
-      "previous_position": 52,
-      "movement": 43,
+      "previous_position": 128,
+      "movement": 119,
       "trend": "up"
     },
     {
       "position": 10,
+      "artist": "Bob Seger",
+      "title": "Still The Same",
+      "plays": 3,
+      "previous_position": 52,
+      "movement": 42,
+      "trend": "up"
+    },
+    {
+      "position": 11,
       "artist": "Edison Lighthouse",
       "title": "Love Grows Where Rosemary Goes",
       "plays": 3,
@@ -97,16 +106,16 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 12,
       "artist": "Frank Lukas",
       "title": "Du Fehlst",
       "plays": 3,
       "previous_position": 133,
-      "movement": 122,
+      "movement": 121,
       "trend": "up"
     },
     {
-      "position": 12,
+      "position": 13,
       "artist": "Helen",
       "title": "I Love You",
       "plays": 3,
@@ -115,16 +124,16 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 14,
       "artist": "Ibo",
       "title": "Schwarze Rose",
       "plays": 3,
       "previous_position": 47,
-      "movement": 34,
+      "movement": 33,
       "trend": "up"
     },
     {
-      "position": 14,
+      "position": 15,
       "artist": "ID",
       "title": "Italo Disco (KI generiert)",
       "plays": 3,
@@ -133,7 +142,7 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 16,
       "artist": "Jan Simon",
       "title": "Leb, Leb Deinen Traum",
       "plays": 3,
@@ -142,16 +151,16 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 17,
       "artist": "Joe Yellow",
       "title": "I'm Your Lover",
       "plays": 3,
       "previous_position": 101,
-      "movement": 85,
+      "movement": 84,
       "trend": "up"
     },
     {
-      "position": 17,
+      "position": 18,
       "artist": "Lift Up",
       "title": "Diamonds Never Made A Lady",
       "plays": 3,
@@ -160,30 +169,21 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 19,
       "artist": "London Boys",
       "title": "Requiem",
       "plays": 3,
       "previous_position": 69,
-      "movement": 51,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Marco Kloss",
-      "title": "Das Ist Unser Letzter Tanz",
-      "plays": 3,
-      "previous_position": 116,
-      "movement": 97,
+      "movement": 50,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Merkur & Patricia Vivanco",
-      "title": "Weißt Du Eigentlich, Warum?",
+      "artist": "Marco Kloss",
+      "title": "Das Ist Unser Letzter Tanz",
       "plays": 3,
-      "previous_position": 56,
-      "movement": 36,
+      "previous_position": 116,
+      "movement": 96,
       "trend": "up"
     }
   ]
