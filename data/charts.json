@@ -4,52 +4,52 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W44",
   "previous_week": "2026-W43",
-  "updated": "2026-11-01T09:07:18.072903+00:00",
+  "updated": "2026-11-01T15:58:13.417604+00:00",
   "charts": [
     {
       "position": 1,
       "artist": "Jörg Bausch",
       "title": "Ein Schatz Ohne Silber Und Gold",
-      "plays": 6,
+      "plays": 7,
       "previous_position": 199,
       "movement": 198,
       "trend": "up"
     },
     {
       "position": 2,
+      "artist": "Andrea Berg",
+      "title": "Mosaik",
+      "plays": 5,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 3,
       "artist": "Silent Circle",
       "title": "Moonlight Affair",
       "plays": 5,
       "previous_position": 104,
-      "movement": 102,
-      "trend": "up"
-    },
-    {
-      "position": 3,
-      "artist": "The Lords",
-      "title": "Poor Boy",
-      "plays": 5,
-      "previous_position": 40,
-      "movement": 37,
+      "movement": 101,
       "trend": "up"
     },
     {
       "position": 4,
-      "artist": "Andrea Berg",
-      "title": "Die Gefühle Haben Schweigepflicht",
-      "plays": 4,
-      "previous_position": 201,
-      "movement": 197,
+      "artist": "The Lords",
+      "title": "Poor Boy",
+      "plays": 5,
+      "previous_position": 40,
+      "movement": 36,
       "trend": "up"
     },
     {
       "position": 5,
       "artist": "Andrea Berg",
-      "title": "Mosaik",
+      "title": "Die Gefühle Haben Schweigepflicht",
       "plays": 4,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 201,
+      "movement": 196,
+      "trend": "up"
     },
     {
       "position": 6,
