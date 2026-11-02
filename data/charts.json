@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W45",
   "previous_week": "2026-W44",
-  "updated": "2026-11-01T23:42:04.878343+00:00",
+  "updated": "2026-11-02T02:44:46.806218+00:00",
   "charts": [
     {
       "position": 1,
@@ -26,33 +26,96 @@
     },
     {
       "position": 3,
-      "artist": "David Dundas",
-      "title": "Jeans On",
+      "artist": "Alin Coen",
+      "title": "Bis Bald",
       "plays": 1,
-      "previous_position": 52,
-      "movement": 49,
+      "previous_position": 111,
+      "movement": 108,
       "trend": "up"
     },
     {
       "position": 4,
-      "artist": "Orleans",
-      "title": "Dance With Me",
+      "artist": "Altreucher",
+      "title": "Mona Lisa",
       "plays": 1,
-      "previous_position": 165,
-      "movement": 161,
-      "trend": "up"
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
       "position": 5,
-      "artist": "Sailor",
-      "title": "Girls, Girls, Girls!",
+      "artist": "David Dundas",
+      "title": "Jeans On",
       "plays": 1,
-      "previous_position": 81,
-      "movement": 76,
+      "previous_position": 52,
+      "movement": 47,
       "trend": "up"
     },
     {
       "position": 6,
+      "artist": "Esther Graf",
+      "title": "Kippenlänge",
+      "plays": 1,
+      "previous_position": 153,
+      "movement": 147,
+      "trend": "up"
+    },
+    {
+      "position": 7,
+      "artist": "Flickentanz",
+      "title": "Kein Zuhause Mehr (Alles Finster)",
+      "plays": 1,
+      "previous_position": 154,
+      "movement": 147,
+      "trend": "up"
+    },
+    {
+      "position": 8,
+      "artist": "Fäaschtbänkler",
+      "title": "Kleines Lied",
+      "plays": 1,
+      "previous_position": 157,
+      "movement": 149,
+      "trend": "up"
+    },
+    {
+      "position": 9,
+      "artist": "GentleMänner",
+      "title": "Frei",
+      "plays": 1,
+      "previous_position": 109,
+      "movement": 100,
+      "trend": "up"
+    },
+    {
+      "position": 10,
+      "artist": "LaBix & the Fizzy Tones",
+      "title": "Barfuß",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 11,
+      "artist": "Orleans",
+      "title": "Dance With Me",
+      "plays": 1,
+      "previous_position": 165,
+      "movement": 154,
+      "trend": "up"
+    },
+    {
+      "position": 12,
+      "artist": "Sailor",
+      "title": "Girls, Girls, Girls!",
+      "plays": 1,
+      "previous_position": 81,
+      "movement": 69,
+      "trend": "up"
+    },
+    {
+      "position": 13,
       "artist": "Shirley & Company",
       "title": "Shame, Shame, Shame",
       "plays": 1,
@@ -61,25 +124,52 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 14,
+      "artist": "Siegfried Walch",
+      "title": "Die Strassen Dieser Zeit",
+      "plays": 1,
+      "previous_position": 106,
+      "movement": 92,
+      "trend": "up"
+    },
+    {
+      "position": 15,
       "artist": "Smokey Robinson & The Miracles",
       "title": "The Tears Of A Clown",
       "plays": 1,
       "previous_position": 35,
-      "movement": 28,
+      "movement": 20,
       "trend": "up"
     },
     {
-      "position": 8,
+      "position": 16,
+      "artist": "Stadtpoet",
+      "title": "Gin Tonic",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 17,
+      "artist": "Stefanie Werger",
+      "title": "So Sehr Lieb Ich Dich",
+      "plays": 1,
+      "previous_position": 108,
+      "movement": 91,
+      "trend": "up"
+    },
+    {
+      "position": 18,
       "artist": "The New Seekers",
       "title": "Never Ending Song Of Love",
       "plays": 1,
       "previous_position": 9,
-      "movement": 1,
-      "trend": "up"
+      "movement": -9,
+      "trend": "down"
     },
     {
-      "position": 9,
+      "position": 19,
       "artist": "Turley Richards",
       "title": "You Might Need Somebody",
       "plays": 1,
@@ -88,12 +178,12 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 20,
       "artist": "War",
       "title": "Low Rider",
       "plays": 1,
       "previous_position": 152,
-      "movement": 142,
+      "movement": 132,
       "trend": "up"
     }
   ]
