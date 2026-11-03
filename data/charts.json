@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W45",
   "previous_week": "2026-W44",
-  "updated": "2026-11-03T17:22:28.128971+00:00",
+  "updated": "2026-11-03T22:24:17.599085+00:00",
   "charts": [
     {
       "position": 1,
@@ -17,24 +17,42 @@
     },
     {
       "position": 2,
-      "artist": "ID",
-      "title": "Maxi (KI generiert)",
+      "artist": "David Dundas",
+      "title": "Jeans On",
       "plays": 2,
-      "previous_position": 158,
-      "movement": 156,
+      "previous_position": 52,
+      "movement": 50,
       "trend": "up"
     },
     {
       "position": 3,
-      "artist": "ABBA",
-      "title": "Take A Chance On Me",
-      "plays": 1,
-      "previous_position": 8,
-      "movement": 5,
+      "artist": "ID",
+      "title": "Maxi (KI generiert)",
+      "plays": 2,
+      "previous_position": 158,
+      "movement": 155,
       "trend": "up"
     },
     {
       "position": 4,
+      "artist": "Roger De Win",
+      "title": "Mis Dorf, Mis Dihei",
+      "plays": 2,
+      "previous_position": 172,
+      "movement": 168,
+      "trend": "up"
+    },
+    {
+      "position": 5,
+      "artist": "ABBA",
+      "title": "Take A Chance On Me",
+      "plays": 1,
+      "previous_position": 8,
+      "movement": 3,
+      "trend": "up"
+    },
+    {
+      "position": 6,
       "artist": "Alex Park",
       "title": "Gib Mir Ehrlichkeit",
       "plays": 1,
@@ -43,7 +61,7 @@
       "trend": "new"
     },
     {
-      "position": 5,
+      "position": 7,
       "artist": "Alexandra Lexer",
       "title": "Ich Fahr Die Ganze Nacht",
       "plays": 1,
@@ -52,7 +70,7 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 8,
       "artist": "Alicja",
       "title": "So Wonderful",
       "plays": 1,
@@ -61,16 +79,16 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 9,
       "artist": "Alin Coen",
       "title": "Bis Bald",
       "plays": 1,
       "previous_position": 111,
-      "movement": 104,
+      "movement": 102,
       "trend": "up"
     },
     {
-      "position": 8,
+      "position": 10,
       "artist": "Altreucher",
       "title": "Mona Lisa",
       "plays": 1,
@@ -79,16 +97,16 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 11,
       "artist": "Andre Busse",
       "title": "Zwing Mich Doch Zu Meinem Glück",
       "plays": 1,
       "previous_position": 143,
-      "movement": 134,
+      "movement": 132,
       "trend": "up"
     },
     {
-      "position": 10,
+      "position": 12,
       "artist": "Andrea Berg",
       "title": "Ich Werde Lächeln Wenn Du Gehst",
       "plays": 1,
@@ -97,7 +115,7 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 13,
       "artist": "Andrea Jürgens",
       "title": "Das Reicht Für Mehr Als Eine Nacht",
       "plays": 1,
@@ -106,7 +124,7 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 14,
       "artist": "Bernhard Brink",
       "title": "Von Hier Bis Zur Unendlichkeit",
       "plays": 1,
@@ -115,76 +133,58 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 15,
       "artist": "Blue Crew",
       "title": "Santa Cruz",
       "plays": 1,
       "previous_position": 133,
-      "movement": 120,
-      "trend": "up"
-    },
-    {
-      "position": 14,
-      "artist": "Boney M.",
-      "title": "Going Back West",
-      "plays": 1,
-      "previous_position": 137,
-      "movement": 123,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "Ciao Ciao",
-      "title": "Don't Go Breaking My Heart",
-      "plays": 1,
-      "previous_position": 121,
-      "movement": 106,
+      "movement": 118,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "Dani Mirell",
-      "title": "Fantasy Girl",
+      "artist": "Boney M.",
+      "title": "Going Back West",
       "plays": 1,
-      "previous_position": 100,
-      "movement": 84,
+      "previous_position": 137,
+      "movement": 121,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "David Dundas",
-      "title": "Jeans On",
+      "artist": "Ciao Ciao",
+      "title": "Don't Go Breaking My Heart",
       "plays": 1,
-      "previous_position": 52,
-      "movement": 35,
+      "previous_position": 121,
+      "movement": 104,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "DJ Jerry",
-      "title": "Shanghai",
+      "artist": "Dani Mirell",
+      "title": "Fantasy Girl",
       "plays": 1,
-      "previous_position": 56,
-      "movement": 38,
+      "previous_position": 100,
+      "movement": 82,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Esther Graf",
-      "title": "Kippenlänge",
+      "artist": "DJ Jerry",
+      "title": "Shanghai",
       "plays": 1,
-      "previous_position": 153,
-      "movement": 134,
+      "previous_position": 56,
+      "movement": 37,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Facts & Fiction",
-      "title": "Give Me The Night",
+      "artist": "Earl Dean Johnson",
+      "title": "Tut Mir Leid",
       "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 77,
+      "movement": 57,
+      "trend": "up"
     }
   ]
 }
