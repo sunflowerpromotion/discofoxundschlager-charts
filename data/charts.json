@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W45",
   "previous_week": "2026-W44",
-  "updated": "2026-11-03T02:23:11.148344+00:00",
+  "updated": "2026-11-03T09:46:33.910328+00:00",
   "charts": [
     {
       "position": 1,
@@ -17,15 +17,24 @@
     },
     {
       "position": 2,
-      "artist": "ABBA",
-      "title": "Take A Chance On Me",
-      "plays": 1,
-      "previous_position": 8,
-      "movement": 6,
+      "artist": "ID",
+      "title": "Maxi (KI generiert)",
+      "plays": 2,
+      "previous_position": 158,
+      "movement": 156,
       "trend": "up"
     },
     {
       "position": 3,
+      "artist": "ABBA",
+      "title": "Take A Chance On Me",
+      "plays": 1,
+      "previous_position": 8,
+      "movement": 5,
+      "trend": "up"
+    },
+    {
+      "position": 4,
       "artist": "Alex Park",
       "title": "Gib Mir Ehrlichkeit",
       "plays": 1,
@@ -34,16 +43,25 @@
       "trend": "new"
     },
     {
-      "position": 4,
+      "position": 5,
+      "artist": "Alicja",
+      "title": "So Wonderful",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 6,
       "artist": "Alin Coen",
       "title": "Bis Bald",
       "plays": 1,
       "previous_position": 111,
-      "movement": 107,
+      "movement": 105,
       "trend": "up"
     },
     {
-      "position": 5,
+      "position": 7,
       "artist": "Altreucher",
       "title": "Mona Lisa",
       "plays": 1,
@@ -52,138 +70,120 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 8,
       "artist": "Andre Busse",
       "title": "Zwing Mich Doch Zu Meinem Glück",
       "plays": 1,
       "previous_position": 143,
-      "movement": 137,
-      "trend": "up"
-    },
-    {
-      "position": 7,
-      "artist": "Blue Crew",
-      "title": "Santa Cruz",
-      "plays": 1,
-      "previous_position": 133,
-      "movement": 126,
-      "trend": "up"
-    },
-    {
-      "position": 8,
-      "artist": "Boney M.",
-      "title": "Going Back West",
-      "plays": 1,
-      "previous_position": 137,
-      "movement": 129,
+      "movement": 135,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "Ciao Ciao",
-      "title": "Don't Go Breaking My Heart",
+      "artist": "Blue Crew",
+      "title": "Santa Cruz",
       "plays": 1,
-      "previous_position": 121,
-      "movement": 112,
+      "previous_position": 133,
+      "movement": 124,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "Dani Mirell",
-      "title": "Fantasy Girl",
+      "artist": "Boney M.",
+      "title": "Going Back West",
       "plays": 1,
-      "previous_position": 100,
-      "movement": 90,
+      "previous_position": 137,
+      "movement": 127,
       "trend": "up"
     },
     {
       "position": 11,
-      "artist": "David Dundas",
-      "title": "Jeans On",
+      "artist": "Ciao Ciao",
+      "title": "Don't Go Breaking My Heart",
       "plays": 1,
-      "previous_position": 52,
-      "movement": 41,
+      "previous_position": 121,
+      "movement": 110,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Esther Graf",
-      "title": "Kippenlänge",
+      "artist": "Dani Mirell",
+      "title": "Fantasy Girl",
       "plays": 1,
-      "previous_position": 153,
-      "movement": 141,
+      "previous_position": 100,
+      "movement": 88,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "Flickentanz",
-      "title": "Kein Zuhause Mehr (Alles Finster)",
+      "artist": "David Dundas",
+      "title": "Jeans On",
       "plays": 1,
-      "previous_position": 154,
-      "movement": 141,
+      "previous_position": 52,
+      "movement": 39,
       "trend": "up"
     },
     {
       "position": 14,
-      "artist": "Fäaschtbänkler",
-      "title": "Kleines Lied",
+      "artist": "DJ Jerry",
+      "title": "Shanghai",
       "plays": 1,
-      "previous_position": 157,
-      "movement": 143,
+      "previous_position": 56,
+      "movement": 42,
       "trend": "up"
     },
     {
       "position": 15,
-      "artist": "Fäaschtbänkler & Revelle",
-      "title": "Highlightmensch",
+      "artist": "Esther Graf",
+      "title": "Kippenlänge",
       "plays": 1,
-      "previous_position": 96,
-      "movement": 81,
+      "previous_position": 153,
+      "movement": 138,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "GentleMänner",
-      "title": "Frei",
-      "plays": 1,
-      "previous_position": 109,
-      "movement": 93,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Gilbert Brodar",
-      "title": "Wahnsinn",
+      "artist": "Facts & Fiction",
+      "title": "Give Me The Night",
       "plays": 1,
       "previous_position": null,
       "movement": null,
       "trend": "new"
     },
     {
-      "position": 18,
-      "artist": "Hubert Fella",
-      "title": "Ein Gläschen Wein Mi Amor",
+      "position": 17,
+      "artist": "Flickentanz",
+      "title": "Kein Zuhause Mehr (Alles Finster)",
       "plays": 1,
-      "previous_position": 162,
-      "movement": 144,
+      "previous_position": 154,
+      "movement": 137,
       "trend": "up"
     },
     {
-      "position": 19,
-      "artist": "ID",
-      "title": "Maxi (KI generiert)",
+      "position": 18,
+      "artist": "Fäaschtbänkler",
+      "title": "Kleines Lied",
       "plays": 1,
-      "previous_position": 158,
+      "previous_position": 157,
       "movement": 139,
       "trend": "up"
     },
     {
-      "position": 20,
-      "artist": "ID",
-      "title": "Pop (KI generiert)",
+      "position": 19,
+      "artist": "Fäaschtbänkler & Revelle",
+      "title": "Highlightmensch",
       "plays": 1,
-      "previous_position": 110,
-      "movement": 90,
+      "previous_position": 96,
+      "movement": 77,
+      "trend": "up"
+    },
+    {
+      "position": 20,
+      "artist": "GentleMänner",
+      "title": "Frei",
+      "plays": 1,
+      "previous_position": 109,
+      "movement": 89,
       "trend": "up"
     }
   ]
