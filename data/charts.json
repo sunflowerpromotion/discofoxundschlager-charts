@@ -4,51 +4,51 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W45",
   "previous_week": "2026-W44",
-  "updated": "2026-11-04T02:31:06.252635+00:00",
+  "updated": "2026-11-04T09:45:32.494114+00:00",
   "charts": [
     {
       "position": 1,
-      "artist": "Alicia Bridges",
-      "title": "I Love The Nightlife",
-      "plays": 2,
-      "previous_position": 104,
-      "movement": 103,
+      "artist": "ID",
+      "title": "Maxi (KI generiert)",
+      "plays": 3,
+      "previous_position": 158,
+      "movement": 157,
       "trend": "up"
     },
     {
       "position": 2,
-      "artist": "David Dundas",
-      "title": "Jeans On",
+      "artist": "Alicia Bridges",
+      "title": "I Love The Nightlife",
       "plays": 2,
-      "previous_position": 52,
-      "movement": 50,
+      "previous_position": 104,
+      "movement": 102,
       "trend": "up"
     },
     {
       "position": 3,
-      "artist": "Esther Graf",
-      "title": "Kippenlänge",
+      "artist": "David Dundas",
+      "title": "Jeans On",
       "plays": 2,
-      "previous_position": 153,
-      "movement": 150,
+      "previous_position": 52,
+      "movement": 49,
       "trend": "up"
     },
     {
       "position": 4,
-      "artist": "Fäaschtbänkler & Revelle",
-      "title": "Highlightmensch",
+      "artist": "Esther Graf",
+      "title": "Kippenlänge",
       "plays": 2,
-      "previous_position": 96,
-      "movement": 92,
+      "previous_position": 153,
+      "movement": 149,
       "trend": "up"
     },
     {
       "position": 5,
-      "artist": "ID",
-      "title": "Maxi (KI generiert)",
+      "artist": "Fäaschtbänkler & Revelle",
+      "title": "Highlightmensch",
       "plays": 2,
-      "previous_position": 158,
-      "movement": 153,
+      "previous_position": 96,
+      "movement": 91,
       "trend": "up"
     },
     {
@@ -71,24 +71,33 @@
     },
     {
       "position": 8,
-      "artist": "Smokey Robinson & The Miracles",
-      "title": "The Tears Of A Clown",
+      "artist": "Savage",
+      "title": "Don't Cry Tonight",
       "plays": 2,
-      "previous_position": 35,
-      "movement": 27,
+      "previous_position": 134,
+      "movement": 126,
       "trend": "up"
     },
     {
       "position": 9,
+      "artist": "Smokey Robinson & The Miracles",
+      "title": "The Tears Of A Clown",
+      "plays": 2,
+      "previous_position": 35,
+      "movement": 26,
+      "trend": "up"
+    },
+    {
+      "position": 10,
       "artist": "ABBA",
       "title": "Take A Chance On Me",
       "plays": 1,
       "previous_position": 8,
-      "movement": -1,
+      "movement": -2,
       "trend": "down"
     },
     {
-      "position": 10,
+      "position": 11,
       "artist": "Alex Park",
       "title": "Gib Mir Ehrlichkeit",
       "plays": 1,
@@ -97,7 +106,7 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 12,
       "artist": "Alexandra Lexer",
       "title": "Ich Fahr Die Ganze Nacht",
       "plays": 1,
@@ -106,7 +115,7 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 13,
       "artist": "Alicja",
       "title": "So Wonderful",
       "plays": 1,
@@ -115,16 +124,16 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 14,
       "artist": "Alin Coen",
       "title": "Bis Bald",
       "plays": 1,
       "previous_position": 111,
-      "movement": 98,
+      "movement": 97,
       "trend": "up"
     },
     {
-      "position": 14,
+      "position": 15,
       "artist": "Altreucher",
       "title": "Mona Lisa",
       "plays": 1,
@@ -133,16 +142,16 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 16,
       "artist": "Andre Busse",
       "title": "Zwing Mich Doch Zu Meinem Glück",
       "plays": 1,
       "previous_position": 143,
-      "movement": 128,
+      "movement": 127,
       "trend": "up"
     },
     {
-      "position": 16,
+      "position": 17,
       "artist": "Andrea Berg",
       "title": "Ich Werde Lächeln Wenn Du Gehst",
       "plays": 1,
@@ -151,7 +160,7 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 18,
       "artist": "Andrea Jürgens",
       "title": "Das Reicht Für Mehr Als Eine Nacht",
       "plays": 1,
@@ -160,31 +169,22 @@
       "trend": "new"
     },
     {
-      "position": 18,
-      "artist": "Bernhard Brink",
-      "title": "Von Hier Bis Zur Unendlichkeit",
+      "position": 19,
+      "artist": "Bad Boys Blue",
+      "title": "You're A Woman",
       "plays": 1,
       "previous_position": null,
       "movement": null,
       "trend": "new"
     },
     {
-      "position": 19,
-      "artist": "Blue Crew",
-      "title": "Santa Cruz",
-      "plays": 1,
-      "previous_position": 133,
-      "movement": 114,
-      "trend": "up"
-    },
-    {
       "position": 20,
-      "artist": "Boney M.",
-      "title": "Going Back West",
+      "artist": "Bernhard Brink",
+      "title": "Von Hier Bis Zur Unendlichkeit",
       "plays": 1,
-      "previous_position": 137,
-      "movement": 117,
-      "trend": "up"
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     }
   ]
 }
