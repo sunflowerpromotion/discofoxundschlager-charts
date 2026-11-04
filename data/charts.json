@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W45",
   "previous_week": "2026-W44",
-  "updated": "2026-11-04T09:45:32.494114+00:00",
+  "updated": "2026-11-04T17:34:39.677817+00:00",
   "charts": [
     {
       "position": 1,
@@ -53,51 +53,69 @@
     },
     {
       "position": 6,
-      "artist": "ID",
-      "title": "Pop (KI generiert)",
+      "artist": "Ibo",
+      "title": "Süsses Blut",
       "plays": 2,
-      "previous_position": 110,
-      "movement": 104,
+      "previous_position": 45,
+      "movement": 39,
       "trend": "up"
     },
     {
       "position": 7,
-      "artist": "Roger De Win",
-      "title": "Mis Dorf, Mis Dihei",
+      "artist": "ID",
+      "title": "Pop (KI generiert)",
       "plays": 2,
-      "previous_position": 172,
-      "movement": 165,
+      "previous_position": 110,
+      "movement": 103,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "Savage",
-      "title": "Don't Cry Tonight",
+      "artist": "Mike Bauhaus",
+      "title": "Goodbye",
       "plays": 2,
-      "previous_position": 134,
-      "movement": 126,
+      "previous_position": 101,
+      "movement": 93,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "Smokey Robinson & The Miracles",
-      "title": "The Tears Of A Clown",
+      "artist": "Roger De Win",
+      "title": "Mis Dorf, Mis Dihei",
       "plays": 2,
-      "previous_position": 35,
-      "movement": 26,
+      "previous_position": 172,
+      "movement": 163,
       "trend": "up"
     },
     {
       "position": 10,
+      "artist": "Savage",
+      "title": "Don't Cry Tonight",
+      "plays": 2,
+      "previous_position": 134,
+      "movement": 124,
+      "trend": "up"
+    },
+    {
+      "position": 11,
+      "artist": "Smokey Robinson & The Miracles",
+      "title": "The Tears Of A Clown",
+      "plays": 2,
+      "previous_position": 35,
+      "movement": 24,
+      "trend": "up"
+    },
+    {
+      "position": 12,
       "artist": "ABBA",
       "title": "Take A Chance On Me",
       "plays": 1,
       "previous_position": 8,
-      "movement": -2,
+      "movement": -4,
       "trend": "down"
     },
     {
-      "position": 11,
+      "position": 13,
       "artist": "Alex Park",
       "title": "Gib Mir Ehrlichkeit",
       "plays": 1,
@@ -106,7 +124,7 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 14,
       "artist": "Alexandra Lexer",
       "title": "Ich Fahr Die Ganze Nacht",
       "plays": 1,
@@ -115,7 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 15,
       "artist": "Alicja",
       "title": "So Wonderful",
       "plays": 1,
@@ -124,16 +142,16 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 16,
       "artist": "Alin Coen",
       "title": "Bis Bald",
       "plays": 1,
       "previous_position": 111,
-      "movement": 97,
+      "movement": 95,
       "trend": "up"
     },
     {
-      "position": 15,
+      "position": 17,
       "artist": "Altreucher",
       "title": "Mona Lisa",
       "plays": 1,
@@ -142,16 +160,16 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 18,
       "artist": "Andre Busse",
       "title": "Zwing Mich Doch Zu Meinem Glück",
       "plays": 1,
       "previous_position": 143,
-      "movement": 127,
+      "movement": 125,
       "trend": "up"
     },
     {
-      "position": 17,
+      "position": 19,
       "artist": "Andrea Berg",
       "title": "Ich Werde Lächeln Wenn Du Gehst",
       "plays": 1,
@@ -160,27 +178,9 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 20,
       "artist": "Andrea Jürgens",
       "title": "Das Reicht Für Mehr Als Eine Nacht",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Bad Boys Blue",
-      "title": "You're A Woman",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Bernhard Brink",
-      "title": "Von Hier Bis Zur Unendlichkeit",
       "plays": 1,
       "previous_position": null,
       "movement": null,
