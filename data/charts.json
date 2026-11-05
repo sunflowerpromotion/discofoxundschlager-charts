@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W45",
   "previous_week": "2026-W44",
-  "updated": "2026-11-05T18:00:16.428221+00:00",
+  "updated": "2026-11-05T23:31:40.928029+00:00",
   "charts": [
     {
       "position": 1,
@@ -17,24 +17,33 @@
     },
     {
       "position": 2,
-      "artist": "ABBA",
-      "title": "Take A Chance On Me",
-      "plays": 2,
-      "previous_position": 8,
-      "movement": 6,
+      "artist": "War",
+      "title": "Low Rider",
+      "plays": 3,
+      "previous_position": 152,
+      "movement": 150,
       "trend": "up"
     },
     {
       "position": 3,
-      "artist": "Alicia Bridges",
-      "title": "I Love The Nightlife",
+      "artist": "ABBA",
+      "title": "Take A Chance On Me",
       "plays": 2,
-      "previous_position": 104,
-      "movement": 101,
+      "previous_position": 8,
+      "movement": 5,
       "trend": "up"
     },
     {
       "position": 4,
+      "artist": "Alicia Bridges",
+      "title": "I Love The Nightlife",
+      "plays": 2,
+      "previous_position": 104,
+      "movement": 100,
+      "trend": "up"
+    },
+    {
+      "position": 5,
       "artist": "Alicja",
       "title": "So Wonderful",
       "plays": 2,
@@ -43,7 +52,7 @@
       "trend": "new"
     },
     {
-      "position": 5,
+      "position": 6,
       "artist": "Altreucher",
       "title": "Mona Lisa",
       "plays": 2,
@@ -52,7 +61,7 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 7,
       "artist": "Andrea Berg",
       "title": "Ich Werde Lächeln Wenn Du Gehst",
       "plays": 2,
@@ -61,7 +70,7 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 8,
       "artist": "Bernie Paul",
       "title": "Azttenzione Go Go Radio",
       "plays": 2,
@@ -70,25 +79,34 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 9,
       "artist": "David Dundas",
       "title": "Jeans On",
       "plays": 2,
       "previous_position": 52,
-      "movement": 44,
-      "trend": "up"
-    },
-    {
-      "position": 9,
-      "artist": "Esther Graf",
-      "title": "Kippenlänge",
-      "plays": 2,
-      "previous_position": 153,
-      "movement": 144,
+      "movement": 43,
       "trend": "up"
     },
     {
       "position": 10,
+      "artist": "Esther Graf",
+      "title": "Kippenlänge",
+      "plays": 2,
+      "previous_position": 153,
+      "movement": 143,
+      "trend": "up"
+    },
+    {
+      "position": 11,
+      "artist": "Exile",
+      "title": "Kiss You All Over",
+      "plays": 2,
+      "previous_position": 164,
+      "movement": 153,
+      "trend": "up"
+    },
+    {
+      "position": 12,
       "artist": "Facts & Fiction",
       "title": "Give Me The Night",
       "plays": 2,
@@ -97,34 +115,34 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 13,
       "artist": "Fäaschtbänkler",
       "title": "Kleines Lied",
       "plays": 2,
       "previous_position": 157,
-      "movement": 146,
-      "trend": "up"
-    },
-    {
-      "position": 12,
-      "artist": "Fäaschtbänkler & Revelle",
-      "title": "Highlightmensch",
-      "plays": 2,
-      "previous_position": 96,
-      "movement": 84,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "George McCrae",
-      "title": "Rock Your Baby",
-      "plays": 2,
-      "previous_position": 94,
-      "movement": 81,
+      "movement": 144,
       "trend": "up"
     },
     {
       "position": 14,
+      "artist": "Fäaschtbänkler & Revelle",
+      "title": "Highlightmensch",
+      "plays": 2,
+      "previous_position": 96,
+      "movement": 82,
+      "trend": "up"
+    },
+    {
+      "position": 15,
+      "artist": "George McCrae",
+      "title": "Rock Your Baby",
+      "plays": 2,
+      "previous_position": 94,
+      "movement": 79,
+      "trend": "up"
+    },
+    {
+      "position": 16,
       "artist": "Gilbert Brodar",
       "title": "Wahnsinn",
       "plays": 2,
@@ -133,58 +151,40 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 17,
       "artist": "Ibo",
       "title": "Süsses Blut",
       "plays": 2,
       "previous_position": 45,
-      "movement": 30,
-      "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "ID",
-      "title": "70s (KI generiert)",
-      "plays": 2,
-      "previous_position": 144,
-      "movement": 128,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "ID",
-      "title": "Pop (KI generiert)",
-      "plays": 2,
-      "previous_position": 110,
-      "movement": 93,
+      "movement": 28,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Lift Up",
-      "title": "Diamonds Never Made A Lady",
+      "artist": "ID",
+      "title": "70s (KI generiert)",
       "plays": 2,
-      "previous_position": 11,
-      "movement": -7,
-      "trend": "down"
+      "previous_position": 144,
+      "movement": 126,
+      "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Mike Bauhaus",
-      "title": "Goodbye",
+      "artist": "ID",
+      "title": "Pop (KI generiert)",
       "plays": 2,
-      "previous_position": 101,
-      "movement": 82,
+      "previous_position": 110,
+      "movement": 91,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Roger De Win",
-      "title": "Mis Dorf, Mis Dihei",
+      "artist": "Lift Up",
+      "title": "Diamonds Never Made A Lady",
       "plays": 2,
-      "previous_position": 172,
-      "movement": 152,
-      "trend": "up"
+      "previous_position": 11,
+      "movement": -9,
+      "trend": "down"
     }
   ]
 }
