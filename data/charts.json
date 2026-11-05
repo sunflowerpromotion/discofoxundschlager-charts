@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W45",
   "previous_week": "2026-W44",
-  "updated": "2026-11-05T02:54:23.977230+00:00",
+  "updated": "2026-11-05T10:11:16.856504+00:00",
   "charts": [
     {
       "position": 1,
@@ -35,6 +35,15 @@
     },
     {
       "position": 4,
+      "artist": "Alicja",
+      "title": "So Wonderful",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 5,
       "artist": "Altreucher",
       "title": "Mona Lisa",
       "plays": 2,
@@ -43,52 +52,70 @@
       "trend": "new"
     },
     {
-      "position": 5,
+      "position": 6,
+      "artist": "Bernie Paul",
+      "title": "Azttenzione Go Go Radio",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 7,
       "artist": "David Dundas",
       "title": "Jeans On",
       "plays": 2,
       "previous_position": 52,
-      "movement": 47,
-      "trend": "up"
-    },
-    {
-      "position": 6,
-      "artist": "Esther Graf",
-      "title": "Kippenlänge",
-      "plays": 2,
-      "previous_position": 153,
-      "movement": 147,
-      "trend": "up"
-    },
-    {
-      "position": 7,
-      "artist": "Fäaschtbänkler",
-      "title": "Kleines Lied",
-      "plays": 2,
-      "previous_position": 157,
-      "movement": 150,
+      "movement": 45,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "Fäaschtbänkler & Revelle",
-      "title": "Highlightmensch",
+      "artist": "Esther Graf",
+      "title": "Kippenlänge",
       "plays": 2,
-      "previous_position": 96,
-      "movement": 88,
+      "previous_position": 153,
+      "movement": 145,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "George McCrae",
-      "title": "Rock Your Baby",
+      "artist": "Facts & Fiction",
+      "title": "Give Me The Night",
       "plays": 2,
-      "previous_position": 94,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 10,
+      "artist": "Fäaschtbänkler",
+      "title": "Kleines Lied",
+      "plays": 2,
+      "previous_position": 157,
+      "movement": 147,
+      "trend": "up"
+    },
+    {
+      "position": 11,
+      "artist": "Fäaschtbänkler & Revelle",
+      "title": "Highlightmensch",
+      "plays": 2,
+      "previous_position": 96,
       "movement": 85,
       "trend": "up"
     },
     {
-      "position": 10,
+      "position": 12,
+      "artist": "George McCrae",
+      "title": "Rock Your Baby",
+      "plays": 2,
+      "previous_position": 94,
+      "movement": 82,
+      "trend": "up"
+    },
+    {
+      "position": 13,
       "artist": "Gilbert Brodar",
       "title": "Wahnsinn",
       "plays": 2,
@@ -97,94 +124,67 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 14,
       "artist": "Ibo",
       "title": "Süsses Blut",
       "plays": 2,
       "previous_position": 45,
-      "movement": 34,
-      "trend": "up"
-    },
-    {
-      "position": 12,
-      "artist": "ID",
-      "title": "70s (KI generiert)",
-      "plays": 2,
-      "previous_position": 144,
-      "movement": 132,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "ID",
-      "title": "Pop (KI generiert)",
-      "plays": 2,
-      "previous_position": 110,
-      "movement": 97,
-      "trend": "up"
-    },
-    {
-      "position": 14,
-      "artist": "Mike Bauhaus",
-      "title": "Goodbye",
-      "plays": 2,
-      "previous_position": 101,
-      "movement": 87,
+      "movement": 31,
       "trend": "up"
     },
     {
       "position": 15,
-      "artist": "Roger De Win",
-      "title": "Mis Dorf, Mis Dihei",
+      "artist": "ID",
+      "title": "70s (KI generiert)",
       "plays": 2,
-      "previous_position": 172,
-      "movement": 157,
+      "previous_position": 144,
+      "movement": 129,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "Savage",
-      "title": "Don't Cry Tonight",
+      "artist": "ID",
+      "title": "Pop (KI generiert)",
       "plays": 2,
-      "previous_position": 134,
-      "movement": 118,
+      "previous_position": 110,
+      "movement": 94,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "Siegfried Walch",
-      "title": "Die Strassen Dieser Zeit",
+      "artist": "Lift Up",
+      "title": "Diamonds Never Made A Lady",
       "plays": 2,
-      "previous_position": 106,
-      "movement": 89,
-      "trend": "up"
+      "previous_position": 11,
+      "movement": -6,
+      "trend": "down"
     },
     {
       "position": 18,
-      "artist": "Smokey Robinson & The Miracles",
-      "title": "The Tears Of A Clown",
+      "artist": "Mike Bauhaus",
+      "title": "Goodbye",
       "plays": 2,
-      "previous_position": 35,
-      "movement": 17,
+      "previous_position": 101,
+      "movement": 83,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "War",
-      "title": "Low Rider",
+      "artist": "Roger De Win",
+      "title": "Mis Dorf, Mis Dihei",
       "plays": 2,
-      "previous_position": 152,
-      "movement": 133,
+      "previous_position": 172,
+      "movement": 153,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Alex Park",
-      "title": "Gib Mir Ehrlichkeit",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "artist": "Savage",
+      "title": "Don't Cry Tonight",
+      "plays": 2,
+      "previous_position": 134,
+      "movement": 114,
+      "trend": "up"
     }
   ]
 }
