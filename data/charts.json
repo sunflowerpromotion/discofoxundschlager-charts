@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W45",
   "previous_week": "2026-W44",
-  "updated": "2026-11-05T10:11:16.856504+00:00",
+  "updated": "2026-11-05T18:00:16.428221+00:00",
   "charts": [
     {
       "position": 1,
@@ -53,6 +53,15 @@
     },
     {
       "position": 6,
+      "artist": "Andrea Berg",
+      "title": "Ich Werde Lächeln Wenn Du Gehst",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 7,
       "artist": "Bernie Paul",
       "title": "Azttenzione Go Go Radio",
       "plays": 2,
@@ -61,25 +70,25 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 8,
       "artist": "David Dundas",
       "title": "Jeans On",
       "plays": 2,
       "previous_position": 52,
-      "movement": 45,
-      "trend": "up"
-    },
-    {
-      "position": 8,
-      "artist": "Esther Graf",
-      "title": "Kippenlänge",
-      "plays": 2,
-      "previous_position": 153,
-      "movement": 145,
+      "movement": 44,
       "trend": "up"
     },
     {
       "position": 9,
+      "artist": "Esther Graf",
+      "title": "Kippenlänge",
+      "plays": 2,
+      "previous_position": 153,
+      "movement": 144,
+      "trend": "up"
+    },
+    {
+      "position": 10,
       "artist": "Facts & Fiction",
       "title": "Give Me The Night",
       "plays": 2,
@@ -88,34 +97,34 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 11,
       "artist": "Fäaschtbänkler",
       "title": "Kleines Lied",
       "plays": 2,
       "previous_position": 157,
-      "movement": 147,
-      "trend": "up"
-    },
-    {
-      "position": 11,
-      "artist": "Fäaschtbänkler & Revelle",
-      "title": "Highlightmensch",
-      "plays": 2,
-      "previous_position": 96,
-      "movement": 85,
+      "movement": 146,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "George McCrae",
-      "title": "Rock Your Baby",
+      "artist": "Fäaschtbänkler & Revelle",
+      "title": "Highlightmensch",
       "plays": 2,
-      "previous_position": 94,
-      "movement": 82,
+      "previous_position": 96,
+      "movement": 84,
       "trend": "up"
     },
     {
       "position": 13,
+      "artist": "George McCrae",
+      "title": "Rock Your Baby",
+      "plays": 2,
+      "previous_position": 94,
+      "movement": 81,
+      "trend": "up"
+    },
+    {
+      "position": 14,
       "artist": "Gilbert Brodar",
       "title": "Wahnsinn",
       "plays": 2,
@@ -124,66 +133,57 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 15,
       "artist": "Ibo",
       "title": "Süsses Blut",
       "plays": 2,
       "previous_position": 45,
-      "movement": 31,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "ID",
-      "title": "70s (KI generiert)",
-      "plays": 2,
-      "previous_position": 144,
-      "movement": 129,
+      "movement": 30,
       "trend": "up"
     },
     {
       "position": 16,
       "artist": "ID",
-      "title": "Pop (KI generiert)",
+      "title": "70s (KI generiert)",
       "plays": 2,
-      "previous_position": 110,
-      "movement": 94,
+      "previous_position": 144,
+      "movement": 128,
       "trend": "up"
     },
     {
       "position": 17,
+      "artist": "ID",
+      "title": "Pop (KI generiert)",
+      "plays": 2,
+      "previous_position": 110,
+      "movement": 93,
+      "trend": "up"
+    },
+    {
+      "position": 18,
       "artist": "Lift Up",
       "title": "Diamonds Never Made A Lady",
       "plays": 2,
       "previous_position": 11,
-      "movement": -6,
+      "movement": -7,
       "trend": "down"
     },
     {
-      "position": 18,
+      "position": 19,
       "artist": "Mike Bauhaus",
       "title": "Goodbye",
       "plays": 2,
       "previous_position": 101,
-      "movement": 83,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Roger De Win",
-      "title": "Mis Dorf, Mis Dihei",
-      "plays": 2,
-      "previous_position": 172,
-      "movement": 153,
+      "movement": 82,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Savage",
-      "title": "Don't Cry Tonight",
+      "artist": "Roger De Win",
+      "title": "Mis Dorf, Mis Dihei",
       "plays": 2,
-      "previous_position": 134,
-      "movement": 114,
+      "previous_position": 172,
+      "movement": 152,
       "trend": "up"
     }
   ]
