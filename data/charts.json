@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W45",
   "previous_week": "2026-W44",
-  "updated": "2026-11-06T03:36:35.185117+00:00",
+  "updated": "2026-11-06T11:27:14.988659+00:00",
   "charts": [
     {
       "position": 1,
@@ -17,24 +17,33 @@
     },
     {
       "position": 2,
-      "artist": "War",
-      "title": "Low Rider",
+      "artist": "Silent Circle",
+      "title": "Moonlight Affair",
       "plays": 3,
-      "previous_position": 152,
-      "movement": 150,
+      "previous_position": 3,
+      "movement": 1,
       "trend": "up"
     },
     {
       "position": 3,
-      "artist": "ABBA",
-      "title": "Take A Chance On Me",
-      "plays": 2,
-      "previous_position": 8,
-      "movement": 5,
+      "artist": "War",
+      "title": "Low Rider",
+      "plays": 3,
+      "previous_position": 152,
+      "movement": 149,
       "trend": "up"
     },
     {
       "position": 4,
+      "artist": "ABBA",
+      "title": "Take A Chance On Me",
+      "plays": 2,
+      "previous_position": 8,
+      "movement": 4,
+      "trend": "up"
+    },
+    {
+      "position": 5,
       "artist": "Alex Park",
       "title": "Gib Mir Ehrlichkeit",
       "plays": 2,
@@ -43,16 +52,16 @@
       "trend": "new"
     },
     {
-      "position": 5,
+      "position": 6,
       "artist": "Alicia Bridges",
       "title": "I Love The Nightlife",
       "plays": 2,
       "previous_position": 104,
-      "movement": 99,
+      "movement": 98,
       "trend": "up"
     },
     {
-      "position": 6,
+      "position": 7,
       "artist": "Alicja",
       "title": "So Wonderful",
       "plays": 2,
@@ -61,7 +70,7 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 8,
       "artist": "Altreucher",
       "title": "Mona Lisa",
       "plays": 2,
@@ -70,7 +79,7 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 9,
       "artist": "Andrea Berg",
       "title": "Ich Werde Lächeln Wenn Du Gehst",
       "plays": 2,
@@ -79,7 +88,7 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 10,
       "artist": "Bernie Paul",
       "title": "Azttenzione Go Go Radio",
       "plays": 2,
@@ -88,34 +97,34 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 11,
       "artist": "David Dundas",
       "title": "Jeans On",
       "plays": 2,
       "previous_position": 52,
-      "movement": 42,
-      "trend": "up"
-    },
-    {
-      "position": 11,
-      "artist": "Esther Graf",
-      "title": "Kippenlänge",
-      "plays": 2,
-      "previous_position": 153,
-      "movement": 142,
+      "movement": 41,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Exile",
-      "title": "Kiss You All Over",
+      "artist": "Esther Graf",
+      "title": "Kippenlänge",
       "plays": 2,
-      "previous_position": 164,
-      "movement": 152,
+      "previous_position": 153,
+      "movement": 141,
       "trend": "up"
     },
     {
       "position": 13,
+      "artist": "Exile",
+      "title": "Kiss You All Over",
+      "plays": 2,
+      "previous_position": 164,
+      "movement": 151,
+      "trend": "up"
+    },
+    {
+      "position": 14,
       "artist": "Facts & Fiction",
       "title": "Give Me The Night",
       "plays": 2,
@@ -124,34 +133,43 @@
       "trend": "new"
     },
     {
-      "position": 14,
-      "artist": "Fäaschtbänkler",
-      "title": "Kleines Lied",
-      "plays": 2,
-      "previous_position": 157,
-      "movement": 143,
-      "trend": "up"
-    },
-    {
       "position": 15,
-      "artist": "Fäaschtbänkler & Revelle",
-      "title": "Highlightmensch",
+      "artist": "Fancy",
+      "title": "Bolero (Hold Me In Your Arms Again)",
       "plays": 2,
-      "previous_position": 96,
-      "movement": 81,
+      "previous_position": 136,
+      "movement": 121,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "George McCrae",
-      "title": "Rock Your Baby",
+      "artist": "Fäaschtbänkler",
+      "title": "Kleines Lied",
       "plays": 2,
-      "previous_position": 94,
-      "movement": 78,
+      "previous_position": 157,
+      "movement": 141,
       "trend": "up"
     },
     {
       "position": 17,
+      "artist": "Fäaschtbänkler & Revelle",
+      "title": "Highlightmensch",
+      "plays": 2,
+      "previous_position": 96,
+      "movement": 79,
+      "trend": "up"
+    },
+    {
+      "position": 18,
+      "artist": "George McCrae",
+      "title": "Rock Your Baby",
+      "plays": 2,
+      "previous_position": 94,
+      "movement": 76,
+      "trend": "up"
+    },
+    {
+      "position": 19,
       "artist": "Gilbert Brodar",
       "title": "Wahnsinn",
       "plays": 2,
@@ -160,30 +178,12 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 20,
       "artist": "Ibo",
       "title": "Süsses Blut",
       "plays": 2,
       "previous_position": 45,
-      "movement": 27,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "ID",
-      "title": "70s (KI generiert)",
-      "plays": 2,
-      "previous_position": 144,
-      "movement": 125,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "ID",
-      "title": "Pop (KI generiert)",
-      "plays": 2,
-      "previous_position": 110,
-      "movement": 90,
+      "movement": 25,
       "trend": "up"
     }
   ]
