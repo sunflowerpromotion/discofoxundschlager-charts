@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W45",
   "previous_week": "2026-W44",
-  "updated": "2026-11-06T23:14:04.694251+00:00",
+  "updated": "2026-11-07T02:50:43.590161+00:00",
   "charts": [
     {
       "position": 1,
@@ -26,42 +26,78 @@
     },
     {
       "position": 3,
+      "artist": "Gilbert Brodar",
+      "title": "Wahnsinn",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 4,
       "artist": "ID",
       "title": "Maxi (KI generiert)",
       "plays": 3,
       "previous_position": 158,
-      "movement": 155,
+      "movement": 154,
       "trend": "up"
     },
     {
-      "position": 4,
+      "position": 5,
+      "artist": "NdeeN",
+      "title": "Falsche Freunde",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 6,
       "artist": "Silent Circle",
       "title": "Moonlight Affair",
       "plays": 3,
       "previous_position": 3,
-      "movement": -1,
+      "movement": -3,
       "trend": "down"
     },
     {
-      "position": 5,
+      "position": 7,
       "artist": "War",
       "title": "Low Rider",
       "plays": 3,
       "previous_position": 152,
-      "movement": 147,
+      "movement": 145,
       "trend": "up"
     },
     {
-      "position": 6,
+      "position": 8,
+      "artist": "Wintermärz",
+      "title": "Mensch Geblieben",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 9,
+      "artist": "Wolfgang Frühwirth",
+      "title": "Bis Ans Ende Der Welt",
+      "plays": 3,
+      "previous_position": 68,
+      "movement": 59,
+      "trend": "up"
+    },
+    {
+      "position": 10,
       "artist": "ABBA",
       "title": "Take A Chance On Me",
       "plays": 2,
       "previous_position": 8,
-      "movement": 2,
-      "trend": "up"
+      "movement": -2,
+      "trend": "down"
     },
     {
-      "position": 7,
+      "position": 11,
       "artist": "Alex Park",
       "title": "Gib Mir Ehrlichkeit",
       "plays": 2,
@@ -70,16 +106,16 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 12,
       "artist": "Alicia Bridges",
       "title": "I Love The Nightlife",
       "plays": 2,
       "previous_position": 104,
-      "movement": 96,
+      "movement": 92,
       "trend": "up"
     },
     {
-      "position": 9,
+      "position": 13,
       "artist": "Alicja",
       "title": "So Wonderful",
       "plays": 2,
@@ -88,7 +124,7 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 14,
       "artist": "Altreucher",
       "title": "Mona Lisa",
       "plays": 2,
@@ -97,7 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 15,
       "artist": "Andrea Berg",
       "title": "Ich Werde Lächeln Wenn Du Gehst",
       "plays": 2,
@@ -106,7 +142,7 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 16,
       "artist": "Bernie Paul",
       "title": "Azttenzione Go Go Radio",
       "plays": 2,
@@ -115,76 +151,40 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 17,
+      "artist": "Dominik Baumer",
+      "title": "Ich Lauf Los",
+      "plays": 2,
+      "previous_position": 69,
+      "movement": 52,
+      "trend": "up"
+    },
+    {
+      "position": 18,
       "artist": "Esther Graf",
       "title": "Kippenlänge",
       "plays": 2,
       "previous_position": 153,
-      "movement": 140,
+      "movement": 135,
       "trend": "up"
     },
     {
-      "position": 14,
+      "position": 19,
       "artist": "Exile",
       "title": "Kiss You All Over",
       "plays": 2,
       "previous_position": 164,
-      "movement": 150,
+      "movement": 145,
       "trend": "up"
     },
     {
-      "position": 15,
+      "position": 20,
       "artist": "Facts & Fiction",
       "title": "Give Me The Night",
       "plays": 2,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 16,
-      "artist": "Fancy",
-      "title": "Bolero (Hold Me In Your Arms Again)",
-      "plays": 2,
-      "previous_position": 136,
-      "movement": 120,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Fäaschtbänkler",
-      "title": "Kleines Lied",
-      "plays": 2,
-      "previous_position": 157,
-      "movement": 140,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Fäaschtbänkler & Revelle",
-      "title": "Highlightmensch",
-      "plays": 2,
-      "previous_position": 96,
-      "movement": 78,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Gilbert Brodar",
-      "title": "Wahnsinn",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Hot Chocolate",
-      "title": "You Sexy Thing",
-      "plays": 2,
-      "previous_position": 37,
-      "movement": 17,
-      "trend": "up"
     }
   ]
 }
