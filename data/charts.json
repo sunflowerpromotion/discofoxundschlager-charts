@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W45",
   "previous_week": "2026-W44",
-  "updated": "2026-11-07T19:39:30.103324+00:00",
+  "updated": "2026-11-07T22:59:52.368068+00:00",
   "charts": [
     {
       "position": 1,
@@ -17,15 +17,24 @@
     },
     {
       "position": 2,
-      "artist": "David Dundas",
-      "title": "Jeans On",
+      "artist": "ABBA",
+      "title": "Take A Chance On Me",
       "plays": 3,
-      "previous_position": 52,
-      "movement": 50,
+      "previous_position": 8,
+      "movement": 6,
       "trend": "up"
     },
     {
       "position": 3,
+      "artist": "David Dundas",
+      "title": "Jeans On",
+      "plays": 3,
+      "previous_position": 52,
+      "movement": 49,
+      "trend": "up"
+    },
+    {
+      "position": 4,
       "artist": "Facts & Fiction",
       "title": "Give Me The Night",
       "plays": 3,
@@ -34,16 +43,16 @@
       "trend": "new"
     },
     {
-      "position": 4,
+      "position": 5,
       "artist": "George McCrae",
       "title": "Rock Your Baby",
       "plays": 3,
       "previous_position": 94,
-      "movement": 90,
+      "movement": 89,
       "trend": "up"
     },
     {
-      "position": 5,
+      "position": 6,
       "artist": "Gilbert Brodar",
       "title": "Wahnsinn",
       "plays": 3,
@@ -52,7 +61,7 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 7,
       "artist": "Marianne Rosenberg",
       "title": "Lieder Der Nacht",
       "plays": 3,
@@ -61,7 +70,7 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 8,
       "artist": "NdeeN",
       "title": "Falsche Freunde",
       "plays": 3,
@@ -70,25 +79,70 @@
       "trend": "new"
     },
     {
-      "position": 8,
-      "artist": "Silent Circle",
-      "title": "Moonlight Affair",
-      "plays": 3,
-      "previous_position": 3,
-      "movement": -5,
-      "trend": "down"
-    },
-    {
       "position": 9,
-      "artist": "War",
-      "title": "Low Rider",
+      "artist": "Orleans",
+      "title": "Dance With Me",
       "plays": 3,
-      "previous_position": 152,
-      "movement": 143,
+      "previous_position": 165,
+      "movement": 156,
       "trend": "up"
     },
     {
       "position": 10,
+      "artist": "Shirley & Company",
+      "title": "Shame, Shame, Shame",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 11,
+      "artist": "Silent Circle",
+      "title": "Moonlight Affair",
+      "plays": 3,
+      "previous_position": 3,
+      "movement": -8,
+      "trend": "down"
+    },
+    {
+      "position": 12,
+      "artist": "Sister Sledge",
+      "title": "We Are Family",
+      "plays": 3,
+      "previous_position": 93,
+      "movement": 81,
+      "trend": "up"
+    },
+    {
+      "position": 13,
+      "artist": "Smokey Robinson & The Miracles",
+      "title": "The Tears Of A Clown",
+      "plays": 3,
+      "previous_position": 35,
+      "movement": 22,
+      "trend": "up"
+    },
+    {
+      "position": 14,
+      "artist": "The Lords",
+      "title": "Poor Boy",
+      "plays": 3,
+      "previous_position": 2,
+      "movement": -12,
+      "trend": "down"
+    },
+    {
+      "position": 15,
+      "artist": "War",
+      "title": "Low Rider",
+      "plays": 3,
+      "previous_position": 152,
+      "movement": 137,
+      "trend": "up"
+    },
+    {
+      "position": 16,
       "artist": "Wintermärz",
       "title": "Mensch Geblieben",
       "plays": 3,
@@ -97,25 +151,16 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 17,
       "artist": "Wolfgang Frühwirth",
       "title": "Bis Ans Ende Der Welt",
       "plays": 3,
       "previous_position": 68,
-      "movement": 57,
+      "movement": 51,
       "trend": "up"
     },
     {
-      "position": 12,
-      "artist": "ABBA",
-      "title": "Take A Chance On Me",
-      "plays": 2,
-      "previous_position": 8,
-      "movement": -4,
-      "trend": "down"
-    },
-    {
-      "position": 13,
+      "position": 18,
       "artist": "Alex Park",
       "title": "Gib Mir Ehrlichkeit",
       "plays": 2,
@@ -124,67 +169,22 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 19,
       "artist": "Alicia Bridges",
       "title": "I Love The Nightlife",
       "plays": 2,
       "previous_position": 104,
-      "movement": 90,
+      "movement": 85,
       "trend": "up"
     },
     {
-      "position": 15,
+      "position": 20,
       "artist": "Alicja",
       "title": "So Wonderful",
       "plays": 2,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 16,
-      "artist": "Altreucher",
-      "title": "Mona Lisa",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 17,
-      "artist": "Andrea Berg",
-      "title": "Ich Werde Lächeln Wenn Du Gehst",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 18,
-      "artist": "Bernie Paul",
-      "title": "Azttenzione Go Go Radio",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Christian Anders",
-      "title": "Das War Ne Harte Zeit (feat. Lara Bianca Fuchs)",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "D. White",
-      "title": "Follow Me",
-      "plays": 2,
-      "previous_position": 139,
-      "movement": 119,
-      "trend": "up"
     }
   ]
 }
