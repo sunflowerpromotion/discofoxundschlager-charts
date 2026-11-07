@@ -4,28 +4,46 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W45",
   "previous_week": "2026-W44",
-  "updated": "2026-11-07T02:50:43.590161+00:00",
+  "updated": "2026-11-07T09:18:11.225176+00:00",
   "charts": [
     {
       "position": 1,
-      "artist": "David Dundas",
-      "title": "Jeans On",
-      "plays": 3,
-      "previous_position": 52,
-      "movement": 51,
+      "artist": "ID",
+      "title": "Maxi (KI generiert)",
+      "plays": 4,
+      "previous_position": 158,
+      "movement": 157,
       "trend": "up"
     },
     {
       "position": 2,
-      "artist": "George McCrae",
-      "title": "Rock Your Baby",
+      "artist": "David Dundas",
+      "title": "Jeans On",
       "plays": 3,
-      "previous_position": 94,
-      "movement": 92,
+      "previous_position": 52,
+      "movement": 50,
       "trend": "up"
     },
     {
       "position": 3,
+      "artist": "Facts & Fiction",
+      "title": "Give Me The Night",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 4,
+      "artist": "George McCrae",
+      "title": "Rock Your Baby",
+      "plays": 3,
+      "previous_position": 94,
+      "movement": 90,
+      "trend": "up"
+    },
+    {
+      "position": 5,
       "artist": "Gilbert Brodar",
       "title": "Wahnsinn",
       "plays": 3,
@@ -34,16 +52,7 @@
       "trend": "new"
     },
     {
-      "position": 4,
-      "artist": "ID",
-      "title": "Maxi (KI generiert)",
-      "plays": 3,
-      "previous_position": 158,
-      "movement": 154,
-      "trend": "up"
-    },
-    {
-      "position": 5,
+      "position": 6,
       "artist": "NdeeN",
       "title": "Falsche Freunde",
       "plays": 3,
@@ -52,25 +61,25 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 7,
       "artist": "Silent Circle",
       "title": "Moonlight Affair",
       "plays": 3,
       "previous_position": 3,
-      "movement": -3,
+      "movement": -4,
       "trend": "down"
     },
     {
-      "position": 7,
+      "position": 8,
       "artist": "War",
       "title": "Low Rider",
       "plays": 3,
       "previous_position": 152,
-      "movement": 145,
+      "movement": 144,
       "trend": "up"
     },
     {
-      "position": 8,
+      "position": 9,
       "artist": "Wintermärz",
       "title": "Mensch Geblieben",
       "plays": 3,
@@ -79,25 +88,25 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 10,
       "artist": "Wolfgang Frühwirth",
       "title": "Bis Ans Ende Der Welt",
       "plays": 3,
       "previous_position": 68,
-      "movement": 59,
+      "movement": 58,
       "trend": "up"
     },
     {
-      "position": 10,
+      "position": 11,
       "artist": "ABBA",
       "title": "Take A Chance On Me",
       "plays": 2,
       "previous_position": 8,
-      "movement": -2,
+      "movement": -3,
       "trend": "down"
     },
     {
-      "position": 11,
+      "position": 12,
       "artist": "Alex Park",
       "title": "Gib Mir Ehrlichkeit",
       "plays": 2,
@@ -106,16 +115,16 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 13,
       "artist": "Alicia Bridges",
       "title": "I Love The Nightlife",
       "plays": 2,
       "previous_position": 104,
-      "movement": 92,
+      "movement": 91,
       "trend": "up"
     },
     {
-      "position": 13,
+      "position": 14,
       "artist": "Alicja",
       "title": "So Wonderful",
       "plays": 2,
@@ -124,7 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 15,
       "artist": "Altreucher",
       "title": "Mona Lisa",
       "plays": 2,
@@ -133,7 +142,7 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 16,
       "artist": "Andrea Berg",
       "title": "Ich Werde Lächeln Wenn Du Gehst",
       "plays": 2,
@@ -142,7 +151,7 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 17,
       "artist": "Bernie Paul",
       "title": "Azttenzione Go Go Radio",
       "plays": 2,
@@ -151,40 +160,31 @@
       "trend": "new"
     },
     {
-      "position": 17,
-      "artist": "Dominik Baumer",
-      "title": "Ich Lauf Los",
-      "plays": 2,
-      "previous_position": 69,
-      "movement": 52,
-      "trend": "up"
-    },
-    {
       "position": 18,
-      "artist": "Esther Graf",
-      "title": "Kippenlänge",
+      "artist": "D. White",
+      "title": "Follow Me",
       "plays": 2,
-      "previous_position": 153,
-      "movement": 135,
+      "previous_position": 139,
+      "movement": 121,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Exile",
-      "title": "Kiss You All Over",
+      "artist": "Dominik Baumer",
+      "title": "Ich Lauf Los",
       "plays": 2,
-      "previous_position": 164,
-      "movement": 145,
+      "previous_position": 69,
+      "movement": 50,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Facts & Fiction",
-      "title": "Give Me The Night",
+      "artist": "Esther Graf",
+      "title": "Kippenlänge",
       "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 153,
+      "movement": 133,
+      "trend": "up"
     }
   ]
 }
