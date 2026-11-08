@@ -4,13 +4,13 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W45",
   "previous_week": "2026-W44",
-  "updated": "2026-11-08T02:16:19.455204+00:00",
+  "updated": "2026-11-08T09:07:44.075218+00:00",
   "charts": [
     {
       "position": 1,
       "artist": "ID",
       "title": "Maxi (KI generiert)",
-      "plays": 4,
+      "plays": 5,
       "previous_position": 158,
       "movement": 157,
       "trend": "up"
@@ -98,6 +98,15 @@
     },
     {
       "position": 11,
+      "artist": "Joy",
+      "title": "Touch By Touch",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 12,
       "artist": "Marianne Rosenberg",
       "title": "Lieder Der Nacht",
       "plays": 3,
@@ -106,7 +115,7 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 13,
       "artist": "NdeeN",
       "title": "Falsche Freunde",
       "plays": 3,
@@ -115,16 +124,16 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 14,
       "artist": "Racey",
       "title": "Some Girls",
       "plays": 3,
       "previous_position": 178,
-      "movement": 165,
+      "movement": 164,
       "trend": "up"
     },
     {
-      "position": 14,
+      "position": 15,
       "artist": "Shirley & Company",
       "title": "Shame, Shame, Shame",
       "plays": 3,
@@ -133,58 +142,49 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 16,
       "artist": "Silent Circle",
       "title": "Moonlight Affair",
       "plays": 3,
       "previous_position": 3,
-      "movement": -12,
+      "movement": -13,
       "trend": "down"
     },
     {
-      "position": 16,
+      "position": 17,
       "artist": "Smokey Robinson & The Miracles",
       "title": "The Tears Of A Clown",
       "plays": 3,
       "previous_position": 35,
-      "movement": 19,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Stefanie Werger",
-      "title": "So Sehr Lieb Ich Dich",
-      "plays": 3,
-      "previous_position": 108,
-      "movement": 91,
+      "movement": 18,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "The Doobie Brothers",
-      "title": "Listen To The Music",
+      "artist": "Stefanie Werger",
+      "title": "So Sehr Lieb Ich Dich",
       "plays": 3,
-      "previous_position": 22,
-      "movement": 4,
+      "previous_position": 108,
+      "movement": 90,
       "trend": "up"
     },
     {
       "position": 19,
+      "artist": "The Doobie Brothers",
+      "title": "Listen To The Music",
+      "plays": 3,
+      "previous_position": 22,
+      "movement": 3,
+      "trend": "up"
+    },
+    {
+      "position": 20,
       "artist": "The Lords",
       "title": "Poor Boy",
       "plays": 3,
       "previous_position": 2,
-      "movement": -17,
+      "movement": -18,
       "trend": "down"
-    },
-    {
-      "position": 20,
-      "artist": "War",
-      "title": "Low Rider",
-      "plays": 3,
-      "previous_position": 152,
-      "movement": 132,
-      "trend": "up"
     }
   ]
 }
