@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W45",
   "previous_week": "2026-W44",
-  "updated": "2026-11-08T09:07:44.075218+00:00",
+  "updated": "2026-11-08T15:55:58.431412+00:00",
   "charts": [
     {
       "position": 1,
@@ -17,51 +17,60 @@
     },
     {
       "position": 2,
+      "artist": "Marianne Rosenberg",
+      "title": "Lieder Der Nacht",
+      "plays": 4,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 3,
       "artist": "Orleans",
       "title": "Dance With Me",
       "plays": 4,
       "previous_position": 165,
-      "movement": 163,
-      "trend": "up"
-    },
-    {
-      "position": 3,
-      "artist": "Sister Sledge",
-      "title": "We Are Family",
-      "plays": 4,
-      "previous_position": 93,
-      "movement": 90,
+      "movement": 162,
       "trend": "up"
     },
     {
       "position": 4,
-      "artist": "ABBA",
-      "title": "Take A Chance On Me",
-      "plays": 3,
-      "previous_position": 8,
-      "movement": 4,
+      "artist": "Sister Sledge",
+      "title": "We Are Family",
+      "plays": 4,
+      "previous_position": 93,
+      "movement": 89,
       "trend": "up"
     },
     {
       "position": 5,
-      "artist": "David Dundas",
-      "title": "Jeans On",
+      "artist": "ABBA",
+      "title": "Take A Chance On Me",
       "plays": 3,
-      "previous_position": 52,
-      "movement": 47,
+      "previous_position": 8,
+      "movement": 3,
       "trend": "up"
     },
     {
       "position": 6,
-      "artist": "Esther Graf",
-      "title": "Kippenlänge",
+      "artist": "David Dundas",
+      "title": "Jeans On",
       "plays": 3,
-      "previous_position": 153,
-      "movement": 147,
+      "previous_position": 52,
+      "movement": 46,
       "trend": "up"
     },
     {
       "position": 7,
+      "artist": "Esther Graf",
+      "title": "Kippenlänge",
+      "plays": 3,
+      "previous_position": 153,
+      "movement": 146,
+      "trend": "up"
+    },
+    {
+      "position": 8,
       "artist": "Facts & Fiction",
       "title": "Give Me The Night",
       "plays": 3,
@@ -70,16 +79,34 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 9,
+      "artist": "Frank Lars",
+      "title": "Shit Happens",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 10,
+      "artist": "Frank Lukas",
+      "title": "Jedes Mal Die Hölle",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 11,
       "artist": "George McCrae",
       "title": "Rock Your Baby",
       "plays": 3,
       "previous_position": 94,
-      "movement": 86,
+      "movement": 83,
       "trend": "up"
     },
     {
-      "position": 9,
+      "position": 12,
       "artist": "Gilbert Brodar",
       "title": "Wahnsinn",
       "plays": 3,
@@ -88,16 +115,16 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 13,
       "artist": "ID",
       "title": "Pop (KI generiert)",
       "plays": 3,
       "previous_position": 110,
-      "movement": 100,
+      "movement": 97,
       "trend": "up"
     },
     {
-      "position": 11,
+      "position": 14,
       "artist": "Joy",
       "title": "Touch By Touch",
       "plays": 3,
@@ -106,16 +133,7 @@
       "trend": "new"
     },
     {
-      "position": 12,
-      "artist": "Marianne Rosenberg",
-      "title": "Lieder Der Nacht",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 13,
+      "position": 15,
       "artist": "NdeeN",
       "title": "Falsche Freunde",
       "plays": 3,
@@ -124,16 +142,16 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 16,
       "artist": "Racey",
       "title": "Some Girls",
       "plays": 3,
       "previous_position": 178,
-      "movement": 164,
+      "movement": 162,
       "trend": "up"
     },
     {
-      "position": 15,
+      "position": 17,
       "artist": "Shirley & Company",
       "title": "Shame, Shame, Shame",
       "plays": 3,
@@ -142,49 +160,31 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 18,
       "artist": "Silent Circle",
       "title": "Moonlight Affair",
       "plays": 3,
       "previous_position": 3,
-      "movement": -13,
+      "movement": -15,
       "trend": "down"
     },
     {
-      "position": 17,
+      "position": 19,
       "artist": "Smokey Robinson & The Miracles",
       "title": "The Tears Of A Clown",
       "plays": 3,
       "previous_position": 35,
-      "movement": 18,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Stefanie Werger",
-      "title": "So Sehr Lieb Ich Dich",
-      "plays": 3,
-      "previous_position": 108,
-      "movement": 90,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "The Doobie Brothers",
-      "title": "Listen To The Music",
-      "plays": 3,
-      "previous_position": 22,
-      "movement": 3,
+      "movement": 16,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "The Lords",
-      "title": "Poor Boy",
+      "artist": "Stefanie Werger",
+      "title": "So Sehr Lieb Ich Dich",
       "plays": 3,
-      "previous_position": 2,
-      "movement": -18,
-      "trend": "down"
+      "previous_position": 108,
+      "movement": 88,
+      "trend": "up"
     }
   ]
 }
