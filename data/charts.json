@@ -4,55 +4,82 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W46",
   "previous_week": "2026-W45",
-  "updated": "2026-11-09T02:59:18.953065+00:00",
+  "updated": "2026-11-09T11:15:30.560147+00:00",
   "charts": [
     {
       "position": 1,
-      "artist": "Dominik Baumer",
-      "title": "Grenzen Verschieben",
+      "artist": "Bad Boys Blue",
+      "title": "Kisses And Tears (My One And Only)",
       "plays": 1,
-      "previous_position": 134,
-      "movement": 133,
+      "previous_position": 147,
+      "movement": 146,
       "trend": "up"
     },
     {
       "position": 2,
-      "artist": "Dominik Baumer",
-      "title": "Ich Lauf Los",
+      "artist": "Beloved",
+      "title": "Sweet Harmony",
       "plays": 1,
-      "previous_position": 57,
-      "movement": 55,
-      "trend": "up"
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
       "position": 3,
-      "artist": "Edison Lighthouse",
-      "title": "Love Grows Where Rosemary Goes",
+      "artist": "Bernie Paul",
+      "title": "Azttenzione Go Go Radio",
       "plays": 1,
-      "previous_position": 63,
-      "movement": 60,
+      "previous_position": 51,
+      "movement": 48,
       "trend": "up"
     },
     {
       "position": 4,
-      "artist": "Fäaschtbänkler & Revelle",
-      "title": "Highlightmensch",
+      "artist": "Dominik Baumer",
+      "title": "Grenzen Verschieben",
       "plays": 1,
-      "previous_position": 40,
-      "movement": 36,
+      "previous_position": 134,
+      "movement": 130,
       "trend": "up"
     },
     {
       "position": 5,
-      "artist": "GentleMänner",
-      "title": "Frei",
+      "artist": "Dominik Baumer",
+      "title": "Ich Lauf Los",
       "plays": 1,
-      "previous_position": 32,
-      "movement": 27,
+      "previous_position": 57,
+      "movement": 52,
       "trend": "up"
     },
     {
       "position": 6,
+      "artist": "Edison Lighthouse",
+      "title": "Love Grows Where Rosemary Goes",
+      "plays": 1,
+      "previous_position": 63,
+      "movement": 57,
+      "trend": "up"
+    },
+    {
+      "position": 7,
+      "artist": "Fäaschtbänkler & Revelle",
+      "title": "Highlightmensch",
+      "plays": 1,
+      "previous_position": 40,
+      "movement": 33,
+      "trend": "up"
+    },
+    {
+      "position": 8,
+      "artist": "GentleMänner",
+      "title": "Frei",
+      "plays": 1,
+      "previous_position": 32,
+      "movement": 24,
+      "trend": "up"
+    },
+    {
+      "position": 9,
       "artist": "Gernot Resch",
       "title": "Glaub Nicht, Das Es So Einfach Ist!",
       "plays": 1,
@@ -61,120 +88,102 @@
       "trend": "new"
     },
     {
-      "position": 7,
-      "artist": "Hot Chocolate",
-      "title": "You Sexy Thing",
-      "plays": 1,
-      "previous_position": 66,
-      "movement": 59,
-      "trend": "up"
-    },
-    {
-      "position": 8,
-      "artist": "Leif Garrett",
-      "title": "I Was Made For Dancin",
-      "plays": 1,
-      "previous_position": 41,
-      "movement": 33,
-      "trend": "up"
-    },
-    {
-      "position": 9,
-      "artist": "Lisa Holtkamp",
-      "title": "Zwei Leben",
-      "plays": 1,
-      "previous_position": 67,
-      "movement": 58,
-      "trend": "up"
-    },
-    {
       "position": 10,
-      "artist": "Maxine Nightingale",
-      "title": "Right Back Where We Started From",
-      "plays": 1,
-      "previous_position": 65,
-      "movement": 55,
-      "trend": "up"
-    },
-    {
-      "position": 11,
-      "artist": "Radig",
-      "title": "Gib Mir Musik",
-      "plays": 1,
-      "previous_position": 143,
-      "movement": 132,
-      "trend": "up"
-    },
-    {
-      "position": 12,
-      "artist": "Siegfried Walch",
-      "title": "Die Strassen Dieser Zeit",
-      "plays": 1,
-      "previous_position": 29,
-      "movement": 17,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "T. Rex",
-      "title": "Hot Love",
-      "plays": 1,
-      "previous_position": 98,
-      "movement": 85,
-      "trend": "up"
-    },
-    {
-      "position": 14,
-      "artist": "The Doors",
-      "title": "Riders On The Storm",
-      "plays": 1,
-      "previous_position": 130,
-      "movement": 116,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "The Hollies",
-      "title": "The Air That I Breathe",
+      "artist": "Helen",
+      "title": "I Love You",
       "plays": 1,
       "previous_position": null,
       "movement": null,
       "trend": "new"
     },
     {
-      "position": 16,
-      "artist": "The Lords",
-      "title": "Poor Boy",
+      "position": 11,
+      "artist": "Hot Chocolate",
+      "title": "You Sexy Thing",
       "plays": 1,
-      "previous_position": 25,
-      "movement": 9,
+      "previous_position": 66,
+      "movement": 55,
+      "trend": "up"
+    },
+    {
+      "position": 12,
+      "artist": "Hurricanes",
+      "title": "Only One Night",
+      "plays": 1,
+      "previous_position": 101,
+      "movement": 89,
+      "trend": "up"
+    },
+    {
+      "position": 13,
+      "artist": "Joy Peters",
+      "title": "One Night In Love",
+      "plays": 1,
+      "previous_position": 60,
+      "movement": 47,
+      "trend": "up"
+    },
+    {
+      "position": 14,
+      "artist": "Lee Marrow",
+      "title": "Shanghai",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 15,
+      "artist": "Leif Garrett",
+      "title": "I Was Made For Dancin",
+      "plays": 1,
+      "previous_position": 41,
+      "movement": 26,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "Lisa Holtkamp",
+      "title": "Zwei Leben",
+      "plays": 1,
+      "previous_position": 67,
+      "movement": 51,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "The New Seekers",
-      "title": "Never Ending Song Of Love",
+      "artist": "Maxine Nightingale",
+      "title": "Right Back Where We Started From",
       "plays": 1,
-      "previous_position": 80,
-      "movement": 63,
+      "previous_position": 65,
+      "movement": 48,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Tobis Wohnzimmershow",
-      "title": "1000 Mal Abgesagt",
+      "artist": "Radig",
+      "title": "Gib Mir Musik",
       "plays": 1,
-      "previous_position": 68,
-      "movement": 50,
+      "previous_position": 143,
+      "movement": 125,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Wintermärz",
-      "title": "Mensch Geblieben",
+      "artist": "Roxanne",
+      "title": "Boys In Black Cars",
       "plays": 1,
-      "previous_position": 22,
-      "movement": 3,
+      "previous_position": 34,
+      "movement": 15,
+      "trend": "up"
+    },
+    {
+      "position": 20,
+      "artist": "Shooting Party",
+      "title": "Safe In The Arms Of Love",
+      "plays": 1,
+      "previous_position": 50,
+      "movement": 30,
       "trend": "up"
     }
   ]
