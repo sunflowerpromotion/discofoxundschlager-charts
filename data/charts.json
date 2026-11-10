@@ -4,64 +4,109 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W46",
   "previous_week": "2026-W45",
-  "updated": "2026-11-10T03:44:18.017762+00:00",
+  "updated": "2026-11-10T11:49:32.301283+00:00",
   "charts": [
     {
       "position": 1,
-      "artist": "Radig",
-      "title": "Gib Mir Musik",
+      "artist": "Bad Boys Blue",
+      "title": "Kisses And Tears (My One And Only)",
       "plays": 2,
-      "previous_position": 143,
-      "movement": 142,
+      "previous_position": 147,
+      "movement": 146,
       "trend": "up"
     },
     {
       "position": 2,
-      "artist": "Tobis Wohnzimmershow",
-      "title": "1000 Mal Abgesagt",
+      "artist": "Bernie Paul",
+      "title": "Azttenzione Go Go Radio",
       "plays": 2,
-      "previous_position": 68,
-      "movement": 66,
+      "previous_position": 51,
+      "movement": 49,
       "trend": "up"
     },
     {
       "position": 3,
-      "artist": "Wintermärz",
-      "title": "Mensch Geblieben",
+      "artist": "Helen",
+      "title": "I Love You",
       "plays": 2,
-      "previous_position": 22,
-      "movement": 19,
-      "trend": "up"
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
       "position": 4,
-      "artist": "Alin Coen",
-      "title": "Bis Bald",
-      "plays": 1,
-      "previous_position": 83,
-      "movement": 79,
+      "artist": "Hurricanes",
+      "title": "Only One Night",
+      "plays": 2,
+      "previous_position": 101,
+      "movement": 97,
       "trend": "up"
     },
     {
       "position": 5,
-      "artist": "Amon",
-      "title": "Okay",
-      "plays": 1,
-      "previous_position": 133,
-      "movement": 128,
-      "trend": "up"
+      "artist": "Lee Marrow",
+      "title": "Shanghai",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
       "position": 6,
-      "artist": "Bad Boys Blue",
-      "title": "Kisses And Tears (My One And Only)",
-      "plays": 1,
-      "previous_position": 147,
-      "movement": 141,
+      "artist": "Radig",
+      "title": "Gib Mir Musik",
+      "plays": 2,
+      "previous_position": 143,
+      "movement": 137,
       "trend": "up"
     },
     {
       "position": 7,
+      "artist": "Shooting Party",
+      "title": "Safe In The Arms Of Love",
+      "plays": 2,
+      "previous_position": 50,
+      "movement": 43,
+      "trend": "up"
+    },
+    {
+      "position": 8,
+      "artist": "Tobis Wohnzimmershow",
+      "title": "1000 Mal Abgesagt",
+      "plays": 2,
+      "previous_position": 68,
+      "movement": 60,
+      "trend": "up"
+    },
+    {
+      "position": 9,
+      "artist": "Wintermärz",
+      "title": "Mensch Geblieben",
+      "plays": 2,
+      "previous_position": 22,
+      "movement": 13,
+      "trend": "up"
+    },
+    {
+      "position": 10,
+      "artist": "Alin Coen",
+      "title": "Bis Bald",
+      "plays": 1,
+      "previous_position": 83,
+      "movement": 73,
+      "trend": "up"
+    },
+    {
+      "position": 11,
+      "artist": "Amon",
+      "title": "Okay",
+      "plays": 1,
+      "previous_position": 133,
+      "movement": 122,
+      "trend": "up"
+    },
+    {
+      "position": 12,
       "artist": "Beloved",
       "title": "Sweet Harmony",
       "plays": 1,
@@ -70,16 +115,16 @@
       "trend": "new"
     },
     {
-      "position": 8,
-      "artist": "Bernie Paul",
-      "title": "Azttenzione Go Go Radio",
+      "position": 13,
+      "artist": "Blue System",
+      "title": "Magic Symphony",
       "plays": 1,
-      "previous_position": 51,
-      "movement": 43,
-      "trend": "up"
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
-      "position": 9,
+      "position": 14,
       "artist": "Die Grubertaler",
       "title": "Hier Komm Ich Her, Hier Will Ich Sein",
       "plays": 1,
@@ -88,102 +133,57 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 15,
       "artist": "Dominik Baumer",
       "title": "Grenzen Verschieben",
       "plays": 1,
       "previous_position": 134,
-      "movement": 124,
-      "trend": "up"
-    },
-    {
-      "position": 11,
-      "artist": "Dominik Baumer",
-      "title": "Ich Lauf Los",
-      "plays": 1,
-      "previous_position": 57,
-      "movement": 46,
-      "trend": "up"
-    },
-    {
-      "position": 12,
-      "artist": "Edison Lighthouse",
-      "title": "Love Grows Where Rosemary Goes",
-      "plays": 1,
-      "previous_position": 63,
-      "movement": 51,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "Flickentanz",
-      "title": "Kein Zuhause Mehr (Alles Finster)",
-      "plays": 1,
-      "previous_position": 84,
-      "movement": 71,
-      "trend": "up"
-    },
-    {
-      "position": 14,
-      "artist": "Fäaschtbänkler & Revelle",
-      "title": "Highlightmensch",
-      "plays": 1,
-      "previous_position": 40,
-      "movement": 26,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "GentleMänner",
-      "title": "Frei",
-      "plays": 1,
-      "previous_position": 32,
-      "movement": 17,
+      "movement": 119,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "Gernot Resch",
-      "title": "Glaub Nicht, Das Es So Einfach Ist!",
+      "artist": "Dominik Baumer",
+      "title": "Ich Lauf Los",
       "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 57,
+      "movement": 41,
+      "trend": "up"
     },
     {
       "position": 17,
-      "artist": "Gert Emig",
-      "title": "Zu Viel Passiert",
+      "artist": "Edison Lighthouse",
+      "title": "Love Grows Where Rosemary Goes",
       "plays": 1,
-      "previous_position": 163,
-      "movement": 146,
+      "previous_position": 63,
+      "movement": 46,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Helen",
-      "title": "I Love You",
+      "artist": "Flickentanz",
+      "title": "Kein Zuhause Mehr (Alles Finster)",
       "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 84,
+      "movement": 66,
+      "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Hot Chocolate",
-      "title": "You Sexy Thing",
+      "artist": "Fäaschtbänkler & Revelle",
+      "title": "Highlightmensch",
       "plays": 1,
-      "previous_position": 66,
-      "movement": 47,
+      "previous_position": 40,
+      "movement": 21,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Hubert Fella",
-      "title": "Ein Gläschen Wein Mi Amor",
+      "artist": "GentleMänner",
+      "title": "Frei",
       "plays": 1,
-      "previous_position": 96,
-      "movement": 76,
+      "previous_position": 32,
+      "movement": 12,
       "trend": "up"
     }
   ]
