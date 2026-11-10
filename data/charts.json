@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W46",
   "previous_week": "2026-W45",
-  "updated": "2026-11-10T11:49:32.301283+00:00",
+  "updated": "2026-11-10T18:54:26.395420+00:00",
   "charts": [
     {
       "position": 1,
@@ -26,6 +26,15 @@
     },
     {
       "position": 3,
+      "artist": "Gert Emig",
+      "title": "Zu Viel Passiert",
+      "plays": 2,
+      "previous_position": 163,
+      "movement": 160,
+      "trend": "up"
+    },
+    {
+      "position": 4,
       "artist": "Helen",
       "title": "I Love You",
       "plays": 2,
@@ -34,16 +43,25 @@
       "trend": "new"
     },
     {
-      "position": 4,
+      "position": 5,
       "artist": "Hurricanes",
       "title": "Only One Night",
       "plays": 2,
       "previous_position": 101,
-      "movement": 97,
+      "movement": 96,
       "trend": "up"
     },
     {
-      "position": 5,
+      "position": 6,
+      "artist": "Jenny van Bree",
+      "title": "Wieso, Weshalb, Warum",
+      "plays": 2,
+      "previous_position": 78,
+      "movement": 72,
+      "trend": "up"
+    },
+    {
+      "position": 7,
       "artist": "Lee Marrow",
       "title": "Shanghai",
       "plays": 2,
@@ -52,61 +70,106 @@
       "trend": "new"
     },
     {
-      "position": 6,
-      "artist": "Radig",
-      "title": "Gib Mir Musik",
-      "plays": 2,
-      "previous_position": 143,
-      "movement": 137,
-      "trend": "up"
-    },
-    {
-      "position": 7,
-      "artist": "Shooting Party",
-      "title": "Safe In The Arms Of Love",
-      "plays": 2,
-      "previous_position": 50,
-      "movement": 43,
-      "trend": "up"
-    },
-    {
       "position": 8,
-      "artist": "Tobis Wohnzimmershow",
-      "title": "1000 Mal Abgesagt",
+      "artist": "Markus Krois",
+      "title": "Filmriss",
       "plays": 2,
-      "previous_position": 68,
-      "movement": 60,
+      "previous_position": 164,
+      "movement": 156,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "Wintermärz",
-      "title": "Mensch Geblieben",
+      "artist": "Mosaique",
+      "title": "Diese Kleine Melodie",
       "plays": 2,
-      "previous_position": 22,
-      "movement": 13,
+      "previous_position": 114,
+      "movement": 105,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "Alin Coen",
-      "title": "Bis Bald",
-      "plays": 1,
-      "previous_position": 83,
-      "movement": 73,
-      "trend": "up"
+      "artist": "Nicole Conring",
+      "title": "Wenn Worte Fehlen",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
       "position": 11,
-      "artist": "Amon",
-      "title": "Okay",
-      "plays": 1,
-      "previous_position": 133,
-      "movement": 122,
+      "artist": "Radig",
+      "title": "Gib Mir Musik",
+      "plays": 2,
+      "previous_position": 143,
+      "movement": 132,
       "trend": "up"
     },
     {
       "position": 12,
+      "artist": "Reiner Kirsten",
+      "title": "Flieger, Bus Oder Schiffe",
+      "plays": 2,
+      "previous_position": 179,
+      "movement": 167,
+      "trend": "up"
+    },
+    {
+      "position": 13,
+      "artist": "Shooting Party",
+      "title": "Safe In The Arms Of Love",
+      "plays": 2,
+      "previous_position": 50,
+      "movement": 37,
+      "trend": "up"
+    },
+    {
+      "position": 14,
+      "artist": "Tobis Wohnzimmershow",
+      "title": "1000 Mal Abgesagt",
+      "plays": 2,
+      "previous_position": 68,
+      "movement": 54,
+      "trend": "up"
+    },
+    {
+      "position": 15,
+      "artist": "Wintermärz",
+      "title": "Mensch Geblieben",
+      "plays": 2,
+      "previous_position": 22,
+      "movement": 7,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "Alin Coen",
+      "title": "Bis Bald",
+      "plays": 1,
+      "previous_position": 83,
+      "movement": 67,
+      "trend": "up"
+    },
+    {
+      "position": 17,
+      "artist": "Amon",
+      "title": "Okay",
+      "plays": 1,
+      "previous_position": 133,
+      "movement": 116,
+      "trend": "up"
+    },
+    {
+      "position": 18,
+      "artist": "Andrea Sandvoss",
+      "title": "Spuren Im Sand",
+      "plays": 1,
+      "previous_position": 178,
+      "movement": 160,
+      "trend": "up"
+    },
+    {
+      "position": 19,
       "artist": "Beloved",
       "title": "Sweet Harmony",
       "plays": 1,
@@ -115,76 +178,13 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 20,
       "artist": "Blue System",
       "title": "Magic Symphony",
       "plays": 1,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 14,
-      "artist": "Die Grubertaler",
-      "title": "Hier Komm Ich Her, Hier Will Ich Sein",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 15,
-      "artist": "Dominik Baumer",
-      "title": "Grenzen Verschieben",
-      "plays": 1,
-      "previous_position": 134,
-      "movement": 119,
-      "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "Dominik Baumer",
-      "title": "Ich Lauf Los",
-      "plays": 1,
-      "previous_position": 57,
-      "movement": 41,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Edison Lighthouse",
-      "title": "Love Grows Where Rosemary Goes",
-      "plays": 1,
-      "previous_position": 63,
-      "movement": 46,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Flickentanz",
-      "title": "Kein Zuhause Mehr (Alles Finster)",
-      "plays": 1,
-      "previous_position": 84,
-      "movement": 66,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Fäaschtbänkler & Revelle",
-      "title": "Highlightmensch",
-      "plays": 1,
-      "previous_position": 40,
-      "movement": 21,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "GentleMänner",
-      "title": "Frei",
-      "plays": 1,
-      "previous_position": 32,
-      "movement": 12,
-      "trend": "up"
     }
   ]
 }
