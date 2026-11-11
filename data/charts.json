@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W46",
   "previous_week": "2026-W45",
-  "updated": "2026-11-11T10:57:52.074164+00:00",
+  "updated": "2026-11-11T18:27:58.838147+00:00",
   "charts": [
     {
       "position": 1,
@@ -62,24 +62,33 @@
     },
     {
       "position": 7,
+      "artist": "Die Grubertaler",
+      "title": "Hier Komm Ich Her, Hier Will Ich Sein",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 8,
       "artist": "Dominik Baumer",
       "title": "Grenzen Verschieben",
       "plays": 2,
       "previous_position": 134,
-      "movement": 127,
-      "trend": "up"
-    },
-    {
-      "position": 8,
-      "artist": "Gert Emig",
-      "title": "Zu Viel Passiert",
-      "plays": 2,
-      "previous_position": 163,
-      "movement": 155,
+      "movement": 126,
       "trend": "up"
     },
     {
       "position": 9,
+      "artist": "Gert Emig",
+      "title": "Zu Viel Passiert",
+      "plays": 2,
+      "previous_position": 163,
+      "movement": 154,
+      "trend": "up"
+    },
+    {
+      "position": 10,
       "artist": "Helen",
       "title": "I Love You",
       "plays": 2,
@@ -88,34 +97,43 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 11,
       "artist": "Hot Chocolate",
       "title": "You Sexy Thing",
       "plays": 2,
       "previous_position": 66,
-      "movement": 56,
-      "trend": "up"
-    },
-    {
-      "position": 11,
-      "artist": "Hurricanes",
-      "title": "Only One Night",
-      "plays": 2,
-      "previous_position": 101,
-      "movement": 90,
+      "movement": 55,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Jenny van Bree",
-      "title": "Wieso, Weshalb, Warum",
+      "artist": "Hubert Fella",
+      "title": "Ein Gläschen Wein Mi Amor",
       "plays": 2,
-      "previous_position": 78,
-      "movement": 66,
+      "previous_position": 96,
+      "movement": 84,
       "trend": "up"
     },
     {
       "position": 13,
+      "artist": "Hurricanes",
+      "title": "Only One Night",
+      "plays": 2,
+      "previous_position": 101,
+      "movement": 88,
+      "trend": "up"
+    },
+    {
+      "position": 14,
+      "artist": "Jenny van Bree",
+      "title": "Wieso, Weshalb, Warum",
+      "plays": 2,
+      "previous_position": 78,
+      "movement": 64,
+      "trend": "up"
+    },
+    {
+      "position": 15,
       "artist": "Lee Marrow",
       "title": "Shanghai",
       "plays": 2,
@@ -124,25 +142,34 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 16,
       "artist": "Markus Krois",
       "title": "Filmriss",
       "plays": 2,
       "previous_position": 164,
+      "movement": 148,
+      "trend": "up"
+    },
+    {
+      "position": 17,
+      "artist": "Merkur",
+      "title": "Wer Ist Jetzt Dieser Jürgen",
+      "plays": 2,
+      "previous_position": 167,
       "movement": 150,
       "trend": "up"
     },
     {
-      "position": 15,
+      "position": 18,
       "artist": "Mosaique",
       "title": "Diese Kleine Melodie",
       "plays": 2,
       "previous_position": 114,
-      "movement": 99,
+      "movement": 96,
       "trend": "up"
     },
     {
-      "position": 16,
+      "position": 19,
       "artist": "Nicole Conring",
       "title": "Wenn Worte Fehlen",
       "plays": 2,
@@ -151,40 +178,13 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 20,
       "artist": "Philipp Schmidt",
       "title": "Alles Ist Möglich",
       "plays": 2,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 18,
-      "artist": "Radig",
-      "title": "Gib Mir Musik",
-      "plays": 2,
-      "previous_position": 143,
-      "movement": 125,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Reiner Kirsten",
-      "title": "Flieger, Bus Oder Schiffe",
-      "plays": 2,
-      "previous_position": 179,
-      "movement": 160,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "Roxanne",
-      "title": "Boys In Black Cars",
-      "plays": 2,
-      "previous_position": 34,
-      "movement": 14,
-      "trend": "up"
     }
   ]
 }
