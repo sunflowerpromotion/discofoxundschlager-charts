@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W46",
   "previous_week": "2026-W45",
-  "updated": "2026-11-12T16:38:57.722535+00:00",
+  "updated": "2026-11-12T22:26:31.355594+00:00",
   "charts": [
     {
       "position": 1,
@@ -17,51 +17,69 @@
     },
     {
       "position": 2,
-      "artist": "Tobis Wohnzimmershow",
-      "title": "1000 Mal Abgesagt",
+      "artist": "Edison Lighthouse",
+      "title": "Love Grows Where Rosemary Goes",
       "plays": 3,
-      "previous_position": 68,
-      "movement": 66,
+      "previous_position": 63,
+      "movement": 61,
       "trend": "up"
     },
     {
       "position": 3,
-      "artist": "ABBA",
-      "title": "Take A Chance On Me",
-      "plays": 2,
-      "previous_position": 8,
-      "movement": 5,
+      "artist": "The New Seekers",
+      "title": "Never Ending Song Of Love",
+      "plays": 3,
+      "previous_position": 80,
+      "movement": 77,
       "trend": "up"
     },
     {
       "position": 4,
-      "artist": "Alin Coen",
-      "title": "Bis Bald",
-      "plays": 2,
-      "previous_position": 83,
-      "movement": 79,
+      "artist": "Tobis Wohnzimmershow",
+      "title": "1000 Mal Abgesagt",
+      "plays": 3,
+      "previous_position": 68,
+      "movement": 64,
       "trend": "up"
     },
     {
       "position": 5,
-      "artist": "Amon",
-      "title": "Okay",
+      "artist": "ABBA",
+      "title": "Take A Chance On Me",
       "plays": 2,
-      "previous_position": 133,
-      "movement": 128,
+      "previous_position": 8,
+      "movement": 3,
       "trend": "up"
     },
     {
       "position": 6,
-      "artist": "Bad Boys Blue",
-      "title": "Kisses And Tears (My One And Only)",
+      "artist": "Alin Coen",
+      "title": "Bis Bald",
       "plays": 2,
-      "previous_position": 147,
-      "movement": 141,
+      "previous_position": 83,
+      "movement": 77,
       "trend": "up"
     },
     {
       "position": 7,
+      "artist": "Amon",
+      "title": "Okay",
+      "plays": 2,
+      "previous_position": 133,
+      "movement": 126,
+      "trend": "up"
+    },
+    {
+      "position": 8,
+      "artist": "Bad Boys Blue",
+      "title": "Kisses And Tears (My One And Only)",
+      "plays": 2,
+      "previous_position": 147,
+      "movement": 139,
+      "trend": "up"
+    },
+    {
+      "position": 9,
       "artist": "Beloved",
       "title": "Sweet Harmony",
       "plays": 2,
@@ -70,7 +88,7 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 10,
       "artist": "Die Grubertaler",
       "title": "Hier Komm Ich Her, Hier Will Ich Sein",
       "plays": 2,
@@ -79,34 +97,25 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 11,
       "artist": "Dominik Baumer",
       "title": "Grenzen Verschieben",
       "plays": 2,
       "previous_position": 134,
-      "movement": 125,
-      "trend": "up"
-    },
-    {
-      "position": 10,
-      "artist": "Edison Lighthouse",
-      "title": "Love Grows Where Rosemary Goes",
-      "plays": 2,
-      "previous_position": 63,
-      "movement": 53,
-      "trend": "up"
-    },
-    {
-      "position": 11,
-      "artist": "Gert Emig",
-      "title": "Zu Viel Passiert",
-      "plays": 2,
-      "previous_position": 163,
-      "movement": 152,
+      "movement": 123,
       "trend": "up"
     },
     {
       "position": 12,
+      "artist": "Gert Emig",
+      "title": "Zu Viel Passiert",
+      "plays": 2,
+      "previous_position": 163,
+      "movement": 151,
+      "trend": "up"
+    },
+    {
+      "position": 13,
       "artist": "Helen",
       "title": "I Love You",
       "plays": 2,
@@ -115,76 +124,67 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 14,
       "artist": "Hot Chocolate",
       "title": "You Sexy Thing",
       "plays": 2,
       "previous_position": 66,
-      "movement": 53,
-      "trend": "up"
-    },
-    {
-      "position": 14,
-      "artist": "Hubert Fella",
-      "title": "Ein Gläschen Wein Mi Amor",
-      "plays": 2,
-      "previous_position": 96,
-      "movement": 82,
+      "movement": 52,
       "trend": "up"
     },
     {
       "position": 15,
-      "artist": "Hurricanes",
-      "title": "Only One Night",
+      "artist": "Hubert Fella",
+      "title": "Ein Gläschen Wein Mi Amor",
       "plays": 2,
-      "previous_position": 101,
-      "movement": 86,
+      "previous_position": 96,
+      "movement": 81,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "ID",
-      "title": "Discofox & Schlager Memories (KI generiert)",
+      "artist": "Hurricanes",
+      "title": "Only One Night",
       "plays": 2,
-      "previous_position": 53,
-      "movement": 37,
+      "previous_position": 101,
+      "movement": 85,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "Jenny van Bree",
-      "title": "Wieso, Weshalb, Warum",
+      "artist": "ID",
+      "title": "70s (KI generiert)",
       "plays": 2,
-      "previous_position": 78,
-      "movement": 61,
+      "previous_position": 48,
+      "movement": 31,
       "trend": "up"
     },
     {
       "position": 18,
+      "artist": "ID",
+      "title": "Discofox & Schlager Memories (KI generiert)",
+      "plays": 2,
+      "previous_position": 53,
+      "movement": 35,
+      "trend": "up"
+    },
+    {
+      "position": 19,
+      "artist": "Jenny van Bree",
+      "title": "Wieso, Weshalb, Warum",
+      "plays": 2,
+      "previous_position": 78,
+      "movement": 59,
+      "trend": "up"
+    },
+    {
+      "position": 20,
       "artist": "Lee Marrow",
       "title": "Shanghai",
       "plays": 2,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Markus Krois",
-      "title": "Filmriss",
-      "plays": 2,
-      "previous_position": 164,
-      "movement": 145,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "Merkur",
-      "title": "Wer Ist Jetzt Dieser Jürgen",
-      "plays": 2,
-      "previous_position": 167,
-      "movement": 147,
-      "trend": "up"
     }
   ]
 }
