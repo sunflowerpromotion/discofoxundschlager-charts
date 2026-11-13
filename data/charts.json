@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W46",
   "previous_week": "2026-W45",
-  "updated": "2026-11-13T17:39:53.866163+00:00",
+  "updated": "2026-11-13T22:52:44.990738+00:00",
   "charts": [
     {
       "position": 1,
@@ -44,60 +44,78 @@
     },
     {
       "position": 5,
-      "artist": "The New Seekers",
-      "title": "Never Ending Song Of Love",
+      "artist": "Smokie",
+      "title": "If You Think You Know How To Love Me",
       "plays": 3,
-      "previous_position": 80,
-      "movement": 75,
+      "previous_position": 100,
+      "movement": 95,
       "trend": "up"
     },
     {
       "position": 6,
-      "artist": "Tobis Wohnzimmershow",
-      "title": "1000 Mal Abgesagt",
+      "artist": "The New Seekers",
+      "title": "Never Ending Song Of Love",
       "plays": 3,
-      "previous_position": 68,
-      "movement": 62,
-      "trend": "up"
-    },
-    {
-      "position": 7,
-      "artist": "ABBA",
-      "title": "Take A Chance On Me",
-      "plays": 2,
-      "previous_position": 8,
-      "movement": 1,
-      "trend": "up"
-    },
-    {
-      "position": 8,
-      "artist": "Alicja",
-      "title": "So Wonderful",
-      "plays": 2,
-      "previous_position": 42,
-      "movement": 34,
-      "trend": "up"
-    },
-    {
-      "position": 9,
-      "artist": "Alin Coen",
-      "title": "Bis Bald",
-      "plays": 2,
-      "previous_position": 83,
+      "previous_position": 80,
       "movement": 74,
       "trend": "up"
     },
     {
-      "position": 10,
-      "artist": "Amon",
-      "title": "Okay",
+      "position": 7,
+      "artist": "Tobis Wohnzimmershow",
+      "title": "1000 Mal Abgesagt",
+      "plays": 3,
+      "previous_position": 68,
+      "movement": 61,
+      "trend": "up"
+    },
+    {
+      "position": 8,
+      "artist": "War",
+      "title": "Low Rider",
+      "plays": 3,
+      "previous_position": 7,
+      "movement": -1,
+      "trend": "down"
+    },
+    {
+      "position": 9,
+      "artist": "ABBA",
+      "title": "Take A Chance On Me",
       "plays": 2,
-      "previous_position": 133,
-      "movement": 123,
+      "previous_position": 8,
+      "movement": -1,
+      "trend": "down"
+    },
+    {
+      "position": 10,
+      "artist": "Alicja",
+      "title": "So Wonderful",
+      "plays": 2,
+      "previous_position": 42,
+      "movement": 32,
       "trend": "up"
     },
     {
       "position": 11,
+      "artist": "Alin Coen",
+      "title": "Bis Bald",
+      "plays": 2,
+      "previous_position": 83,
+      "movement": 72,
+      "trend": "up"
+    },
+    {
+      "position": 12,
+      "artist": "Amon",
+      "title": "Okay",
+      "plays": 2,
+      "previous_position": 133,
+      "movement": 121,
+      "trend": "up"
+    },
+    {
+      "position": 13,
       "artist": "Blue System",
       "title": "Magic Symphony",
       "plays": 2,
@@ -106,7 +124,16 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 14,
+      "artist": "Bob Seger",
+      "title": "Still The Same",
+      "plays": 2,
+      "previous_position": 142,
+      "movement": 128,
+      "trend": "up"
+    },
+    {
+      "position": 15,
       "artist": "Die Grubertaler",
       "title": "Hier Komm Ich Her, Hier Will Ich Sein",
       "plays": 2,
@@ -115,25 +142,25 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 16,
       "artist": "Dominik Baumer",
       "title": "Grenzen Verschieben",
       "plays": 2,
       "previous_position": 134,
-      "movement": 121,
+      "movement": 118,
       "trend": "up"
     },
     {
-      "position": 14,
+      "position": 17,
       "artist": "Facts & Fiction",
       "title": "Give Me The Night",
       "plays": 2,
       "previous_position": 17,
-      "movement": 3,
-      "trend": "up"
+      "movement": 0,
+      "trend": "same"
     },
     {
-      "position": 15,
+      "position": 18,
       "artist": "Frank Lars",
       "title": "Nein Ich Hass Dich Nicht",
       "plays": 2,
@@ -142,48 +169,21 @@
       "trend": "new"
     },
     {
-      "position": 16,
-      "artist": "Gert Emig",
-      "title": "Zu Viel Passiert",
-      "plays": 2,
-      "previous_position": 163,
-      "movement": 147,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Helen",
-      "title": "I Love You",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 18,
-      "artist": "Hot Chocolate",
-      "title": "You Sexy Thing",
-      "plays": 2,
-      "previous_position": 66,
-      "movement": 48,
-      "trend": "up"
-    },
-    {
       "position": 19,
-      "artist": "Hubert Fella",
-      "title": "Ein Gläschen Wein Mi Amor",
+      "artist": "Frankie Valli & The Four Seasons",
+      "title": "December, 1963 (Oh What A Night!)",
       "plays": 2,
-      "previous_position": 96,
-      "movement": 77,
+      "previous_position": 113,
+      "movement": 94,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Hurricanes",
-      "title": "Only One Night",
+      "artist": "Gert Emig",
+      "title": "Zu Viel Passiert",
       "plays": 2,
-      "previous_position": 101,
-      "movement": 81,
+      "previous_position": 163,
+      "movement": 143,
       "trend": "up"
     }
   ]
