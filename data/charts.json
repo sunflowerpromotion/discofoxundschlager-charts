@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W46",
   "previous_week": "2026-W45",
-  "updated": "2026-11-14T15:59:52.201575+00:00",
+  "updated": "2026-11-14T20:34:45.756499+00:00",
   "charts": [
     {
       "position": 1,
@@ -44,15 +44,24 @@
     },
     {
       "position": 5,
+      "artist": "Die Grubertaler",
+      "title": "Hier Komm Ich Her, Hier Will Ich Sein",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 6,
       "artist": "Edison Lighthouse",
       "title": "Love Grows Where Rosemary Goes",
       "plays": 3,
       "previous_position": 63,
-      "movement": 58,
+      "movement": 57,
       "trend": "up"
     },
     {
-      "position": 6,
+      "position": 7,
       "artist": "Frank Lars",
       "title": "Nein Ich Hass Dich Nicht",
       "plays": 3,
@@ -61,130 +70,121 @@
       "trend": "new"
     },
     {
-      "position": 7,
-      "artist": "Mike Bauhaus",
-      "title": "Goodbye",
-      "plays": 3,
-      "previous_position": 47,
-      "movement": 40,
-      "trend": "up"
-    },
-    {
       "position": 8,
-      "artist": "Smokie",
-      "title": "If You Think You Know How To Love Me",
+      "artist": "Hubert Fella",
+      "title": "Ein Gläschen Wein Mi Amor",
       "plays": 3,
-      "previous_position": 100,
-      "movement": 92,
+      "previous_position": 96,
+      "movement": 88,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "The New Seekers",
-      "title": "Never Ending Song Of Love",
+      "artist": "Mike Bauhaus",
+      "title": "Goodbye",
       "plays": 3,
-      "previous_position": 80,
-      "movement": 71,
+      "previous_position": 47,
+      "movement": 38,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "Tobis Wohnzimmershow",
-      "title": "1000 Mal Abgesagt",
+      "artist": "Mosaique",
+      "title": "Diese Kleine Melodie",
       "plays": 3,
-      "previous_position": 68,
-      "movement": 58,
+      "previous_position": 114,
+      "movement": 104,
       "trend": "up"
     },
     {
       "position": 11,
-      "artist": "War",
-      "title": "Low Rider",
+      "artist": "Smokie",
+      "title": "If You Think You Know How To Love Me",
       "plays": 3,
-      "previous_position": 7,
-      "movement": -4,
-      "trend": "down"
+      "previous_position": 100,
+      "movement": 89,
+      "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Wintermärz",
-      "title": "Mensch Geblieben",
+      "artist": "The New Seekers",
+      "title": "Never Ending Song Of Love",
       "plays": 3,
-      "previous_position": 22,
-      "movement": 10,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "ABBA",
-      "title": "Take A Chance On Me",
-      "plays": 2,
-      "previous_position": 8,
-      "movement": -5,
-      "trend": "down"
-    },
-    {
-      "position": 14,
-      "artist": "Alicja",
-      "title": "So Wonderful",
-      "plays": 2,
-      "previous_position": 42,
-      "movement": 28,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "Alin Coen",
-      "title": "Bis Bald",
-      "plays": 2,
-      "previous_position": 83,
+      "previous_position": 80,
       "movement": 68,
       "trend": "up"
     },
     {
-      "position": 16,
-      "artist": "Amon",
-      "title": "Okay",
-      "plays": 2,
-      "previous_position": 133,
-      "movement": 117,
+      "position": 13,
+      "artist": "Tobis Wohnzimmershow",
+      "title": "1000 Mal Abgesagt",
+      "plays": 3,
+      "previous_position": 68,
+      "movement": 55,
       "trend": "up"
     },
     {
-      "position": 17,
-      "artist": "Andrea Berg",
-      "title": "Ich Werde Lächeln Wenn Du Gehst",
+      "position": 14,
+      "artist": "War",
+      "title": "Low Rider",
+      "plays": 3,
+      "previous_position": 7,
+      "movement": -7,
+      "trend": "down"
+    },
+    {
+      "position": 15,
+      "artist": "Wintermärz",
+      "title": "Mensch Geblieben",
+      "plays": 3,
+      "previous_position": 22,
+      "movement": 7,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "ABBA",
+      "title": "Take A Chance On Me",
       "plays": 2,
-      "previous_position": 45,
-      "movement": 28,
+      "previous_position": 8,
+      "movement": -8,
+      "trend": "down"
+    },
+    {
+      "position": 17,
+      "artist": "Alicja",
+      "title": "So Wonderful",
+      "plays": 2,
+      "previous_position": 42,
+      "movement": 25,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Baby's Gang",
-      "title": "Happy Song",
+      "artist": "Alin Coen",
+      "title": "Bis Bald",
       "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 83,
+      "movement": 65,
+      "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Bob Seger",
-      "title": "Still The Same",
+      "artist": "Amon",
+      "title": "Okay",
       "plays": 2,
-      "previous_position": 142,
-      "movement": 123,
+      "previous_position": 133,
+      "movement": 114,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Die Grubertaler",
-      "title": "Hier Komm Ich Her, Hier Will Ich Sein",
+      "artist": "Andrea Berg",
+      "title": "Ich Werde Lächeln Wenn Du Gehst",
       "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 45,
+      "movement": 25,
+      "trend": "up"
     }
   ]
 }
