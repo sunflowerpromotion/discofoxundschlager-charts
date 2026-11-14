@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W46",
   "previous_week": "2026-W45",
-  "updated": "2026-11-13T22:52:44.990738+00:00",
+  "updated": "2026-11-14T02:47:07.635197+00:00",
   "charts": [
     {
       "position": 1,
@@ -80,42 +80,51 @@
     },
     {
       "position": 9,
+      "artist": "Wintermärz",
+      "title": "Mensch Geblieben",
+      "plays": 3,
+      "previous_position": 22,
+      "movement": 13,
+      "trend": "up"
+    },
+    {
+      "position": 10,
       "artist": "ABBA",
       "title": "Take A Chance On Me",
       "plays": 2,
       "previous_position": 8,
-      "movement": -1,
+      "movement": -2,
       "trend": "down"
     },
     {
-      "position": 10,
+      "position": 11,
       "artist": "Alicja",
       "title": "So Wonderful",
       "plays": 2,
       "previous_position": 42,
-      "movement": 32,
-      "trend": "up"
-    },
-    {
-      "position": 11,
-      "artist": "Alin Coen",
-      "title": "Bis Bald",
-      "plays": 2,
-      "previous_position": 83,
-      "movement": 72,
+      "movement": 31,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Amon",
-      "title": "Okay",
+      "artist": "Alin Coen",
+      "title": "Bis Bald",
       "plays": 2,
-      "previous_position": 133,
-      "movement": 121,
+      "previous_position": 83,
+      "movement": 71,
       "trend": "up"
     },
     {
       "position": 13,
+      "artist": "Amon",
+      "title": "Okay",
+      "plays": 2,
+      "previous_position": 133,
+      "movement": 120,
+      "trend": "up"
+    },
+    {
+      "position": 14,
       "artist": "Blue System",
       "title": "Magic Symphony",
       "plays": 2,
@@ -124,16 +133,16 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 15,
       "artist": "Bob Seger",
       "title": "Still The Same",
       "plays": 2,
       "previous_position": 142,
-      "movement": 128,
+      "movement": 127,
       "trend": "up"
     },
     {
-      "position": 15,
+      "position": 16,
       "artist": "Die Grubertaler",
       "title": "Hier Komm Ich Her, Hier Will Ich Sein",
       "plays": 2,
@@ -142,49 +151,40 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 17,
       "artist": "Dominik Baumer",
       "title": "Grenzen Verschieben",
       "plays": 2,
       "previous_position": 134,
-      "movement": 118,
+      "movement": 117,
       "trend": "up"
     },
     {
-      "position": 17,
+      "position": 18,
       "artist": "Facts & Fiction",
       "title": "Give Me The Night",
       "plays": 2,
       "previous_position": 17,
-      "movement": 0,
-      "trend": "same"
+      "movement": -1,
+      "trend": "down"
     },
     {
-      "position": 18,
+      "position": 19,
+      "artist": "Flickentanz",
+      "title": "Kein Zuhause Mehr (Alles Finster)",
+      "plays": 2,
+      "previous_position": 84,
+      "movement": 65,
+      "trend": "up"
+    },
+    {
+      "position": 20,
       "artist": "Frank Lars",
       "title": "Nein Ich Hass Dich Nicht",
       "plays": 2,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Frankie Valli & The Four Seasons",
-      "title": "December, 1963 (Oh What A Night!)",
-      "plays": 2,
-      "previous_position": 113,
-      "movement": 94,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "Gert Emig",
-      "title": "Zu Viel Passiert",
-      "plays": 2,
-      "previous_position": 163,
-      "movement": 143,
-      "trend": "up"
     }
   ]
 }
