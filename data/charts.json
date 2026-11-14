@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W46",
   "previous_week": "2026-W45",
-  "updated": "2026-11-14T09:30:19.268863+00:00",
+  "updated": "2026-11-14T15:59:52.201575+00:00",
   "charts": [
     {
       "position": 1,
@@ -53,87 +53,114 @@
     },
     {
       "position": 6,
-      "artist": "Smokie",
-      "title": "If You Think You Know How To Love Me",
+      "artist": "Frank Lars",
+      "title": "Nein Ich Hass Dich Nicht",
       "plays": 3,
-      "previous_position": 100,
-      "movement": 94,
-      "trend": "up"
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
       "position": 7,
-      "artist": "The New Seekers",
-      "title": "Never Ending Song Of Love",
+      "artist": "Mike Bauhaus",
+      "title": "Goodbye",
       "plays": 3,
-      "previous_position": 80,
-      "movement": 73,
+      "previous_position": 47,
+      "movement": 40,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "Tobis Wohnzimmershow",
-      "title": "1000 Mal Abgesagt",
+      "artist": "Smokie",
+      "title": "If You Think You Know How To Love Me",
       "plays": 3,
-      "previous_position": 68,
-      "movement": 60,
+      "previous_position": 100,
+      "movement": 92,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "War",
-      "title": "Low Rider",
+      "artist": "The New Seekers",
+      "title": "Never Ending Song Of Love",
       "plays": 3,
-      "previous_position": 7,
-      "movement": -2,
-      "trend": "down"
+      "previous_position": 80,
+      "movement": 71,
+      "trend": "up"
     },
     {
       "position": 10,
-      "artist": "Wintermärz",
-      "title": "Mensch Geblieben",
+      "artist": "Tobis Wohnzimmershow",
+      "title": "1000 Mal Abgesagt",
       "plays": 3,
-      "previous_position": 22,
-      "movement": 12,
+      "previous_position": 68,
+      "movement": 58,
       "trend": "up"
     },
     {
       "position": 11,
-      "artist": "ABBA",
-      "title": "Take A Chance On Me",
-      "plays": 2,
-      "previous_position": 8,
-      "movement": -3,
+      "artist": "War",
+      "title": "Low Rider",
+      "plays": 3,
+      "previous_position": 7,
+      "movement": -4,
       "trend": "down"
     },
     {
       "position": 12,
-      "artist": "Alicja",
-      "title": "So Wonderful",
-      "plays": 2,
-      "previous_position": 42,
-      "movement": 30,
+      "artist": "Wintermärz",
+      "title": "Mensch Geblieben",
+      "plays": 3,
+      "previous_position": 22,
+      "movement": 10,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "Alin Coen",
-      "title": "Bis Bald",
+      "artist": "ABBA",
+      "title": "Take A Chance On Me",
       "plays": 2,
-      "previous_position": 83,
-      "movement": 70,
-      "trend": "up"
+      "previous_position": 8,
+      "movement": -5,
+      "trend": "down"
     },
     {
       "position": 14,
-      "artist": "Amon",
-      "title": "Okay",
+      "artist": "Alicja",
+      "title": "So Wonderful",
       "plays": 2,
-      "previous_position": 133,
-      "movement": 119,
+      "previous_position": 42,
+      "movement": 28,
       "trend": "up"
     },
     {
       "position": 15,
+      "artist": "Alin Coen",
+      "title": "Bis Bald",
+      "plays": 2,
+      "previous_position": 83,
+      "movement": 68,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "Amon",
+      "title": "Okay",
+      "plays": 2,
+      "previous_position": 133,
+      "movement": 117,
+      "trend": "up"
+    },
+    {
+      "position": 17,
+      "artist": "Andrea Berg",
+      "title": "Ich Werde Lächeln Wenn Du Gehst",
+      "plays": 2,
+      "previous_position": 45,
+      "movement": 28,
+      "trend": "up"
+    },
+    {
+      "position": 18,
       "artist": "Baby's Gang",
       "title": "Happy Song",
       "plays": 2,
@@ -142,49 +169,22 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 19,
       "artist": "Bob Seger",
       "title": "Still The Same",
       "plays": 2,
       "previous_position": 142,
-      "movement": 126,
+      "movement": 123,
       "trend": "up"
     },
     {
-      "position": 17,
+      "position": 20,
       "artist": "Die Grubertaler",
       "title": "Hier Komm Ich Her, Hier Will Ich Sein",
       "plays": 2,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 18,
-      "artist": "Dominik Baumer",
-      "title": "Grenzen Verschieben",
-      "plays": 2,
-      "previous_position": 134,
-      "movement": 116,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Facts & Fiction",
-      "title": "Give Me The Night",
-      "plays": 2,
-      "previous_position": 17,
-      "movement": -2,
-      "trend": "down"
-    },
-    {
-      "position": 20,
-      "artist": "Fancy",
-      "title": "Bolero (Hold Me In Your Arms Again)",
-      "plays": 2,
-      "previous_position": 59,
-      "movement": 39,
-      "trend": "up"
     }
   ]
 }
