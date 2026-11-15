@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W46",
   "previous_week": "2026-W45",
-  "updated": "2026-11-15T06:35:07.057284+00:00",
+  "updated": "2026-11-15T14:16:19.020098+00:00",
   "charts": [
     {
       "position": 1,
@@ -143,47 +143,47 @@
     },
     {
       "position": 16,
-      "artist": "Racey",
-      "title": "Some Girls",
+      "artist": "Niki Kracher",
+      "title": "Bleib Doch Bei Ihr",
       "plays": 3,
-      "previous_position": 18,
-      "movement": 2,
+      "previous_position": 140,
+      "movement": 124,
       "trend": "up"
     },
     {
       "position": 17,
+      "artist": "Racey",
+      "title": "Some Girls",
+      "plays": 3,
+      "previous_position": 18,
+      "movement": 1,
+      "trend": "up"
+    },
+    {
+      "position": 18,
       "artist": "Shirley & Company",
       "title": "Shame, Shame, Shame",
       "plays": 3,
       "previous_position": 6,
-      "movement": -11,
+      "movement": -12,
       "trend": "down"
     },
     {
-      "position": 18,
+      "position": 19,
       "artist": "The New Seekers",
       "title": "Never Ending Song Of Love",
       "plays": 3,
       "previous_position": 80,
-      "movement": 62,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Tobis Wohnzimmershow",
-      "title": "1000 Mal Abgesagt",
-      "plays": 3,
-      "previous_position": 68,
-      "movement": 49,
+      "movement": 61,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Wintermärz",
-      "title": "Mensch Geblieben",
+      "artist": "Tobis Wohnzimmershow",
+      "title": "1000 Mal Abgesagt",
       "plays": 3,
-      "previous_position": 22,
-      "movement": 2,
+      "previous_position": 68,
+      "movement": 48,
       "trend": "up"
     }
   ]
