@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W46",
   "previous_week": "2026-W45",
-  "updated": "2026-11-15T00:12:35.571019+00:00",
+  "updated": "2026-11-15T06:35:07.057284+00:00",
   "charts": [
     {
       "position": 1,
@@ -89,6 +89,15 @@
     },
     {
       "position": 10,
+      "artist": "Facts & Fiction",
+      "title": "Give Me The Night",
+      "plays": 3,
+      "previous_position": 17,
+      "movement": 7,
+      "trend": "up"
+    },
+    {
+      "position": 11,
       "artist": "Frank Lars",
       "title": "Nein Ich Hass Dich Nicht",
       "plays": 3,
@@ -97,94 +106,85 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 12,
       "artist": "Hubert Fella",
       "title": "Ein Gläschen Wein Mi Amor",
       "plays": 3,
       "previous_position": 96,
-      "movement": 85,
-      "trend": "up"
-    },
-    {
-      "position": 12,
-      "artist": "ID",
-      "title": "70s (KI generiert)",
-      "plays": 3,
-      "previous_position": 48,
-      "movement": 36,
+      "movement": 84,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "Mike Bauhaus",
-      "title": "Goodbye",
+      "artist": "ID",
+      "title": "70s (KI generiert)",
       "plays": 3,
-      "previous_position": 47,
-      "movement": 34,
+      "previous_position": 48,
+      "movement": 35,
       "trend": "up"
     },
     {
       "position": 14,
-      "artist": "Mosaique",
-      "title": "Diese Kleine Melodie",
+      "artist": "Mike Bauhaus",
+      "title": "Goodbye",
       "plays": 3,
-      "previous_position": 114,
-      "movement": 100,
+      "previous_position": 47,
+      "movement": 33,
       "trend": "up"
     },
     {
       "position": 15,
-      "artist": "Racey",
-      "title": "Some Girls",
+      "artist": "Mosaique",
+      "title": "Diese Kleine Melodie",
       "plays": 3,
-      "previous_position": 18,
-      "movement": 3,
+      "previous_position": 114,
+      "movement": 99,
       "trend": "up"
     },
     {
       "position": 16,
+      "artist": "Racey",
+      "title": "Some Girls",
+      "plays": 3,
+      "previous_position": 18,
+      "movement": 2,
+      "trend": "up"
+    },
+    {
+      "position": 17,
       "artist": "Shirley & Company",
       "title": "Shame, Shame, Shame",
       "plays": 3,
       "previous_position": 6,
-      "movement": -10,
+      "movement": -11,
       "trend": "down"
     },
     {
-      "position": 17,
+      "position": 18,
       "artist": "The New Seekers",
       "title": "Never Ending Song Of Love",
       "plays": 3,
       "previous_position": 80,
-      "movement": 63,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Tobis Wohnzimmershow",
-      "title": "1000 Mal Abgesagt",
-      "plays": 3,
-      "previous_position": 68,
-      "movement": 50,
+      "movement": 62,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Wintermärz",
-      "title": "Mensch Geblieben",
+      "artist": "Tobis Wohnzimmershow",
+      "title": "1000 Mal Abgesagt",
       "plays": 3,
-      "previous_position": 22,
-      "movement": 3,
+      "previous_position": 68,
+      "movement": 49,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "ABBA",
-      "title": "Take A Chance On Me",
-      "plays": 2,
-      "previous_position": 8,
-      "movement": -12,
-      "trend": "down"
+      "artist": "Wintermärz",
+      "title": "Mensch Geblieben",
+      "plays": 3,
+      "previous_position": 22,
+      "movement": 2,
+      "trend": "up"
     }
   ]
 }
