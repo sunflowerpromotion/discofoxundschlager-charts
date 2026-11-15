@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W46",
   "previous_week": "2026-W45",
-  "updated": "2026-11-15T14:16:19.020098+00:00",
+  "updated": "2026-11-15T19:49:17.326236+00:00",
   "charts": [
     {
       "position": 1,
@@ -107,84 +107,84 @@
     },
     {
       "position": 12,
-      "artist": "Hubert Fella",
-      "title": "Ein Gläschen Wein Mi Amor",
+      "artist": "Gert Emig",
+      "title": "Zu Viel Passiert",
       "plays": 3,
-      "previous_position": 96,
-      "movement": 84,
+      "previous_position": 163,
+      "movement": 151,
       "trend": "up"
     },
     {
       "position": 13,
-      "artist": "ID",
-      "title": "70s (KI generiert)",
+      "artist": "Hubert Fella",
+      "title": "Ein Gläschen Wein Mi Amor",
       "plays": 3,
-      "previous_position": 48,
-      "movement": 35,
+      "previous_position": 96,
+      "movement": 83,
       "trend": "up"
     },
     {
       "position": 14,
-      "artist": "Mike Bauhaus",
-      "title": "Goodbye",
+      "artist": "ID",
+      "title": "70s (KI generiert)",
       "plays": 3,
-      "previous_position": 47,
-      "movement": 33,
+      "previous_position": 48,
+      "movement": 34,
       "trend": "up"
     },
     {
       "position": 15,
-      "artist": "Mosaique",
-      "title": "Diese Kleine Melodie",
+      "artist": "Jenny van Bree",
+      "title": "Wieso, Weshalb, Warum",
       "plays": 3,
-      "previous_position": 114,
-      "movement": 99,
+      "previous_position": 78,
+      "movement": 63,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "Niki Kracher",
-      "title": "Bleib Doch Bei Ihr",
+      "artist": "Markus Krois",
+      "title": "Filmriss",
       "plays": 3,
-      "previous_position": 140,
-      "movement": 124,
+      "previous_position": 164,
+      "movement": 148,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "Racey",
-      "title": "Some Girls",
+      "artist": "Mike Bauhaus",
+      "title": "Goodbye",
       "plays": 3,
-      "previous_position": 18,
-      "movement": 1,
+      "previous_position": 47,
+      "movement": 30,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Shirley & Company",
-      "title": "Shame, Shame, Shame",
+      "artist": "Mosaique",
+      "title": "Diese Kleine Melodie",
       "plays": 3,
-      "previous_position": 6,
-      "movement": -12,
-      "trend": "down"
+      "previous_position": 114,
+      "movement": 96,
+      "trend": "up"
     },
     {
       "position": 19,
-      "artist": "The New Seekers",
-      "title": "Never Ending Song Of Love",
+      "artist": "Niki Kracher",
+      "title": "Bleib Doch Bei Ihr",
       "plays": 3,
-      "previous_position": 80,
-      "movement": 61,
+      "previous_position": 140,
+      "movement": 121,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Tobis Wohnzimmershow",
-      "title": "1000 Mal Abgesagt",
+      "artist": "Racey",
+      "title": "Some Girls",
       "plays": 3,
-      "previous_position": 68,
-      "movement": 48,
-      "trend": "up"
+      "previous_position": 18,
+      "movement": -2,
+      "trend": "down"
     }
   ]
 }
