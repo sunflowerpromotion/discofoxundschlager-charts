@@ -2,188 +2,80 @@
   "station": "discofoxundschlager",
   "station_url": "https://laut.fm/discofoxundschlager",
   "title": "Discofox & Schlager Charts",
-  "week": "2026-W46",
-  "previous_week": "2026-W45",
-  "updated": "2026-11-15T19:49:17.326236+00:00",
+  "week": "2026-W47",
+  "previous_week": "2026-W46",
+  "updated": "2026-11-15T23:34:12.692357+00:00",
   "charts": [
     {
       "position": 1,
-      "artist": "Bernie Paul",
-      "title": "Azttenzione Go Go Radio",
-      "plays": 4,
-      "previous_position": 51,
-      "movement": 50,
-      "trend": "up"
+      "artist": "ABBA",
+      "title": "Dancing Queen",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
       "position": 2,
-      "artist": "Smokie",
-      "title": "If You Think You Know How To Love Me",
-      "plays": 4,
-      "previous_position": 100,
-      "movement": 98,
-      "trend": "up"
+      "artist": "Bucks Fizz",
+      "title": "Making Your Mind Up",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
       "position": 3,
-      "artist": "War",
-      "title": "Low Rider",
-      "plays": 4,
-      "previous_position": 7,
-      "movement": 4,
+      "artist": "Eagles",
+      "title": "One Of These Nights",
+      "plays": 1,
+      "previous_position": 121,
+      "movement": 118,
       "trend": "up"
     },
     {
       "position": 4,
-      "artist": "Bad Boys Blue",
-      "title": "Kisses And Tears (My One And Only)",
-      "plays": 3,
-      "previous_position": 147,
-      "movement": 143,
-      "trend": "up"
+      "artist": "Pussycat",
+      "title": "Mississippi",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
       "position": 5,
-      "artist": "Beloved",
-      "title": "Sweet Harmony",
-      "plays": 3,
+      "artist": "Sailor",
+      "title": "Girls, Girls, Girls!",
+      "plays": 1,
       "previous_position": null,
       "movement": null,
       "trend": "new"
     },
     {
       "position": 6,
-      "artist": "Blue System",
-      "title": "Magic Symphony",
-      "plays": 3,
+      "artist": "Smokie",
+      "title": "Lay Back In The Arms Of Someone",
+      "plays": 1,
       "previous_position": null,
       "movement": null,
       "trend": "new"
     },
     {
       "position": 7,
-      "artist": "Bob Seger",
-      "title": "Still The Same",
-      "plays": 3,
-      "previous_position": 142,
-      "movement": 135,
+      "artist": "T. Rex",
+      "title": "Hot Love",
+      "plays": 1,
+      "previous_position": 29,
+      "movement": 22,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "Die Grubertaler",
-      "title": "Hier Komm Ich Her, Hier Will Ich Sein",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 9,
-      "artist": "Edison Lighthouse",
-      "title": "Love Grows Where Rosemary Goes",
-      "plays": 3,
-      "previous_position": 63,
-      "movement": 54,
-      "trend": "up"
-    },
-    {
-      "position": 10,
-      "artist": "Facts & Fiction",
-      "title": "Give Me The Night",
-      "plays": 3,
-      "previous_position": 17,
-      "movement": 7,
-      "trend": "up"
-    },
-    {
-      "position": 11,
-      "artist": "Frank Lars",
-      "title": "Nein Ich Hass Dich Nicht",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 12,
-      "artist": "Gert Emig",
-      "title": "Zu Viel Passiert",
-      "plays": 3,
-      "previous_position": 163,
-      "movement": 151,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "Hubert Fella",
-      "title": "Ein Gläschen Wein Mi Amor",
-      "plays": 3,
-      "previous_position": 96,
-      "movement": 83,
-      "trend": "up"
-    },
-    {
-      "position": 14,
-      "artist": "ID",
-      "title": "70s (KI generiert)",
-      "plays": 3,
-      "previous_position": 48,
-      "movement": 34,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "Jenny van Bree",
-      "title": "Wieso, Weshalb, Warum",
-      "plays": 3,
-      "previous_position": 78,
-      "movement": 63,
-      "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "Markus Krois",
-      "title": "Filmriss",
-      "plays": 3,
-      "previous_position": 164,
-      "movement": 148,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Mike Bauhaus",
-      "title": "Goodbye",
-      "plays": 3,
-      "previous_position": 47,
-      "movement": 30,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Mosaique",
-      "title": "Diese Kleine Melodie",
-      "plays": 3,
-      "previous_position": 114,
-      "movement": 96,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Niki Kracher",
-      "title": "Bleib Doch Bei Ihr",
-      "plays": 3,
-      "previous_position": 140,
-      "movement": 121,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "Racey",
-      "title": "Some Girls",
-      "plays": 3,
-      "previous_position": 18,
-      "movement": -2,
+      "artist": "The New Seekers",
+      "title": "Never Ending Song Of Love",
+      "plays": 1,
+      "previous_position": 4,
+      "movement": -4,
       "trend": "down"
     }
   ]
