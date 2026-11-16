@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W47",
   "previous_week": "2026-W46",
-  "updated": "2026-11-15T23:34:12.692357+00:00",
+  "updated": "2026-11-16T03:01:40.847879+00:00",
   "charts": [
     {
       "position": 1,
@@ -35,6 +35,78 @@
     },
     {
       "position": 4,
+      "artist": "Flickentanz",
+      "title": "Kein Zuhause Mehr (Alles Finster)",
+      "plays": 1,
+      "previous_position": 47,
+      "movement": 43,
+      "trend": "up"
+    },
+    {
+      "position": 5,
+      "artist": "Fäaschtbänkler",
+      "title": "Kleines Lied",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 6,
+      "artist": "GentleMänner",
+      "title": "Frei",
+      "plays": 1,
+      "previous_position": 34,
+      "movement": 28,
+      "trend": "up"
+    },
+    {
+      "position": 7,
+      "artist": "Gernot Resch",
+      "title": "Glaub Nicht, Das Es So Einfach Ist!",
+      "plays": 1,
+      "previous_position": 33,
+      "movement": 26,
+      "trend": "up"
+    },
+    {
+      "position": 8,
+      "artist": "Gilbert Brodar",
+      "title": "Wahnsinn",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 9,
+      "artist": "Kreis & Quer",
+      "title": "Señorita",
+      "plays": 1,
+      "previous_position": 84,
+      "movement": 75,
+      "trend": "up"
+    },
+    {
+      "position": 10,
+      "artist": "LaBix & the Fizzy Tones",
+      "title": "Barfuß",
+      "plays": 1,
+      "previous_position": 122,
+      "movement": 112,
+      "trend": "up"
+    },
+    {
+      "position": 11,
+      "artist": "NdeeN",
+      "title": "Falsche Freunde",
+      "plays": 1,
+      "previous_position": 83,
+      "movement": 72,
+      "trend": "up"
+    },
+    {
+      "position": 12,
       "artist": "Pussycat",
       "title": "Mississippi",
       "plays": 1,
@@ -43,7 +115,7 @@
       "trend": "new"
     },
     {
-      "position": 5,
+      "position": 13,
       "artist": "Sailor",
       "title": "Girls, Girls, Girls!",
       "plays": 1,
@@ -52,7 +124,7 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 14,
       "artist": "Smokie",
       "title": "Lay Back In The Arms Of Someone",
       "plays": 1,
@@ -61,21 +133,39 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 15,
+      "artist": "Stefanie Werger",
+      "title": "So Sehr Lieb Ich Dich",
+      "plays": 1,
+      "previous_position": 123,
+      "movement": 108,
+      "trend": "up"
+    },
+    {
+      "position": 16,
       "artist": "T. Rex",
       "title": "Hot Love",
       "plays": 1,
       "previous_position": 29,
-      "movement": 22,
+      "movement": 13,
       "trend": "up"
     },
     {
-      "position": 8,
+      "position": 17,
       "artist": "The New Seekers",
       "title": "Never Ending Song Of Love",
       "plays": 1,
       "previous_position": 4,
-      "movement": -4,
+      "movement": -13,
+      "trend": "down"
+    },
+    {
+      "position": 18,
+      "artist": "Wintermärz",
+      "title": "Mensch Geblieben",
+      "plays": 1,
+      "previous_position": 8,
+      "movement": -10,
       "trend": "down"
     }
   ]
