@@ -4,10 +4,19 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W47",
   "previous_week": "2026-W46",
-  "updated": "2026-11-16T20:50:57.468580+00:00",
+  "updated": "2026-11-17T03:15:11.004848+00:00",
   "charts": [
     {
       "position": 1,
+      "artist": "Gilbert Brodar",
+      "title": "Wahnsinn",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 2,
       "artist": "ABBA",
       "title": "Dancing Queen",
       "plays": 1,
@@ -16,43 +25,52 @@
       "trend": "new"
     },
     {
-      "position": 2,
-      "artist": "Andy Frei",
-      "title": "Ich Seh Nur Dich",
-      "plays": 1,
-      "previous_position": 109,
-      "movement": 107,
-      "trend": "up"
-    },
-    {
       "position": 3,
-      "artist": "Bad Boys Blue",
-      "title": "Kisses And Tears (My One And Only)",
+      "artist": "Altreucher",
+      "title": "Mona Lisa",
       "plays": 1,
-      "previous_position": 9,
-      "movement": 6,
+      "previous_position": 93,
+      "movement": 90,
       "trend": "up"
     },
     {
       "position": 4,
-      "artist": "Beloved",
-      "title": "Sweet Harmony",
+      "artist": "Andy Frei",
+      "title": "Ich Seh Nur Dich",
       "plays": 1,
-      "previous_position": 10,
-      "movement": 6,
+      "previous_position": 109,
+      "movement": 105,
       "trend": "up"
     },
     {
       "position": 5,
+      "artist": "Bad Boys Blue",
+      "title": "Kisses And Tears (My One And Only)",
+      "plays": 1,
+      "previous_position": 9,
+      "movement": 4,
+      "trend": "up"
+    },
+    {
+      "position": 6,
+      "artist": "Beloved",
+      "title": "Sweet Harmony",
+      "plays": 1,
+      "previous_position": 10,
+      "movement": 4,
+      "trend": "up"
+    },
+    {
+      "position": 7,
       "artist": "Bernie Paul",
       "title": "Azttenzione Go Go Radio",
       "plays": 1,
       "previous_position": 1,
-      "movement": -4,
+      "movement": -6,
       "trend": "down"
     },
     {
-      "position": 6,
+      "position": 8,
       "artist": "Bucks Fizz",
       "title": "Making Your Mind Up",
       "plays": 1,
@@ -61,43 +79,70 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 9,
       "artist": "C.C.Catch",
       "title": "Strangers By Night",
       "plays": 1,
       "previous_position": 94,
-      "movement": 87,
-      "trend": "up"
-    },
-    {
-      "position": 8,
-      "artist": "Eagles",
-      "title": "One Of These Nights",
-      "plays": 1,
-      "previous_position": 121,
-      "movement": 113,
-      "trend": "up"
-    },
-    {
-      "position": 9,
-      "artist": "Earl Dean Johnson",
-      "title": "Tut Mir Leid",
-      "plays": 1,
-      "previous_position": 70,
-      "movement": 61,
+      "movement": 85,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "Flickentanz",
-      "title": "Kein Zuhause Mehr (Alles Finster)",
+      "artist": "Dominik Baumer",
+      "title": "Grenzen Verschieben",
       "plays": 1,
-      "previous_position": 47,
-      "movement": 37,
+      "previous_position": 32,
+      "movement": 22,
       "trend": "up"
     },
     {
       "position": 11,
+      "artist": "Eagles",
+      "title": "One Of These Nights",
+      "plays": 1,
+      "previous_position": 121,
+      "movement": 110,
+      "trend": "up"
+    },
+    {
+      "position": 12,
+      "artist": "Earl Dean Johnson",
+      "title": "Tut Mir Leid",
+      "plays": 1,
+      "previous_position": 70,
+      "movement": 58,
+      "trend": "up"
+    },
+    {
+      "position": 13,
+      "artist": "Esther Graf",
+      "title": "Kippenlänge",
+      "plays": 1,
+      "previous_position": 91,
+      "movement": 78,
+      "trend": "up"
+    },
+    {
+      "position": 14,
+      "artist": "Flickentanz",
+      "title": "Kein Zuhause Mehr (Alles Finster)",
+      "plays": 1,
+      "previous_position": 47,
+      "movement": 33,
+      "trend": "up"
+    },
+    {
+      "position": 15,
+      "artist": "Frank Brenner",
+      "title": "Vorbei",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 16,
       "artist": "Fäaschtbänkler",
       "title": "Kleines Lied",
       "plays": 1,
@@ -106,34 +151,25 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 17,
       "artist": "GentleMänner",
       "title": "Frei",
       "plays": 1,
       "previous_position": 34,
-      "movement": 22,
+      "movement": 17,
       "trend": "up"
     },
     {
-      "position": 13,
+      "position": 18,
       "artist": "Gernot Resch",
       "title": "Glaub Nicht, Das Es So Einfach Ist!",
       "plays": 1,
       "previous_position": 33,
-      "movement": 20,
+      "movement": 15,
       "trend": "up"
     },
     {
-      "position": 14,
-      "artist": "Gilbert Brodar",
-      "title": "Wahnsinn",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 15,
+      "position": 19,
       "artist": "Grant Miller",
       "title": "Doctor For My Heart",
       "plays": 1,
@@ -142,49 +178,13 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 20,
       "artist": "Graziano & Sunrise",
       "title": "Una Notte Italiana",
       "plays": 1,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 17,
-      "artist": "Iris Klein",
-      "title": "Schau Mich An",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 18,
-      "artist": "Jordan Hanson",
-      "title": "Wenn Die Welt Ein Bisschen Leiser Wird",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Joy Peters",
-      "title": "One Night In Love",
-      "plays": 1,
-      "previous_position": 81,
-      "movement": 62,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "Kasey Neumann",
-      "title": "Viertel Nach Glück",
-      "plays": 1,
-      "previous_position": 110,
-      "movement": 90,
-      "trend": "up"
     }
   ]
 }
