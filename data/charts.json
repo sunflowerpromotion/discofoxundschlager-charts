@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W47",
   "previous_week": "2026-W46",
-  "updated": "2026-11-17T03:15:11.004848+00:00",
+  "updated": "2026-11-17T11:59:01.833919+00:00",
   "charts": [
     {
       "position": 1,
@@ -26,51 +26,87 @@
     },
     {
       "position": 3,
+      "artist": "Airplay",
+      "title": "For Your Love",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 4,
       "artist": "Altreucher",
       "title": "Mona Lisa",
       "plays": 1,
       "previous_position": 93,
-      "movement": 90,
-      "trend": "up"
-    },
-    {
-      "position": 4,
-      "artist": "Andy Frei",
-      "title": "Ich Seh Nur Dich",
-      "plays": 1,
-      "previous_position": 109,
-      "movement": 105,
+      "movement": 89,
       "trend": "up"
     },
     {
       "position": 5,
-      "artist": "Bad Boys Blue",
-      "title": "Kisses And Tears (My One And Only)",
+      "artist": "Andy Frei",
+      "title": "Ich Seh Nur Dich",
       "plays": 1,
-      "previous_position": 9,
-      "movement": 4,
+      "previous_position": 109,
+      "movement": 104,
       "trend": "up"
     },
     {
       "position": 6,
+      "artist": "Bad Boys Blue",
+      "title": "Jungle In My Heart",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 7,
+      "artist": "Bad Boys Blue",
+      "title": "Kisses And Tears (My One And Only)",
+      "plays": 1,
+      "previous_position": 9,
+      "movement": 2,
+      "trend": "up"
+    },
+    {
+      "position": 8,
       "artist": "Beloved",
       "title": "Sweet Harmony",
       "plays": 1,
       "previous_position": 10,
-      "movement": 4,
+      "movement": 2,
       "trend": "up"
     },
     {
-      "position": 7,
+      "position": 9,
       "artist": "Bernie Paul",
       "title": "Azttenzione Go Go Radio",
       "plays": 1,
       "previous_position": 1,
-      "movement": -6,
+      "movement": -8,
       "trend": "down"
     },
     {
-      "position": 8,
+      "position": 10,
+      "artist": "Bomb The Bass",
+      "title": "Beat Dis",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 11,
+      "artist": "Boney M.",
+      "title": "Going Back West",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 12,
       "artist": "Bucks Fizz",
       "title": "Making Your Mind Up",
       "plays": 1,
@@ -79,61 +115,61 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 13,
       "artist": "C.C.Catch",
       "title": "Strangers By Night",
       "plays": 1,
       "previous_position": 94,
-      "movement": 85,
-      "trend": "up"
-    },
-    {
-      "position": 10,
-      "artist": "Dominik Baumer",
-      "title": "Grenzen Verschieben",
-      "plays": 1,
-      "previous_position": 32,
-      "movement": 22,
-      "trend": "up"
-    },
-    {
-      "position": 11,
-      "artist": "Eagles",
-      "title": "One Of These Nights",
-      "plays": 1,
-      "previous_position": 121,
-      "movement": 110,
-      "trend": "up"
-    },
-    {
-      "position": 12,
-      "artist": "Earl Dean Johnson",
-      "title": "Tut Mir Leid",
-      "plays": 1,
-      "previous_position": 70,
-      "movement": 58,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "Esther Graf",
-      "title": "Kippenlänge",
-      "plays": 1,
-      "previous_position": 91,
-      "movement": 78,
+      "movement": 81,
       "trend": "up"
     },
     {
       "position": 14,
-      "artist": "Flickentanz",
-      "title": "Kein Zuhause Mehr (Alles Finster)",
+      "artist": "Dominik Baumer",
+      "title": "Grenzen Verschieben",
       "plays": 1,
-      "previous_position": 47,
-      "movement": 33,
+      "previous_position": 32,
+      "movement": 18,
       "trend": "up"
     },
     {
       "position": 15,
+      "artist": "Eagles",
+      "title": "One Of These Nights",
+      "plays": 1,
+      "previous_position": 121,
+      "movement": 106,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "Earl Dean Johnson",
+      "title": "Tut Mir Leid",
+      "plays": 1,
+      "previous_position": 70,
+      "movement": 54,
+      "trend": "up"
+    },
+    {
+      "position": 17,
+      "artist": "Esther Graf",
+      "title": "Kippenlänge",
+      "plays": 1,
+      "previous_position": 91,
+      "movement": 74,
+      "trend": "up"
+    },
+    {
+      "position": 18,
+      "artist": "Flickentanz",
+      "title": "Kein Zuhause Mehr (Alles Finster)",
+      "plays": 1,
+      "previous_position": 47,
+      "movement": 29,
+      "trend": "up"
+    },
+    {
+      "position": 19,
       "artist": "Frank Brenner",
       "title": "Vorbei",
       "plays": 1,
@@ -142,45 +178,9 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 20,
       "artist": "Fäaschtbänkler",
       "title": "Kleines Lied",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 17,
-      "artist": "GentleMänner",
-      "title": "Frei",
-      "plays": 1,
-      "previous_position": 34,
-      "movement": 17,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Gernot Resch",
-      "title": "Glaub Nicht, Das Es So Einfach Ist!",
-      "plays": 1,
-      "previous_position": 33,
-      "movement": 15,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Grant Miller",
-      "title": "Doctor For My Heart",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Graziano & Sunrise",
-      "title": "Una Notte Italiana",
       "plays": 1,
       "previous_position": null,
       "movement": null,
