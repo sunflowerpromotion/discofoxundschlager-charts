@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W47",
   "previous_week": "2026-W46",
-  "updated": "2026-11-17T20:42:20.350183+00:00",
+  "updated": "2026-11-18T02:36:35.816218+00:00",
   "charts": [
     {
       "position": 1,
@@ -44,6 +44,15 @@
     },
     {
       "position": 5,
+      "artist": "Kreis & Quer",
+      "title": "Fliegen",
+      "plays": 2,
+      "previous_position": 90,
+      "movement": 85,
+      "trend": "up"
+    },
+    {
+      "position": 6,
       "artist": "Reiner Kirsten",
       "title": "Willkommen Im Schwarzwald",
       "plays": 2,
@@ -52,7 +61,7 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 7,
       "artist": "Tom Stern",
       "title": "Das Weiße Schiff",
       "plays": 2,
@@ -61,7 +70,7 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 8,
       "artist": "ABBA",
       "title": "Dancing Queen",
       "plays": 1,
@@ -70,7 +79,7 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 9,
       "artist": "Airplay",
       "title": "For Your Love",
       "plays": 1,
@@ -79,25 +88,52 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 10,
+      "artist": "Alex Park",
+      "title": "Gib Mir Ehrlichkeit",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 11,
+      "artist": "Alin Coen",
+      "title": "Bis Bald",
+      "plays": 1,
+      "previous_position": 46,
+      "movement": 35,
+      "trend": "up"
+    },
+    {
+      "position": 12,
       "artist": "Altreucher",
       "title": "Mona Lisa",
       "plays": 1,
       "previous_position": 93,
-      "movement": 84,
+      "movement": 81,
       "trend": "up"
     },
     {
-      "position": 10,
+      "position": 13,
+      "artist": "Amon",
+      "title": "Okay",
+      "plays": 1,
+      "previous_position": 45,
+      "movement": 32,
+      "trend": "up"
+    },
+    {
+      "position": 14,
       "artist": "Andy Frei",
       "title": "Ich Seh Nur Dich",
       "plays": 1,
       "previous_position": 109,
-      "movement": 99,
+      "movement": 95,
       "trend": "up"
     },
     {
-      "position": 11,
+      "position": 15,
       "artist": "Bad Boys Blue",
       "title": "Jungle In My Heart",
       "plays": 1,
@@ -106,34 +142,34 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 16,
       "artist": "Bad Boys Blue",
       "title": "Kisses And Tears (My One And Only)",
       "plays": 1,
       "previous_position": 9,
-      "movement": -3,
+      "movement": -7,
       "trend": "down"
     },
     {
-      "position": 13,
+      "position": 17,
       "artist": "Beloved",
       "title": "Sweet Harmony",
       "plays": 1,
       "previous_position": 10,
-      "movement": -3,
+      "movement": -7,
       "trend": "down"
     },
     {
-      "position": 14,
+      "position": 18,
       "artist": "Bernie Paul",
       "title": "Azttenzione Go Go Radio",
       "plays": 1,
       "previous_position": 1,
-      "movement": -13,
+      "movement": -17,
       "trend": "down"
     },
     {
-      "position": 15,
+      "position": 19,
       "artist": "Bomb The Bass",
       "title": "Beat Dis",
       "plays": 1,
@@ -142,49 +178,13 @@
       "trend": "new"
     },
     {
-      "position": 16,
+      "position": 20,
       "artist": "Boney M.",
       "title": "Going Back West",
       "plays": 1,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 17,
-      "artist": "Bucks Fizz",
-      "title": "Making Your Mind Up",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 18,
-      "artist": "C.C.Catch",
-      "title": "Strangers By Night",
-      "plays": 1,
-      "previous_position": 94,
-      "movement": 76,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Charly Brunner Und Das Swingorchester Mondschein",
-      "title": "Die Sache Mit Dem Sex",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Die Grubertaler",
-      "title": "Hier Komm Ich Her, Hier Will Ich Sein",
-      "plays": 1,
-      "previous_position": 13,
-      "movement": -7,
-      "trend": "down"
     }
   ]
 }
