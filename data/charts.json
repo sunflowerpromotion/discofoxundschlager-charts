@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W47",
   "previous_week": "2026-W46",
-  "updated": "2026-11-19T01:05:40.673890+00:00",
+  "updated": "2026-11-19T08:41:34.567491+00:00",
   "charts": [
     {
       "position": 1,
@@ -170,21 +170,21 @@
     },
     {
       "position": 19,
+      "artist": "Alex Blue",
+      "title": "Let Us Dance",
+      "plays": 1,
+      "previous_position": 143,
+      "movement": 124,
+      "trend": "up"
+    },
+    {
+      "position": 20,
       "artist": "Alex Park",
       "title": "Gib Mir Ehrlichkeit",
       "plays": 1,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Alicja",
-      "title": "So Wonderful",
-      "plays": 1,
-      "previous_position": 55,
-      "movement": 35,
-      "trend": "up"
     }
   ]
 }
