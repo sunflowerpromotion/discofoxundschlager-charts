@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W47",
   "previous_week": "2026-W46",
-  "updated": "2026-11-20T04:24:31.789212+00:00",
+  "updated": "2026-11-20T13:23:03.440327+00:00",
   "charts": [
     {
       "position": 1,
@@ -44,33 +44,42 @@
     },
     {
       "position": 5,
-      "artist": "Alin Coen",
-      "title": "Bis Bald",
+      "artist": "Alicja",
+      "title": "So Wonderful",
       "plays": 2,
-      "previous_position": 46,
-      "movement": 41,
+      "previous_position": 55,
+      "movement": 50,
       "trend": "up"
     },
     {
       "position": 6,
-      "artist": "Altreucher",
-      "title": "Mona Lisa",
+      "artist": "Alin Coen",
+      "title": "Bis Bald",
       "plays": 2,
-      "previous_position": 93,
-      "movement": 87,
+      "previous_position": 46,
+      "movement": 40,
       "trend": "up"
     },
     {
       "position": 7,
-      "artist": "Andy Frei",
-      "title": "Ich Seh Nur Dich",
+      "artist": "Altreucher",
+      "title": "Mona Lisa",
       "plays": 2,
-      "previous_position": 109,
-      "movement": 102,
+      "previous_position": 93,
+      "movement": 86,
       "trend": "up"
     },
     {
       "position": 8,
+      "artist": "Andy Frei",
+      "title": "Ich Seh Nur Dich",
+      "plays": 2,
+      "previous_position": 109,
+      "movement": 101,
+      "trend": "up"
+    },
+    {
+      "position": 9,
       "artist": "Bay City Rollers",
       "title": "Saturday Night",
       "plays": 2,
@@ -79,25 +88,25 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 10,
       "artist": "Beloved",
       "title": "Sweet Harmony",
       "plays": 2,
       "previous_position": 10,
-      "movement": 1,
-      "trend": "up"
+      "movement": 0,
+      "trend": "same"
     },
     {
-      "position": 10,
+      "position": 11,
       "artist": "Bob Seger",
       "title": "Still The Same",
       "plays": 2,
       "previous_position": 23,
-      "movement": 13,
+      "movement": 12,
       "trend": "up"
     },
     {
-      "position": 11,
+      "position": 12,
       "artist": "Boney M.",
       "title": "Going Back West",
       "plays": 2,
@@ -106,43 +115,52 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 13,
       "artist": "Cliff Richard",
       "title": "We Don’t Talk Anymore",
       "plays": 2,
       "previous_position": 120,
-      "movement": 108,
+      "movement": 107,
       "trend": "up"
     },
     {
-      "position": 13,
+      "position": 14,
       "artist": "Die Grubertaler",
       "title": "Hier Komm Ich Her, Hier Will Ich Sein",
       "plays": 2,
       "previous_position": 13,
-      "movement": 0,
-      "trend": "same"
+      "movement": -1,
+      "trend": "down"
     },
     {
-      "position": 14,
+      "position": 15,
       "artist": "Earl Dean Johnson",
       "title": "Tut Mir Leid",
       "plays": 2,
       "previous_position": 70,
-      "movement": 56,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "Frankie Valli & The Four Seasons",
-      "title": "December, 1963 (Oh What A Night!)",
-      "plays": 2,
-      "previous_position": 62,
-      "movement": 47,
+      "movement": 55,
       "trend": "up"
     },
     {
       "position": 16,
+      "artist": "Facts & Fiction",
+      "title": "Give Me The Night",
+      "plays": 2,
+      "previous_position": 19,
+      "movement": 3,
+      "trend": "up"
+    },
+    {
+      "position": 17,
+      "artist": "Frankie Valli & The Four Seasons",
+      "title": "December, 1963 (Oh What A Night!)",
+      "plays": 2,
+      "previous_position": 62,
+      "movement": 45,
+      "trend": "up"
+    },
+    {
+      "position": 18,
       "artist": "Gilbert Brodar",
       "title": "Wahnsinn",
       "plays": 2,
@@ -151,40 +169,22 @@
       "trend": "new"
     },
     {
-      "position": 17,
-      "artist": "Iris Klein",
-      "title": "Schau Mich An",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 18,
-      "artist": "Kasey Neumann",
-      "title": "Viertel Nach Glück",
-      "plays": 2,
-      "previous_position": 110,
-      "movement": 92,
-      "trend": "up"
-    },
-    {
       "position": 19,
-      "artist": "Kreis & Quer",
-      "title": "Fliegen",
+      "artist": "ID",
+      "title": "Discofox & Schlager Memories (KI generiert)",
       "plays": 2,
-      "previous_position": 90,
-      "movement": 71,
+      "previous_position": 61,
+      "movement": 42,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Maria Da Vinci",
-      "title": "Solo Tu",
+      "artist": "ID",
+      "title": "Maxi (KI generiert)",
       "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 72,
+      "movement": 52,
+      "trend": "up"
     }
   ]
 }
