@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W47",
   "previous_week": "2026-W46",
-  "updated": "2026-11-19T23:49:57.273329+00:00",
+  "updated": "2026-11-20T04:24:31.789212+00:00",
   "charts": [
     {
       "position": 1,
@@ -35,15 +35,42 @@
     },
     {
       "position": 4,
+      "artist": "Alex Park",
+      "title": "Gib Mir Ehrlichkeit",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 5,
+      "artist": "Alin Coen",
+      "title": "Bis Bald",
+      "plays": 2,
+      "previous_position": 46,
+      "movement": 41,
+      "trend": "up"
+    },
+    {
+      "position": 6,
+      "artist": "Altreucher",
+      "title": "Mona Lisa",
+      "plays": 2,
+      "previous_position": 93,
+      "movement": 87,
+      "trend": "up"
+    },
+    {
+      "position": 7,
       "artist": "Andy Frei",
       "title": "Ich Seh Nur Dich",
       "plays": 2,
       "previous_position": 109,
-      "movement": 105,
+      "movement": 102,
       "trend": "up"
     },
     {
-      "position": 5,
+      "position": 8,
       "artist": "Bay City Rollers",
       "title": "Saturday Night",
       "plays": 2,
@@ -52,25 +79,25 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 9,
       "artist": "Beloved",
       "title": "Sweet Harmony",
       "plays": 2,
       "previous_position": 10,
-      "movement": 4,
+      "movement": 1,
       "trend": "up"
     },
     {
-      "position": 7,
+      "position": 10,
       "artist": "Bob Seger",
       "title": "Still The Same",
       "plays": 2,
       "previous_position": 23,
-      "movement": 16,
+      "movement": 13,
       "trend": "up"
     },
     {
-      "position": 8,
+      "position": 11,
       "artist": "Boney M.",
       "title": "Going Back West",
       "plays": 2,
@@ -79,43 +106,43 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 12,
       "artist": "Cliff Richard",
       "title": "We Don’t Talk Anymore",
       "plays": 2,
       "previous_position": 120,
-      "movement": 111,
-      "trend": "up"
-    },
-    {
-      "position": 10,
-      "artist": "Die Grubertaler",
-      "title": "Hier Komm Ich Her, Hier Will Ich Sein",
-      "plays": 2,
-      "previous_position": 13,
-      "movement": 3,
-      "trend": "up"
-    },
-    {
-      "position": 11,
-      "artist": "Earl Dean Johnson",
-      "title": "Tut Mir Leid",
-      "plays": 2,
-      "previous_position": 70,
-      "movement": 59,
-      "trend": "up"
-    },
-    {
-      "position": 12,
-      "artist": "Frankie Valli & The Four Seasons",
-      "title": "December, 1963 (Oh What A Night!)",
-      "plays": 2,
-      "previous_position": 62,
-      "movement": 50,
+      "movement": 108,
       "trend": "up"
     },
     {
       "position": 13,
+      "artist": "Die Grubertaler",
+      "title": "Hier Komm Ich Her, Hier Will Ich Sein",
+      "plays": 2,
+      "previous_position": 13,
+      "movement": 0,
+      "trend": "same"
+    },
+    {
+      "position": 14,
+      "artist": "Earl Dean Johnson",
+      "title": "Tut Mir Leid",
+      "plays": 2,
+      "previous_position": 70,
+      "movement": 56,
+      "trend": "up"
+    },
+    {
+      "position": 15,
+      "artist": "Frankie Valli & The Four Seasons",
+      "title": "December, 1963 (Oh What A Night!)",
+      "plays": 2,
+      "previous_position": 62,
+      "movement": 47,
+      "trend": "up"
+    },
+    {
+      "position": 16,
       "artist": "Gilbert Brodar",
       "title": "Wahnsinn",
       "plays": 2,
@@ -124,7 +151,7 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 17,
       "artist": "Iris Klein",
       "title": "Schau Mich An",
       "plays": 2,
@@ -133,54 +160,27 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 18,
       "artist": "Kasey Neumann",
       "title": "Viertel Nach Glück",
       "plays": 2,
       "previous_position": 110,
-      "movement": 95,
+      "movement": 92,
       "trend": "up"
     },
     {
-      "position": 16,
+      "position": 19,
       "artist": "Kreis & Quer",
       "title": "Fliegen",
       "plays": 2,
       "previous_position": 90,
-      "movement": 74,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Maria Da Vinci",
-      "title": "Solo Tu",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 18,
-      "artist": "Reiner Kirsten",
-      "title": "Willkommen Im Schwarzwald",
-      "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 19,
-      "artist": "Shirley & Company",
-      "title": "Shame, Shame, Shame",
-      "plays": 2,
-      "previous_position": 22,
-      "movement": 3,
+      "movement": 71,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Tom Stern",
-      "title": "Das Weiße Schiff",
+      "artist": "Maria Da Vinci",
+      "title": "Solo Tu",
       "plays": 2,
       "previous_position": null,
       "movement": null,
