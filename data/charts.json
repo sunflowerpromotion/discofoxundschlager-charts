@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W47",
   "previous_week": "2026-W46",
-  "updated": "2026-11-21T10:09:41.301862+00:00",
+  "updated": "2026-11-21T17:28:17.328464+00:00",
   "charts": [
     {
       "position": 1,
@@ -36,14 +36,23 @@
     {
       "position": 4,
       "artist": "ID",
-      "title": "Maxi (KI generiert)",
+      "title": "Discofox & Schlager Memories (KI generiert)",
       "plays": 3,
-      "previous_position": 72,
-      "movement": 68,
+      "previous_position": 61,
+      "movement": 57,
       "trend": "up"
     },
     {
       "position": 5,
+      "artist": "ID",
+      "title": "Maxi (KI generiert)",
+      "plays": 3,
+      "previous_position": 72,
+      "movement": 67,
+      "trend": "up"
+    },
+    {
+      "position": 6,
       "artist": "Jordan Hanson",
       "title": "Wenn Die Welt Ein Bisschen Leiser Wird",
       "plays": 3,
@@ -52,16 +61,16 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 7,
       "artist": "ABBA",
       "title": "Take A Chance On Me",
       "plays": 2,
       "previous_position": 53,
-      "movement": 47,
+      "movement": 46,
       "trend": "up"
     },
     {
-      "position": 7,
+      "position": 8,
       "artist": "Airplay",
       "title": "For Your Love",
       "plays": 2,
@@ -70,7 +79,7 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 9,
       "artist": "Alex Park",
       "title": "Gib Mir Ehrlichkeit",
       "plays": 2,
@@ -79,43 +88,43 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 10,
       "artist": "Alicja",
       "title": "So Wonderful",
       "plays": 2,
       "previous_position": 55,
-      "movement": 46,
-      "trend": "up"
-    },
-    {
-      "position": 10,
-      "artist": "Alin Coen",
-      "title": "Bis Bald",
-      "plays": 2,
-      "previous_position": 46,
-      "movement": 36,
+      "movement": 45,
       "trend": "up"
     },
     {
       "position": 11,
-      "artist": "Altreucher",
-      "title": "Mona Lisa",
+      "artist": "Alin Coen",
+      "title": "Bis Bald",
       "plays": 2,
-      "previous_position": 93,
-      "movement": 82,
+      "previous_position": 46,
+      "movement": 35,
       "trend": "up"
     },
     {
       "position": 12,
-      "artist": "Andy Frei",
-      "title": "Ich Seh Nur Dich",
+      "artist": "Altreucher",
+      "title": "Mona Lisa",
       "plays": 2,
-      "previous_position": 109,
-      "movement": 97,
+      "previous_position": 93,
+      "movement": 81,
       "trend": "up"
     },
     {
       "position": 13,
+      "artist": "Andy Frei",
+      "title": "Ich Seh Nur Dich",
+      "plays": 2,
+      "previous_position": 109,
+      "movement": 96,
+      "trend": "up"
+    },
+    {
+      "position": 14,
       "artist": "Bay City Rollers",
       "title": "Saturday Night",
       "plays": 2,
@@ -124,25 +133,25 @@
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 15,
       "artist": "Beloved",
       "title": "Sweet Harmony",
       "plays": 2,
       "previous_position": 10,
-      "movement": -4,
+      "movement": -5,
       "trend": "down"
     },
     {
-      "position": 15,
+      "position": 16,
       "artist": "Bob Seger",
       "title": "Still The Same",
       "plays": 2,
       "previous_position": 23,
-      "movement": 8,
+      "movement": 7,
       "trend": "up"
     },
     {
-      "position": 16,
+      "position": 17,
       "artist": "Bomb The Bass",
       "title": "Beat Dis",
       "plays": 2,
@@ -151,40 +160,31 @@
       "trend": "new"
     },
     {
-      "position": 17,
+      "position": 18,
       "artist": "Cliff Richard",
       "title": "We Don’t Talk Anymore",
       "plays": 2,
       "previous_position": 120,
-      "movement": 103,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "D. White",
-      "title": "Follow Me",
-      "plays": 2,
-      "previous_position": 128,
-      "movement": 110,
+      "movement": 102,
       "trend": "up"
     },
     {
       "position": 19,
+      "artist": "D. White",
+      "title": "Follow Me",
+      "plays": 2,
+      "previous_position": 128,
+      "movement": 109,
+      "trend": "up"
+    },
+    {
+      "position": 20,
       "artist": "Die Grubertaler",
       "title": "Hier Komm Ich Her, Hier Will Ich Sein",
       "plays": 2,
       "previous_position": 13,
-      "movement": -6,
+      "movement": -7,
       "trend": "down"
-    },
-    {
-      "position": 20,
-      "artist": "Earl Dean Johnson",
-      "title": "Tut Mir Leid",
-      "plays": 2,
-      "previous_position": 70,
-      "movement": 50,
-      "trend": "up"
     }
   ]
 }
