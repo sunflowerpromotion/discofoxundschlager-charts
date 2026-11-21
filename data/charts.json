@@ -4,10 +4,19 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W47",
   "previous_week": "2026-W46",
-  "updated": "2026-11-21T02:35:39.396375+00:00",
+  "updated": "2026-11-21T10:09:41.301862+00:00",
   "charts": [
     {
       "position": 1,
+      "artist": "Boney M.",
+      "title": "Going Back West",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 2,
       "artist": "Gilbert Brodar",
       "title": "Wahnsinn",
       "plays": 3,
@@ -16,7 +25,7 @@
       "trend": "new"
     },
     {
-      "position": 2,
+      "position": 3,
       "artist": "Graziano & Sunrise",
       "title": "Una Notte Italiana",
       "plays": 3,
@@ -25,7 +34,16 @@
       "trend": "new"
     },
     {
-      "position": 3,
+      "position": 4,
+      "artist": "ID",
+      "title": "Maxi (KI generiert)",
+      "plays": 3,
+      "previous_position": 72,
+      "movement": 68,
+      "trend": "up"
+    },
+    {
+      "position": 5,
       "artist": "Jordan Hanson",
       "title": "Wenn Die Welt Ein Bisschen Leiser Wird",
       "plays": 3,
@@ -34,16 +52,25 @@
       "trend": "new"
     },
     {
-      "position": 4,
+      "position": 6,
       "artist": "ABBA",
       "title": "Take A Chance On Me",
       "plays": 2,
       "previous_position": 53,
-      "movement": 49,
+      "movement": 47,
       "trend": "up"
     },
     {
-      "position": 5,
+      "position": 7,
+      "artist": "Airplay",
+      "title": "For Your Love",
+      "plays": 2,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 8,
       "artist": "Alex Park",
       "title": "Gib Mir Ehrlichkeit",
       "plays": 2,
@@ -52,43 +79,43 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 9,
       "artist": "Alicja",
       "title": "So Wonderful",
       "plays": 2,
       "previous_position": 55,
-      "movement": 49,
-      "trend": "up"
-    },
-    {
-      "position": 7,
-      "artist": "Alin Coen",
-      "title": "Bis Bald",
-      "plays": 2,
-      "previous_position": 46,
-      "movement": 39,
-      "trend": "up"
-    },
-    {
-      "position": 8,
-      "artist": "Altreucher",
-      "title": "Mona Lisa",
-      "plays": 2,
-      "previous_position": 93,
-      "movement": 85,
-      "trend": "up"
-    },
-    {
-      "position": 9,
-      "artist": "Andy Frei",
-      "title": "Ich Seh Nur Dich",
-      "plays": 2,
-      "previous_position": 109,
-      "movement": 100,
+      "movement": 46,
       "trend": "up"
     },
     {
       "position": 10,
+      "artist": "Alin Coen",
+      "title": "Bis Bald",
+      "plays": 2,
+      "previous_position": 46,
+      "movement": 36,
+      "trend": "up"
+    },
+    {
+      "position": 11,
+      "artist": "Altreucher",
+      "title": "Mona Lisa",
+      "plays": 2,
+      "previous_position": 93,
+      "movement": 82,
+      "trend": "up"
+    },
+    {
+      "position": 12,
+      "artist": "Andy Frei",
+      "title": "Ich Seh Nur Dich",
+      "plays": 2,
+      "previous_position": 109,
+      "movement": 97,
+      "trend": "up"
+    },
+    {
+      "position": 13,
       "artist": "Bay City Rollers",
       "title": "Saturday Night",
       "plays": 2,
@@ -97,93 +124,66 @@
       "trend": "new"
     },
     {
-      "position": 11,
+      "position": 14,
       "artist": "Beloved",
       "title": "Sweet Harmony",
       "plays": 2,
       "previous_position": 10,
-      "movement": -1,
+      "movement": -4,
       "trend": "down"
     },
     {
-      "position": 12,
+      "position": 15,
       "artist": "Bob Seger",
       "title": "Still The Same",
       "plays": 2,
       "previous_position": 23,
-      "movement": 11,
+      "movement": 8,
       "trend": "up"
     },
     {
-      "position": 13,
-      "artist": "Boney M.",
-      "title": "Going Back West",
+      "position": 16,
+      "artist": "Bomb The Bass",
+      "title": "Beat Dis",
       "plays": 2,
       "previous_position": null,
       "movement": null,
       "trend": "new"
     },
     {
-      "position": 14,
+      "position": 17,
       "artist": "Cliff Richard",
       "title": "We Don’t Talk Anymore",
       "plays": 2,
       "previous_position": 120,
-      "movement": 106,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "Die Grubertaler",
-      "title": "Hier Komm Ich Her, Hier Will Ich Sein",
-      "plays": 2,
-      "previous_position": 13,
-      "movement": -2,
-      "trend": "down"
-    },
-    {
-      "position": 16,
-      "artist": "Earl Dean Johnson",
-      "title": "Tut Mir Leid",
-      "plays": 2,
-      "previous_position": 70,
-      "movement": 54,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Esther Graf",
-      "title": "Kippenlänge",
-      "plays": 2,
-      "previous_position": 91,
-      "movement": 74,
+      "movement": 103,
       "trend": "up"
     },
     {
       "position": 18,
-      "artist": "Facts & Fiction",
-      "title": "Give Me The Night",
+      "artist": "D. White",
+      "title": "Follow Me",
       "plays": 2,
-      "previous_position": 19,
-      "movement": 1,
+      "previous_position": 128,
+      "movement": 110,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Frank Brenner",
-      "title": "Vorbei",
+      "artist": "Die Grubertaler",
+      "title": "Hier Komm Ich Her, Hier Will Ich Sein",
       "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 13,
+      "movement": -6,
+      "trend": "down"
     },
     {
       "position": 20,
-      "artist": "Frankie Valli & The Four Seasons",
-      "title": "December, 1963 (Oh What A Night!)",
+      "artist": "Earl Dean Johnson",
+      "title": "Tut Mir Leid",
       "plays": 2,
-      "previous_position": 62,
-      "movement": 42,
+      "previous_position": 70,
+      "movement": 50,
       "trend": "up"
     }
   ]
