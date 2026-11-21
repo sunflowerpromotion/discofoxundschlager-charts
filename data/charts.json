@@ -4,10 +4,19 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W47",
   "previous_week": "2026-W46",
-  "updated": "2026-11-21T17:28:17.328464+00:00",
+  "updated": "2026-11-21T22:17:52.584558+00:00",
   "charts": [
     {
       "position": 1,
+      "artist": "Graziano & Sunrise",
+      "title": "Una Notte Italiana",
+      "plays": 4,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 2,
       "artist": "Boney M.",
       "title": "Going Back West",
       "plays": 3,
@@ -16,18 +25,9 @@
       "trend": "new"
     },
     {
-      "position": 2,
+      "position": 3,
       "artist": "Gilbert Brodar",
       "title": "Wahnsinn",
-      "plays": 3,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 3,
-      "artist": "Graziano & Sunrise",
-      "title": "Una Notte Italiana",
       "plays": 3,
       "previous_position": null,
       "movement": null,
@@ -62,15 +62,42 @@
     },
     {
       "position": 7,
+      "artist": "Maria Da Vinci",
+      "title": "Solo Tu",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 8,
+      "artist": "Reiner Kirsten",
+      "title": "Willkommen Im Schwarzwald",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 9,
+      "artist": "Tom Stern",
+      "title": "Das Weiße Schiff",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 10,
       "artist": "ABBA",
       "title": "Take A Chance On Me",
       "plays": 2,
       "previous_position": 53,
-      "movement": 46,
+      "movement": 43,
       "trend": "up"
     },
     {
-      "position": 8,
+      "position": 11,
       "artist": "Airplay",
       "title": "For Your Love",
       "plays": 2,
@@ -79,7 +106,7 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 12,
       "artist": "Alex Park",
       "title": "Gib Mir Ehrlichkeit",
       "plays": 2,
@@ -88,43 +115,43 @@
       "trend": "new"
     },
     {
-      "position": 10,
+      "position": 13,
       "artist": "Alicja",
       "title": "So Wonderful",
       "plays": 2,
       "previous_position": 55,
-      "movement": 45,
-      "trend": "up"
-    },
-    {
-      "position": 11,
-      "artist": "Alin Coen",
-      "title": "Bis Bald",
-      "plays": 2,
-      "previous_position": 46,
-      "movement": 35,
-      "trend": "up"
-    },
-    {
-      "position": 12,
-      "artist": "Altreucher",
-      "title": "Mona Lisa",
-      "plays": 2,
-      "previous_position": 93,
-      "movement": 81,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "Andy Frei",
-      "title": "Ich Seh Nur Dich",
-      "plays": 2,
-      "previous_position": 109,
-      "movement": 96,
+      "movement": 42,
       "trend": "up"
     },
     {
       "position": 14,
+      "artist": "Alin Coen",
+      "title": "Bis Bald",
+      "plays": 2,
+      "previous_position": 46,
+      "movement": 32,
+      "trend": "up"
+    },
+    {
+      "position": 15,
+      "artist": "Altreucher",
+      "title": "Mona Lisa",
+      "plays": 2,
+      "previous_position": 93,
+      "movement": 78,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "Andy Frei",
+      "title": "Ich Seh Nur Dich",
+      "plays": 2,
+      "previous_position": 109,
+      "movement": 93,
+      "trend": "up"
+    },
+    {
+      "position": 17,
       "artist": "Bay City Rollers",
       "title": "Saturday Night",
       "plays": 2,
@@ -133,58 +160,31 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 18,
       "artist": "Beloved",
       "title": "Sweet Harmony",
       "plays": 2,
       "previous_position": 10,
-      "movement": -5,
+      "movement": -8,
       "trend": "down"
     },
     {
-      "position": 16,
+      "position": 19,
       "artist": "Bob Seger",
       "title": "Still The Same",
       "plays": 2,
       "previous_position": 23,
-      "movement": 7,
+      "movement": 4,
       "trend": "up"
     },
     {
-      "position": 17,
+      "position": 20,
       "artist": "Bomb The Bass",
       "title": "Beat Dis",
       "plays": 2,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 18,
-      "artist": "Cliff Richard",
-      "title": "We Don’t Talk Anymore",
-      "plays": 2,
-      "previous_position": 120,
-      "movement": 102,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "D. White",
-      "title": "Follow Me",
-      "plays": 2,
-      "previous_position": 128,
-      "movement": 109,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "Die Grubertaler",
-      "title": "Hier Komm Ich Her, Hier Will Ich Sein",
-      "plays": 2,
-      "previous_position": 13,
-      "movement": -7,
-      "trend": "down"
     }
   ]
 }
