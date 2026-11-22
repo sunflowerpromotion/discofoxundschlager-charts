@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W47",
   "previous_week": "2026-W46",
-  "updated": "2026-11-22T09:56:24.771357+00:00",
+  "updated": "2026-11-22T17:37:41.400650+00:00",
   "charts": [
     {
       "position": 1,
@@ -27,23 +27,32 @@
     {
       "position": 3,
       "artist": "ID",
-      "title": "Maxi (KI generiert)",
+      "title": "Discofox & Schlager Memories (KI generiert)",
       "plays": 4,
-      "previous_position": 72,
-      "movement": 69,
+      "previous_position": 61,
+      "movement": 58,
       "trend": "up"
     },
     {
       "position": 4,
-      "artist": "ABBA",
-      "title": "Take A Chance On Me",
-      "plays": 3,
-      "previous_position": 53,
-      "movement": 49,
+      "artist": "ID",
+      "title": "Maxi (KI generiert)",
+      "plays": 4,
+      "previous_position": 72,
+      "movement": 68,
       "trend": "up"
     },
     {
       "position": 5,
+      "artist": "ABBA",
+      "title": "Take A Chance On Me",
+      "plays": 3,
+      "previous_position": 53,
+      "movement": 48,
+      "trend": "up"
+    },
+    {
+      "position": 6,
       "artist": "Airplay",
       "title": "For Your Love",
       "plays": 3,
@@ -52,7 +61,7 @@
       "trend": "new"
     },
     {
-      "position": 6,
+      "position": 7,
       "artist": "Bay City Rollers",
       "title": "Saturday Night",
       "plays": 3,
@@ -61,7 +70,7 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 8,
       "artist": "Bomb The Bass",
       "title": "Beat Dis",
       "plays": 3,
@@ -70,7 +79,7 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 9,
       "artist": "Gilbert Brodar",
       "title": "Wahnsinn",
       "plays": 3,
@@ -79,21 +88,12 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 10,
       "artist": "Helen",
       "title": "I Love You",
       "plays": 3,
       "previous_position": 39,
-      "movement": 30,
-      "trend": "up"
-    },
-    {
-      "position": 10,
-      "artist": "ID",
-      "title": "Discofox & Schlager Memories (KI generiert)",
-      "plays": 3,
-      "previous_position": 61,
-      "movement": 51,
+      "movement": 29,
       "trend": "up"
     },
     {
