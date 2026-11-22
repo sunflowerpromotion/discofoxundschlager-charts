@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W47",
   "previous_week": "2026-W46",
-  "updated": "2026-11-21T22:17:52.584558+00:00",
+  "updated": "2026-11-22T02:19:30.886247+00:00",
   "charts": [
     {
       "position": 1,
@@ -17,6 +17,24 @@
     },
     {
       "position": 2,
+      "artist": "ABBA",
+      "title": "Take A Chance On Me",
+      "plays": 3,
+      "previous_position": 53,
+      "movement": 51,
+      "trend": "up"
+    },
+    {
+      "position": 3,
+      "artist": "Bay City Rollers",
+      "title": "Saturday Night",
+      "plays": 3,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 4,
       "artist": "Boney M.",
       "title": "Going Back West",
       "plays": 3,
@@ -25,7 +43,7 @@
       "trend": "new"
     },
     {
-      "position": 3,
+      "position": 5,
       "artist": "Gilbert Brodar",
       "title": "Wahnsinn",
       "plays": 3,
@@ -34,25 +52,25 @@
       "trend": "new"
     },
     {
-      "position": 4,
+      "position": 6,
       "artist": "ID",
       "title": "Discofox & Schlager Memories (KI generiert)",
       "plays": 3,
       "previous_position": 61,
-      "movement": 57,
+      "movement": 55,
       "trend": "up"
     },
     {
-      "position": 5,
+      "position": 7,
       "artist": "ID",
       "title": "Maxi (KI generiert)",
       "plays": 3,
       "previous_position": 72,
-      "movement": 67,
+      "movement": 65,
       "trend": "up"
     },
     {
-      "position": 6,
+      "position": 8,
       "artist": "Jordan Hanson",
       "title": "Wenn Die Welt Ein Bisschen Leiser Wird",
       "plays": 3,
@@ -61,7 +79,7 @@
       "trend": "new"
     },
     {
-      "position": 7,
+      "position": 9,
       "artist": "Maria Da Vinci",
       "title": "Solo Tu",
       "plays": 3,
@@ -70,7 +88,7 @@
       "trend": "new"
     },
     {
-      "position": 8,
+      "position": 10,
       "artist": "Reiner Kirsten",
       "title": "Willkommen Im Schwarzwald",
       "plays": 3,
@@ -79,7 +97,7 @@
       "trend": "new"
     },
     {
-      "position": 9,
+      "position": 11,
       "artist": "Tom Stern",
       "title": "Das Weiße Schiff",
       "plays": 3,
@@ -88,16 +106,7 @@
       "trend": "new"
     },
     {
-      "position": 10,
-      "artist": "ABBA",
-      "title": "Take A Chance On Me",
-      "plays": 2,
-      "previous_position": 53,
-      "movement": 43,
-      "trend": "up"
-    },
-    {
-      "position": 11,
+      "position": 12,
       "artist": "Airplay",
       "title": "For Your Love",
       "plays": 2,
@@ -106,7 +115,7 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 13,
       "artist": "Alex Park",
       "title": "Gib Mir Ehrlichkeit",
       "plays": 2,
@@ -115,49 +124,40 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 14,
       "artist": "Alicja",
       "title": "So Wonderful",
       "plays": 2,
       "previous_position": 55,
-      "movement": 42,
-      "trend": "up"
-    },
-    {
-      "position": 14,
-      "artist": "Alin Coen",
-      "title": "Bis Bald",
-      "plays": 2,
-      "previous_position": 46,
-      "movement": 32,
+      "movement": 41,
       "trend": "up"
     },
     {
       "position": 15,
-      "artist": "Altreucher",
-      "title": "Mona Lisa",
+      "artist": "Alin Coen",
+      "title": "Bis Bald",
       "plays": 2,
-      "previous_position": 93,
-      "movement": 78,
+      "previous_position": 46,
+      "movement": 31,
       "trend": "up"
     },
     {
       "position": 16,
-      "artist": "Andy Frei",
-      "title": "Ich Seh Nur Dich",
+      "artist": "Altreucher",
+      "title": "Mona Lisa",
       "plays": 2,
-      "previous_position": 109,
-      "movement": 93,
+      "previous_position": 93,
+      "movement": 77,
       "trend": "up"
     },
     {
       "position": 17,
-      "artist": "Bay City Rollers",
-      "title": "Saturday Night",
+      "artist": "Andy Frei",
+      "title": "Ich Seh Nur Dich",
       "plays": 2,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "previous_position": 109,
+      "movement": 92,
+      "trend": "up"
     },
     {
       "position": 18,
