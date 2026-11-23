@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W48",
   "previous_week": "2026-W47",
-  "updated": "2026-11-23T03:12:35.598444+00:00",
+  "updated": "2026-11-23T12:45:42.431144+00:00",
   "charts": [
     {
       "position": 1,
@@ -26,74 +26,164 @@
     },
     {
       "position": 3,
-      "artist": "Claudia Stern & Band",
-      "title": "Autowaschtag",
+      "artist": "Bad Boys Blue",
+      "title": "Kisses And Tears (My One And Only)",
       "plays": 1,
-      "previous_position": 124,
-      "movement": 121,
-      "trend": "up"
-    },
-    {
-      "position": 4,
-      "artist": "Dominik Baumer",
-      "title": "Grenzen Verschieben",
-      "plays": 1,
-      "previous_position": 77,
-      "movement": 73,
-      "trend": "up"
-    },
-    {
-      "position": 5,
-      "artist": "Esther Graf",
-      "title": "Kippenlänge",
-      "plays": 1,
-      "previous_position": 31,
-      "movement": 26,
-      "trend": "up"
-    },
-    {
-      "position": 6,
-      "artist": "Gilbert Brodar",
-      "title": "Wahnsinn",
-      "plays": 1,
-      "previous_position": 5,
-      "movement": -1,
-      "trend": "down"
-    },
-    {
-      "position": 7,
-      "artist": "Kreis & Quer",
-      "title": "Fliegen",
-      "plays": 1,
-      "previous_position": 33,
-      "movement": 26,
-      "trend": "up"
-    },
-    {
-      "position": 8,
-      "artist": "Philipp Schmidt",
-      "title": "Alles Ist Möglich",
-      "plays": 1,
-      "previous_position": 76,
+      "previous_position": 71,
       "movement": 68,
       "trend": "up"
     },
     {
+      "position": 4,
+      "artist": "Blondie",
+      "title": "Atomic",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 5,
+      "artist": "C.C.Catch",
+      "title": "Strangers By Night",
+      "plays": 1,
+      "previous_position": 72,
+      "movement": 67,
+      "trend": "up"
+    },
+    {
+      "position": 6,
+      "artist": "Claudia Stern & Band",
+      "title": "Autowaschtag",
+      "plays": 1,
+      "previous_position": 124,
+      "movement": 118,
+      "trend": "up"
+    },
+    {
+      "position": 7,
+      "artist": "Dominik Baumer",
+      "title": "Grenzen Verschieben",
+      "plays": 1,
+      "previous_position": 77,
+      "movement": 70,
+      "trend": "up"
+    },
+    {
+      "position": 8,
+      "artist": "Esther Graf",
+      "title": "Kippenlänge",
+      "plays": 1,
+      "previous_position": 31,
+      "movement": 23,
+      "trend": "up"
+    },
+    {
       "position": 9,
+      "artist": "Gilbert Brodar",
+      "title": "Wahnsinn",
+      "plays": 1,
+      "previous_position": 5,
+      "movement": -4,
+      "trend": "down"
+    },
+    {
+      "position": 10,
+      "artist": "Grant Miller",
+      "title": "Doctor For My Heart",
+      "plays": 1,
+      "previous_position": 67,
+      "movement": 57,
+      "trend": "up"
+    },
+    {
+      "position": 11,
+      "artist": "Hurricanes",
+      "title": "Only One Night",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 12,
+      "artist": "Joy Peters",
+      "title": "One Night In Love",
+      "plays": 1,
+      "previous_position": 70,
+      "movement": 58,
+      "trend": "up"
+    },
+    {
+      "position": 13,
+      "artist": "Kreis & Quer",
+      "title": "Fliegen",
+      "plays": 1,
+      "previous_position": 33,
+      "movement": 20,
+      "trend": "up"
+    },
+    {
+      "position": 14,
+      "artist": "Modern Talking",
+      "title": "Atlantis Is Calling (S.O.S. For Love)",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 15,
+      "artist": "Peter Schilling",
+      "title": "Terra Titanic",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 16,
+      "artist": "Philipp Schmidt",
+      "title": "Alles Ist Möglich",
+      "plays": 1,
+      "previous_position": 76,
+      "movement": 60,
+      "trend": "up"
+    },
+    {
+      "position": 17,
+      "artist": "Roxanne",
+      "title": "Boys In Black Cars",
+      "plays": 1,
+      "previous_position": 73,
+      "movement": 56,
+      "trend": "up"
+    },
+    {
+      "position": 18,
+      "artist": "Sandra",
+      "title": "In The Heat Of The Night",
+      "plays": 1,
+      "previous_position": 129,
+      "movement": 111,
+      "trend": "up"
+    },
+    {
+      "position": 19,
       "artist": "Sandra Hierzer",
       "title": "Alles Ist Da",
       "plays": 1,
       "previous_position": 122,
-      "movement": 113,
+      "movement": 103,
       "trend": "up"
     },
     {
-      "position": 10,
+      "position": 20,
       "artist": "Tobis Wohnzimmershow",
       "title": "1000 Mal Abgesagt",
       "plays": 1,
       "previous_position": 123,
-      "movement": 113,
+      "movement": 103,
       "trend": "up"
     }
   ]
