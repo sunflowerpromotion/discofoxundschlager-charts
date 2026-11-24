@@ -4,37 +4,46 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W48",
   "previous_week": "2026-W47",
-  "updated": "2026-11-23T12:45:42.431144+00:00",
+  "updated": "2026-11-24T00:24:15.197043+00:00",
   "charts": [
     {
       "position": 1,
-      "artist": "Alin Coen",
-      "title": "Bis Bald",
+      "artist": "ABBA",
+      "title": "Dancing Queen",
       "plays": 1,
-      "previous_position": 39,
-      "movement": 38,
+      "previous_position": 58,
+      "movement": 57,
       "trend": "up"
     },
     {
       "position": 2,
-      "artist": "Altreucher",
-      "title": "Mona Lisa",
+      "artist": "Alin Coen",
+      "title": "Bis Bald",
       "plays": 1,
-      "previous_position": 34,
-      "movement": 32,
+      "previous_position": 39,
+      "movement": 37,
       "trend": "up"
     },
     {
       "position": 3,
-      "artist": "Bad Boys Blue",
-      "title": "Kisses And Tears (My One And Only)",
+      "artist": "Altreucher",
+      "title": "Mona Lisa",
       "plays": 1,
-      "previous_position": 71,
-      "movement": 68,
+      "previous_position": 34,
+      "movement": 31,
       "trend": "up"
     },
     {
       "position": 4,
+      "artist": "Bad Boys Blue",
+      "title": "Kisses And Tears (My One And Only)",
+      "plays": 1,
+      "previous_position": 71,
+      "movement": 67,
+      "trend": "up"
+    },
+    {
+      "position": 5,
       "artist": "Blondie",
       "title": "Atomic",
       "plays": 1,
@@ -43,61 +52,88 @@
       "trend": "new"
     },
     {
-      "position": 5,
-      "artist": "C.C.Catch",
-      "title": "Strangers By Night",
-      "plays": 1,
-      "previous_position": 72,
-      "movement": 67,
-      "trend": "up"
-    },
-    {
       "position": 6,
-      "artist": "Claudia Stern & Band",
-      "title": "Autowaschtag",
+      "artist": "Bucks Fizz",
+      "title": "Making Your Mind Up",
       "plays": 1,
-      "previous_position": 124,
-      "movement": 118,
+      "previous_position": 18,
+      "movement": 12,
       "trend": "up"
     },
     {
       "position": 7,
-      "artist": "Dominik Baumer",
-      "title": "Grenzen Verschieben",
+      "artist": "C.C.Catch",
+      "title": "Strangers By Night",
       "plays": 1,
-      "previous_position": 77,
-      "movement": 70,
+      "previous_position": 72,
+      "movement": 65,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "Esther Graf",
-      "title": "Kippenlänge",
+      "artist": "Claudia Stern & Band",
+      "title": "Autowaschtag",
       "plays": 1,
-      "previous_position": 31,
-      "movement": 23,
+      "previous_position": 124,
+      "movement": 116,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "Gilbert Brodar",
-      "title": "Wahnsinn",
+      "artist": "Dominik Baumer",
+      "title": "Grenzen Verschieben",
       "plays": 1,
-      "previous_position": 5,
-      "movement": -4,
-      "trend": "down"
+      "previous_position": 77,
+      "movement": 68,
+      "trend": "up"
     },
     {
       "position": 10,
-      "artist": "Grant Miller",
-      "title": "Doctor For My Heart",
+      "artist": "Eagles",
+      "title": "One Of These Nights",
       "plays": 1,
-      "previous_position": 67,
-      "movement": 57,
+      "previous_position": 16,
+      "movement": 6,
       "trend": "up"
     },
     {
       "position": 11,
+      "artist": "Esther Graf",
+      "title": "Kippenlänge",
+      "plays": 1,
+      "previous_position": 31,
+      "movement": 20,
+      "trend": "up"
+    },
+    {
+      "position": 12,
+      "artist": "Exile",
+      "title": "Kiss You All Over",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 13,
+      "artist": "Gilbert Brodar",
+      "title": "Wahnsinn",
+      "plays": 1,
+      "previous_position": 5,
+      "movement": -8,
+      "trend": "down"
+    },
+    {
+      "position": 14,
+      "artist": "Grant Miller",
+      "title": "Doctor For My Heart",
+      "plays": 1,
+      "previous_position": 67,
+      "movement": 53,
+      "trend": "up"
+    },
+    {
+      "position": 15,
       "artist": "Hurricanes",
       "title": "Only One Night",
       "plays": 1,
@@ -106,25 +142,34 @@
       "trend": "new"
     },
     {
-      "position": 12,
+      "position": 16,
+      "artist": "ID",
+      "title": "70s (KI generiert)",
+      "plays": 1,
+      "previous_position": 55,
+      "movement": 39,
+      "trend": "up"
+    },
+    {
+      "position": 17,
       "artist": "Joy Peters",
       "title": "One Night In Love",
       "plays": 1,
       "previous_position": 70,
-      "movement": 58,
+      "movement": 53,
       "trend": "up"
     },
     {
-      "position": 13,
+      "position": 18,
       "artist": "Kreis & Quer",
       "title": "Fliegen",
       "plays": 1,
       "previous_position": 33,
-      "movement": 20,
+      "movement": 15,
       "trend": "up"
     },
     {
-      "position": 14,
+      "position": 19,
       "artist": "Modern Talking",
       "title": "Atlantis Is Calling (S.O.S. For Love)",
       "plays": 1,
@@ -133,58 +178,13 @@
       "trend": "new"
     },
     {
-      "position": 15,
+      "position": 20,
       "artist": "Peter Schilling",
       "title": "Terra Titanic",
       "plays": 1,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 16,
-      "artist": "Philipp Schmidt",
-      "title": "Alles Ist Möglich",
-      "plays": 1,
-      "previous_position": 76,
-      "movement": 60,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Roxanne",
-      "title": "Boys In Black Cars",
-      "plays": 1,
-      "previous_position": 73,
-      "movement": 56,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Sandra",
-      "title": "In The Heat Of The Night",
-      "plays": 1,
-      "previous_position": 129,
-      "movement": 111,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Sandra Hierzer",
-      "title": "Alles Ist Da",
-      "plays": 1,
-      "previous_position": 122,
-      "movement": 103,
-      "trend": "up"
-    },
-    {
-      "position": 20,
-      "artist": "Tobis Wohnzimmershow",
-      "title": "1000 Mal Abgesagt",
-      "plays": 1,
-      "previous_position": 123,
-      "movement": 103,
-      "trend": "up"
     }
   ]
 }
