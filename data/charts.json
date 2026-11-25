@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W48",
   "previous_week": "2026-W47",
-  "updated": "2026-11-25T03:44:09.641147+00:00",
+  "updated": "2026-11-25T13:33:27.945641+00:00",
   "charts": [
     {
       "position": 1,
@@ -44,69 +44,123 @@
     },
     {
       "position": 5,
-      "artist": "ABBA",
-      "title": "Dancing Queen",
-      "plays": 1,
-      "previous_position": 58,
-      "movement": 53,
+      "artist": "Helen",
+      "title": "I Love You",
+      "plays": 2,
+      "previous_position": 12,
+      "movement": 7,
       "trend": "up"
     },
     {
       "position": 6,
-      "artist": "Airplay",
-      "title": "For Your Love",
-      "plays": 1,
-      "previous_position": 10,
-      "movement": 4,
-      "trend": "up"
+      "artist": "ID",
+      "title": "Maxi (KI generiert)",
+      "plays": 2,
+      "previous_position": 3,
+      "movement": -3,
+      "trend": "down"
     },
     {
       "position": 7,
-      "artist": "Alex Park",
-      "title": "Gib Mir Ehrlichkeit",
-      "plays": 1,
-      "previous_position": 40,
-      "movement": 33,
+      "artist": "Sandra",
+      "title": "In The Heat Of The Night",
+      "plays": 2,
+      "previous_position": 129,
+      "movement": 122,
       "trend": "up"
     },
     {
       "position": 8,
-      "artist": "Altreucher",
-      "title": "Mona Lisa",
+      "artist": "ABBA",
+      "title": "Dancing Queen",
       "plays": 1,
-      "previous_position": 34,
-      "movement": 26,
+      "previous_position": 58,
+      "movement": 50,
       "trend": "up"
     },
     {
       "position": 9,
-      "artist": "Andreas Oscar",
-      "title": "Ich Find Noch Meinen Weg",
+      "artist": "Airplay",
+      "title": "For Your Love",
       "plays": 1,
-      "previous_position": 151,
-      "movement": 142,
+      "previous_position": 10,
+      "movement": 1,
       "trend": "up"
     },
     {
       "position": 10,
-      "artist": "Bad Boys Blue",
-      "title": "Kisses And Tears (My One And Only)",
+      "artist": "Alex Park",
+      "title": "Gib Mir Ehrlichkeit",
       "plays": 1,
-      "previous_position": 71,
-      "movement": 61,
+      "previous_position": 40,
+      "movement": 30,
       "trend": "up"
     },
     {
       "position": 11,
-      "artist": "Belinda Carlisle",
-      "title": "La Luna",
+      "artist": "Alicja",
+      "title": "So Wonderful",
       "plays": 1,
-      "previous_position": 140,
-      "movement": 129,
+      "previous_position": 44,
+      "movement": 33,
       "trend": "up"
     },
     {
       "position": 12,
+      "artist": "Altreucher",
+      "title": "Mona Lisa",
+      "plays": 1,
+      "previous_position": 34,
+      "movement": 22,
+      "trend": "up"
+    },
+    {
+      "position": 13,
+      "artist": "Andreas Oscar",
+      "title": "Ich Find Noch Meinen Weg",
+      "plays": 1,
+      "previous_position": 151,
+      "movement": 138,
+      "trend": "up"
+    },
+    {
+      "position": 14,
+      "artist": "Bad Boys Blue",
+      "title": "Kisses And Tears (My One And Only)",
+      "plays": 1,
+      "previous_position": 71,
+      "movement": 57,
+      "trend": "up"
+    },
+    {
+      "position": 15,
+      "artist": "Belinda Carlisle",
+      "title": "La Luna",
+      "plays": 1,
+      "previous_position": 140,
+      "movement": 125,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "Beloved",
+      "title": "Sweet Harmony",
+      "plays": 1,
+      "previous_position": 24,
+      "movement": 8,
+      "trend": "up"
+    },
+    {
+      "position": 17,
+      "artist": "Bernie Paul",
+      "title": "Azttenzione Go Go Radio",
+      "plays": 1,
+      "previous_position": 65,
+      "movement": 48,
+      "trend": "up"
+    },
+    {
+      "position": 18,
       "artist": "Blondie",
       "title": "Atomic",
       "plays": 1,
@@ -115,75 +169,21 @@
       "trend": "new"
     },
     {
-      "position": 13,
+      "position": 19,
       "artist": "Bomb The Bass",
       "title": "Beat Dis",
       "plays": 1,
       "previous_position": 11,
-      "movement": -2,
+      "movement": -8,
       "trend": "down"
     },
     {
-      "position": 14,
+      "position": 20,
       "artist": "Boney M.",
       "title": "Going Back West",
       "plays": 1,
       "previous_position": 2,
-      "movement": -12,
-      "trend": "down"
-    },
-    {
-      "position": 15,
-      "artist": "Bucks Fizz",
-      "title": "Making Your Mind Up",
-      "plays": 1,
-      "previous_position": 18,
-      "movement": 3,
-      "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "C.C.Catch",
-      "title": "Strangers By Night",
-      "plays": 1,
-      "previous_position": 72,
-      "movement": 56,
-      "trend": "up"
-    },
-    {
-      "position": 17,
-      "artist": "Charly Brunner Und Das Swingorchester Mondschein",
-      "title": "Die Sache Mit Dem Sex",
-      "plays": 1,
-      "previous_position": 82,
-      "movement": 65,
-      "trend": "up"
-    },
-    {
-      "position": 18,
-      "artist": "Claudia Stern & Band",
-      "title": "Autowaschtag",
-      "plays": 1,
-      "previous_position": 124,
-      "movement": 106,
-      "trend": "up"
-    },
-    {
-      "position": 19,
-      "artist": "Dani Mirell",
-      "title": "Vollidiot",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Eagles",
-      "title": "One Of These Nights",
-      "plays": 1,
-      "previous_position": 16,
-      "movement": -4,
+      "movement": -18,
       "trend": "down"
     }
   ]
