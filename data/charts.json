@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W48",
   "previous_week": "2026-W47",
-  "updated": "2026-11-26T14:10:03.507251+00:00",
+  "updated": "2026-11-26T22:58:23.559075+00:00",
   "charts": [
     {
       "position": 1,
@@ -134,24 +134,33 @@
     },
     {
       "position": 15,
+      "artist": "Alexandra Hofmann",
+      "title": "Hinter Den Sternen",
+      "plays": 1,
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
+    },
+    {
+      "position": 16,
       "artist": "Alicja",
       "title": "So Wonderful",
       "plays": 1,
       "previous_position": 44,
-      "movement": 29,
-      "trend": "up"
-    },
-    {
-      "position": 16,
-      "artist": "Altreucher",
-      "title": "Mona Lisa",
-      "plays": 1,
-      "previous_position": 34,
-      "movement": 18,
+      "movement": 28,
       "trend": "up"
     },
     {
       "position": 17,
+      "artist": "Altreucher",
+      "title": "Mona Lisa",
+      "plays": 1,
+      "previous_position": 34,
+      "movement": 17,
+      "trend": "up"
+    },
+    {
+      "position": 18,
       "artist": "Andrea Berg",
       "title": "Geh Doch, Wenn Du Sie Liebst",
       "plays": 1,
@@ -160,31 +169,22 @@
       "trend": "new"
     },
     {
-      "position": 18,
+      "position": 19,
       "artist": "Andrea Berg",
       "title": "Ich Werde Lächeln Wenn Du Gehst",
       "plays": 1,
       "previous_position": 125,
-      "movement": 107,
+      "movement": 106,
       "trend": "up"
     },
     {
-      "position": 19,
+      "position": 20,
       "artist": "Andrea Berg",
       "title": "Nächstes Mal Sag Ich Dann Nein",
       "plays": 1,
       "previous_position": null,
       "movement": null,
       "trend": "new"
-    },
-    {
-      "position": 20,
-      "artist": "Andreas Oscar",
-      "title": "Ich Find Noch Meinen Weg",
-      "plays": 1,
-      "previous_position": 151,
-      "movement": 131,
-      "trend": "up"
     }
   ]
 }
