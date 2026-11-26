@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W48",
   "previous_week": "2026-W47",
-  "updated": "2026-11-26T04:25:04.201093+00:00",
+  "updated": "2026-11-26T14:10:03.507251+00:00",
   "charts": [
     {
       "position": 1,
@@ -152,38 +152,38 @@
     },
     {
       "position": 17,
-      "artist": "Andreas Oscar",
-      "title": "Ich Find Noch Meinen Weg",
+      "artist": "Andrea Berg",
+      "title": "Geh Doch, Wenn Du Sie Liebst",
       "plays": 1,
-      "previous_position": 151,
-      "movement": 134,
-      "trend": "up"
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
       "position": 18,
-      "artist": "Bad Boys Blue",
-      "title": "Kisses And Tears (My One And Only)",
+      "artist": "Andrea Berg",
+      "title": "Ich Werde Lächeln Wenn Du Gehst",
       "plays": 1,
-      "previous_position": 71,
-      "movement": 53,
+      "previous_position": 125,
+      "movement": 107,
       "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Bay City Rollers",
-      "title": "Saturday Night",
+      "artist": "Andrea Berg",
+      "title": "Nächstes Mal Sag Ich Dann Nein",
       "plays": 1,
-      "previous_position": 14,
-      "movement": -5,
-      "trend": "down"
+      "previous_position": null,
+      "movement": null,
+      "trend": "new"
     },
     {
       "position": 20,
-      "artist": "Belinda Carlisle",
-      "title": "La Luna",
+      "artist": "Andreas Oscar",
+      "title": "Ich Find Noch Meinen Weg",
       "plays": 1,
-      "previous_position": 140,
-      "movement": 120,
+      "previous_position": 151,
+      "movement": 131,
       "trend": "up"
     }
   ]
