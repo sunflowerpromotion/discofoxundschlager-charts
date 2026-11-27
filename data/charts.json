@@ -4,7 +4,7 @@
   "title": "Discofox & Schlager Charts",
   "week": "2026-W48",
   "previous_week": "2026-W47",
-  "updated": "2026-11-27T04:52:30.623468+00:00",
+  "updated": "2026-11-27T14:29:43.156943+00:00",
   "charts": [
     {
       "position": 1,
@@ -35,155 +35,155 @@
     },
     {
       "position": 4,
-      "artist": "Alex Park",
-      "title": "Gib Mir Ehrlichkeit",
-      "plays": 2,
-      "previous_position": 40,
-      "movement": 36,
-      "trend": "up"
-    },
-    {
-      "position": 5,
-      "artist": "Esther Graf",
-      "title": "Kippenlänge",
-      "plays": 2,
-      "previous_position": 31,
-      "movement": 26,
-      "trend": "up"
-    },
-    {
-      "position": 6,
-      "artist": "Frank Brenner",
-      "title": "Vorbei",
-      "plays": 2,
-      "previous_position": 32,
-      "movement": 26,
-      "trend": "up"
-    },
-    {
-      "position": 7,
       "artist": "Helen",
       "title": "I Love You",
-      "plays": 2,
+      "plays": 3,
       "previous_position": 12,
-      "movement": 5,
-      "trend": "up"
-    },
-    {
-      "position": 8,
-      "artist": "ID",
-      "title": "Maxi (KI generiert)",
-      "plays": 2,
-      "previous_position": 3,
-      "movement": -5,
-      "trend": "down"
-    },
-    {
-      "position": 9,
-      "artist": "Kreis & Quer",
-      "title": "Fliegen",
-      "plays": 2,
-      "previous_position": 33,
-      "movement": 24,
-      "trend": "up"
-    },
-    {
-      "position": 10,
-      "artist": "Kreis & Quer",
-      "title": "Señorita",
-      "plays": 2,
-      "previous_position": 21,
-      "movement": 11,
-      "trend": "up"
-    },
-    {
-      "position": 11,
-      "artist": "Philipp Schmidt",
-      "title": "Alles Ist Möglich",
-      "plays": 2,
-      "previous_position": 76,
-      "movement": 65,
-      "trend": "up"
-    },
-    {
-      "position": 12,
-      "artist": "Sandra",
-      "title": "In The Heat Of The Night",
-      "plays": 2,
-      "previous_position": 129,
-      "movement": 117,
-      "trend": "up"
-    },
-    {
-      "position": 13,
-      "artist": "Sandra Hierzer",
-      "title": "Alles Ist Da",
-      "plays": 2,
-      "previous_position": 122,
-      "movement": 109,
-      "trend": "up"
-    },
-    {
-      "position": 14,
-      "artist": "Stefan Dietl & Die Aufdreher",
-      "title": "Die Wahren Helden",
-      "plays": 2,
-      "previous_position": 120,
-      "movement": 106,
-      "trend": "up"
-    },
-    {
-      "position": 15,
-      "artist": "Wintermärz",
-      "title": "Mensch Geblieben",
-      "plays": 2,
-      "previous_position": 23,
       "movement": 8,
       "trend": "up"
     },
     {
-      "position": 16,
-      "artist": "ABBA",
-      "title": "Dancing Queen",
-      "plays": 1,
-      "previous_position": 58,
-      "movement": 42,
+      "position": 5,
+      "artist": "Airplay",
+      "title": "For Your Love",
+      "plays": 2,
+      "previous_position": 10,
+      "movement": 5,
       "trend": "up"
     },
     {
-      "position": 17,
-      "artist": "Airplay",
-      "title": "For Your Love",
-      "plays": 1,
-      "previous_position": 10,
+      "position": 6,
+      "artist": "Alex Park",
+      "title": "Gib Mir Ehrlichkeit",
+      "plays": 2,
+      "previous_position": 40,
+      "movement": 34,
+      "trend": "up"
+    },
+    {
+      "position": 7,
+      "artist": "Belinda Carlisle",
+      "title": "La Luna",
+      "plays": 2,
+      "previous_position": 140,
+      "movement": 133,
+      "trend": "up"
+    },
+    {
+      "position": 8,
+      "artist": "Bomb The Bass",
+      "title": "Beat Dis",
+      "plays": 2,
+      "previous_position": 11,
+      "movement": 3,
+      "trend": "up"
+    },
+    {
+      "position": 9,
+      "artist": "Boney M.",
+      "title": "Going Back West",
+      "plays": 2,
+      "previous_position": 2,
       "movement": -7,
       "trend": "down"
     },
     {
+      "position": 10,
+      "artist": "D. White",
+      "title": "Follow Me",
+      "plays": 2,
+      "previous_position": 42,
+      "movement": 32,
+      "trend": "up"
+    },
+    {
+      "position": 11,
+      "artist": "Esther Graf",
+      "title": "Kippenlänge",
+      "plays": 2,
+      "previous_position": 31,
+      "movement": 20,
+      "trend": "up"
+    },
+    {
+      "position": 12,
+      "artist": "Frank Brenner",
+      "title": "Vorbei",
+      "plays": 2,
+      "previous_position": 32,
+      "movement": 20,
+      "trend": "up"
+    },
+    {
+      "position": 13,
+      "artist": "ID",
+      "title": "Maxi (KI generiert)",
+      "plays": 2,
+      "previous_position": 3,
+      "movement": -10,
+      "trend": "down"
+    },
+    {
+      "position": 14,
+      "artist": "John Christian",
+      "title": "Ebony Eyes",
+      "plays": 2,
+      "previous_position": 81,
+      "movement": 67,
+      "trend": "up"
+    },
+    {
+      "position": 15,
+      "artist": "Joy",
+      "title": "Touch By Touch",
+      "plays": 2,
+      "previous_position": 35,
+      "movement": 20,
+      "trend": "up"
+    },
+    {
+      "position": 16,
+      "artist": "Kreis & Quer",
+      "title": "Fliegen",
+      "plays": 2,
+      "previous_position": 33,
+      "movement": 17,
+      "trend": "up"
+    },
+    {
+      "position": 17,
+      "artist": "Kreis & Quer",
+      "title": "Señorita",
+      "plays": 2,
+      "previous_position": 21,
+      "movement": 4,
+      "trend": "up"
+    },
+    {
       "position": 18,
-      "artist": "Alexandra Hofmann",
-      "title": "Hinter Den Sternen",
-      "plays": 1,
-      "previous_position": null,
-      "movement": null,
-      "trend": "new"
+      "artist": "Philipp Schmidt",
+      "title": "Alles Ist Möglich",
+      "plays": 2,
+      "previous_position": 76,
+      "movement": 58,
+      "trend": "up"
     },
     {
       "position": 19,
-      "artist": "Alicja",
-      "title": "So Wonderful",
-      "plays": 1,
-      "previous_position": 44,
-      "movement": 25,
+      "artist": "Sandra",
+      "title": "In The Heat Of The Night",
+      "plays": 2,
+      "previous_position": 129,
+      "movement": 110,
       "trend": "up"
     },
     {
       "position": 20,
-      "artist": "Altreucher",
-      "title": "Mona Lisa",
-      "plays": 1,
-      "previous_position": 34,
-      "movement": 14,
+      "artist": "Sandra Hierzer",
+      "title": "Alles Ist Da",
+      "plays": 2,
+      "previous_position": 122,
+      "movement": 102,
       "trend": "up"
     }
   ]
